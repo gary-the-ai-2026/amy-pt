@@ -12,20 +12,24 @@ status: active
 next_session: day-a
 ---
 
-# Cycle 1 — Conditioning-First
+# Cycle 1 — Conditioning-First (Circuit Format)
 
 4-week cycle: 3 weeks progressive → 1 week deload.
 
+**Circuit format:** 3 circuits per session. Each circuit = 3 exercises, one set of each back-to-back, 20s rest after completing the full rotation. 3 rounds (sets) through each circuit. Ab burner finisher.
+
+**Equipment rule:** Within each circuit, all three exercises use different equipment stations — no reconfiguring the C10 mid-circuit. Between circuits, reconfiguration is fine.
+
 **Progression mechanism:** Reduce rest, add reps, or add a circuit round. Not weight-on-bar — Amy's chasing fitness, not numbers.
 
-## Session Template (every day)
+## Session Template
 
 | Block | Duration | Detail |
 |---|---|---|
 | Warm-up | 3–5 min | Dynamic: leg swings, arm circles, bodyweight squat × 10, cat-cow |
-| Compound | 8–10 min | 3×10–12, 60s rest. The anchor lift of the day |
-| Accessories | 10–12 min | 2–3 movements, superset, 3×10–15, 30–45s rest |
-| Circuit | 12–15 min | 3 rounds, 4–5 movements, 40s on / 20s off. HR stays elevated |
+| Circuit 1 | ~10 min | 3 exercises × 3 rounds, 20s rest after each full rotation |
+| Circuit 2 | ~10 min | 3 exercises × 3 rounds, 20s rest after each full rotation |
+| Circuit 3 | ~10 min | 3 exercises × 3 rounds, 20s rest after each full rotation |
 | Ab burner | 3 min | 3 rounds, 40s on / 20s off |
 | **Total** | **~45 min** | |
 
@@ -33,77 +37,121 @@ next_session: day-a
 
 ## Day A — Squat + Push
 
+### C1 — barbell → DB → cable
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 1 | Barbell Squat | 3 | 50–55kg | 10–12 |
 | 2 | DB Bench Press | 3 | 12.5kg | 10–12 |
 | 3 | Lat Pulldown | 3 | 27–32kg | 10–12 |
-| 4 | Push Ups | 3 | BW | AMRAP |
-| 5 | Barbell Lunge | 3 | 40kg | 10/leg |
-| 6 | Lateral Raise | 3 | 12kg | 15 |
-| 7 | Bicep Curl | 3 | 8kg | 12 |
-| 8 | Calf Raises (plate) | 3 | 16kg | 15 |
-| 9 | Ab Burner — plank / leg lowers / bicycle | 3 | BW | 40s each |
 
-- **1** = Compound (60s rest). **2–3** = Accessories (superset, 45s rest).
-- **4–8** = Circuit: 3 rounds, 40s on / 20s off. **9** = Ab burner.
+### C2 — DB → BW → bench attachment
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 4 | Lateral Raise | 3 | 12kg | 15 |
+| 5 | Push Ups | 3 | BW | AMRAP |
+| 6 | Leg Extension | 3 | 10–15kg | 12–15 |
+
+### C3 — barbell → DB → cable
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 7 | Barbell Lunge | 3 | 40kg | 10/leg |
+| 8 | Bicep Curl | 3 | 8kg | 12 |
+| 9 | Tricep Extension (bent over) | 3 | 6kg | 10–12 |
+
+### Ab Burner
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 10 | Ab Burner — plank / leg lowers / bicycle | 3 | BW | 40s each |
 
 ---
 
 ## Day B — Hinge + Pull
 
+### C1 — barbell → DB → cable
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 1 | Barbell Romanian Deadlift | 3 | 45–50kg | 10–12 |
-| 2 | Barbell Chest Press | 3 | 27.5kg | 10–12 |
-| 3 | Single Leg RDL | 3 | 14kg | 10–12/leg |
-| 4 | Tricep Extension (bent over) | 3 | 6kg | 10–12 |
-| 5 | Push Ups | 3 | BW | AMRAP |
-| 6 | DB Single Arm Row | 3 | 15kg | 12/side |
-| 7 | Lateral Raise | 3 | 12kg | 15 |
-| 8 | Leg Extension | 3 | 10–15kg | 12–15 |
-| 9 | Ab Burner — dead bug / reverse crunch / flutter kicks | 3 | BW | 40s each |
+| 2 | DB Single Arm Row | 3 | 15kg | 12/side |
+| 3 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
 
-- **1** = Compound (60s rest). **2–4** = Accessories (superset, 45s rest).
-- **5–8** = Circuit: 3 rounds, 40s on / 20s off. **9** = Ab burner.
+### C2 — DB → BW → bench attachment
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 4 | Lateral Raise | 3 | 12kg | 15 |
+| 5 | Push Ups | 3 | BW | AMRAP |
+| 6 | Leg Curl | 3 | 10–15kg | 12–15 |
+
+### C3 — DB → barbell → plate
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 7 | Single Leg RDL | 3 | 14kg | 12/leg |
+| 8 | Barbell Chest Press | 3 | 27.5kg | 10–12 |
+| 9 | Calf Raises (plate) | 3 | 16kg | 15 |
+
+### Ab Burner
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 10 | Ab Burner — dead bug / reverse crunch / flutter kicks | 3 | BW | 40s each |
 
 ---
 
 ## Day C — Deadlift + Full Body
 
+### C1 — barbell → DB → cable
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 1 | Barbell Deadlift | 3 | 50kg | 8–10 |
-| 2 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
-| 3 | Leg Curl | 3 | 10–15kg | 12–15 |
-| 4 | DB Bench Press | 3 | 12.5kg | 10–12 |
-| 5 | Barbell Squat (lighter) | 3 | 40kg | 10 |
-| 6 | Push Ups | 3 | BW | AMRAP |
-| 7 | DB Single Arm Row | 3 | 15kg | 12/side |
-| 8 | Bicep Curl | 3 | 8kg | 12 |
-| 9 | Calf Raises (plate) | 3 | 16kg | 15 |
-| 10 | Ab Burner — mountain climbers / plank / heel taps | 3 | BW | 40s each |
+| 2 | DB Bench Press | 3 | 12.5kg | 10–12 |
+| 3 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
 
-- **1** = Compound (2s eccentric on deadlift, 60s rest). **2–4** = Accessories (superset, 45s rest).
-- **5–9** = Circuit: 3 rounds, 40s on / 20s off. **10** = Ab burner.
+### C2 — DB → BW → bench attachment
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 4 | Bicep Curl | 3 | 8kg | 12 |
+| 5 | Push Ups | 3 | BW | AMRAP |
+| 6 | Leg Curl | 3 | 10–15kg | 12–15 |
+
+### C3 — DB → barbell → cable
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 7 | Lateral Raise | 3 | 12kg | 15 |
+| 8 | Barbell Squat (light) | 3 | 40kg | 10 |
+| 9 | Tricep Extension (bent over) | 3 | 6kg | 10–12 |
+
+### Ab Burner
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 10 | Ab Burner — mountain climbers / plank / heel taps | 3 | BW | 40s each |
 
 ---
 
-## Day D — Conditioning (highest density)
+## Day D — Conditioning (fastest transitions)
 
+### C1 — barbell → DB → cable
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 1 | Barbell Chest Press | 3 | 25–27.5kg | 12–15 |
-| 2 | Hang Snatch | 3 | 10kg | 10 |
-| 3 | Single Leg RDL | 3 | 14kg | 12/leg |
-| 4 | Barbell RDL (light) | 4 | 40kg | 10 |
-| 5 | Push Ups | 4 | BW | AMRAP |
-| 6 | Lateral Raise | 4 | 10kg | 15 |
-| 7 | Bicep Curl | 4 | 8kg | 12 |
-| 8 | Ab Burner — V-sit hold / bicycle / plank jacks | 3 | BW | 40s each |
+| 1 | Barbell Chest Press | 3 | 27.5kg | 12–15 |
+| 2 | Single Leg RDL | 3 | 14kg | 12/leg |
+| 3 | Lat Pulldown | 3 | 27–32kg | 12–15 |
 
-- **1** = Compound (45s rest). **2–3** = Accessories (superset, 30s rest).
-- **4–7** = Circuit: 4 rounds, 30s on / 15s off. **8** = Ab burner.
+### C2 — BW → DB → plate
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 4 | Push Ups | 3 | BW | AMRAP |
+| 5 | Lateral Raise | 3 | 10kg | 15 |
+| 6 | Calf Raises (plate) | 3 | 16kg | 15 |
+
+### C3 — barbell → DB → bench attachment
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 7 | Hang Snatch | 3 | 10kg | 10 |
+| 8 | Bicep Curl | 3 | 8kg | 12 |
+| 9 | Leg Extension | 3 | 10–15kg | 12–15 |
+
+### Ab Burner
+| # | Exercise | Sets | Weight | Reps |
+|---|---|---|---|---|
+| 10 | Ab Burner — V-sit hold / bicycle / plank jacks | 3 | BW | 40s each |
 
 ---
 
@@ -112,9 +160,9 @@ next_session: day-a
 | Week | Action |
 |---|---|
 | **1** | Establish baseline. All sets at prescribed reps/weight. Note where circuits feel too easy or too hard. |
-| **2** | Reduce rest on circuit by 5s (35/20 on Days A–C, 25/15 on Day D). Keep weights steady. |
-| **3** | Add 1 rep to each compound set (11–13 range). Add 1 round to circuit if possible. |
-| **4** | **Deload.** Same movements, half the circuit rounds (2 instead of 3–4), full rest (60s). No weight progression. Form focus. |
+| **2** | Reduce rest between rotations to 15s. Keep weights steady. |
+| **3** | Add 1 rep to each exercise. Add 1 round to one circuit if possible. |
+| **4** | **Deload.** Same movements, 2 rounds per circuit (instead of 3), full 30s rest between rotations. No weight progression. Form focus. |
 
 ---
 

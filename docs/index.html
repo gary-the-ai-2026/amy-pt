@@ -1283,12 +1283,14 @@ async function loadProgram() {
 
     const md = await fetchText(`${REPO_RAW}/programs/cycle-1-week-1.md`);
     const sections = md.split('## ');
-    const map = { 'day-a': 'Day A — Squat + Push', 'day-b': 'Day B — Hinge + Pull', 'day-c': 'Day C — Deadlift + Full Body', 'day-d': 'Day D — Conditioning (highest density)' };
+    const map = { 'day-a': 'Day A — Squat + Push', 'day-b': 'Day B — Hinge + Pull', 'day-c': 'Day C — Deadlift + Full Body', 'day-d': 'Day D — Conditioning (fastest transitions)' };
     const target = map[currentSession];
     for (const s of sections) {
       if (s.split('\n')[0].trim() === target) {
         const t = parseMDTable(s);
-        if (t[0]) return t[0].rows.map(r => {
+        if (t.length) {
+          const allRows = t.flatMap(tbl => tbl.rows);
+          if (allRows.length) return allRows.map(r => {
           return { num: r[0]||'', name: r[1]||'', sets: r[2]||'', weight: r[3]||'', reps: r[4]||'', rest: '—' };
         });
       }
@@ -1306,14 +1308,15 @@ async function loadAllProtocols() {
 
     for (const type of SESSION_ROTATION) {
       const target = SESSION_NAMES[type];
-      const mapTarget = { 'day-a': 'Day A — Squat + Push', 'day-b': 'Day B — Hinge + Pull', 'day-c': 'Day C — Deadlift + Full Body', 'day-d': 'Day D — Conditioning (highest density)' };
+      const mapTarget = { 'day-a': 'Day A — Squat + Push', 'day-b': 'Day B — Hinge + Pull', 'day-c': 'Day C — Deadlift + Full Body', 'day-d': 'Day D — Conditioning (fastest transitions)' };
       const header = mapTarget[type];
 
       for (const s of sections) {
         if (s.split('\n')[0].trim() === header) {
-          const t = parseMDTable(s);
-          if (t[0]) {
-            const exs = t[0].rows.map(r => ({
+          const tables = parseMDTable(s);
+          const allRows = tables.flatMap(t => t.rows);
+          if (allRows.length) {
+            const exs = allRows.map(r => ({
               num: r[0]||'', name: r[1]||'', sets: r[2]||'', weight: r[3]||'', reps: r[4]||''
             }));
             protocols.push({
