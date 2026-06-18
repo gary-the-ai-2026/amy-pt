@@ -18,7 +18,7 @@ next_session: day-a
 
 **Circuit format:** 3 circuits per session. Each circuit = 3 exercises, one set of each back-to-back, 20s rest after completing the full rotation. 3 rounds (sets) through each circuit. Ab burner finisher.
 
-**Equipment rule:** Within each circuit, all three exercises use different equipment stations — no reconfiguring the C10 mid-circuit. Between circuits, reconfiguration is fine.
+**Equipment rule:** Within each circuit, at most ONE exercise that requires the C10 in a specific configuration. No reconfiguring mid-circuit. Between circuits, reconfiguration is fine.
 
 **Progression mechanism:** Reduce rest, add reps, or add a circuit round. Not weight-on-bar — Amy's chasing fitness, not numbers.
 
@@ -37,26 +37,26 @@ next_session: day-a
 
 ## Day A — Squat + Push
 
-### C1 — barbell → DB → cable
+### C1 — Smith squat + free DB + BW
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 1 | Barbell Squat | 3 | 50–55kg | 10–12 |
-| 2 | DB Bench Press | 3 | 12.5kg | 10–12 |
-| 3 | Lat Pulldown | 3 | 27–32kg | 10–12 |
+| 2 | DB Shoulder Press | 3 | 8–10kg | 10–12 |
+| 3 | Glute Bridge | 3 | BW | 15 |
 
-### C2 — DB → BW → bench attachment
+### C2 — free DB + BW + plate (all free-standing)
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Lateral Raise | 3 | 12kg | 15 |
 | 5 | Push Ups | 3 | BW | AMRAP |
-| 6 | Leg Extension | 3 | 10–15kg | 12–15 |
+| 6 | Calf Raises (plate) | 3 | 16kg | 15 |
 
-### C3 — barbell → DB → cable
+### C3 — cable + DB/bench + free DB
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 7 | Barbell Lunge | 3 | 40kg | 10/leg |
-| 8 | Bicep Curl | 3 | 8kg | 12 |
-| 9 | Tricep Extension (bent over) | 3 | 6kg | 10–12 |
+| 7 | Lat Pulldown | 3 | 27–32kg | 10–12 |
+| 8 | DB Bench Press | 3 | 12.5kg | 10–12 |
+| 9 | Bicep Curl | 3 | 8kg | 12 |
 
 ### Ab Burner
 | # | Exercise | Sets | Weight | Reps |
@@ -67,25 +67,25 @@ next_session: day-a
 
 ## Day B — Hinge + Pull
 
-### C1 — barbell → DB → cable
+### C1 — Smith RDL + free DB + BW
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 1 | Barbell Romanian Deadlift | 3 | 45–50kg | 10–12 |
-| 2 | DB Single Arm Row | 3 | 15kg | 12/side |
-| 3 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
+| 2 | DB Hammer Curl | 3 | 8kg | 12 |
+| 3 | Glute Bridge | 3 | BW | 15 |
 
-### C2 — DB → BW → bench attachment
+### C2 — free DB + free DB + BW (all free-standing)
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Lateral Raise | 3 | 12kg | 15 |
-| 5 | Push Ups | 3 | BW | AMRAP |
-| 6 | Leg Curl | 3 | 10–15kg | 12–15 |
+| 5 | Single Leg RDL | 3 | 14kg | 12/leg |
+| 6 | Push Ups | 3 | BW | AMRAP |
 
-### C3 — DB → barbell → plate
+### C3 — cable + DB/bench + plate
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 7 | Single Leg RDL | 3 | 14kg | 12/leg |
-| 8 | Barbell Chest Press | 3 | 27.5kg | 10–12 |
+| 7 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
+| 8 | DB Single Arm Row | 3 | 15kg | 12/side |
 | 9 | Calf Raises (plate) | 3 | 16kg | 15 |
 
 ### Ab Burner
@@ -97,26 +97,26 @@ next_session: day-a
 
 ## Day C — Deadlift + Full Body
 
-### C1 — barbell → DB → cable
+### C1 — Smith deadlift + free DB + BW
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 1 | Barbell Deadlift | 3 | 50kg | 8–10 |
-| 2 | DB Bench Press | 3 | 12.5kg | 10–12 |
-| 3 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
+| 2 | DB Front Raise | 3 | 6–8kg | 12–15 |
+| 3 | Glute Bridge | 3 | BW | 15 |
 
-### C2 — DB → BW → bench attachment
+### C2 — free DB + BW + bench attachment
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Bicep Curl | 3 | 8kg | 12 |
 | 5 | Push Ups | 3 | BW | AMRAP |
 | 6 | Leg Curl | 3 | 10–15kg | 12–15 |
 
-### C3 — DB → barbell → cable
+### C3 — DB/bench + cable + free DB
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 7 | Lateral Raise | 3 | 12kg | 15 |
-| 8 | Barbell Squat (light) | 3 | 40kg | 10 |
-| 9 | Tricep Extension (bent over) | 3 | 6kg | 10–12 |
+| 7 | DB Bench Press | 3 | 12.5kg | 10–12 |
+| 8 | Lat Pulldown | 3 | 27–32kg | 10–12 |
+| 9 | Lateral Raise | 3 | 12kg | 15 |
 
 ### Ab Burner
 | # | Exercise | Sets | Weight | Reps |
@@ -127,21 +127,21 @@ next_session: day-a
 
 ## Day D — Conditioning (fastest transitions)
 
-### C1 — barbell → DB → cable
+### C1 — DB/bench + free DB + cable
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 1 | Barbell Chest Press | 3 | 27.5kg | 12–15 |
-| 2 | Single Leg RDL | 3 | 14kg | 12/leg |
+| 1 | DB Bench Press | 3 | 12.5kg | 12–15 |
+| 2 | Lateral Raise | 3 | 10kg | 15 |
 | 3 | Lat Pulldown | 3 | 27–32kg | 12–15 |
 
-### C2 — BW → DB → plate
+### C2 — BW + free DB + plate (all free-standing)
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Push Ups | 3 | BW | AMRAP |
-| 5 | Lateral Raise | 3 | 10kg | 15 |
+| 5 | DB Shoulder Press | 3 | 8–10kg | 10–12 |
 | 6 | Calf Raises (plate) | 3 | 16kg | 15 |
 
-### C3 — barbell → DB → bench attachment
+### C3 — Smith + free DB + bench attachment
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 7 | Hang Snatch | 3 | 10kg | 10 |
@@ -173,20 +173,21 @@ next_session: day-a
 | Barbell Squat | 65kg | 50–55kg |
 | Barbell RDL | 55kg × 8 | 45–50kg |
 | Barbell Deadlift | 55kg × 10 | 50kg |
-| Barbell Lunge | 45–55kg × 8 | 40kg |
-| Barbell Chest Press | 32.5kg × 10 | 25–27.5kg |
+| Hang Snatch | 12.5kg | 10kg |
 | DB Bench Press | 17.5kg × 4 | 12.5kg |
 | DB Single Arm Row | 17.5kg | 15kg |
+| DB Shoulder Press | — | 8–10kg |
+| DB Front Raise | — | 6–8kg |
+| DB Hammer Curl | — | 8kg |
 | Lateral Raise | 16kg | 10–12kg |
 | Bicep Curl | 10kg × 5 × 3 | 8kg |
-| Hang Snatch | 12.5kg | 10kg |
 | Single Leg RDL | 18kg | 14kg |
+| Glute Bridge | — | BW |
 | Push Ups | 4 | BW (AMRAP) |
 | Lat Pulldown | — | 27–32kg |
-| Tricep Extension (bent over) | 6kg | 6kg |
 | Cable Kickbacks | — | 5–7kg |
 | Leg Extension | — | 10–15kg |
 | Leg Curl | — | 10–15kg |
 | Calf Raises (plate) | 16kg | 16kg |
 
-New exercises marked `—` for comfort weight need calibration in Week 1.
+New exercises marked `—` need calibration in Week 1.
