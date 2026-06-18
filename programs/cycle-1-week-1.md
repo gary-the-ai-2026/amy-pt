@@ -56,7 +56,7 @@ next_session: day-a
 |---|---|---|---|---|
 | 8 | Lat Pulldown | 3 | 27–32kg | 10–12 |
 | 9 | DB Bench Press | 3 | 12.5kg | 10–12 |
-| 10 | Bicep Curl | 3 | 8kg | 12 |
+| 10 | Bicep Curl | 3 | 9.3kg | 12 |
 
 ---
 

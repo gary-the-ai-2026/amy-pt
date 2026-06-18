@@ -11,5 +11,14 @@
   "Close-Grip Bench Press": 1,
   "Barbell Curl": 1,
   "Barbell Back Squat": 0,
-  "Romanian Deadlift (BB)": 1
+  "Romanian Deadlift (BB)": 1,
+  "Lat Pulldown": 0,
+  "Smith Machine Chest Press": 0,
+  "Tricep Extension": 0,
+  "Seated Chest Fly": 0,
+  "Smith Machine Squat": 0,
+  "DB Lunge": 0,
+  "Hip Thrust (Band + Med Ball)": 0,
+  "Bicep Curl": 0,
+  "Lateral Side Bend": 0
 }
