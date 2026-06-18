@@ -1,122 +1,74 @@
 {
-  "_description": "YouTube Shorts technique demos for exercise library. Primary source: Renaissance Periodization (Dr. Mike Israetel). Fallback: Jeff Nippard, Squat University. TBD = not yet curated.",
-  "_updated": "2026-06-11",
-  "_embed_note": "Dashboard now supports inline expand/collapse embed — click ▶ to watch below the exercise row.",
+  "_description": "YouTube Shorts technique demos for Amy's exercise library. Primary source: Renaissance Periodization (Dr. Mike Israetel). Fallback: Jeff Nippard, Squat University.",
+  "_updated": "2026-06-18",
   "source_priority": ["Renaissance Periodization", "Jeff Nippard", "Squat University"],
-  "_coverage": "16/19 exercises linked. 3 missing: Goblet Squat, Seated Cable Row (Close), Preacher Curl — no technique Shorts found from RP or Nippard.",
+  "_coverage": "10/12 exercises linked. 2 missing: Single Leg RDL, Hang Snatch — no technique Shorts found from RP or Nippard.",
   "aliases": {
-    "DB Goblet Squat": "Goblet Squat",
-    "KB/DB Goblet Squat": "Goblet Squat",
-    "KB Goblet Squat": "Goblet Squat",
-    "DB Romanian Deadlift": "Romanian Deadlift (BB)",
-    "Leg Extension (Machine)": "Leg Extension",
-    "Leg Curl (Machine)": "Leg Curl",
-    "DB Standing Calf Raise": "Standing Calf Raise",
-    "DB Calf Raise": "Standing Calf Raise",
+    "Barbell Squat": "Barbell Back Squat",
     "DB Bench Press": "Barbell Bench Press",
-    "DB Shoulder Press": "Dumbbell Shoulder Press",
-    "DB Incline Press": "Incline Dumbbell Press"
+    "Lateral Raise": "Dumbbell Lateral Raise",
+    "Barbell Romanian Deadlift": "Romanian Deadlift (BB)"
   },
   "exercises": {
-    "Barbell Bench Press": {
-      "url": "https://www.youtube.com/shorts/hWbUlkb5Ms4",
-      "source": "Renaissance Periodization",
-      "title": "How To Bench Press With Perfect Technique (5 Steps)"
-    },
-    "Incline Dumbbell Press": {
-      "url": "https://www.youtube.com/shorts/6C1A0aQQrjo",
-      "source": "Renaissance Periodization",
-      "title": "How To Get STRONG On Dumbbell Presses"
-    },
-    "Cable Flye (Low-to-High)": {
-      "url": "https://www.youtube.com/shorts/hd_pA-b5puI",
-      "source": "Renaissance Periodization",
-      "title": "Best Way to do a Low to High Cable Flye"
-    },
-    "Tricep Pushdown (Rope)": {
-      "url": "https://www.youtube.com/shorts/CWqIOiAsjYY",
-      "source": "Renaissance Periodization",
-      "title": "Guaranteed Tricep GROWTH Superset"
-    },
-    "Overhead Cable Extension": {
-      "url": "https://www.youtube.com/shorts/sah-sHCZDS0",
-      "source": "Renaissance Periodization",
-      "title": "The BEST Exercises For Bigger Triceps"
-    },
-    "Close-Grip Bench Press": {
-      "url": "https://www.youtube.com/shorts/NKHhj7SJsQA",
-      "source": "Renaissance Periodization",
-      "title": "Close Grip Bench Grip For HUGE Triceps"
-    },
-    "Lat Pulldown (Wide)": {
-      "url": "https://www.youtube.com/shorts/jhnxJEzX8rY",
-      "source": "Renaissance Periodization",
-      "title": "How To Do a PERFECT Lat Pulldown"
-    },
-    "Barbell Row": {
-      "url": "https://www.youtube.com/shorts/p9RihhjmJsw",
-      "source": "Renaissance Periodization",
-      "title": "How to Execute a Bent Over Row"
-    },
-    "Seated Cable Row (Close)": {
-      "url": null,
-      "source": "TBD",
-      "_note": "No RP or Nippard technique Short found. RP has a regular video (not Shorts format)."
-    },
-    "Face Pull": {
-      "url": "https://www.youtube.com/shorts/r4uM4JSvu8M",
-      "source": "Renaissance Periodization",
-      "title": "Cable Seated Face Pull"
-    },
-    "Barbell Curl": {
-      "url": "https://www.youtube.com/shorts/DXTDJbPRl-A",
-      "source": "Renaissance Periodization",
-      "title": "Bicep Curl Training Tip #shorts"
-    },
-    "Preacher Curl": {
-      "url": null,
-      "source": "TBD",
-      "_note": "No RP or Nippard technique Short found. RP has regular videos (pre-Shorts era)."
-    },
     "Barbell Back Squat": {
       "url": "https://www.youtube.com/shorts/PPmvh7gBTi0",
       "source": "Jeff Nippard",
       "title": "Do You Have A Perfect Squat? (Find Out)"
     },
-    "Goblet Squat": {
-      "url": null,
-      "source": "TBD",
-      "_note": "No technique Short from RP or Nippard. RP has long-form 'Why Goblet Squats May Be Bad' but no Short."
-    },
-    "Romanian Deadlift (BB)": {
-      "url": "https://www.youtube.com/shorts/d-hn_0sEpRQ",
+    "Barbell Bench Press": {
+      "url": "https://www.youtube.com/shorts/hWbUlkb5Ms4",
       "source": "Renaissance Periodization",
-      "title": "Romanian Deadlift Technique"
+      "title": "How To Bench Press With Perfect Technique (5 Steps)"
     },
-    "Leg Extension": {
-      "url": "https://www.youtube.com/shorts/ztNBgrGy6FQ",
-      "source": "Jeff Nippard",
-      "title": "A Better Way To Do Leg Extensions"
-    },
-    "Leg Curl": {
-      "url": "https://www.youtube.com/shorts/XIsfDHGwAW0",
+    "DB Single Arm Row": {
+      "url": "https://www.youtube.com/shorts/DMo3HJoawrU",
       "source": "Renaissance Periodization",
-      "title": "Improve YOUR Leg Curl!!"
+      "title": "Single Arm Supported Dumbbell Row"
     },
-    "Dumbbell Shoulder Press": {
-      "url": "https://www.youtube.com/shorts/kCjqPA27Cqg",
+    "Push Ups": {
+      "url": "https://www.youtube.com/shorts/mm6_WcoCVTA",
       "source": "Renaissance Periodization",
-      "title": "Dumbbell Shoulder Press Technique"
+      "title": "Pushup"
+    },
+    "Barbell Lunge": {
+      "url": "https://www.youtube.com/shorts/_meXEWq5MOQ",
+      "source": "Renaissance Periodization",
+      "title": "Barbell Walking Lunge"
     },
     "Dumbbell Lateral Raise": {
       "url": "https://www.youtube.com/shorts/xjtuX6PtLUY",
       "source": "Renaissance Periodization",
       "title": "Do LATERAL RAISES like THIS!"
     },
-    "Standing Calf Raise": {
-      "url": "https://www.youtube.com/shorts/x41IWlX4Rqo",
+    "Bicep Curl": {
+      "url": "https://www.youtube.com/shorts/mtNR4SkNQLw",
       "source": "Renaissance Periodization",
-      "title": "You're Doing Calf Raises WRONG"
+      "title": "The CRAZY Bicep Curl you DON'T Know!"
+    },
+    "Romanian Deadlift (BB)": {
+      "url": "https://www.youtube.com/shorts/d-hn_0sEpRQ",
+      "source": "Renaissance Periodization",
+      "title": "Romanian Deadlift Technique"
+    },
+    "Barbell Chest Press": {
+      "url": "https://www.youtube.com/shorts/26lMzbQCfLA",
+      "source": "Renaissance Periodization",
+      "title": "Avoid Injury on the BENCH PRESS"
+    },
+    "Single Leg RDL": {
+      "url": null,
+      "source": "TBD",
+      "_note": "No specific single-leg RDL Short found on RP or Jeff Nippard. RP has a regular RDL Short (How to do RDLs PROPERLY) but not single-leg variant."
+    },
+    "Hang Snatch": {
+      "url": null,
+      "source": "TBD",
+      "_note": "No hang snatch technique Short found on Renaissance Periodization or Jeff Nippard. RP has Olympic lifting content but as full-length videos, not Shorts."
+    },
+    "Barbell Deadlift": {
+      "url": "https://www.youtube.com/shorts/AweC3UaM14o",
+      "source": "Renaissance Periodization",
+      "title": "Deadlift"
     }
   }
 }
