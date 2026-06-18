@@ -2,7 +2,7 @@
   "_description": "YouTube Shorts technique demos for Amy's exercise library. Primary source: Renaissance Periodization (Dr. Mike Israetel). Fallback: Jeff Nippard, Squat University.",
   "_updated": "2026-06-18",
   "source_priority": ["Renaissance Periodization", "Jeff Nippard", "Squat University"],
-  "_coverage": "14/18 exercises linked. 4 missing: Single Leg RDL, Hang Snatch, Tricep Extension (bent over), Cable Kickbacks.",
+  "_coverage": "18/22 exercises linked. 4 missing: Glute Bridge, Hang Snatch, Cable Kickbacks, DB Front Raise (needs verification).",
   "aliases": {
     "Barbell Squat": "Barbell Back Squat",
     "DB Bench Press": "Barbell Bench Press",
@@ -57,14 +57,15 @@
       "title": "Avoid Injury on the BENCH PRESS"
     },
     "Single Leg RDL": {
-      "url": null,
-      "source": "TBD",
-      "_note": "No specific single-leg RDL Short found on RP or Jeff Nippard."
+      "url": "https://www.youtube.com/shorts/EiWMsLkYmos",
+      "source": "Renaissance Periodization",
+      "title": "How to do RDLs PROPERLY for Hypertrophy",
+      "_note": "General RDL technique — best available from RP. No single-leg-specific Short exists."
     },
     "Hang Snatch": {
       "url": null,
       "source": "TBD",
-      "_note": "No hang snatch technique Short found. RP has Olympic lifting content as full-length videos, not Shorts."
+      "_note": "No hang snatch technique Short found. RP has Olympic lifting content as full-length videos, not Shorts. Nippard doesn't cover Olympic lifts."
     },
     "Barbell Deadlift": {
       "url": "https://www.youtube.com/shorts/AweC3UaM14o",
@@ -77,14 +78,15 @@
       "title": "How To Do a PERFECT Lat Pulldown"
     },
     "Tricep Extension (bent over)": {
-      "url": null,
-      "source": "TBD",
-      "_note": "Bent-over DB tricep extension / kickback. RP has overhead extension and pushdown Shorts but not this specific variant."
+      "url": "https://www.youtube.com/shorts/CywhB_MNJ6o",
+      "source": "Jeff Nippard",
+      "title": "The Worst Triceps Mistake Everyone Is Making",
+      "_note": "Covers triceps kickback technique and the controversy around it. RP only has a critique Short, not a technique demo."
     },
     "Cable Kickbacks": {
       "url": null,
       "source": "TBD",
-      "_note": "Cable glute kickback. Not yet found on RP or Nippard Shorts."
+      "_note": "Cable glute kickback. Neither RP nor Nippard have a dedicated Short. Nippard has a full-length video (7:13) but not Shorts format."
     },
     "Leg Extension": {
       "url": "https://www.youtube.com/shorts/ztNBgrGy6FQ",
@@ -100,6 +102,26 @@
       "url": "https://www.youtube.com/shorts/x41IWlX4Rqo",
       "source": "Renaissance Periodization",
       "title": "You're Doing Calf Raises WRONG"
+    },
+    "DB Shoulder Press": {
+      "url": "https://www.youtube.com/shorts/k6tzKisR3NY",
+      "source": "Renaissance Periodization",
+      "title": "The PERFECT Dumbbell Shoulder Press (DO THIS!)"
+    },
+    "DB Hammer Curl": {
+      "url": "https://www.youtube.com/shorts/VuEclXR7sZY",
+      "source": "Renaissance Periodization",
+      "title": "How to Do: Hammer Curls"
+    },
+    "DB Front Raise": {
+      "url": "https://www.youtube.com/shorts/yHx8wPv4RPo",
+      "source": "Renaissance Periodization",
+      "title": "How to do Standing Dumbbell Front Raises!"
+    },
+    "Glute Bridge": {
+      "url": null,
+      "source": "TBD",
+      "_note": "No dedicated glute bridge technique Short on RP or Nippard. RP has general glute training Shorts but not a bridge-specific technique demo. The Short found (SLd_45irzHw) is from @conorharris, not RP."
     }
   }
 }
