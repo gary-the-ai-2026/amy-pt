@@ -1293,6 +1293,7 @@ async function loadProgram() {
           if (allRows.length) return allRows.map(r => {
           return { num: r[0]||'', name: r[1]||'', sets: r[2]||'', weight: r[3]||'', reps: r[4]||'', rest: '—' };
         });
+        }
       }
     }
     return [];
