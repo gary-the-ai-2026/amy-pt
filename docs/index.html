@@ -1282,7 +1282,7 @@ async function loadProgram() {
     } catch (e) { /* fall through to MD parser */ }
 
     const md = await fetchText(`${REPO_RAW}/programs/cycle-1-week-1.md`);
-    const sections = md.split('## ');
+    const sections = md.split(/\n## /).filter(s => s.trim());
     const map = { 'day-a': 'Day A — Squat + Push', 'day-b': 'Day B — Hinge + Pull', 'day-c': 'Day C — Deadlift + Full Body', 'day-d': 'Day D — Conditioning (fastest transitions)' };
     const target = map[currentSession];
     for (const s of sections) {
@@ -1304,7 +1304,7 @@ async function loadAllProtocols() {
   // Parse the program MD to extract all session types and their exercise lists
   try {
     const md = await fetchText(`${REPO_RAW}/programs/cycle-1-week-1.md?t=${Date.now()}`);
-    const sections = md.split('## ');
+    const sections = md.split(/\n## /).filter(s => s.trim());
     const protocols = [];
 
     for (const type of SESSION_ROTATION) {
