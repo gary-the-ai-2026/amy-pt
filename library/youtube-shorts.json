@@ -2,12 +2,13 @@
   "_description": "YouTube Shorts technique demos for Amy's exercise library. Primary source: Renaissance Periodization (Dr. Mike Israetel). Fallback: Jeff Nippard, Squat University.",
   "_updated": "2026-06-18",
   "source_priority": ["Renaissance Periodization", "Jeff Nippard", "Squat University"],
-  "_coverage": "10/12 exercises linked. 2 missing: Single Leg RDL, Hang Snatch — no technique Shorts found from RP or Nippard.",
+  "_coverage": "14/18 exercises linked. 4 missing: Single Leg RDL, Hang Snatch, Tricep Extension (bent over), Cable Kickbacks.",
   "aliases": {
     "Barbell Squat": "Barbell Back Squat",
     "DB Bench Press": "Barbell Bench Press",
     "Lateral Raise": "Dumbbell Lateral Raise",
-    "Barbell Romanian Deadlift": "Romanian Deadlift (BB)"
+    "Barbell Romanian Deadlift": "Romanian Deadlift (BB)",
+    "Calf Raises (plate)": "Standing Calf Raise"
   },
   "exercises": {
     "Barbell Back Squat": {
@@ -58,17 +59,47 @@
     "Single Leg RDL": {
       "url": null,
       "source": "TBD",
-      "_note": "No specific single-leg RDL Short found on RP or Jeff Nippard. RP has a regular RDL Short (How to do RDLs PROPERLY) but not single-leg variant."
+      "_note": "No specific single-leg RDL Short found on RP or Jeff Nippard."
     },
     "Hang Snatch": {
       "url": null,
       "source": "TBD",
-      "_note": "No hang snatch technique Short found on Renaissance Periodization or Jeff Nippard. RP has Olympic lifting content but as full-length videos, not Shorts."
+      "_note": "No hang snatch technique Short found. RP has Olympic lifting content as full-length videos, not Shorts."
     },
     "Barbell Deadlift": {
       "url": "https://www.youtube.com/shorts/AweC3UaM14o",
       "source": "Renaissance Periodization",
       "title": "Deadlift"
+    },
+    "Lat Pulldown": {
+      "url": "https://www.youtube.com/shorts/jhnxJEzX8rY",
+      "source": "Renaissance Periodization",
+      "title": "How To Do a PERFECT Lat Pulldown"
+    },
+    "Tricep Extension (bent over)": {
+      "url": null,
+      "source": "TBD",
+      "_note": "Bent-over DB tricep extension / kickback. RP has overhead extension and pushdown Shorts but not this specific variant."
+    },
+    "Cable Kickbacks": {
+      "url": null,
+      "source": "TBD",
+      "_note": "Cable glute kickback. Not yet found on RP or Nippard Shorts."
+    },
+    "Leg Extension": {
+      "url": "https://www.youtube.com/shorts/ztNBgrGy6FQ",
+      "source": "Jeff Nippard",
+      "title": "A Better Way To Do Leg Extensions"
+    },
+    "Leg Curl": {
+      "url": "https://www.youtube.com/shorts/XIsfDHGwAW0",
+      "source": "Renaissance Periodization",
+      "title": "Improve YOUR Leg Curl!!"
+    },
+    "Standing Calf Raise": {
+      "url": "https://www.youtube.com/shorts/x41IWlX4Rqo",
+      "source": "Renaissance Periodization",
+      "title": "You're Doing Calf Raises WRONG"
     }
   }
 }
