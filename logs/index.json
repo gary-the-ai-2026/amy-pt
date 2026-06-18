@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "2026-06-18-full-body.json",
+    "date": "2026-06-18",
+    "type": "full-body",
+    "status": "complete",
+    "duration_min": 0,
+    "ad_hoc": true,
+    "resumed_from": null,
+    "exercise_count": 9,
+    "skipped_count": 0
+  }
+]
