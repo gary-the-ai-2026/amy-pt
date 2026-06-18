@@ -8,7 +8,12 @@
     "DB Bench Press": "Barbell Bench Press",
     "Lateral Raise": "Dumbbell Lateral Raise",
     "Barbell Romanian Deadlift": "Romanian Deadlift (BB)",
-    "Calf Raises (plate)": "Standing Calf Raise"
+    "Calf Raises (plate)": "Standing Calf Raise",
+    "Smith Machine Chest Press": "Barbell Chest Press",
+    "Smith Machine Squat": "Barbell Back Squat",
+    "DB Lunge": "Barbell Lunge",
+    "Tricep Extension": "Tricep Extension (bent over)",
+    "Hip Thrust (Band + Med Ball)": "Glute Bridge"
   },
   "exercises": {
     "Barbell Back Squat": {

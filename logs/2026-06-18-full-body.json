@@ -1,0 +1,130 @@
+{
+  "session_id": "2026-06-18-full-body",
+  "date": "2026-06-18",
+  "type": "full-body",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "commercial_gym",
+  "progression_skipped": true,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Lat Pulldown",
+      "target_sets": 3,
+      "target_reps": "8-12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 27, "reps": 10},
+        {"set": 2, "weight_kg": 27, "reps": 10},
+        {"set": 3, "weight_kg": 27, "reps": 10}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Smith Machine Chest Press",
+      "target_sets": 3,
+      "target_reps": "8-12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 20, "reps": 8},
+        {"set": 2, "weight_kg": 20, "reps": 8},
+        {"set": 3, "weight_kg": 20, "reps": 8}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Tricep Extension",
+      "target_sets": 3,
+      "target_reps": "10-15",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 12},
+        {"set": 2, "weight_kg": 6, "reps": 12},
+        {"set": 3, "weight_kg": 6, "reps": 12}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Seated Chest Fly",
+      "target_sets": 3,
+      "target_reps": "8-12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 8},
+        {"set": 2, "weight_kg": 6, "reps": 8},
+        {"set": 3, "weight_kg": 6, "reps": 8}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Smith Machine Squat",
+      "target_sets": 3,
+      "target_reps": "6-10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 30, "reps": 8},
+        {"set": 2, "weight_kg": 30, "reps": 8}
+      ],
+      "notes": "Only 2 rounds"
+    },
+    {
+      "num": 6,
+      "name": "DB Lunge",
+      "target_sets": 3,
+      "target_reps": "8-12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 10},
+        {"set": 2, "weight_kg": 14, "reps": 10},
+        {"set": 3, "weight_kg": 14, "reps": 10}
+      ],
+      "notes": "Weight per arm"
+    },
+    {
+      "num": 7,
+      "name": "Hip Thrust (Band + Med Ball)",
+      "target_sets": 3,
+      "target_reps": "15-25",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 20},
+        {"set": 2, "weight_kg": 12, "reps": 20},
+        {"set": 3, "weight_kg": 12, "reps": 20}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Bicep Curl",
+      "target_sets": 3,
+      "target_reps": "6-10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 8, "reps": 7},
+        {"set": 2, "weight_kg": 10, "reps": 7},
+        {"set": 3, "weight_kg": 10, "reps": 7}
+      ],
+      "notes": "Weight per arm"
+    },
+    {
+      "num": 9,
+      "name": "Lateral Side Bend",
+      "target_sets": 3,
+      "target_reps": "8-12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 10},
+        {"set": 2, "weight_kg": 16, "reps": 10},
+        {"set": 3, "weight_kg": 16, "reps": 10}
+      ]
+    }
+  ]
+}
