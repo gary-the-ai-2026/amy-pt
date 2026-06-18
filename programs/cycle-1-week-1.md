@@ -16,7 +16,7 @@ next_session: day-a
 
 4-week cycle: 3 weeks progressive → 1 week deload.
 
-**Circuit format:** 3 circuits per session. Each circuit = 3 exercises, one set of each back-to-back, 20s rest after completing the full rotation. 3 rounds (sets) through each circuit. Ab burner finisher.
+**Circuit format:** 3 circuits per session. Circuits 1 & 3 = 3 exercises, Circuit 2 = 4 exercises (includes abs). One set of each back-to-back, 20s rest after completing the full rotation. 3 rounds through each circuit.
 
 **Equipment rule:** Within each circuit, at most ONE exercise that requires the C10 in a specific configuration. No reconfiguring mid-circuit. Between circuits, reconfiguration is fine.
 
@@ -28,9 +28,8 @@ next_session: day-a
 |---|---|---|
 | Warm-up | 3–5 min | Dynamic: leg swings, arm circles, bodyweight squat × 10, cat-cow |
 | Circuit 1 | ~10 min | 3 exercises × 3 rounds, 20s rest after each full rotation |
-| Circuit 2 | ~10 min | 3 exercises × 3 rounds, 20s rest after each full rotation |
+| Circuit 2 | ~12 min | 4 exercises × 3 rounds (includes abs), 20s rest after each full rotation |
 | Circuit 3 | ~10 min | 3 exercises × 3 rounds, 20s rest after each full rotation |
-| Ab burner | 3 min | 3 rounds, 40s on / 20s off |
 | **Total** | **~45 min** | |
 
 ---
@@ -44,24 +43,20 @@ next_session: day-a
 | 2 | DB Shoulder Press | 3 | 8–10kg | 10–12 |
 | 3 | Glute Bridge | 3 | BW | 15 |
 
-### C2 — free DB + BW + plate (all free-standing)
+### C2 — free DB + BW + plate + abs (all free-standing)
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Lateral Raise | 3 | 12kg | 15 |
 | 5 | Push Ups | 3 | BW | AMRAP |
-| 6 | Calf Raises (plate) | 3 | 16kg | 15 |
+| 6 | Ab Burner — plank / leg lowers / bicycle | 3 | BW | 40s each |
+| 7 | Calf Raises (plate) | 3 | 16kg | 15 |
 
 ### C3 — cable + DB/bench + free DB
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 7 | Lat Pulldown | 3 | 27–32kg | 10–12 |
-| 8 | DB Bench Press | 3 | 12.5kg | 10–12 |
-| 9 | Bicep Curl | 3 | 8kg | 12 |
-
-### Ab Burner
-| # | Exercise | Sets | Weight | Reps |
-|---|---|---|---|---|
-| 10 | Ab Burner — plank / leg lowers / bicycle | 3 | BW | 40s each |
+| 8 | Lat Pulldown | 3 | 27–32kg | 10–12 |
+| 9 | DB Bench Press | 3 | 12.5kg | 10–12 |
+| 10 | Bicep Curl | 3 | 8kg | 12 |
 
 ---
 
@@ -74,24 +69,20 @@ next_session: day-a
 | 2 | DB Hammer Curl | 3 | 8kg | 12 |
 | 3 | Glute Bridge | 3 | BW | 15 |
 
-### C2 — free DB + free DB + BW (all free-standing)
+### C2 — free DB + free DB + BW + abs (all free-standing)
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Lateral Raise | 3 | 12kg | 15 |
 | 5 | Single Leg RDL | 3 | 14kg | 12/leg |
 | 6 | Push Ups | 3 | BW | AMRAP |
+| 7 | Ab Burner — dead bug / reverse crunch / flutter kicks | 3 | BW | 40s each |
 
 ### C3 — cable + DB/bench + plate
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 7 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
-| 8 | DB Single Arm Row | 3 | 15kg | 12/side |
-| 9 | Calf Raises (plate) | 3 | 16kg | 15 |
-
-### Ab Burner
-| # | Exercise | Sets | Weight | Reps |
-|---|---|---|---|---|
-| 10 | Ab Burner — dead bug / reverse crunch / flutter kicks | 3 | BW | 40s each |
+| 8 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
+| 9 | DB Single Arm Row | 3 | 15kg | 12/side |
+| 10 | Calf Raises (plate) | 3 | 16kg | 15 |
 
 ---
 
@@ -104,24 +95,20 @@ next_session: day-a
 | 2 | DB Front Raise | 3 | 6–8kg | 12–15 |
 | 3 | Glute Bridge | 3 | BW | 15 |
 
-### C2 — free DB + BW + bench attachment
+### C2 — free DB + BW + abs + bench attachment
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Bicep Curl | 3 | 8kg | 12 |
 | 5 | Push Ups | 3 | BW | AMRAP |
-| 6 | Leg Curl | 3 | 10–15kg | 12–15 |
+| 6 | Ab Burner — mountain climbers / plank / heel taps | 3 | BW | 40s each |
+| 7 | Leg Curl | 3 | 10–15kg | 12–15 |
 
 ### C3 — DB/bench + cable + free DB
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 7 | DB Bench Press | 3 | 12.5kg | 10–12 |
-| 8 | Lat Pulldown | 3 | 27–32kg | 10–12 |
-| 9 | Lateral Raise | 3 | 12kg | 15 |
-
-### Ab Burner
-| # | Exercise | Sets | Weight | Reps |
-|---|---|---|---|---|
-| 10 | Ab Burner — mountain climbers / plank / heel taps | 3 | BW | 40s each |
+| 8 | DB Bench Press | 3 | 12.5kg | 10–12 |
+| 9 | Lat Pulldown | 3 | 27–32kg | 10–12 |
+| 10 | Lateral Raise | 3 | 12kg | 15 |
 
 ---
 
@@ -134,24 +121,20 @@ next_session: day-a
 | 2 | Lateral Raise | 3 | 10kg | 15 |
 | 3 | Lat Pulldown | 3 | 27–32kg | 12–15 |
 
-### C2 — BW + free DB + plate (all free-standing)
+### C2 — BW + free DB + abs + plate (all free-standing)
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Push Ups | 3 | BW | AMRAP |
 | 5 | DB Shoulder Press | 3 | 8–10kg | 10–12 |
-| 6 | Calf Raises (plate) | 3 | 16kg | 15 |
+| 6 | Ab Burner — V-sit hold / bicycle / plank jacks | 3 | BW | 40s each |
+| 7 | Calf Raises (plate) | 3 | 16kg | 15 |
 
 ### C3 — Smith + free DB + bench attachment
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 7 | Hang Snatch | 3 | 10kg | 10 |
-| 8 | Bicep Curl | 3 | 8kg | 12 |
-| 9 | Leg Extension | 3 | 10–15kg | 12–15 |
-
-### Ab Burner
-| # | Exercise | Sets | Weight | Reps |
-|---|---|---|---|---|
-| 10 | Ab Burner — V-sit hold / bicycle / plank jacks | 3 | BW | 40s each |
+| 8 | Hang Snatch | 3 | 10kg | 10 |
+| 9 | Bicep Curl | 3 | 8kg | 12 |
+| 10 | Leg Extension | 3 | 10–15kg | 12–15 |
 
 ---
 
