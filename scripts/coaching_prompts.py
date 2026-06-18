@@ -81,6 +81,6 @@ COACHING = {
     ),
 
     "no_session": lambda: (
-        f"No active session. Say 'chest', 'back', or 'legs' to start one."
+        f"No active session. Say 'day-a', 'day-b', 'day-c', or 'day-d' to start one."
     ),
 }

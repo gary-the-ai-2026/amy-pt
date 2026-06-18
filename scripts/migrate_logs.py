@@ -8,7 +8,7 @@ import re
 import json
 from pathlib import Path
 
-LOGS_DIR = Path("/Users/gary/Projects/gary-pt/logs")
+LOGS_DIR = Path("/Users/gary/Projects/amy-pt/logs")
 
 
 def parse_md_log(filepath: Path) -> dict:

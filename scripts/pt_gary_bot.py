@@ -31,7 +31,7 @@ with open('/tmp/tg_send.py') as f:
 
 BASE = f"https://api.telegram.org/bot{BOT_TOKEN}"
 ADL = timezone(timedelta(hours=9, minutes=30))
-REPO = Path("/Users/gary/Projects/gary-pt")
+REPO = Path("/Users/gary/Projects/amy-pt")
 STATE_FILE = REPO / "scripts" / ".session_state.json"
 PROGRAM_FILE = REPO / "programs" / "cycle-1-week-1.md"
 

@@ -2,7 +2,7 @@
 """PT Gary — Workout Log Parser
 
 Parses Telegram shorthand messages into structured workout logs.
-Run standalone or called by Hermes when Josh sends log messages.
+Run standalone or called by Hermes when Amy sends log messages.
 
 Usage:
     python3 parse_workout.py "bench 80 10/10/9"

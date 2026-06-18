@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """
-PT Gary — Progression Engine
-Reads completed session logs (JSON), applies progression rules, updates program weights.
+PT Gary — Progression Engine (Amy — Conditioning-First)
 
-Rules:
-  - All sets hit top of rep range → +2.5kg (upper) or +5kg (lower)
-  - Some sets hit top → repeat weight
-  - Missed 2+ sets → -5%
-  - 2 consecutive stalls → flag exercise rotation
-  - DBs maxed at 27kg → add reps, then add set, then swap
+Reads completed session logs (JSON), calibrates weights, flags progression
+opportunities, and updates the program MD.
+
+Conditioning-first progression (Amy):
+  - Primary: week-based rest reduction and rep/round addition (in program MD)
+  - Weight calibration: update estimated/'TBD' weights with actuals
+  - Weight only climbs when conditioning improves (easily hitting all targets)
+  - Flag when reps crushed → suggest rep bump for next cycle
 
 Usage:
   python3 progression_engine.py [path/to/session.json]
@@ -21,37 +22,35 @@ from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
 ADL = timezone(timedelta(hours=9, minutes=30))
-REPO = Path("/Users/gary/Projects/gary-pt")
+REPO = Path("/Users/gary/Projects/amy-pt")
 PROGRAM_FILE = REPO / "programs" / "cycle-1-week-1.md"
-CONFIG_FILE = REPO / "config" / "josh-hancock.md"
+CONFIG_FILE = REPO / "config" / "amy-hancock.md"
 STALL_FILE = REPO / "programs" / ".stall_tracker.json"
 
 
 # ── Parse Helpers ────────────────────────────────────────────────────────────
 
 def parse_log_file(filepath: Path) -> dict:
-    """Parse a completed session JSON log into structured data."""
     return json.loads(filepath.read_text())
 
 
 def parse_target_from_exercise(exercise: dict) -> dict:
-    """Parse exercise JSON into target dict: {weight, rep_low, rep_high}.
-
-    Uses the structured fields from the JSON log format:
-      target_weight_kg, target_reps, target_sets
-    """
+    """Parse exercise JSON into target dict: {weight, rep_low, rep_high}."""
     t = {
         "weight": exercise.get("target_weight_kg"),
         "rep_low": 8,
         "rep_high": 12,
     }
 
-    reps_str = exercise.get("target_reps", "")
+    reps_str = str(exercise.get("target_reps", ""))
     if reps_str and '-' in reps_str:
         parts = reps_str.split('-')
-        t["rep_low"] = int(parts[0].strip())
-        t["rep_high"] = int(parts[1].strip())
-    elif reps_str:
+        try:
+            t["rep_low"] = int(parts[0].strip())
+            t["rep_high"] = int(parts[1].strip())
+        except ValueError:
+            pass
+    elif reps_str and reps_str.isdigit():
         v = int(reps_str.strip())
         t["rep_low"] = v
         t["rep_high"] = v
@@ -60,66 +59,96 @@ def parse_target_from_exercise(exercise: dict) -> dict:
 
 
 def actual_reps_from_exercise(exercise: dict) -> list[int]:
-    """Extract reps from exercise's sets array."""
     if exercise.get("skipped"):
         return []
     sets = exercise.get("sets") or []
     return [s["reps"] for s in sets if "reps" in s]
 
 
-# ── Progression Logic ─────────────────────────────────────────────────────────
-
-LOWER_BODY = {"squat", "deadlift", "rdl", "romanian", "leg press", "leg extension",
-              "leg curl", "bulgarian", "split squat", "lunge", "calf raise",
-              "hip thrust", "glute bridge"}
-
-
-def is_lower(exercise_name: str) -> bool:
-    """Check if an exercise is lower body (deserves +5kg bumps)."""
-    name_lower = exercise_name.lower()
-    return any(lb in name_lower for lb in LOWER_BODY)
+def actual_weights_from_exercise(exercise: dict) -> list[float]:
+    if exercise.get("skipped"):
+        return []
+    sets = exercise.get("sets") or []
+    return [s["weight_kg"] for s in sets if "weight_kg" in s]
 
 
-def calculate_progression(target: dict, actual_reps: list[int], exercise_name: str) -> dict:
-    """Calculate the new weight for an exercise based on actual performance.
+# ── Conditioning-First Progression ───────────────────────────────────────────
 
-    Returns: {"action": "bump"|"repeat"|"drop"|"skip", "new_weight": float|None, "reason": str}
+def calculate_conditioning_progression(target: dict, actual_reps: list[int],
+                                        actual_weights: list[float],
+                                        exercise_name: str) -> dict:
+    """Conditioning-first progression logic.
+
+    Amy's progression is density-based (rest reduction, rep/round addition),
+    not weight-on-bar. This engine:
+      - Calibrates TBD or underestimated weights
+      - Flags when targets are crushed (for manual or cycle-based rep bumps)
+      - Drops weight if performance degraded significantly
     """
     if not actual_reps or all(r == 0 for r in actual_reps):
         return {"action": "skip", "new_weight": target["weight"], "reason": "Exercise skipped"}
 
     rep_high = target["rep_high"]
     rep_low = target["rep_low"]
-    weight = target["weight"]
+    target_weight = target["weight"]
+    avg_actual_weight = sum(actual_weights) / len(actual_weights) if actual_weights else 0
 
-    # Count how many sets hit the top of the rep range
-    sets_hit_top = sum(1 for r in actual_reps if r >= rep_high)
-    sets_missed_bottom = sum(1 for r in actual_reps if r < rep_low)
     total_sets = len(actual_reps)
 
-    if sets_hit_top == total_sets:
-        # All sets hit top → bump weight
-        bump = 5.0 if is_lower(exercise_name) else 2.5
-        new_weight = (weight or 0) + bump
-        return {"action": "bump", "new_weight": new_weight, "reason": f"All {total_sets} sets hit ≥{rep_high} reps: +{bump}kg"}
+    # Check if actual weight significantly exceeds target → calibrate
+    if target_weight and avg_actual_weight > target_weight * 1.1:
+        return {
+            "action": "calibrate",
+            "new_weight": round(avg_actual_weight, 1),
+            "reason": f"Weight calibrated up: {target_weight}kg → {avg_actual_weight:.1f}kg"
+        }
 
-    if sets_missed_bottom >= 2:
-        # Two or more sets below bottom → drop
-        new_weight = round((weight or 0) * 0.95, 1)
-        return {"action": "drop", "new_weight": new_weight, "reason": f"{sets_missed_bottom} sets below {rep_low} reps: −5%"}
+    # Check if target was TBD/None → calibrate from actuals
+    if target_weight is None and avg_actual_weight > 0:
+        return {
+            "action": "calibrate",
+            "new_weight": round(avg_actual_weight, 1),
+            "reason": f"Weight calibrated from TBD: → {avg_actual_weight:.1f}kg"
+        }
 
+    # All sets crushed the rep target → flag (conditioning improving)
+    sets_crushed = sum(1 for r in actual_reps if r > rep_high)
+    if sets_crushed == total_sets and total_sets >= 2:
+        return {
+            "action": "flag_crush",
+            "new_weight": target_weight,
+            "reason": f"All {total_sets} sets exceeded {rep_high} reps — ready for rep bump or rest reduction"
+        }
+
+    # Two or more sets below bottom of range → performance degraded
+    sets_below = sum(1 for r in actual_reps if r < rep_low)
+    if sets_below >= 2:
+        new_weight = round((target_weight or 0) * 0.95, 1) if target_weight else None
+        return {
+            "action": "drop",
+            "new_weight": new_weight,
+            "reason": f"{sets_below} sets below {rep_low} reps — consider deload or form focus"
+        }
+
+    # Partial crush → within range, hold
+    sets_hit_top = sum(1 for r in actual_reps if r >= rep_high)
     if sets_hit_top > 0:
-        # Some sets hit top → repeat
-        return {"action": "repeat", "new_weight": weight, "reason": f"Partial completion ({sets_hit_top}/{total_sets} sets hit top): repeat weight"}
+        return {
+            "action": "repeat",
+            "new_weight": target_weight,
+            "reason": f"{sets_hit_top}/{total_sets} sets at top of range: hold"
+        }
 
-    # All sets within range but none at top → repeat
-    return {"action": "repeat", "new_weight": weight, "reason": f"All sets within {rep_low}–{rep_high} range: repeat weight"}
+    return {
+        "action": "repeat",
+        "new_weight": target_weight,
+        "reason": f"All sets within {rep_low}–{rep_high} range: hold"
+    }
 
 
-# ── Stall Detection ────────────────────────────────────────────────────────────
+# ── Stall Detection ──────────────────────────────────────────────────────────
 
 def check_stalls(exercise_name: str, action: str) -> bool:
-    """Track stall history and flag if 2 consecutive stalls on same exercise."""
     stalls = {}
     if STALL_FILE.exists():
         stalls = json.loads(STALL_FILE.read_text())
@@ -130,55 +159,50 @@ def check_stalls(exercise_name: str, action: str) -> bool:
         stalls[exercise_name] = 0
 
     STALL_FILE.write_text(json.dumps(stalls, indent=2))
-
     return stalls[exercise_name] >= 2
 
 
-# ── Program Updater ────────────────────────────────────────────────────────────
+# ── Program Updater ──────────────────────────────────────────────────────────
 
 def update_program_weights(progression_results: dict):
-    """Update the program MD file with new weights based on progression results."""
+    """Update the program MD with calibrated weights."""
     content = PROGRAM_FILE.read_text()
 
     for ex_name, result in progression_results.items():
-        if result["action"] in ["bump", "drop"] and result["new_weight"] is not None:
+        if result["action"] in ["calibrate"] and result["new_weight"] is not None:
             new_weight_str = f"{result['new_weight']}kg"
 
             # Find and replace the weight for this exercise in the program
-            # Pattern: full cell containing exercise name followed by weight
             escaped = re.escape(ex_name)
-            pattern = rf'(\|.*?{escaped}.*?\|\s*[\d.]+kg)'
-            replacement = lambda m: m.group(0).replace(
-                re.search(r'[\d.]+kg', m.group(0)).group(0),
-                new_weight_str
-            ) if re.search(r'[\d.]+kg', m.group(0)) else m.group(0)
-
-            content = re.sub(pattern, replacement, content)
+            # Pattern: exercise row with kg weight
+            pattern = rf'(\|.*?{escaped}.*?\|\s*[\d.\-]+kg)'  # matches '50–55kg' etc
+            match = re.search(pattern, content)
+            if match:
+                old_cell = match.group(0)
+                # Replace the last kg value in the row
+                new_cell = re.sub(r'[\d.\-]+kg', new_weight_str, old_cell, count=1)
+                # Only replace if it's a single value (not a range like 50–55kg)
+                if '–' not in old_cell.split('|')[-2] and '-' not in old_cell.split('|')[-2].replace('kg',''):
+                    content = content.replace(old_cell, new_cell)
 
     PROGRAM_FILE.write_text(content)
     return content
 
 
-# ── Main ───────────────────────────────────────────────────────────────────────
+# ── Main ─────────────────────────────────────────────────────────────────────
 
 def run_progression(latest_log_path: Path = None):
-    """Run the full progression engine on the latest session log.
-
-    If latest_log_path is provided, use that. Otherwise find the most recent log.
-    """
-    # Find latest log
     logs_dir = REPO / "logs"
     if latest_log_path:
         log_file = latest_log_path
     else:
         log_files = sorted(logs_dir.glob("*.json"))
-        log_files = [f for f in log_files if not f.name.startswith('_')]
+        log_files = [f for f in log_files if not f.name.startswith('_') and f.name != "index.json"]
         if not log_files:
             print("No session logs found.")
             return None
         log_file = log_files[-1]
 
-    # Parse log
     session = parse_log_file(log_file)
     session_type = session.get("type", "")
     session_date = session.get("date", "")
@@ -193,11 +217,12 @@ def run_progression(latest_log_path: Path = None):
 
         target = parse_target_from_exercise(ex)
         actual_reps = actual_reps_from_exercise(ex)
+        actual_weights = actual_weights_from_exercise(ex)
 
         if not actual_reps:
             continue
 
-        result = calculate_progression(target, actual_reps, ex_name)
+        result = calculate_conditioning_progression(target, actual_reps, actual_weights, ex_name)
         results[ex_name] = result
 
         # Check stalls
@@ -206,7 +231,7 @@ def run_progression(latest_log_path: Path = None):
             result["stalled"] = True
             result["reason"] += " ⚠️ STALLED — consider exercise rotation"
 
-        flag = "✓" if result["action"] == "bump" else "⚠️" if result["action"] == "drop" else "—"
+        flag = {"calibrate": "📐", "flag_crush": "🚀", "drop": "⚠️", "repeat": "—", "skip": "⊘"}.get(result["action"], "?")
         weight_str = f"→ {result['new_weight']}kg" if result["new_weight"] else ""
         print(f"  {flag} {ex_name}: {result['reason']} {weight_str}")
 
@@ -229,7 +254,6 @@ def run_progression(latest_log_path: Path = None):
 
 def rebuild_log_index():
     """Rebuild logs/index.json with metadata for all session logs."""
-    import json
     logs_dir = REPO / "logs"
     index = []
     for f in sorted(logs_dir.glob("*.json"), reverse=True):
