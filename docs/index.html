@@ -610,6 +610,16 @@
     color: var(--ink);
   }
   .proto-table tr:last-child td { border-bottom: none; }
+  .proto-table tr.circuit-header td {
+    padding: 12px 10px 4px;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: none;
+  }
+  .proto-table tr.circuit-header:first-child td { padding-top: 0; }
   .proto-table tr.current { background: rgba(204,120,92,0.04); }
   .proto-table tr.current td:first-child { color: var(--coral); }
   .proto-table tr.done td { color: var(--muted); }
@@ -1287,12 +1297,26 @@ async function loadProgram() {
     const target = map[currentSession];
     for (const s of sections) {
       if (s.split('\n')[0].trim() === target) {
-        const t = parseMDTable(s);
-        if (t.length) {
-          const allRows = t.flatMap(tbl => tbl.rows);
-          if (allRows.length) return allRows.map(r => {
-          return { num: r[0]||'', name: r[1]||'', sets: r[2]||'', weight: r[3]||'', reps: r[4]||'', rest: '—' };
-        });
+        const tables = parseMDTable(s);
+        if (tables.length) {
+          // Extract circuit names from ### sub-headers
+          const circuitNames = [];
+          for (const line of s.split('\n')) {
+            const m = line.match(/^### (.+)$/);
+            if (m) circuitNames.push(m[1].trim());
+          }
+          // Build exercise list with circuit labels
+          const allRows = [];
+          for (let i = 0; i < tables.length; i++) {
+            const circuit = circuitNames[i] || '';
+            for (const r of tables[i].rows) {
+              allRows.push({
+                num: r[0]||'', name: r[1]||'', sets: r[2]||'', weight: r[3]||'', reps: r[4]||'',
+                rest: '—', circuit: circuit
+              });
+            }
+          }
+          if (allRows.length) return allRows;
         }
       }
     }
@@ -1594,6 +1618,7 @@ async function renderSession() {
     `<div class="set-dot${i<done?' done':''}${i===done?' active':''}">${i<done?'✓':i+1}</div>`
   ).join('');
 
+  let lastCircuit = '';
   document.getElementById('proto-body').innerHTML = exs.map((e,i) => {
     const l = live[e.name];
     const isSkipped = l === '__skipped__';
@@ -1604,7 +1629,13 @@ async function renderSession() {
     const demoLink = yt && yt.url
       ? ` <a href="${yt.url}" target="_blank" class="exe-demo" title="${yt.source}: ${yt.title||'Technique demo'}">▶</a>`
       : '';
-    return `<tr class="${cls}"><td>${e.num||i+1}</td><td>${e.name}${demoLink}</td><td>${e.sets}</td><td>${e.weight}</td><td>${e.reps}</td><td class="log-col">${logText}</td></tr>`;
+    let html = '';
+    if (e.circuit && e.circuit !== lastCircuit) {
+      lastCircuit = e.circuit;
+      html += `<tr class="circuit-header"><td colspan="6">${e.circuit}</td></tr>`;
+    }
+    html += `<tr class="${cls}"><td>${e.num||i+1}</td><td>${e.name}${demoLink}</td><td>${e.sets}</td><td>${e.weight}</td><td>${e.reps}</td><td class="log-col">${logText}</td></tr>`;
+    return html;
   }).join('');
 
   document.getElementById('status-right').textContent = `Today: ${SESSION_NAMES[currentSession]}`;
