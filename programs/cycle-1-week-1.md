@@ -33,61 +33,73 @@ next_session: day-a
 
 ## Day A — Squat + Push
 
-| Block | Exercise | Sets × Reps | Weight | Rest |
+| # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| Compound | **Barbell Squat** | 3×10–12 | 50–55kg | 60s |
-| Accessory A | DB Bench Press | 3×10–12 | 12.5kg | superset |
-| Accessory B | DB Single Arm Row | 3×10–12/side | 15kg | 45s |
-| Circuit | Push Ups | AMRAP | BW | 40/20 |
-| | Barbell Lunge | 10/leg | 40kg | 40/20 |
-| | Lateral Raise | 15 | 12kg | 40/20 |
-| | Bicep Curl | 12 | 8kg | 40/20 |
-| Abs | 3 rounds: plank 40s / leg lowers 40s / bicycle 40s | | | 40/20 |
+| 1 | Barbell Squat | 3 | 50–55kg | 10–12 |
+| 2 | DB Bench Press | 3 | 12.5kg | 10–12 |
+| 3 | DB Single Arm Row | 3 | 15kg | 10–12/side |
+| 4 | Push Ups | 3 | BW | AMRAP |
+| 5 | Barbell Lunge | 3 | 40kg | 10/leg |
+| 6 | Lateral Raise | 3 | 12kg | 15 |
+| 7 | Bicep Curl | 3 | 8kg | 12 |
+| 8 | Ab Burner — plank / leg lowers / bicycle | 3 | BW | 40s each |
+
+- **1** = Compound (60s rest). **2–3** = Accessories (superset, 45s rest).
+- **4–7** = Circuit: 3 rounds, 40s on / 20s off. **8** = Ab burner.
 
 ---
 
 ## Day B — Hinge + Pull
 
-| Block | Exercise | Sets × Reps | Weight | Rest |
+| # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| Compound | **Barbell Romanian Deadlift** | 3×10–12 | 45–50kg | 60s |
-| Accessory A | Barbell Chest Press | 3×10–12 | 27.5kg | superset |
-| Accessory B | Single Leg RDL | 3×10–12/leg | 14kg | 45s |
-| Circuit | Hang Snatch | 10 | 10kg | 40/20 |
-| | Push Ups | AMRAP | BW | 40/20 |
-| | DB Single Arm Row | 12/side | 15kg | 40/20 |
-| | Lateral Raise | 15 | 12kg | 40/20 |
-| Abs | 3 rounds: dead bug 40s / reverse crunch 40s / flutter kicks 40s | | | 40/20 |
+| 1 | Barbell Romanian Deadlift | 3 | 45–50kg | 10–12 |
+| 2 | Barbell Chest Press | 3 | 27.5kg | 10–12 |
+| 3 | Single Leg RDL | 3 | 14kg | 10–12/leg |
+| 4 | Hang Snatch | 3 | 10kg | 10 |
+| 5 | Push Ups | 3 | BW | AMRAP |
+| 6 | DB Single Arm Row | 3 | 15kg | 12/side |
+| 7 | Lateral Raise | 3 | 12kg | 15 |
+| 8 | Ab Burner — dead bug / reverse crunch / flutter kicks | 3 | BW | 40s each |
+
+- **1** = Compound (60s rest). **2–3** = Accessories (superset, 45s rest).
+- **4–7** = Circuit: 3 rounds, 40s on / 20s off. **8** = Ab burner.
 
 ---
 
 ## Day C — Deadlift + Full Body
 
-| Block | Exercise | Sets × Reps | Weight | Rest |
+| # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| Compound | **Barbell Deadlift** (2s eccentric) | 3×8–10 | 50kg | 60s |
-| Accessory A | Barbell Lunge | 3×10/leg | 40kg | superset |
-| Accessory B | DB Bench Press | 3×10–12 | 12.5kg | 45s |
-| Circuit | Barbell Squat (lighter) | 10 | 40kg | 40/20 |
-| | Push Ups | AMRAP | BW | 40/20 |
-| | DB Single Arm Row | 12/side | 15kg | 40/20 |
-| | Bicep Curl | 12 | 8kg | 40/20 |
-| Abs | 3 rounds: mountain climbers 40s / plank 40s / heel taps 40s | | | 40/20 |
+| 1 | Barbell Deadlift | 3 | 50kg | 8–10 |
+| 2 | Barbell Lunge | 3 | 40kg | 10/leg |
+| 3 | DB Bench Press | 3 | 12.5kg | 10–12 |
+| 4 | Barbell Squat | 3 | 40kg | 10 |
+| 5 | Push Ups | 3 | BW | AMRAP |
+| 6 | DB Single Arm Row | 3 | 15kg | 12/side |
+| 7 | Bicep Curl | 3 | 8kg | 12 |
+| 8 | Ab Burner — mountain climbers / plank / heel taps | 3 | BW | 40s each |
+
+- **1** = Compound (2s eccentric on deadlift, 60s rest). **2–3** = Accessories (superset, 45s rest).
+- **4–7** = Circuit: 3 rounds, 40s on / 20s off. **8** = Ab burner.
 
 ---
 
 ## Day D — Conditioning (highest density)
 
-| Block | Exercise | Sets × Reps | Weight | Rest |
+| # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| Compound | **Barbell Chest Press** | 3×12–15 | 25–27.5kg | 45s |
-| Accessory A | Hang Snatch | 3×10 | 10kg | superset |
-| Accessory B | Single Leg RDL | 3×12/leg | 14kg | 30s |
-| Circuit (4 rounds) | Barbell RDL (light) | 10 | 40kg | 30/15 |
-| | Push Ups | AMRAP | BW | 30/15 |
-| | Lateral Raise | 15 | 10kg | 30/15 |
-| | Bicep Curl | 12 | 8kg | 30/15 |
-| Abs | 3 rounds: V-sit hold 40s / bicycle 40s / plank jacks 40s | | | 30/15 |
+| 1 | Barbell Chest Press | 3 | 25–27.5kg | 12–15 |
+| 2 | Hang Snatch | 3 | 10kg | 10 |
+| 3 | Single Leg RDL | 3 | 14kg | 12/leg |
+| 4 | Barbell RDL | 4 | 40kg | 10 |
+| 5 | Push Ups | 4 | BW | AMRAP |
+| 6 | Lateral Raise | 4 | 10kg | 15 |
+| 7 | Bicep Curl | 4 | 8kg | 12 |
+| 8 | Ab Burner — V-sit hold / bicycle / plank jacks | 3 | BW | 40s each |
+
+- **1** = Compound (45s rest). **2–3** = Accessories (superset, 30s rest).
+- **4–7** = Circuit: 4 rounds, 30s on / 15s off. **8** = Ab burner.
 
 ---
 
