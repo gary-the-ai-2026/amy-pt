@@ -1361,7 +1361,7 @@ async function loadAllProtocols() {
 }
 
 function countThisWeek() {
-  const ws = new Date(); ws.setDate(ws.getDate() - ws.getDay()); ws.setHours(0,0,0,0);
+  const ws = new Date(); ws.setDate(ws.getDate() - ((ws.getDay() + 6) % 7)); ws.setHours(0,0,0,0);
   return allLogs.filter(l => new Date(l.name.substring(0,10)) >= ws).length;
 }
 function countTotal() { return allLogs.length; }
