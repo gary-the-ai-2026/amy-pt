@@ -4,16 +4,16 @@
   "session_type": "day-b",
   "session_name": "Day B — Hinge + Pull",
   "current_circuit": 1,
-  "current_round": 1,
+  "current_round": 2,
   "current_exercise_in_circuit": 0,
   "circuits": [
     {
       "id": 1,
       "name": "C1 — Smith RDL + free DB + BW",
       "exercises": [
-        {"num": 1, "name": "Barbell Romanian Deadlift", "target_sets": 3, "target_reps": "10–12", "target_weight_kg": 47.5, "sets": []},
-        {"num": 2, "name": "DB Hammer Curl", "target_sets": 3, "target_reps": "12", "target_weight_kg": 8, "sets": []},
-        {"num": 3, "name": "Glute Bridge", "target_sets": 3, "target_reps": "15", "target_weight_kg": 0, "sets": []}
+        {"num": 1, "name": "Barbell Romanian Deadlift", "target_sets": 3, "target_reps": "10–12", "target_weight_kg": 47.5, "sets": [{"set": 1, "weight_kg": 40, "reps": 12}]},
+        {"num": 2, "name": "DB Hammer Curl", "target_sets": 3, "target_reps": "12", "target_weight_kg": 8, "sets": [{"set": 1, "weight_kg": 8, "reps": 12}]},
+        {"num": 3, "name": "Glute Bridge", "target_sets": 3, "target_reps": "15", "target_weight_kg": 0, "sets": [{"set": 1, "weight_kg": 0, "reps": 20}]}
       ]
     },
     {
