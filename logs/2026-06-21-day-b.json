@@ -1,0 +1,22 @@
+{
+  "session_id": "2026-06-21-day-b",
+  "date": "2026-06-21",
+  "type": "day-b",
+  "status": "in_progress",
+  "started": "12:07",
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {"num": 1, "name": "Barbell Romanian Deadlift", "target_sets": 3, "target_reps": "10–12", "target_weight_kg": 47.5, "skipped": false, "sets": []},
+    {"num": 2, "name": "DB Hammer Curl", "target_sets": 3, "target_reps": "12", "target_weight_kg": 8, "skipped": false, "sets": []},
+    {"num": 3, "name": "Glute Bridge", "target_sets": 3, "target_reps": "15", "target_weight_kg": 0, "skipped": false, "sets": []},
+    {"num": 4, "name": "Lateral Raise", "target_sets": 3, "target_reps": "15", "target_weight_kg": 12, "skipped": false, "sets": []},
+    {"num": 5, "name": "Single Leg RDL", "target_sets": 3, "target_reps": "12/leg", "target_weight_kg": 14, "skipped": false, "sets": []},
+    {"num": 6, "name": "Push Ups", "target_sets": 3, "target_reps": "AMRAP", "target_weight_kg": 0, "skipped": false, "sets": []},
+    {"num": 7, "name": "Ab Burner — dead bug / reverse crunch / flutter kicks", "target_sets": 3, "target_reps": "40s each", "target_weight_kg": 0, "skipped": false, "sets": []},
+    {"num": 8, "name": "Cable Kickbacks", "target_sets": 3, "target_reps": "12–15/leg", "target_weight_kg": 6, "skipped": false, "sets": []},
+    {"num": 9, "name": "DB Single Arm Row", "target_sets": 3, "target_reps": "12/side", "target_weight_kg": 15, "skipped": false, "sets": []},
+    {"num": 10, "name": "Calf Raises (plate)", "target_sets": 3, "target_reps": "15", "target_weight_kg": 16, "skipped": false, "sets": []}
+  ],
+  "notes": "Amy requested start from Day B (Hinge + Pull) — override from program next_session day-a."
+}
