@@ -1279,13 +1279,34 @@ async function loadProgram() {
         // Use JSON exercises for: ad hoc sessions, resumed/continuation sessions, or any in-progress session
         const useJSON = logData.ad_hoc || logData.resumed_from || logData.status === 'in_progress';
         if (useJSON) {
-          return logData.exercises.map(e => ({
+          // Derive circuit labels from program MD so circuit headers render
+          let circuitByIndex = [];
+          try {
+            const md = await fetchText(`${REPO_RAW}/programs/cycle-1-week-1.md`);
+            const secs = md.split(/\n## /).filter(s => s.trim());
+            const map2 = { 'day-a': 'Day A — Squat + Push', 'day-b': 'Day B — Hinge + Pull', 'day-c': 'Day C — Deadlift + Full Body', 'day-d': 'Day D — Conditioning (fastest transitions)' };
+            for (const sec of secs) {
+              if (sec.split('\n')[0].trim() === map2[currentSession]) {
+                const tbls = parseMDTable(sec);
+                const names = [];
+                for (const line of sec.split('\n')) { const m = line.match(/^### (.+)$/); if (m) names.push(m[1].trim()); }
+                let ri = 0;
+                for (let ti = 0; ti < tbls.length; ti++) {
+                  for (const r of tbls[ti].rows) { circuitByIndex[ri] = names[ti] || ''; ri++; }
+                }
+                break;
+              }
+            }
+          } catch (e) { /* no circuits */ }
+
+          return logData.exercises.map((e,i) => ({
             num: String(e.num || ''),
             name: e.name || '',
             sets: String(e.target_sets || 3),
             weight: e.target_weight_kg != null ? String(e.target_weight_kg) + 'kg' : 'TBD',
             reps: e.target_reps || '',
-            rest: e.rest || '—'
+            rest: e.rest || '—',
+            circuit: circuitByIndex[i] || ''
           }));
         }
       }
