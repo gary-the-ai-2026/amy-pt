@@ -9,7 +9,7 @@ goal_order:
 split: 4×/week full-body circuits
 session_duration: 45 min
 status: active
-next_session: day-a
+next_session: day-c
 ---
 
 # Cycle 1 — Conditioning-First (Circuit Format)
@@ -65,14 +65,14 @@ next_session: day-a
 ### C1 — Smith RDL + free DB + BW
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 1 | Barbell Romanian Deadlift | 3 | 45–50kg | 10–12 |
+| 1 | Barbell Romanian Deadlift | 3 | 45.1kg | 10–12 |
 | 2 | DB Hammer Curl | 3 | 9.3kg | 12 |
 | 3 | Glute Bridge | 3 | BW | 15 |
 
 ### C2 — free DB + free DB + BW + abs (all free-standing)
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 4 | Lateral Raise | 3 | 12kg | 15 |
+| 4 | Lateral Raise | 3 | 5kg | 15 |
 | 5 | Single Leg RDL | 3 | 18.0kg | 12/leg |
 | 6 | Push Ups | 3 | BW | AMRAP |
 | 7 | Ab Burner — dead bug / reverse crunch / flutter kicks | 3 | BW | 40s each |
@@ -80,7 +80,7 @@ next_session: day-a
 ### C3 — cable + DB/bench + plate
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 8 | Cable Kickbacks | 3 | 5–7kg | 12–15/leg |
+| 8 | Cable Kickbacks | 3 | 14kg | 12–15/leg |
 | 9 | DB Single Arm Row | 3 | 15kg | 12/side |
 | 10 | Calf Raises (plate) | 3 | 16kg | 15 |
 
