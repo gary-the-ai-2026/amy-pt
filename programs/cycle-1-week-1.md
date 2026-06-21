@@ -66,14 +66,14 @@ next_session: day-a
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 1 | Barbell Romanian Deadlift | 3 | 45–50kg | 10–12 |
-| 2 | DB Hammer Curl | 3 | 8kg | 12 |
+| 2 | DB Hammer Curl | 3 | 9.3kg | 12 |
 | 3 | Glute Bridge | 3 | BW | 15 |
 
 ### C2 — free DB + free DB + BW + abs (all free-standing)
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
 | 4 | Lateral Raise | 3 | 12kg | 15 |
-| 5 | Single Leg RDL | 3 | 14kg | 12/leg |
+| 5 | Single Leg RDL | 3 | 18.0kg | 12/leg |
 | 6 | Push Ups | 3 | BW | AMRAP |
 | 7 | Ab Burner — dead bug / reverse crunch / flutter kicks | 3 | BW | 40s each |
 
