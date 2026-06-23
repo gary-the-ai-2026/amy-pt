@@ -1,39 +1,40 @@
 {
   "circuit_mode": true,
   "chat_id": "-5596537114",
-  "session_type": "day-b",
-  "session_name": "Day B — Hinge + Pull",
-  "current_circuit": 3,
-  "current_round": 3,
-  "current_exercise_in_circuit": 3,
-  "status": "complete",
+  "session_type": "day-c",
+  "session_name": "Day C — Deadlift + Full Body",
+  "current_circuit": 1,
+  "current_round": 1,
+  "current_exercise_in_circuit": 0,
+  "status": "active",
+  "started": "16:36",
   "circuits": [
     {
       "id": 1,
-      "name": "C1 — Smith RDL + free DB + BW",
+      "name": "C1 — Smith deadlift + free DB + BW",
       "exercises": [
-        {"num": 1, "name": "Barbell Romanian Deadlift", "target_sets": 3, "target_reps": "10–12", "target_weight_kg": 47.5, "sets": [{"set": 1, "weight_kg": 40, "reps": 12}, {"set": 2, "weight_kg": 55, "reps": 8}, {"set": 3, "weight_kg": 55, "reps": 8}]},
-        {"num": 2, "name": "DB Hammer Curl", "target_sets": 3, "target_reps": "12", "target_weight_kg": 8, "sets": [{"set": 1, "weight_kg": 8, "reps": 12}, {"set": 2, "weight_kg": 10, "reps": 5}, {"set": 3, "weight_kg": 10, "reps": 5}]},
-        {"num": 3, "name": "Glute Bridge", "target_sets": 3, "target_reps": "15", "target_weight_kg": 0, "sets": [{"set": 1, "weight_kg": 0, "reps": 20}, {"set": 2, "weight_kg": 0, "reps": 10, "notes": "single leg + booty band, med ball"}, {"set": 3, "weight_kg": 0, "reps": 10, "notes": "single leg + booty band, med ball"}]}
+        {"num": 1, "name": "Barbell Deadlift", "target_sets": 3, "target_reps": "8–10", "target_weight_kg": 50, "sets": []},
+        {"num": 2, "name": "DB Front Raise", "target_sets": 3, "target_reps": "12–15", "target_weight_kg": 7, "sets": []},
+        {"num": 3, "name": "Glute Bridge", "target_sets": 3, "target_reps": "15", "target_weight_kg": 0, "sets": []}
       ]
     },
     {
       "id": 2,
-      "name": "C2 — free DB + BW + abs",
+      "name": "C2 — free DB + BW + abs + bench attachment",
       "exercises": [
-        {"num": 4, "name": "Lateral Raise", "target_sets": 3, "target_reps": "15", "target_weight_kg": 12, "sets": [{"set": 1, "weight_kg": 5, "reps": 10}, {"set": 2, "weight_kg": 5, "reps": 10}, {"set": 3, "weight_kg": 5, "reps": 10}]},
-        {"num": 5, "name": "Single Leg RDL", "target_sets": 3, "target_reps": "12/leg", "target_weight_kg": 14, "sets": [{"set": 1, "weight_kg": 18, "reps": 10}, {"set": 2, "weight_kg": 18, "reps": 10}, {"set": 3, "weight_kg": 18, "reps": 10}]},
-        {"num": 6, "name": "Push Ups", "target_sets": 3, "target_reps": "AMRAP", "target_weight_kg": 0, "sets": [{"set": 1, "weight_kg": 0, "reps": 12}, {"set": 2, "weight_kg": 0, "reps": 12}, {"set": 3, "weight_kg": 0, "reps": 12}]},
-        {"num": 7, "name": "Ab Burner — dead bug / reverse crunch / flutter kicks", "target_sets": 3, "target_reps": "40s each", "target_weight_kg": 0, "sets": [{"set": 1, "weight_kg": 0, "reps": 40, "notes": "40s"}, {"set": 2, "weight_kg": 0, "reps": 40, "notes": "40s"}, {"set": 3, "weight_kg": 0, "reps": 40, "notes": "40s"}]}
+        {"num": 4, "name": "Bicep Curl", "target_sets": 3, "target_reps": "12", "target_weight_kg": 8, "sets": []},
+        {"num": 5, "name": "Push Ups", "target_sets": 3, "target_reps": "AMRAP", "target_weight_kg": 0, "sets": []},
+        {"num": 6, "name": "Ab Burner — mountain climbers / plank / heel taps", "target_sets": 3, "target_reps": "40s each", "target_weight_kg": 0, "sets": []},
+        {"num": 7, "name": "Leg Curl", "target_sets": 3, "target_reps": "12–15", "target_weight_kg": 12.5, "sets": []}
       ]
     },
     {
       "id": 3,
-      "name": "C3 — cable + DB/bench + plate",
+      "name": "C3 — DB/bench + cable + free DB",
       "exercises": [
-        {"num": 8, "name": "Cable Kickbacks", "target_sets": 3, "target_reps": "12–15/leg", "target_weight_kg": 6, "sets": [{"set": 1, "weight_kg": 14, "reps": 10}, {"set": 2, "weight_kg": 14, "reps": 10}, {"set": 3, "weight_kg": 14, "reps": 10}]},
-        {"num": 9, "name": "DB Single Arm Row", "target_sets": 3, "target_reps": "12/side", "target_weight_kg": 15, "sets": [{"set": 1, "weight_kg": 16, "reps": 10}, {"set": 2, "weight_kg": 16, "reps": 10}, {"set": 3, "weight_kg": 16, "reps": 10}]},
-        {"num": 10, "name": "Calf Raises (plate)", "target_sets": 3, "target_reps": "15", "target_weight_kg": 16, "sets": [{"set": 1, "weight_kg": 16, "reps": 20}, {"set": 2, "weight_kg": 16, "reps": 20}, {"set": 3, "weight_kg": 16, "reps": 20}]}
+        {"num": 8, "name": "DB Bench Press", "target_sets": 3, "target_reps": "10–12", "target_weight_kg": 12.5, "sets": []},
+        {"num": 9, "name": "Lat Pulldown", "target_sets": 3, "target_reps": "10–12", "target_weight_kg": 29.5, "sets": []},
+        {"num": 10, "name": "Lateral Raise", "target_sets": 3, "target_reps": "15", "target_weight_kg": 5, "sets": []}
       ]
     }
   ],

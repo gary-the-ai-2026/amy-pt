@@ -1248,7 +1248,7 @@ async function determineNextSession() {
       download_url: `${REPO_RAW}/logs/${e.name}`,
       _index: e
     }));
-    if (!allLogs.length) return 'day-a';
+    if (!allLogs.length) return 'day-c';
 
     // Check if most recent log is still in progress — if so, that's the current session
     try {
@@ -1262,8 +1262,7 @@ async function determineNextSession() {
     const parts = allLogs[0].name.replace('.json', '').split('-');
     const lastType = parts.slice(3).join('-');
     const idx = SESSION_ROTATION.indexOf(lastType);
-    return idx >= 0 ? SESSION_ROTATION[(idx + 1) % 4] : 'day-a';
-  } catch (e) { return 'day-a'; }
+    return idx >= 0 ? SESSION_ROTATION[(idx + 1) % 4] : 'day-c';\n  } catch (e) { return 'day-c'; }
 }
 
 async function loadProgram() {
