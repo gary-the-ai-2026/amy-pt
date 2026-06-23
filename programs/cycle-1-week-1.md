@@ -80,7 +80,7 @@ next_session: day-c
 ### C3 — cable + DB/bench + plate
 | # | Exercise | Sets | Weight | Reps |
 |---|---|---|---|---|
-| 8 | Cable Kickbacks | 3 | 14kg | 12–15/leg |
+| 8 | Cable Kickbacks | 3 | 23kg | 12–15/leg |
 | 9 | DB Single Arm Row | 3 | 15kg | 12/side |
 | 10 | Calf Raises (plate) | 3 | 16kg | 15 |
 
@@ -134,7 +134,7 @@ next_session: day-c
 |---|---|---|---|---|
 | 8 | Hang Snatch | 3 | 10kg | 10 |
 | 9 | Bicep Curl | 3 | 8kg | 12 |
-| 10 | Leg Extension | 3 | 10–15kg | 12–15 |
+| 10 | Leg Extension | 3 | 35kg | 12–15 |
 
 ---
 
@@ -168,8 +168,8 @@ next_session: day-c
 | Glute Bridge | — | BW |
 | Push Ups | 4 | BW (AMRAP) |
 | Lat Pulldown | — | 27–32kg |
-| Cable Kickbacks | — | 5–7kg |
-| Leg Extension | — | 10–15kg |
+| Cable Kickbacks | 23kg (C10) | 14kg |
+| Leg Extension | 35kg | 10–15kg |
 | Leg Curl | — | 10–15kg |
 | Calf Raises (plate) | 16kg | 16kg |
 
