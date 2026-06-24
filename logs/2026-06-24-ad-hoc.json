@@ -1,0 +1,127 @@
+{
+  "session_id": "2026-06-24-ad-hoc",
+  "date": "2026-06-24",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Arnold's Press",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 10},
+        {"set": 2, "weight_kg": 6, "reps": 10},
+        {"set": 3, "weight_kg": 8, "reps": 10}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "RDL (Smith Machine)",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 35, "reps": 10},
+        {"set": 2, "weight_kg": 35, "reps": 10},
+        {"set": 3, "weight_kg": 35, "reps": 10}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Sit-ups",
+      "target_sets": 3,
+      "target_reps": "15",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 15},
+        {"set": 2, "weight_kg": 0, "reps": 15},
+        {"set": 3, "weight_kg": 0, "reps": 15}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Calf Raises (on plate)",
+      "target_sets": 3,
+      "target_reps": "20",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 20},
+        {"set": 2, "weight_kg": 16, "reps": 20},
+        {"set": 3, "weight_kg": 16, "reps": 20}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Tricep Dips (straight legs)",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 10},
+        {"set": 2, "weight_kg": 0, "reps": 10},
+        {"set": 3, "weight_kg": 0, "reps": 10}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Goblet Squat (on plate)",
+      "target_sets": 3,
+      "target_reps": "12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 12},
+        {"set": 2, "weight_kg": 16, "reps": 12},
+        {"set": 3, "weight_kg": 16, "reps": 12}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Lateral Side Bend",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 10},
+        {"set": 2, "weight_kg": 16, "reps": 10},
+        {"set": 3, "weight_kg": 16, "reps": 10}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Curtsy Lunge",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 10},
+        {"set": 2, "weight_kg": 12, "reps": 10},
+        {"set": 3, "weight_kg": 12, "reps": 10}
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Reverse Fly",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 10},
+        {"set": 2, "weight_kg": 6, "reps": 10},
+        {"set": 3, "weight_kg": 6, "reps": 10}
+      ]
+    }
+  ],
+  "notes": "9-exercise ad-hoc session. Straight sets, not circuits. Arnold's Press progressed 6→8kg."
+}
