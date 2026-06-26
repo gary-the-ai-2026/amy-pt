@@ -1,0 +1,132 @@
+{
+  "session_id": "2026-06-26-ad-hoc",
+  "date": "2026-06-26",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "started": null,
+  "finished": null,
+  "duration_min": 40,
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "DB Front Raise",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 4, "reps": 10},
+        {"set": 2, "weight_kg": 6, "reps": 10},
+        {"set": 3, "weight_kg": 6, "reps": 10}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Barbell Hip Thrust",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 40, "reps": 10},
+        {"set": 2, "weight_kg": 40, "reps": 10},
+        {"set": 3, "weight_kg": 50, "reps": 10}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Tricep Pushdown",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 23, "reps": 10},
+        {"set": 2, "weight_kg": 27, "reps": 10},
+        {"set": 3, "weight_kg": 32, "reps": 10}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "DB Bench Press",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10},
+        {"set": 2, "weight_kg": 12, "reps": 10},
+        {"set": 3, "weight_kg": 14, "reps": 10}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Russian Twist",
+      "target_sets": 3,
+      "target_reps": "20",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 20},
+        {"set": 2, "weight_kg": 10, "reps": 20},
+        {"set": 3, "weight_kg": 10, "reps": 20}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Leg Extension",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 25, "reps": 10},
+        {"set": 2, "weight_kg": 35, "reps": 10},
+        {"set": 3, "weight_kg": 40, "reps": 10}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Donkey Kicks (Blue Band)",
+      "target_sets": 3,
+      "target_reps": "12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 12, "notes": "blue booty band"},
+        {"set": 2, "weight_kg": 0, "reps": 12, "notes": "blue booty band"},
+        {"set": 3, "weight_kg": 0, "reps": 12, "notes": "blue booty band"}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Dead Bug",
+      "target_sets": 3,
+      "target_reps": "12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 12},
+        {"set": 2, "weight_kg": 0, "reps": 12},
+        {"set": 3, "weight_kg": 0, "reps": 12}
+      ]
+    },
+    {
+      "num": 9,
+      "name": "DB Thruster",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 10},
+        {"set": 2, "weight_kg": 8, "reps": 10},
+        {"set": 3, "weight_kg": 8, "reps": 10}
+      ]
+    }
+  ],
+  "notes": "Ad-hoc session, 9 exercises. 40 min. Hip thrusts pushed to 50kg on final set. Leg Extension at 40kg — new top weight. Straight sets, not circuits."
+}
