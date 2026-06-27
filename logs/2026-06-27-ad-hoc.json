@@ -1,0 +1,131 @@
+{
+  "session_id": "2026-06-27-ad-hoc",
+  "date": "2026-06-27",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "circuit": true,
+  "rounds": 4,
+  "work_sec": 45,
+  "rest_sec": 30,
+  "started": null,
+  "finished": null,
+  "duration_min": null,
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Barbell Deadlift",
+      "target_sets": 4,
+      "target_reps": "8",
+      "target_weight_kg": 50,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 50, "reps": 8},
+        {"set": 2, "weight_kg": 50, "reps": 8},
+        {"set": 3, "weight_kg": 50, "reps": 8},
+        {"set": 4, "weight_kg": 50, "reps": 8}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "DB Alternating Lunge",
+      "target_sets": 4,
+      "target_reps": "12",
+      "target_weight_kg": 10,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 12, "notes": "per arm"},
+        {"set": 2, "weight_kg": 10, "reps": 12, "notes": "per arm"},
+        {"set": 3, "weight_kg": 10, "reps": 12, "notes": "per arm"},
+        {"set": 4, "weight_kg": 15, "reps": 12, "notes": "per arm — bumped weight"}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Rower",
+      "target_sets": 4,
+      "target_reps": "190m",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 190, "notes": "190m"},
+        {"set": 2, "weight_kg": 0, "reps": 190, "notes": "190m"},
+        {"set": 3, "weight_kg": 0, "reps": 190, "notes": "190m"},
+        {"set": 4, "weight_kg": 0, "reps": 190, "notes": "190m"}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Tricep Kickback",
+      "target_sets": 4,
+      "target_reps": "12",
+      "target_weight_kg": 6,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 12, "notes": "per arm"},
+        {"set": 2, "weight_kg": 6, "reps": 12, "notes": "per arm"},
+        {"set": 3, "weight_kg": 6, "reps": 12, "notes": "per arm"},
+        {"set": 4, "weight_kg": 6, "reps": 12, "notes": "per arm"}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Bike",
+      "target_sets": 4,
+      "target_reps": "380m",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 380, "notes": "380m"},
+        {"set": 2, "weight_kg": 0, "reps": 380, "notes": "380m"},
+        {"set": 3, "weight_kg": 0, "reps": 380, "notes": "380m"},
+        {"set": 4, "weight_kg": 0, "reps": 380, "notes": "380m"}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Toe Tap Crunch (9kg Med Ball)",
+      "target_sets": 4,
+      "target_reps": "20",
+      "target_weight_kg": 9,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 9, "reps": 20, "notes": "straight arms above head"},
+        {"set": 2, "weight_kg": 9, "reps": 20, "notes": "straight arms above head"},
+        {"set": 3, "weight_kg": 9, "reps": 20, "notes": "straight arms above head"},
+        {"set": 4, "weight_kg": 9, "reps": 20, "notes": "straight arms above head"}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Ski Erg",
+      "target_sets": 4,
+      "target_reps": "170m",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 170, "notes": "170m"},
+        {"set": 2, "weight_kg": 0, "reps": 170, "notes": "170m"},
+        {"set": 3, "weight_kg": 0, "reps": 170, "notes": "170m"},
+        {"set": 4, "weight_kg": 0, "reps": 170, "notes": "170m"}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Hang Snatch",
+      "target_sets": 4,
+      "target_reps": "10",
+      "target_weight_kg": 12.5,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 12.5, "reps": 10, "notes": "alternating arms"},
+        {"set": 2, "weight_kg": 12.5, "reps": 10, "notes": "alternating arms"},
+        {"set": 3, "weight_kg": 12.5, "reps": 10, "notes": "alternating arms"},
+        {"set": 4, "weight_kg": 12.5, "reps": 10, "notes": "alternating arms"}
+      ]
+    }
+  ],
+  "notes": "Ad-hoc circuit session. 4 rounds, 45s on / 30s off. 8 exercises. DB Alternating Lunge bumped from 10kg → 15kg on final round. Cardio stations: rower 190m, bike 380m, ski erg 170m per round."
+}
