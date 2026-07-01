@@ -1,0 +1,146 @@
+{
+  "session_id": "2026-07-01-ad-hoc",
+  "date": "2026-07-01",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "started": null,
+  "finished": null,
+  "duration_min": null,
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Single Leg RDL (on bench)",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": 14,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 14, "reps": 10, "notes": "per leg"},
+        {"set": 2, "weight_kg": 16, "reps": 10, "notes": "per leg"},
+        {"set": 3, "weight_kg": 18, "reps": 10, "notes": "per leg"}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Bicycle Abs",
+      "target_sets": 3,
+      "target_reps": "20",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 20, "notes": "BW"},
+        {"set": 2, "weight_kg": 0, "reps": 20, "notes": "BW"},
+        {"set": 3, "weight_kg": 0, "reps": 20, "notes": "BW"}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Crunches",
+      "target_sets": 3,
+      "target_reps": "20",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 20, "notes": "BW"},
+        {"set": 2, "weight_kg": 0, "reps": 20, "notes": "BW"},
+        {"set": 3, "weight_kg": 0, "reps": 20, "notes": "BW"}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Single Arm Row (off bench)",
+      "target_sets": 3,
+      "target_reps": "10–12",
+      "target_weight_kg": 14,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 14, "reps": 10, "notes": "each arm"},
+        {"set": 2, "weight_kg": 16, "reps": 12, "notes": "each arm"},
+        {"set": 3, "weight_kg": 18, "reps": 10, "notes": "each arm"}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Lateral Raises",
+      "target_sets": 3,
+      "target_reps": "6–8",
+      "target_weight_kg": 6,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 8, "notes": "each arm"},
+        {"set": 2, "weight_kg": 6, "reps": 6, "notes": "each arm"},
+        {"set": 3, "weight_kg": 6, "reps": 7, "notes": "each arm"}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Tricep Bridge Extension (on bench)",
+      "target_sets": 3,
+      "target_reps": "9–12",
+      "target_weight_kg": 8,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 8, "reps": 10},
+        {"set": 2, "weight_kg": 10, "reps": 12},
+        {"set": 3, "weight_kg": 12, "reps": 9}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Leg Extensions",
+      "target_sets": 3,
+      "target_reps": "10–12",
+      "target_weight_kg": 35,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 35, "reps": 12},
+        {"set": 2, "weight_kg": 40, "reps": 10},
+        {"set": 3, "weight_kg": 40, "reps": 10}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Push Ups (on knees)",
+      "target_sets": 3,
+      "target_reps": "10–12",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 10, "notes": "BW"},
+        {"set": 2, "weight_kg": 0, "reps": 12, "notes": "BW"},
+        {"set": 3, "weight_kg": 0, "reps": 12, "notes": "BW"}
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Single Leg Hip Bridge (on medicine ball)",
+      "target_sets": 3,
+      "target_reps": "8",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 8, "notes": "BW each leg"},
+        {"set": 2, "weight_kg": 0, "reps": 8, "notes": "BW each leg"},
+        {"set": 3, "weight_kg": 0, "reps": 8, "notes": "BW each leg"}
+      ]
+    },
+    {
+      "num": 10,
+      "name": "Tricep Dips (on bench, straight legs)",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 10, "notes": "BW"},
+        {"set": 2, "weight_kg": 0, "reps": 10, "notes": "BW"},
+        {"set": 3, "weight_kg": 0, "reps": 10, "notes": "BW"}
+      ]
+    }
+  ],
+  "notes": "Ad-hoc session — straight sets. Single Leg RDL ramped 14→16→18kg. Single Arm Row ramped 14→16→18kg. Tricep Bridge Extension ramped 8→10→12kg. Leg Extensions ramped 35→40kg. 10 exercises total including 3 ab movements.",
+  "progression_skipped": true
+}
