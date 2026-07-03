@@ -1,0 +1,133 @@
+{
+  "session_id": "2026-07-03-ad-hoc",
+  "date": "2026-07-03",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "started": null,
+  "finished": null,
+  "duration_min": null,
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Calf Raises (on plate)",
+      "target_sets": 3,
+      "target_reps": "20",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 20, "notes": "double leg"},
+        {"set": 2, "weight_kg": 16, "reps": 20, "notes": "double leg"},
+        {"set": 3, "weight_kg": 18, "reps": 20, "notes": "double leg"}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Barbell Chest Press",
+      "target_sets": 3,
+      "target_reps": "9–12",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 20, "reps": 12},
+        {"set": 2, "weight_kg": 25, "reps": 12},
+        {"set": 3, "weight_kg": 35, "reps": 9}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Goblet Squat (on plate)",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 10},
+        {"set": 2, "weight_kg": 16, "reps": 10},
+        {"set": 3, "weight_kg": 18, "reps": 10}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Tricep Cable Extension",
+      "target_sets": 3,
+      "target_reps": "8–10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 27, "reps": 10},
+        {"set": 2, "weight_kg": 32, "reps": 9},
+        {"set": 3, "weight_kg": 32, "reps": 8}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Hang Snatch",
+      "target_sets": 3,
+      "target_reps": "10/arm",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 10, "notes": "per arm"},
+        {"set": 2, "weight_kg": 12, "reps": 10, "notes": "per arm"},
+        {"set": 3, "weight_kg": 12, "reps": 10, "notes": "per arm"}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Booty Band Donkey Kicks",
+      "target_sets": 3,
+      "target_reps": "8–10/leg",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 8, "notes": "blue band 17kg — per leg"},
+        {"set": 2, "weight_kg": 0, "reps": 10, "notes": "blue band 17kg — per leg"},
+        {"set": 3, "weight_kg": 0, "reps": 10, "notes": "blue band 17kg — per leg"}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "DB Chest Fly",
+      "target_sets": 3,
+      "target_reps": "10",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 10, "notes": "per arm"},
+        {"set": 2, "weight_kg": 6, "reps": 10, "notes": "per arm"},
+        {"set": 3, "weight_kg": 6, "reps": 10, "notes": "per arm"}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Plank",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": 0,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 45, "notes": "45s"},
+        {"set": 2, "weight_kg": 0, "reps": 45, "notes": "45s"},
+        {"set": 3, "weight_kg": 0, "reps": 45, "notes": "45s"}
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Wall Sit + Plate",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": 15,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 15, "reps": 45, "notes": "45s hold — 15kg plate on knees"},
+        {"set": 2, "weight_kg": 15, "reps": 45, "notes": "45s hold — 15kg plate on knees"},
+        {"set": 3, "weight_kg": 15, "reps": 45, "notes": "45s hold — 15kg plate on knees"}
+      ]
+    }
+  ],
+  "notes": "Ad-hoc session — straight sets. Barbell Chest Press ramped 20→25→35kg. Goblet Squat 16→18kg. Tricep Cable Extension at 27–32kg (strong). Hang Snatch 12kg/arm across all 3 sets. Wall Sit + 15kg plate × 3 × 45s.",
+  "progression_skipped": true
+}

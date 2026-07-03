@@ -1,82 +1,83 @@
 [
   {
-    "id": "2026-07-01-ad-hoc",
-    "date": "2026-07-01",
-    "type": "ad-hoc",
-    "status": "complete",
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 10,
-    "exercises_completed": 10
-  },
-  {
-    "id": "2026-06-30-ad-hoc",
-    "date": "2026-06-30",
-    "type": "ad-hoc",
-    "status": "complete",
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 6,
-    "exercises_completed": 6
-  },
-  {
-    "id": "2026-06-27-ad-hoc",
-    "date": "2026-06-27",
-    "type": "ad-hoc",
-    "status": "complete",
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 8,
-    "exercises_completed": 8
-  },
-  {
-    "id": "2026-06-26-ad-hoc",
-    "date": "2026-06-26",
-    "type": "ad-hoc",
-    "status": "complete",
-    "ad_hoc": true,
-    "duration_min": 40,
-    "exercise_count": 9,
-    "exercises_completed": 9
-  },
-  {
-    "id": "2026-06-24-ad-hoc",
-    "date": "2026-06-24",
-    "type": "ad-hoc",
-    "status": "complete",
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 9,
-    "exercises_completed": 9
-  },
-  {
-    "id": "2026-06-23-ad-hoc",
-    "date": "2026-06-23",
-    "type": "full-body",
-    "status": "complete",
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 0,
-    "exercises_completed": 0
-  },
-  {
-    "id": "2026-06-21-day-b",
-    "date": "2026-06-21",
-    "type": "day-b",
-    "status": "complete",
-    "ad_hoc": false,
-    "duration_min": null,
-    "exercise_count": 10,
-    "exercises_completed": 10
-  },
-  {
-    "id": "2026-06-18-full-body",
     "date": "2026-06-18",
     "type": "full-body",
     "status": "complete",
-    "ad_hoc": true,
     "duration_min": null,
-    "exercise_count": 9,
-    "exercises_completed": 9
+    "session_id": "2026-06-18-full-body",
+    "exercises": 9,
+    "ad_hoc": true
+  },
+  {
+    "date": "2026-06-21",
+    "type": "day-b",
+    "status": "complete",
+    "duration_min": null,
+    "session_id": "2026-06-21-day-b",
+    "exercises": 10,
+    "ad_hoc": false
+  },
+  {
+    "date": "2026-06-23",
+    "type": "full-body",
+    "status": "complete",
+    "duration_min": null,
+    "session_id": "2026-06-23-ad-hoc",
+    "exercises": 0,
+    "ad_hoc": true
+  },
+  {
+    "date": "2026-06-24",
+    "type": "ad-hoc",
+    "status": "complete",
+    "duration_min": null,
+    "session_id": "2026-06-24-ad-hoc",
+    "exercises": 9,
+    "ad_hoc": true
+  },
+  {
+    "date": "2026-06-26",
+    "type": "ad-hoc",
+    "status": "complete",
+    "duration_min": 40,
+    "session_id": "2026-06-26-ad-hoc",
+    "exercises": 9,
+    "ad_hoc": true
+  },
+  {
+    "date": "2026-06-27",
+    "type": "ad-hoc",
+    "status": "complete",
+    "duration_min": null,
+    "session_id": "2026-06-27-ad-hoc",
+    "exercises": 8,
+    "ad_hoc": true
+  },
+  {
+    "date": "2026-06-30",
+    "type": "ad-hoc",
+    "status": "complete",
+    "duration_min": null,
+    "session_id": "2026-06-30-ad-hoc",
+    "exercises": 6,
+    "ad_hoc": true
+  },
+  {
+    "date": "2026-07-01",
+    "type": "ad-hoc",
+    "status": "complete",
+    "duration_min": null,
+    "session_id": "2026-07-01-ad-hoc",
+    "exercises": 10,
+    "ad_hoc": true
+  },
+  {
+    "date": "2026-07-03",
+    "type": "ad-hoc",
+    "status": "complete",
+    "duration_min": null,
+    "session_id": "2026-07-03-ad-hoc",
+    "exercises": 9,
+    "ad_hoc": true
   }
 ]
