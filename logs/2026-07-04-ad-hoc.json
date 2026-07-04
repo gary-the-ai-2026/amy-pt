@@ -104,13 +104,13 @@
     },
     {
       "num": 9,
-      "name": "Rower",
+      "name": "Bike",
       "target_sets": 2,
-      "target_reps": "350/400/450m",
+      "target_reps": "800/850/900m",
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": null, "notes": "2×3 min rounds — 350/400/450m targets"}
+        {"set": 1, "weight_kg": null, "reps": 1000, "notes": "2×3 min rounds — ~1km each round · target 800/850/900m"}
       ]
     }
   ],
