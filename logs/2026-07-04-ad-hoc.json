@@ -16,10 +16,10 @@
       "name": "KB SL Deadlift (2×KB)",
       "target_sets": 4,
       "target_reps": "40s",
-      "target_weight_kg": null,
+      "target_weight_kg": 12,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — Group A Lower Body"}
+        {"set": 1, "weight_kg": 12, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — Group A Lower Body · 12kg/arm"}
       ]
     },
     {
@@ -27,10 +27,10 @@
       "name": "Curtsey Lunge",
       "target_sets": 4,
       "target_reps": "40s",
-      "target_weight_kg": null,
+      "target_weight_kg": 8,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — one side per set"}
+        {"set": 1, "weight_kg": 8, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — one side per set · 8kg/arm"}
       ]
     },
     {
@@ -38,10 +38,10 @@
       "name": "DB Bulgarian Lunge",
       "target_sets": 4,
       "target_reps": "40s",
-      "target_weight_kg": null,
+      "target_weight_kg": 8,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — one side per set"}
+        {"set": 1, "weight_kg": 8, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — one side per set · 8kg/arm"}
       ]
     },
     {
@@ -49,10 +49,10 @@
       "name": "Crab Walks",
       "target_sets": 4,
       "target_reps": "40s",
-      "target_weight_kg": null,
+      "target_weight_kg": 0,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF"}
+        {"set": 1, "weight_kg": 0, "reps": 40, "notes": "Tabata 40s ON / 20s OFF · Ivoryrose black band"}
       ]
     },
     {
