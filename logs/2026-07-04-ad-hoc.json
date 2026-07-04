@@ -74,10 +74,10 @@
       "name": "TB Pulldown (from rack)",
       "target_sets": 4,
       "target_reps": "40s",
-      "target_weight_kg": null,
+      "target_weight_kg": 0,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF"}
+        {"set": 1, "weight_kg": 0, "reps": 40, "notes": "Tabata 40s ON / 20s OFF · Ivoryrose red band — easy"}
       ]
     },
     {
