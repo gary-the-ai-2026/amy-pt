@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-04",
+    "type": "ad-hoc",
+    "status": "complete",
+    "duration_min": 38,
+    "session_id": "2026-07-04-ad-hoc",
+    "exercises": 9,
+    "ad_hoc": true
+  },
+  {
     "date": "2026-06-18",
     "type": "full-body",
     "status": "complete",

@@ -1,0 +1,116 @@
+{
+  "session_id": "2026-07-04-ad-hoc",
+  "date": "2026-07-04",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Ivoryrose (gym class)",
+  "started": null,
+  "finished": null,
+  "duration_min": 38,
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "KB SL Deadlift (2×KB)",
+      "target_sets": 4,
+      "target_reps": "40s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — Group A Lower Body"}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Curtsey Lunge",
+      "target_sets": 4,
+      "target_reps": "40s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — one side per set"}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "DB Bulgarian Lunge",
+      "target_sets": 4,
+      "target_reps": "40s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — one side per set"}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Crab Walks",
+      "target_sets": 4,
+      "target_reps": "40s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF"}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Seated OH Press",
+      "target_sets": 4,
+      "target_reps": "40s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF — Group B Upper Body"}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "TB Pulldown (from rack)",
+      "target_sets": 4,
+      "target_reps": "40s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF"}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Small BB Bent Over Row",
+      "target_sets": 4,
+      "target_reps": "40s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF"}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "DB Punches (light)",
+      "target_sets": 4,
+      "target_reps": "40s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40, "notes": "Tabata 40s ON / 20s OFF"}
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Rower",
+      "target_sets": 2,
+      "target_reps": "350/400/450m",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "2×3 min rounds — 350/400/450m targets"}
+      ]
+    }
+  ],
+  "notes": "Ivoryrose gym class — STRENGTH 32 min TABATA (4 rounds/group) 40s ON / 20s OFF + CONDITIONING 6 min (2×3 min rounds). Group A lower body (KB SL deadlift, curtsey lunge, DB Bulgarian lunge, crab walks) all one side per set. Group B upper body (seated OH press, TB pulldown, small BB BOR, DB punches light). Conditioning: rower 350/400/450m or bike 800/850/900m.",
+  "progression_skipped": true
+}
