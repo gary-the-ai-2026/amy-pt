@@ -5,8 +5,18 @@
 | Daily | 130g | 25–30g |
 
 **Context:** GLP-1 medication — tracking intake for curiosity, protein adequacy, and gut health.
+**Medication:** Mounjaro 2.5mg weekly injections — commenced 2/7/26.
+**Ideal weight:** 65kg
 
 **Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk.
+
+---
+
+## Weight Log
+
+| Date | Weight | Notes |
+|---|---|---|
+| 18/6/26 | 69.5kg | Pre-Mounjaro baseline |
 
 ---
 
