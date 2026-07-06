@@ -1,99 +1,14 @@
 [
   {
-    "name": "2026-07-04-ad-hoc.json",
-    "date": "2026-07-04",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "duration_min": 38,
-    "ad_hoc": true,
-    "resumed_from": null,
-    "exercise_count": 9,
-    "skipped_count": 0
-  },
-  {
-    "name": "2026-07-03-ad-hoc.json",
-    "date": "2026-07-03",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "duration_min": null,
-    "ad_hoc": true,
-    "resumed_from": null,
-    "exercise_count": 9,
-    "skipped_count": 0
-  },
-  {
-    "name": "2026-07-01-ad-hoc.json",
-    "date": "2026-07-01",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "duration_min": null,
-    "ad_hoc": true,
-    "resumed_from": null,
-    "exercise_count": 10,
-    "skipped_count": 0
-  },
-  {
-    "name": "2026-06-30-ad-hoc.json",
-    "date": "2026-06-30",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "duration_min": null,
-    "ad_hoc": true,
-    "resumed_from": null,
-    "exercise_count": 6,
-    "skipped_count": 0
-  },
-  {
-    "name": "2026-06-27-ad-hoc.json",
-    "date": "2026-06-27",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "duration_min": null,
-    "ad_hoc": true,
-    "resumed_from": null,
-    "exercise_count": 8,
-    "skipped_count": 0
-  },
-  {
-    "name": "2026-06-26-ad-hoc.json",
-    "date": "2026-06-26",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "duration_min": 40,
-    "ad_hoc": true,
-    "resumed_from": null,
-    "exercise_count": 9,
-    "skipped_count": 0
-  },
-  {
-    "name": "2026-06-24-ad-hoc.json",
-    "date": "2026-06-24",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "duration_min": 0,
-    "ad_hoc": true,
-    "resumed_from": null,
-    "exercise_count": 9,
-    "skipped_count": 0
-  },
-  {
-    "name": "2026-06-23-ad-hoc.json",
-    "date": "2026-06-23",
+    "name": "2026-06-18-full-body.json",
+    "date": "2026-06-18",
     "type": "full-body",
     "status": "complete",
     "cycle": 1,
-    "duration_min": 0,
     "ad_hoc": true,
-    "resumed_from": null,
-    "exercise_count": 0,
-    "skipped_count": 0
+    "duration_min": null,
+    "exercise_count": 9,
+    "completed_count": 9
   },
   {
     "name": "2026-06-21-day-b.json",
@@ -101,22 +16,108 @@
     "type": "day-b",
     "status": "complete",
     "cycle": 1,
-    "duration_min": 0,
     "ad_hoc": false,
-    "resumed_from": null,
+    "duration_min": null,
     "exercise_count": 10,
-    "skipped_count": 0
+    "completed_count": 10
   },
   {
-    "name": "2026-06-18-full-body.json",
-    "date": "2026-06-18",
+    "name": "2026-06-23-ad-hoc.json",
+    "date": "2026-06-23",
     "type": "full-body",
     "status": "complete",
     "cycle": 1,
-    "duration_min": 0,
     "ad_hoc": true,
-    "resumed_from": null,
+    "duration_min": null,
+    "exercise_count": 0,
+    "completed_count": 0
+  },
+  {
+    "name": "2026-06-24-ad-hoc.json",
+    "date": "2026-06-24",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
     "exercise_count": 9,
-    "skipped_count": 0
+    "completed_count": 9
+  },
+  {
+    "name": "2026-06-26-ad-hoc.json",
+    "date": "2026-06-26",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": 40,
+    "exercise_count": 9,
+    "completed_count": 9
+  },
+  {
+    "name": "2026-06-27-ad-hoc.json",
+    "date": "2026-06-27",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 8,
+    "completed_count": 8
+  },
+  {
+    "name": "2026-06-30-ad-hoc.json",
+    "date": "2026-06-30",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 6,
+    "completed_count": 6
+  },
+  {
+    "name": "2026-07-01-ad-hoc.json",
+    "date": "2026-07-01",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 10,
+    "completed_count": 10
+  },
+  {
+    "name": "2026-07-03-ad-hoc.json",
+    "date": "2026-07-03",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 9,
+    "completed_count": 9
+  },
+  {
+    "name": "2026-07-04-ad-hoc.json",
+    "date": "2026-07-04",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": 38,
+    "exercise_count": 9,
+    "completed_count": 9
+  },
+  {
+    "name": "2026-07-07-ad-hoc.json",
+    "date": "2026-07-07",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 8,
+    "completed_count": 8
   }
 ]
