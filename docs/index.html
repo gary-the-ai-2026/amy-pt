@@ -906,6 +906,27 @@
   }
   .food-totals-row .t-p { color: var(--coral); font-weight: 500; }
   .food-totals-row .t-f { color: var(--accent-teal); font-weight: 500; }
+
+  /* Chart navigation */
+  .food-chart-nav {
+    display: flex; align-items: center; justify-content: center;
+    gap: var(--space-md); margin-bottom: var(--space-sm);
+  }
+  .food-nav-btn {
+    background: none; border: 1px solid var(--hairline);
+    border-radius: var(--radius-sm);
+    padding: 4px 12px;
+    font-family: var(--font-body); font-size: 11px; font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .food-nav-btn:hover { color: var(--coral); border-color: var(--coral); }
+  .food-nav-btn:disabled { opacity: 0.3; cursor: default; }
+  .food-nav-label {
+    font-family: var(--font-mono); font-size: 11px;
+    color: var(--muted); font-variant-numeric: tabular-nums;
+  }
 </style>
 </head>
 <body>
@@ -1111,6 +1132,16 @@
     <div class="section-label">Nutrition Diary</div>
 
     <div class="food-targets-row" id="food-targets">
+    </div>
+
+    <div class="section-label">30-Day Trend</div>
+    <div class="food-chart-nav" id="food-chart-nav" style="display:none;">
+      <button class="food-nav-btn" id="food-nav-prev" onclick="foodChartPage(-1)">← Earlier</button>
+      <span class="food-nav-label" id="food-chart-label">Last 30 days</span>
+      <button class="food-nav-btn" id="food-nav-next" onclick="foodChartPage(1)">Later →</button>
+    </div>
+    <div class="card-cream chart-card">
+      <div class="chart-wrap" style="height:280px;"><canvas id="chart-nutrition"></canvas></div>
     </div>
 
     <div class="section-label">Daily Log</div>
@@ -1988,6 +2019,31 @@ async function renderProgress() {
 // RENDER — FOOD DIARY
 // ═══════════════════════════════════════════════════
 
+let foodChartData = [];       // all parsed days (chronological order)
+let foodChartPageIdx = 0;     // current 30-day window offset
+const FOOD_CHART_WINDOW = 30;
+let foodChartInst = null;
+
+// Parse "D/M" from a heading like "Monday 6/7 — P: ~84g"
+function parseFoodDate(heading) {
+  const m = heading.match(/(\d+)\/(\d+)/);
+  if (!m) return null;
+  const day = parseInt(m[1]), month = parseInt(m[2]);
+  const now = new Date();
+  const y = now.getFullYear();
+  // Adelaide timezone — construct local date
+  let d = new Date(y, month - 1, day);
+  // If constructed date is in the future, it's from last year (Dec→Jan crossing)
+  const todayLocal = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  if (d > todayLocal) d = new Date(y - 1, month - 1, day);
+  return d;
+}
+
+function adelaideToday() {
+  const now = new Date();
+  return new Date(now.getFullYear(), now.getMonth(), now.getDate());
+}
+
 async function renderFood() {
   const targetEl = document.getElementById('food-targets');
   const daysEl = document.getElementById('food-days');
@@ -2002,20 +2058,27 @@ async function renderFood() {
     const fibreTargetHigh = targetMatch && targetMatch[3] ? parseInt(targetMatch[3]) : 30;
     const fibreTargetLow = targetMatch ? parseInt(targetMatch[2]) : 25;
 
-    // Parse daily sections — split on ### Day heading
+    // Parse daily sections
     const daySections = md.split(/\n(?=### )/).filter(s => s.startsWith('### ') && /P:.*F:/.test(s.split('\n')[0]));
 
-    const days = [];
+    const todayLocal = adelaideToday();
+    const daysRaw = [];
+
     for (const sec of daySections) {
       const lines = sec.split('\n');
       const heading = lines[0].replace(/^### /, '');
 
-      // Extract date label and totals from heading
       const hMatch = heading.match(/^(.+?) — P:.*?(\d+)g.*?F:.*?(\d+)g/);
       if (!hMatch) continue;
       const label = hMatch[1].trim();
       const protein = parseInt(hMatch[2]);
       const fibre = parseInt(hMatch[3]);
+
+      // Parse date for sorting
+      const dt = parseFoodDate(heading);
+      const dateStr = dt ? `${dt.getFullYear()}-${String(dt.getMonth()+1).padStart(2,'0')}-${String(dt.getDate()).padStart(2,'0')}` : '';
+      const ts = dt ? dt.getTime() : 0;
+      const isToday = dt ? dt.getTime() === todayLocal.getTime() : false;
 
       // Parse items table
       const tables = parseMDTable(sec);
@@ -2031,21 +2094,27 @@ async function renderFood() {
         }
       }
 
-      days.push({ label, protein, fibre, items });
+      daysRaw.push({ label, protein, fibre, items, dateStr, ts, isToday });
     }
 
-    if (!days.length) {
+    // Sort reverse-chronological (most recent first — for day cards)
+    daysRaw.sort((a, b) => b.ts - a.ts);
+
+    if (!daysRaw.length) {
       daysEl.innerHTML = '<div class="card-cream" style="text-align:center;color:var(--muted-soft);padding:32px;">No nutrition entries yet.</div>';
       targetEl.innerHTML = '';
+      document.getElementById('food-chart-nav').style.display = 'none';
       return;
     }
 
-    // Latest day totals for the target cards
-    const latest = days[0];
+    // Build chronological copy for chart
+    foodChartData = [...daysRaw].reverse();
+    foodChartPageIdx = Math.max(0, Math.floor((foodChartData.length - 1) / FOOD_CHART_WINDOW));
+
+    // ── Target bars (from most recent day = daysRaw[0]) ──
+    const latest = daysRaw[0];
     const proteinPct = Math.min(100, Math.round((latest.protein / proteinTarget) * 100));
     const fibrePct = Math.min(100, Math.round((latest.fibre / fibreTargetHigh) * 100));
-
-    // Protein bar color
     const pColor = proteinPct >= 85 ? 'var(--success)' : proteinPct >= 60 ? 'var(--coral)' : 'var(--error)';
     const fColor = fibrePct >= 80 ? 'var(--success)' : fibrePct >= 50 ? 'var(--accent-teal)' : 'var(--warning)';
 
@@ -2078,14 +2147,11 @@ async function renderFood() {
       </div>
     `;
 
-    // Day cards
+    // ── Day cards ──
     let daysHTML = '';
-    for (let i = 0; i < days.length; i++) {
-      const d = days[i];
-      const isToday = i === 0;
-      const pClass = d.protein >= proteinTarget ? 'green' : (d.protein >= proteinTarget * 0.7 ? '' : 'low');
-      const fClass = d.fibre >= fibreTargetLow ? 'green' : (d.fibre >= fibreTargetLow * 0.5 ? '' : 'low');
-
+    for (let i = 0; i < daysRaw.length; i++) {
+      const d = daysRaw[i];
+      const isToday = d.isToday;
       let itemsHTML = '';
       for (const item of d.items) {
         itemsHTML += `<div class="food-item-row">
@@ -2093,10 +2159,9 @@ async function renderFood() {
           <span class="i-macros"><span class="i-p">${item.protein}g</span><span class="i-f">${item.fibre}g</span></span>
         </div>`;
       }
-
       daysHTML += `<div class="food-day-card">
         <div class="food-day-header${isToday ? ' open' : ''}" onclick="toggleFoodDay(this)">
-          <span class="d-label">${isToday ? 'Today' : ''} ${d.label}</span>
+          <span class="d-label">${isToday ? 'Today — ' : ''}${d.label}</span>
           <span class="d-macros"><span class="macro-p">P: ${d.protein}g</span><span class="macro-f">F: ${d.fibre}g</span></span>
           <span class="d-chevron">›</span>
         </div>
@@ -2110,13 +2175,147 @@ async function renderFood() {
         </div>
       </div>`;
     }
-
     daysEl.innerHTML = daysHTML;
+
+    // ── Chart ──
+    renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh);
 
   } catch (e) {
     daysEl.innerHTML = '<div class="card-cream" style="text-align:center;color:var(--muted-soft);padding:32px;">Could not load nutrition data.</div>';
     targetEl.innerHTML = '';
+    document.getElementById('food-chart-nav').style.display = 'none';
   }
+}
+
+function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
+  const nav = document.getElementById('food-chart-nav');
+  const label = document.getElementById('food-chart-label');
+  const prevBtn = document.getElementById('food-nav-prev');
+  const nextBtn = document.getElementById('food-nav-next');
+  const canvas = document.getElementById('chart-nutrition');
+
+  if (!canvas || !foodChartData.length) {
+    if (nav) nav.style.display = 'none';
+    return;
+  }
+
+  // Slice the current 30-day window
+  const start = foodChartPageIdx * FOOD_CHART_WINDOW;
+  const end = start + FOOD_CHART_WINDOW;
+  const windowData = foodChartData.slice(start, end);
+  if (!windowData.length) return;
+
+  const totalPages = Math.ceil(foodChartData.length / FOOD_CHART_WINDOW);
+  const currentPage = foodChartPageIdx;
+  const isLastPage = currentPage >= totalPages - 1;
+  const isFirstPage = currentPage === 0;
+
+  nav.style.display = 'flex';
+  label.textContent = isLastPage
+    ? `All ${foodChartData.length} days`
+    : `${windowData[0].dateStr.slice(5)} — ${windowData[windowData.length-1].dateStr.slice(5)}`;
+  prevBtn.disabled = isLastPage;
+  nextBtn.disabled = isFirstPage;
+
+  const labels = windowData.map(d => d.dateStr.slice(5)); // MM-DD
+  const pValues = windowData.map(d => d.protein);
+  const fValues = windowData.map(d => d.fibre);
+
+  if (foodChartInst) foodChartInst.destroy();
+
+  const ctx = canvas.getContext('2d');
+  foodChartInst = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [
+        {
+          label: 'Protein',
+          data: pValues,
+          borderColor: '#cc785c',
+          backgroundColor: 'transparent',
+          borderWidth: 2,
+          pointRadius: 3,
+          pointBackgroundColor: '#cc785c',
+          pointBorderColor: '#faf9f5',
+          pointBorderWidth: 1.5,
+          tension: 0.3,
+          spanGaps: false,
+        },
+        {
+          label: 'Fibre',
+          data: fValues,
+          borderColor: '#5db8a6',
+          backgroundColor: 'transparent',
+          borderWidth: 2,
+          pointRadius: 3,
+          pointBackgroundColor: '#5db8a6',
+          pointBorderColor: '#faf9f5',
+          pointBorderWidth: 1.5,
+          tension: 0.3,
+          spanGaps: false,
+        },
+        {
+          label: 'Protein target',
+          data: Array(labels.length).fill(proteinTarget),
+          borderColor: '#cc785c',
+          backgroundColor: 'transparent',
+          borderWidth: 1,
+          borderDash: [5, 5],
+          pointRadius: 0,
+          spanGaps: true,
+        },
+        {
+          label: 'Fibre target',
+          data: Array(labels.length).fill(fibreTargetLow),
+          borderColor: '#5db8a6',
+          backgroundColor: 'transparent',
+          borderWidth: 1,
+          borderDash: [5, 5],
+          pointRadius: 0,
+          spanGaps: true,
+        },
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: {
+            usePointStyle: true, boxWidth: 8, boxHeight: 8, padding: 16,
+            font: { size: 11, family: 'Inter, sans-serif' },
+            color: '#6c6a64',
+          }
+        }
+      },
+      scales: {
+        x: {
+          grid: { color: '#e6dfd8' },
+          ticks: { color: '#8e8b82', font: { size: 9, family: 'JetBrains Mono' }, maxRotation: 0, maxTicksLimit: 14 },
+          border: { display: false }
+        },
+        y: {
+          grid: { color: '#e6dfd8' },
+          ticks: { color: '#8e8b82', font: { size: 9, family: 'JetBrains Mono' } },
+          border: { display: false },
+          beginAtZero: true,
+          title: { display: true, text: 'grams', color: '#8e8b82', font: { size: 9, family: 'Inter, sans-serif' } }
+        },
+      },
+      interaction: { intersect: false, mode: 'index' }
+    }
+  });
+}
+
+function foodChartPage(dir) {
+  const maxPage = Math.ceil(foodChartData.length / FOOD_CHART_WINDOW) - 1;
+  foodChartPageIdx = Math.max(0, Math.min(maxPage, foodChartPageIdx + dir));
+  // Re-extract targets from the DOM is fragile, so re-parse from stored data
+  const proteinTarget = 130;
+  const fibreTargetLow = 25;
+  const fibreTargetHigh = 30;
+  renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh);
 }
 
 function toggleFoodDay(header) {
