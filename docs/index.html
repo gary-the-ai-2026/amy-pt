@@ -754,6 +754,158 @@
     .proto-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
     .proto-table { min-width: 480px; }
   }
+
+  /* ═══════════════ FOOD DIARY ═══════════════ */
+
+  /* Target progress bars */
+  .food-targets-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-md);
+    margin-bottom: var(--space-xl);
+  }
+  .food-target-card {
+    background: var(--surface-card);
+    border: 1px solid var(--hairline);
+    border-radius: var(--radius-lg);
+    padding: var(--space-lg) var(--space-xl);
+  }
+  .food-target-card .t-label {
+    font-size: 11px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+  .food-target-card .t-values {
+    display: flex; align-items: baseline; gap: 6px;
+    margin-bottom: 10px;
+  }
+  .food-target-card .t-current {
+    font-family: var(--font-mono);
+    font-size: 28px; font-weight: 500;
+    font-variant-numeric: tabular-nums;
+  }
+  .food-target-card .t-sep {
+    color: var(--muted-soft); font-size: 14px;
+    font-family: var(--font-mono);
+  }
+  .food-target-card .t-target {
+    font-family: var(--font-mono);
+    font-size: 16px; font-weight: 500;
+    color: var(--muted-soft);
+    font-variant-numeric: tabular-nums;
+  }
+  .food-target-card .t-unit {
+    font-size: 13px; color: var(--muted);
+    font-family: var(--font-body);
+  }
+  .food-target-card .t-bar-wrap {
+    height: 6px; background: var(--hairline);
+    border-radius: 3px; overflow: hidden;
+  }
+  .food-target-card .t-bar-fill {
+    height: 100%; border-radius: 3px;
+    transition: width 0.6s cubic-bezier(0.34,1.56,0.64,1);
+  }
+  .food-target-card .t-sub {
+    font-size: 11px; color: var(--muted-soft);
+    margin-top: 6px; font-family: var(--font-body);
+  }
+
+  /* Day cards */
+  .food-days {
+    display: flex; flex-direction: column; gap: var(--space-md);
+  }
+  .food-day-card {
+    background: var(--surface-card);
+    border: 1px solid var(--hairline);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+  }
+  .food-day-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: var(--space-md) var(--space-xl);
+    cursor: pointer; user-select: none;
+    transition: background 0.15s ease;
+  }
+  .food-day-header:hover {
+    background: rgba(0,0,0,0.02);
+  }
+  .food-day-header .d-label {
+    font-family: var(--font-display);
+    font-size: 18px; font-weight: 500;
+    color: var(--ink); letter-spacing: -0.2px;
+  }
+  .food-day-header .d-macros {
+    display: flex; gap: 16px;
+    font-family: var(--font-mono);
+    font-size: 13px; font-weight: 500;
+    font-variant-numeric: tabular-nums;
+  }
+  .food-day-header .d-macros .macro-p {
+    color: var(--coral);
+  }
+  .food-day-header .d-macros .macro-f {
+    color: var(--accent-teal);
+  }
+  .food-day-header .d-chevron {
+    font-size: 16px; color: var(--muted-soft);
+    transition: transform 0.2s ease;
+    margin-left: 8px;
+    font-family: var(--font-body);
+  }
+  .food-day-header.open .d-chevron {
+    transform: rotate(90deg);
+  }
+
+  .food-day-items {
+    display: none;
+    border-top: 1px solid var(--hairline-soft);
+    padding: var(--space-md) var(--space-xl) var(--space-lg);
+  }
+  .food-day-items.open {
+    display: block;
+  }
+  .food-item-row {
+    display: flex; align-items: baseline; justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--hairline-soft);
+  }
+  .food-item-row:last-child {
+    border-bottom: none;
+  }
+  .food-item-row .i-name {
+    font-size: 14px; color: var(--ink);
+    font-family: var(--font-body);
+    flex: 1; min-width: 0;
+  }
+  .food-item-row .i-name .i-notes {
+    font-size: 11px; color: var(--muted-soft);
+    margin-left: 6px;
+  }
+  .food-item-row .i-macros {
+    display: flex; gap: 12px; flex-shrink: 0;
+    font-family: var(--font-mono); font-size: 12px;
+    font-variant-numeric: tabular-nums;
+  }
+  .food-item-row .i-p {
+    color: var(--coral); font-weight: 500;
+  }
+  .food-item-row .i-f {
+    color: var(--accent-teal); font-weight: 500;
+  }
+
+  .food-totals-row {
+    display: flex; justify-content: flex-end; gap: 16px;
+    padding-top: 8px;
+    font-family: var(--font-mono); font-size: 12px;
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+    border-top: 1px solid var(--hairline);
+    margin-top: 4px;
+  }
+  .food-totals-row .t-p { color: var(--coral); font-weight: 500; }
+  .food-totals-row .t-f { color: var(--accent-teal); font-weight: 500; }
 </style>
 </head>
 <body>
@@ -779,6 +931,7 @@
       <button class="active" data-view="hub">Hub</button>
       <button data-view="session">Session</button>
       <button data-view="progress">Progress</button>
+      <button data-view="food">Food</button>
     </div>
     <button class="refresh-btn" id="refresh-btn" title="Refresh" onclick="refreshView()">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -950,6 +1103,19 @@
       <div class="chart-title">Session Volume (kg)</div>
       <div class="chart-desc">Sum of weight × reps across all exercises · thousands of kg</div>
       <div class="chart-wrap"><canvas id="chart-volume"></canvas></div>
+    </div>
+  </div>
+
+  <!-- ═══════════ FOOD DIARY VIEW ═══════════ -->
+  <div class="view" id="view-food">
+    <div class="section-label">Nutrition Diary</div>
+
+    <div class="food-targets-row" id="food-targets">
+    </div>
+
+    <div class="section-label">Daily Log</div>
+    <div class="food-days" id="food-days">
+      <div class="card-cream" style="text-align:center;color:var(--muted-soft);padding:32px;">Loading nutrition data…</div>
     </div>
   </div>
 </div>
@@ -1819,6 +1985,147 @@ async function renderProgress() {
 }
 
 // ═══════════════════════════════════════════════════
+// RENDER — FOOD DIARY
+// ═══════════════════════════════════════════════════
+
+async function renderFood() {
+  const targetEl = document.getElementById('food-targets');
+  const daysEl = document.getElementById('food-days');
+
+  try {
+    const md = await fetchText(`${REPO_RAW}/nutrition/protein-log.md?t=${Date.now()}`);
+    if (!md) throw new Error('No data');
+
+    // Parse targets from header table
+    const targetMatch = md.match(/\| Daily \| (\d+)g \| (\d+)–?(\d+)?g \|/);
+    const proteinTarget = targetMatch ? parseInt(targetMatch[1]) : 130;
+    const fibreTargetHigh = targetMatch && targetMatch[3] ? parseInt(targetMatch[3]) : 30;
+    const fibreTargetLow = targetMatch ? parseInt(targetMatch[2]) : 25;
+
+    // Parse daily sections — split on ### Day heading
+    const daySections = md.split(/\n(?=### )/).filter(s => s.startsWith('### ') && /P:.*F:/.test(s.split('\n')[0]));
+
+    const days = [];
+    for (const sec of daySections) {
+      const lines = sec.split('\n');
+      const heading = lines[0].replace(/^### /, '');
+
+      // Extract date label and totals from heading
+      const hMatch = heading.match(/^(.+?) — P:.*?(\d+)g.*?F:.*?(\d+)g/);
+      if (!hMatch) continue;
+      const label = hMatch[1].trim();
+      const protein = parseInt(hMatch[2]);
+      const fibre = parseInt(hMatch[3]);
+
+      // Parse items table
+      const tables = parseMDTable(sec);
+      const items = [];
+      for (const t of tables) {
+        for (const row of t.rows) {
+          if (row[0] === 'Item' || row[0] === 'Target') continue;
+          const name = row[0] || '';
+          const p = row[1] ? row[1].replace(/[~g]/g, '').trim() : '—';
+          const f = row[2] ? row[2].replace(/[~g]/g, '').trim() : '—';
+          const notes = row[3] || '';
+          items.push({ name, protein: p, fibre: f, notes });
+        }
+      }
+
+      days.push({ label, protein, fibre, items });
+    }
+
+    if (!days.length) {
+      daysEl.innerHTML = '<div class="card-cream" style="text-align:center;color:var(--muted-soft);padding:32px;">No nutrition entries yet.</div>';
+      targetEl.innerHTML = '';
+      return;
+    }
+
+    // Latest day totals for the target cards
+    const latest = days[0];
+    const proteinPct = Math.min(100, Math.round((latest.protein / proteinTarget) * 100));
+    const fibrePct = Math.min(100, Math.round((latest.fibre / fibreTargetHigh) * 100));
+
+    // Protein bar color
+    const pColor = proteinPct >= 85 ? 'var(--success)' : proteinPct >= 60 ? 'var(--coral)' : 'var(--error)';
+    const fColor = fibrePct >= 80 ? 'var(--success)' : fibrePct >= 50 ? 'var(--accent-teal)' : 'var(--warning)';
+
+    targetEl.innerHTML = `
+      <div class="food-target-card">
+        <div class="t-label">Protein</div>
+        <div class="t-values">
+          <span class="t-current" style="color:${pColor}">${latest.protein}</span>
+          <span class="t-sep">/</span>
+          <span class="t-target">${proteinTarget}</span>
+          <span class="t-unit">g</span>
+        </div>
+        <div class="t-bar-wrap">
+          <div class="t-bar-fill" style="width:${proteinPct}%;background:${pColor}"></div>
+        </div>
+        <div class="t-sub">${proteinPct}% of daily target</div>
+      </div>
+      <div class="food-target-card">
+        <div class="t-label">Fibre</div>
+        <div class="t-values">
+          <span class="t-current" style="color:${fColor}">${latest.fibre}</span>
+          <span class="t-sep">/</span>
+          <span class="t-target">${fibreTargetLow}–${fibreTargetHigh}</span>
+          <span class="t-unit">g</span>
+        </div>
+        <div class="t-bar-wrap">
+          <div class="t-bar-fill" style="width:${fibrePct}%;background:${fColor}"></div>
+        </div>
+        <div class="t-sub">${fibrePct}% of daily range</div>
+      </div>
+    `;
+
+    // Day cards
+    let daysHTML = '';
+    for (let i = 0; i < days.length; i++) {
+      const d = days[i];
+      const isToday = i === 0;
+      const pClass = d.protein >= proteinTarget ? 'green' : (d.protein >= proteinTarget * 0.7 ? '' : 'low');
+      const fClass = d.fibre >= fibreTargetLow ? 'green' : (d.fibre >= fibreTargetLow * 0.5 ? '' : 'low');
+
+      let itemsHTML = '';
+      for (const item of d.items) {
+        itemsHTML += `<div class="food-item-row">
+          <span class="i-name">${item.name}${item.notes ? `<span class="i-notes">· ${item.notes}</span>` : ''}</span>
+          <span class="i-macros"><span class="i-p">${item.protein}g</span><span class="i-f">${item.fibre}g</span></span>
+        </div>`;
+      }
+
+      daysHTML += `<div class="food-day-card">
+        <div class="food-day-header${isToday ? ' open' : ''}" onclick="toggleFoodDay(this)">
+          <span class="d-label">${isToday ? 'Today' : ''} ${d.label}</span>
+          <span class="d-macros"><span class="macro-p">P: ${d.protein}g</span><span class="macro-f">F: ${d.fibre}g</span></span>
+          <span class="d-chevron">›</span>
+        </div>
+        <div class="food-day-items${isToday ? ' open' : ''}">
+          ${itemsHTML}
+          <div class="food-totals-row">
+            <span>Totals:</span>
+            <span class="t-p">Protein ${d.protein}g</span>
+            <span class="t-f">Fibre ${d.fibre}g</span>
+          </div>
+        </div>
+      </div>`;
+    }
+
+    daysEl.innerHTML = daysHTML;
+
+  } catch (e) {
+    daysEl.innerHTML = '<div class="card-cream" style="text-align:center;color:var(--muted-soft);padding:32px;">Could not load nutrition data.</div>';
+    targetEl.innerHTML = '';
+  }
+}
+
+function toggleFoodDay(header) {
+  header.classList.toggle('open');
+  const items = header.nextElementSibling;
+  if (items) items.classList.toggle('open');
+}
+
+// ═══════════════════════════════════════════════════
 // VIEW SWITCHING
 // ═══════════════════════════════════════════════════
 
@@ -1831,6 +2138,7 @@ function switchView(v) {
   if (v === 'hub') renderHub();
   if (v === 'session') renderSession();
   if (v === 'progress') renderProgress();
+  if (v === 'food') renderFood();
 
   document.getElementById('status-right').textContent =
     `Updated ${new Date().toLocaleTimeString('en-AU',{hour:'2-digit',minute:'2-digit'})}`;
@@ -1844,6 +2152,7 @@ async function refreshView() {
   if (active.id === 'view-hub') await renderHub();
   if (active.id === 'view-session') await renderSession();
   if (active.id === 'view-progress') await renderProgress();
+  if (active.id === 'view-food') await renderFood();
   document.getElementById('status-left').textContent = 'PT Amy · Systems Nominal';
   document.getElementById('status-right').textContent =
     `Refreshed ${new Date().toLocaleTimeString('en-AU',{hour:'2-digit',minute:'2-digit'})}`;
