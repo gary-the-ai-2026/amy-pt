@@ -2177,11 +2177,11 @@ async function renderFood() {
       const lines = sec.split('\n');
       const heading = lines[0].replace(/^### /, '');
 
-      const hMatch = heading.match(/^(.+?) — P:.*?(\d+)g.*?F:.*?(\d+)g/);
+      const hMatch = heading.match(/^(.+?)\s+[–—\-]\s+.*?P:.*?([\d.]+)g.*?F:.*?([\d.]+)g/);
       if (!hMatch) continue;
       const label = hMatch[1].trim();
-      const protein = parseInt(hMatch[2]);
-      const fibre = parseInt(hMatch[3]);
+      const protein = parseFloat(hMatch[2]);
+      const fibre = parseFloat(hMatch[3]);
 
       // Parse date for sorting
       const dt = parseFoodDate(heading);
