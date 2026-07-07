@@ -8,7 +8,7 @@
 **Medication:** Mounjaro 2.5mg weekly injections — commenced 2/7/26.
 **Ideal weight:** 65kg
 
-**Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk.
+**Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage).
 
 ---
 
@@ -37,7 +37,7 @@
 | Kiwi (with skin) | ~0.5g | ~2g | |
 | Tea | ~0.5g | — | |
 
-### Tuesday 7/7 — so far P: ~19.5g · F: ~9g
+### Tuesday 7/7 — so far P: ~29.5g · F: ~10g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -47,4 +47,5 @@
 | Medjool date + ½ tsp PB + hemp seeds | ~3g | ~2.5g | |
 | Tea | ~0.5g | — | |
 | Coffee + Bonsoy milk | ~2.5g | — | |
+| Peppercorn chicken sausage ×1 | ~10g | ~1.5g | |
 
