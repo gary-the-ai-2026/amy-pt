@@ -17,6 +17,7 @@
 | Date | Weight | Notes |
 |---|---|---|
 | 18/6/26 | 69.5kg | Pre-Mounjaro baseline |
+| ~16/7/26 | — | Next weigh-in (2 weeks on Mounjaro) |
 
 ---
 
