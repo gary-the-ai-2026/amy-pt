@@ -48,7 +48,7 @@
 | Kiwi (with skin) | ~0.5g | ~2g | |
 | Tea | ~0.5g | — | |
 
-### Tuesday 7/7 — P: ~96g · F: ~19g (74% protein, 68% fibre)
+### Tuesday 7/7 — P: ~99g · F: ~22g (76% protein, 79% fibre)
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -66,4 +66,6 @@
 | Roast potato, small | ~2g | ~2g | |
 | Spinach + fetta | ~5g | ~1g | |
 | Chicken breast (~⅙ chicken) | ~20g | — | |
+| Mixed fruit, small bowl | ~1g | ~3g | |
+| Vanilla yoghurt, 2 tbsp | ~2g | — | |
 
