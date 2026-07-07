@@ -1,14 +1,14 @@
 ---
 name: bodyweight-tracking
-updated: 2026-05-27
+updated: 2026-07-07
 ---
 
 # Bodyweight Log
 
 | Date | Weight (kg) | Notes |
 |---|---|---|
-| 2026-05-27 | — | Initial — log first weigh-in |
-| 2026-06-14 | 75.55 | — |
+| 2026-06-18 | 69.50 | Initial weigh-in |
+| 2026-07-02 | — | Started Mounjaro 2.5mg weekly injections |
 
 ## Target
 

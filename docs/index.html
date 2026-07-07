@@ -1930,7 +1930,7 @@ async function renderBodyweightChart() {
           },
           y: {
             grid: { color: '#e6dfd8' },
-            ticks: { color: '#8e8b82', font: { size: 9, family: 'JetBrains Mono' } },
+            ticks: { color: '#8e8b82', font: { size: 9, family: 'JetBrains Mono' }, callback: v => v.toFixed(2) },
             border: { display: false },
             title: { display: true, text: 'kg', color: '#8e8b82', font: { size: 9, family: 'Inter, sans-serif' } }
           },
