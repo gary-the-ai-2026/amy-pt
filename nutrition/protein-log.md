@@ -28,6 +28,7 @@
 | Date | Type | Notes |
 |---|---|---|
 | 7/7/26 | 3 | Normal |
+| 8/7/26 | 2 | Constipated side — GLP-1 SE watch |
 
 ---
 
