@@ -10,6 +10,8 @@
 
 **Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage).
 
+**Bristol Stool Chart:** 1–2 = constipated · 3–4 = normal · 5–7 = loose/diarrhoea
+
 ---
 
 ## Weight Log
@@ -18,6 +20,14 @@
 |---|---|---|
 | 18/6/26 | 69.5kg | Pre-Mounjaro baseline |
 | ~16/7/26 | — | Next weigh-in (2 weeks on Mounjaro) |
+
+---
+
+## Bowel Log (Bristol Scale)
+
+| Date | Type | Notes |
+|---|---|---|
+| 7/7/26 | 3 | Normal |
 
 ---
 
