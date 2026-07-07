@@ -48,7 +48,7 @@
 | Kiwi (with skin) | ~0.5g | ~2g | |
 | Tea | ~0.5g | — | |
 
-### Tuesday 7/7 — so far P: ~70g · F: ~16g
+### Tuesday 7/7 — P: ~96g · F: ~19g (74% protein, 68% fibre)
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -63,4 +63,7 @@
 | Chicken onigiri | ~11g | ~1.5g | |
 | Mixed nuts, 30g | ~6g | ~2g | |
 | Pear, 3 slices | ~0.5g | ~2.5g | |
+| Roast potato, small | ~2g | ~2g | |
+| Spinach + fetta | ~5g | ~1g | |
+| Chicken breast (~⅙ chicken) | ~20g | — | |
 
