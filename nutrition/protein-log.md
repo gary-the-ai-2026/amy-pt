@@ -70,9 +70,11 @@
 | Mixed fruit, small bowl | ~1g | ~3g | |
 | Vanilla yoghurt, 2 tbsp | ~2g | — | |
 
-### Wednesday 8/7 — P: ~35g · F: ~5g
+### Wednesday 8/7 — P: ~43g · F: ~6g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
 | Protein pancakes (¾ batch) | ~35g | ~5g | Reneelynch_naturopath recipe — eggs, banana, True Protein French Vanilla, buckwheat flour, yoghurt + berries |
+| Greek yoghurt, 5 tbsp | ~7g | — | Subbed for Chobani low-fat |
+| Kiwi, skin off | ~0.5g | ~1g | |
 
