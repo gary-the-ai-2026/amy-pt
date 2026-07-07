@@ -38,7 +38,7 @@
 | Kiwi (with skin) | ~0.5g | ~2g | |
 | Tea | ~0.5g | — | |
 
-### Tuesday 7/7 — so far P: ~29.5g · F: ~10g
+### Tuesday 7/7 — so far P: ~52.5g · F: ~10g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -49,4 +49,5 @@
 | Tea | ~0.5g | — | |
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Peppercorn chicken sausage ×1 | ~10g | ~1.5g | |
+| Chief whey + water | 23g | — | |
 
