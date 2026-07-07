@@ -38,7 +38,7 @@
 | Kiwi (with skin) | ~0.5g | ~2g | |
 | Tea | ~0.5g | — | |
 
-### Tuesday 7/7 — so far P: ~52.5g · F: ~10g
+### Tuesday 7/7 — so far P: ~70g · F: ~16g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -50,4 +50,7 @@
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Peppercorn chicken sausage ×1 | ~10g | ~1.5g | |
 | Chief whey + water | 23g | — | |
+| Chicken onigiri | ~11g | ~1.5g | |
+| Mixed nuts, 30g | ~6g | ~2g | |
+| Pear, 3 slices | ~0.5g | ~2.5g | |
 
