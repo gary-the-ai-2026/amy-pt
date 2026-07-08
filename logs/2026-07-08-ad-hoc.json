@@ -1,0 +1,109 @@
+{
+  "session_id": "2026-07-08-ad-hoc",
+  "date": "2026-07-08",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "gym",
+  "progression_skipped": true,
+  "cycle": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "DB Lunges",
+      "target_sets": 3,
+      "target_reps": "10–12",
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 10, "notes": "per arm, per leg"},
+        {"set": 2, "weight_kg": 14, "reps": 10, "notes": "per arm, per leg"},
+        {"set": 3, "weight_kg": 16, "reps": 12, "notes": "per arm, per leg"}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Lateral Raise (Smith Machine)",
+      "target_sets": 3,
+      "target_reps": "10",
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 10, "notes": "per arm"},
+        {"set": 2, "weight_kg": 5, "reps": 10, "notes": "per arm"},
+        {"set": 3, "weight_kg": 5, "reps": 10, "notes": "per arm"}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Calf Raise (Single Leg)",
+      "target_sets": 1,
+      "target_reps": "10",
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 10, "notes": "per leg"}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Calf Raise (Double Leg)",
+      "target_sets": 2,
+      "target_reps": "20",
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 20},
+        {"set": 2, "weight_kg": 16, "reps": 20}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Tricep Dips (Straight Legs)",
+      "target_sets": 3,
+      "target_reps": "10",
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 10, "notes": "bodyweight"},
+        {"set": 2, "weight_kg": 0, "reps": 10, "notes": "bodyweight"},
+        {"set": 3, "weight_kg": 0, "reps": 10, "notes": "bodyweight"}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Leg Extension",
+      "target_sets": 3,
+      "target_reps": "9–10",
+      "sets": [
+        {"set": 1, "weight_kg": 35, "reps": 10},
+        {"set": 2, "weight_kg": 40, "reps": 10},
+        {"set": 3, "weight_kg": 45, "reps": 9}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Single Leg RDL (Balance)",
+      "target_sets": 3,
+      "target_reps": "10",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10, "notes": "per leg, 1 arm"},
+        {"set": 2, "weight_kg": 10, "reps": 10, "notes": "per leg, 1 arm"},
+        {"set": 3, "weight_kg": 10, "reps": 10, "notes": "per leg, 1 arm"}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Lateral Side Bend",
+      "target_sets": 3,
+      "target_reps": "10",
+      "sets": [
+        {"set": 1, "weight_kg": 14, "reps": 10, "notes": "per side"},
+        {"set": 2, "weight_kg": 16, "reps": 10, "notes": "per side"},
+        {"set": 3, "weight_kg": 16, "reps": 10, "notes": "per side"}
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Overhead Tricep Extension (Back on Bench)",
+      "target_sets": 3,
+      "target_reps": "10–12",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10},
+        {"set": 2, "weight_kg": 10, "reps": 10},
+        {"set": 3, "weight_kg": 10, "reps": 12}
+      ]
+    }
+  ],
+  "notes": "Extra tricep exercise (similar to dips) — not logged. Gym session, not home C10."
+}

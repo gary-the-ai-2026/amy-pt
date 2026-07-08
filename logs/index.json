@@ -119,5 +119,16 @@
     "duration_min": null,
     "exercise_count": 8,
     "completed_count": 8
+  },
+  {
+    "name": "2026-07-08-ad-hoc.json",
+    "date": "2026-07-08",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 9,
+    "completed_count": 9
   }
 ]
