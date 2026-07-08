@@ -70,7 +70,7 @@
 | Mixed fruit, small bowl | ~1g | ~3g | |
 | Vanilla yoghurt, 2 tbsp | ~2g | — | |
 
-### Wednesday 8/7 — P: ~91g · F: ~12g
+### Wednesday 8/7 — P: ~84g · F: ~6g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -78,5 +78,5 @@
 | Greek yoghurt, 5 tbsp | ~7g | — | Subbed for Chobani low-fat |
 | Kiwi, skin off | ~0.5g | ~1g | |
 | Coffee + Bonsoy milk | ~2.5g | — | |
-| Sweet & Sour Turkey Burgers ×2 | ~46g | ~6g | Inghams turkey (23.4g P/100g), GF buns, sweet chilli + mayo, salad |
+| Turkey patties ×2 | ~39g | — | Inghams 23.4g P/100g, 500g÷6 patties |
 
