@@ -12,7 +12,7 @@
       "num": 1,
       "name": "DB Lunges",
       "target_sets": 3,
-      "target_reps": "10–12",
+      "target_reps": "10",
       "sets": [
         {"set": 1, "weight_kg": 12, "reps": 10, "notes": "per arm, per leg"},
         {"set": 2, "weight_kg": 14, "reps": 10, "notes": "per arm, per leg"},
@@ -32,25 +32,17 @@
     },
     {
       "num": 3,
-      "name": "Calf Raise (Single Leg)",
-      "target_sets": 1,
-      "target_reps": "10",
+      "name": "Calf Raise",
+      "target_sets": 3,
+      "target_reps": "10–20",
       "sets": [
-        {"set": 1, "weight_kg": 12, "reps": 10, "notes": "per leg"}
+        {"set": 1, "weight_kg": 12, "reps": 10, "notes": "single leg, per leg"},
+        {"set": 2, "weight_kg": 16, "reps": 20, "notes": "double leg"},
+        {"set": 3, "weight_kg": 16, "reps": 20, "notes": "double leg"}
       ]
     },
     {
       "num": 4,
-      "name": "Calf Raise (Double Leg)",
-      "target_sets": 2,
-      "target_reps": "20",
-      "sets": [
-        {"set": 1, "weight_kg": 16, "reps": 20},
-        {"set": 2, "weight_kg": 16, "reps": 20}
-      ]
-    },
-    {
-      "num": 5,
       "name": "Tricep Dips (Straight Legs)",
       "target_sets": 3,
       "target_reps": "10",
@@ -61,7 +53,7 @@
       ]
     },
     {
-      "num": 6,
+      "num": 5,
       "name": "Leg Extension",
       "target_sets": 3,
       "target_reps": "9–10",
@@ -72,7 +64,7 @@
       ]
     },
     {
-      "num": 7,
+      "num": 6,
       "name": "Crab Walks (Blue Band)",
       "target_sets": 3,
       "target_reps": "30 steps",
@@ -83,7 +75,7 @@
       ]
     },
     {
-      "num": 8,
+      "num": 7,
       "name": "Single Leg RDL (Balance)",
       "target_sets": 3,
       "target_reps": "10",
@@ -94,7 +86,7 @@
       ]
     },
     {
-      "num": 9,
+      "num": 8,
       "name": "Lateral Side Bend",
       "target_sets": 3,
       "target_reps": "10",
@@ -105,7 +97,7 @@
       ]
     },
     {
-      "num": 10,
+      "num": 9,
       "name": "Overhead Tricep Extension (Back on Bench)",
       "target_sets": 3,
       "target_reps": "10–12",
