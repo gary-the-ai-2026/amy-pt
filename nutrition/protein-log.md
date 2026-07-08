@@ -71,7 +71,7 @@
 | Mixed fruit, small bowl | ~1g | ~3g | |
 | Vanilla yoghurt, 2 tbsp | ~2g | — | |
 
-### Wednesday 8/7 — P: ~106g · F: ~11g
+### Wednesday 8/7 — P: ~109g · F: ~11g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -84,4 +84,5 @@
 | Popcorn | ~1g | ~1g | |
 | Mixed salted nuts, handful | ~6g | ~2g | |
 | Pink Lady apple, small | — | ~2g | |
+| Five:AM vanilla yoghurt, small bowl | ~3g | — | |
 
