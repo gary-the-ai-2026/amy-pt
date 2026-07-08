@@ -2256,6 +2256,7 @@ let foodChartData = [];       // all parsed days (chronological order)
 let foodChartPageIdx = 0;     // current 30-day window offset
 const FOOD_CHART_WINDOW = 30;
 let foodChartInst = null;
+let bowelChartInst = null;
 
 // Parse "D/M" from a heading like "Monday 6/7 — P: ~84g"
 function parseFoodDate(heading) {
@@ -2416,6 +2417,9 @@ async function renderFood() {
     // ── Chart ──
     renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh);
 
+    // ── Bowel chart ──
+    renderBowelChart(md);
+
   } catch (e) {
     daysEl.innerHTML = '<div class="card-cream" style="text-align:center;color:var(--muted-soft);padding:32px;">Could not load nutrition data.</div>';
     targetEl.innerHTML = '';
@@ -2531,6 +2535,143 @@ function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
           border: { display: false },
           beginAtZero: true,
           title: { display: true, text: 'grams', color: '#8e8b82', font: { size: 9, family: 'Inter, sans-serif' } }
+        },
+      },
+      interaction: { intersect: false, mode: 'index' }
+    }
+  });
+}
+
+function renderBowelChart(md) {
+  const canvas = document.getElementById('chart-bowel');
+  const legendEl = document.getElementById('bowel-legend');
+  if (!canvas || !legendEl) return;
+
+  // Parse bowel log section
+  const bowelSection = md.match(/## Bowel Log[\s\S]*?(?=\n## |\n---|\n$)/);
+  if (!bowelSection) {
+    canvas.style.display = 'none';
+    legendEl.innerHTML = '';
+    return;
+  }
+
+  const tables = parseMDTable(bowelSection[0]);
+  const entries = [];
+  for (const t of tables) {
+    for (const row of t.rows) {
+      if (row[0] === 'Date' || !row[0]) continue;
+      const datePart = row[0].trim(); // e.g., "7/7/26" or "8/7/26"
+      const type = parseInt(row[1]);
+      if (isNaN(type) || type < 1 || type > 7) continue;
+      // Parse date — D/M/YY or D/M format
+      const parts = datePart.split('/');
+      if (parts.length < 2) continue;
+      const day = parseInt(parts[0]);
+      const month = parseInt(parts[1]) - 1; // 0-indexed
+      const year = parts[2] ? 2000 + parseInt(parts[2]) : new Date().getFullYear();
+      const dt = new Date(Date.UTC(year, month, day));
+      if (isNaN(dt.getTime())) continue;
+      const dateStr = `${String(dt.getUTCDate()).padStart(2,'0')}/${String(dt.getUTCMonth()+1).padStart(2,'0')}`;
+      const label = row[2] || '';
+      entries.push({ dateStr, type, label, ts: dt.getTime() });
+    }
+  }
+
+  if (!entries.length) {
+    canvas.style.display = 'none';
+    legendEl.innerHTML = '<span style="color:var(--muted-soft);">No bowel data yet.</span>';
+    return;
+  }
+
+  canvas.style.display = '';
+  entries.sort((a, b) => a.ts - b.ts);
+
+  // Legend
+  const types = [
+    { t: '1–2', label: 'Constipated', color: '#e8a55a' },
+    { t: '3–4', label: 'Normal', color: '#5db872' },
+    { t: '5–7', label: 'Loose', color: '#c64545' },
+  ];
+  legendEl.innerHTML = types.map(tp =>
+    `<span class="bl-item"><span class="bl-zone" style="background:${tp.color}"></span>Type ${tp.t}: ${tp.label}</span>`
+  ).join('');
+
+  const labels = entries.map(e => e.dateStr);
+  const values = entries.map(e => e.type);
+
+  if (bowelChartInst) bowelChartInst.destroy();
+
+  const ctx = canvas.getContext('2d');
+  bowelChartInst = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [
+        {
+          label: 'Bristol Type',
+          data: values,
+          borderColor: '#5db8a6',
+          backgroundColor: '#5db8a6',
+          pointBackgroundColor: values.map(v =>
+            v >= 3 && v <= 4 ? '#5db872' : (v <= 2 ? '#e8a55a' : '#c64545')
+          ),
+          pointRadius: 6,
+          pointHoverRadius: 8,
+          borderWidth: 2,
+          tension: 0.2,
+          spanGaps: true,
+        },
+        {
+          label: 'Normal range (3–4)',
+          data: Array(labels.length).fill(3),
+          type: 'line',
+          borderColor: '#5db87244',
+          backgroundColor: 'transparent',
+          borderWidth: 8,
+          pointRadius: 0,
+          fill: false,
+          spanGaps: true,
+        },
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: {
+            usePointStyle: true, boxWidth: 8, boxHeight: 8, padding: 16,
+            font: { size: 11, family: 'Inter, sans-serif' },
+            color: '#6c6a64',
+            filter: item => item.datasetIndex === 0,
+          }
+        },
+        tooltip: {
+          callbacks: {
+            label: ctx => {
+              const e = entries[ctx.dataIndex];
+              return e ? `Type ${e.type}${e.label ? ' — ' + e.label : ''}` : '';
+            }
+          }
+        }
+      },
+      scales: {
+        x: {
+          grid: { color: '#e6dfd8' },
+          ticks: { color: '#8e8b82', font: { size: 9, family: 'JetBrains Mono' }, maxRotation: 0, maxTicksLimit: 14 },
+          border: { display: false }
+        },
+        y: {
+          min: 0.5, max: 7.5,
+          grid: { color: '#e6dfd8' },
+          ticks: {
+            stepSize: 1,
+            color: '#8e8b82',
+            font: { size: 9, family: 'JetBrains Mono' },
+            callback: v => v >= 1 && v <= 7 ? v : '',
+          },
+          border: { display: false },
+          title: { display: true, text: 'Bristol Type', color: '#8e8b82', font: { size: 9, family: 'Inter, sans-serif' } }
         },
       },
       interaction: { intersect: false, mode: 'index' }
