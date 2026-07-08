@@ -70,7 +70,7 @@
 | Mixed fruit, small bowl | ~1g | ~3g | |
 | Vanilla yoghurt, 2 tbsp | ~2g | — | |
 
-### Wednesday 8/7 — P: ~76g · F: ~6g
+### Wednesday 8/7 — P: ~106g · F: ~9g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -79,4 +79,7 @@
 | Kiwi, skin off | ~0.5g | ~1g | |
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Turkey patties ×2 | ~31g | — | Inghams 23.4g P/100g, 400g÷6 patties |
+| Chief whey, 1 scoop | 23g | — | |
+| Popcorn | ~1g | ~1g | |
+| Mixed salted nuts, handful | ~6g | ~2g | |
 
