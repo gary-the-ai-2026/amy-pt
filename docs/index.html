@@ -1608,7 +1608,7 @@ function estDuration(exs) {
 
 async function getBest1RM(name) {
   let best = null;
-  for (const log of allLogs.slice(0,30)) {
+  for (const log of [...allLogs].sort((a,b) => b._index.date.localeCompare(a._index.date)).slice(0,30)) {
     try {
       const c = await fetchJSON(log.download_url);
       if (!c || !c.exercises) continue;
@@ -1758,7 +1758,7 @@ async function renderHistory() {
   const BADGES = { 'day-a': 'badge-day-a', 'day-b': 'badge-day-b', 'day-c': 'badge-day-c', 'day-d': 'badge-day-d' };
   const NAMES = { 'day-a': 'Squat + Push', 'day-b': 'Hinge + Pull', 'day-c': 'Deadlift + Body', 'day-d': 'Conditioning' };
 
-  const recent = allLogs.slice(0, 10);
+  const recent = [...allLogs].sort((a,b) => b._index.date.localeCompare(a._index.date)).slice(0, 15);
   const cards = [];
 
   for (const log of recent) {
