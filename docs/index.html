@@ -439,15 +439,15 @@
   }
   .history-card { cursor: pointer; }
   .history-detail .ex-row {
-    display: flex; justify-content: space-between; align-items: baseline;
-    padding: 4px 0; font-size: 12px;
+    display: flex; justify-content: space-between; align-items: flex-start;
+    padding: 4px 0; font-size: 12px; gap: 8px;
   }
   .history-detail .ex-row .ex-name {
     font-family: var(--font-body); color: var(--ink); font-weight: 500;
   }
   .history-detail .ex-row .ex-log {
     font-family: var(--font-mono); font-size: 11px; color: var(--muted);
-    text-align: right; white-space: nowrap;
+    text-align: right; line-height: 1.6;
   }
   .history-detail .ex-row.skipped .ex-name { color: var(--muted-soft); }
   .history-detail .ex-row.skipped .ex-log { color: var(--muted-soft); font-style: italic; }
@@ -963,6 +963,23 @@
     font-family: var(--font-mono); font-size: 11px;
     color: var(--muted); font-variant-numeric: tabular-nums;
   }
+
+  /* ── Bowel Bristol legend ── */
+  .bowel-legend {
+    display: flex; flex-wrap: wrap; gap: 8px 16px;
+    justify-content: center;
+    font-family: var(--font-body); font-size: 11px;
+    color: var(--muted);
+  }
+  .bowel-legend .bl-item {
+    display: flex; align-items: center; gap: 5px;
+  }
+  .bowel-legend .bl-dot {
+    width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0;
+  }
+  .bowel-legend .bl-zone {
+    width: 16px; height: 4px; border-radius: 2px; flex-shrink: 0;
+  }
 </style>
 </head>
 <body>
@@ -1173,6 +1190,12 @@
     </div>
     <div class="card-cream chart-card">
       <div class="chart-wrap" style="height:280px;"><canvas id="chart-nutrition"></canvas></div>
+    </div>
+
+    <div class="section-label">Bowel Movements — Bristol Scale</div>
+    <div class="card-cream chart-card" style="margin-bottom:var(--space-xl);">
+      <div class="chart-wrap" style="height:260px;"><canvas id="chart-bowel"></canvas></div>
+      <div class="bowel-legend" id="bowel-legend" style="margin-top:12px;"></div>
     </div>
 
     <div class="section-label">Daily Log</div>
@@ -1746,7 +1769,7 @@ async function renderHistory() {
       // Build exercise detail rows
       const exRows = raw.exercises.map(e => {
         const logText = e.skipped ? 'Skipped'
-          : (e.sets && e.sets.length ? e.sets.map(s => `${s.weight_kg}kg × ${s.reps}`).join(' · ') : '—');
+          : (e.sets && e.sets.length ? e.sets.map(s => `${s.weight_kg}kg × ${s.reps}`).join('<br>') : '—');
         return `<div class="ex-row${e.skipped?' skipped':''}"><span class="ex-name">${e.name}</span><span class="ex-log">${logText}</span></div>`;
       }).join('');
 
@@ -1824,7 +1847,7 @@ async function renderSession() {
   document.getElementById('proto-body').innerHTML = exs.map((e,i) => {
     const l = live[e.name];
     const isSkipped = l === '__skipped__';
-    const logText = isSkipped ? 'Skipped' : (l ? l.map(s => `${s.weight}kg × ${s.reps}`).join(' · ') : '—');
+    const logText = isSkipped ? 'Skipped' : (l ? l.map(s => `${s.weight}kg × ${s.reps}`).join('<br>') : '—');
     const isDone = isSkipped || (l && l.length >= parseInt(e.sets?.split('×')[0]||3));
     const cls = i===activeIdx ? 'current' : (isDone ? 'done' : '');
     const yt = youtubeShorts[e.name];
