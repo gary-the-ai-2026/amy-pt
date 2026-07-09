@@ -8,7 +8,7 @@
 **Medication:** Mounjaro 2.5mg weekly injections — commenced 2/7/26.
 **Ideal weight:** 65kg
 
-**Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage).
+**Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage). Herman Brot Low Carb bread = 11.8g protein per slice.
 
 **Bristol Stool Chart:** 1–2 = constipated · 3–4 = normal · 5–7 = loose/diarrhoea
 
@@ -29,7 +29,8 @@
 |---|---|---|
 | 7/7/26 | 3 | Normal |
 | 8/7/26 | 2 | Constipated side — GLP-1 SE watch |
-| 8/7/26 | 4 | Normal (afternoon) |
+|| 8/7/26 | 4 | Normal (afternoon) |
+|| 9/7/26 | 3 | Normal |
 
 ---
 
@@ -84,5 +85,25 @@
 | Popcorn | ~1g | ~1g | |
 | Mixed salted nuts, handful | ~6g | ~2g | |
 | Pink Lady apple, small | — | ~2g | |
-| Five:AM vanilla yoghurt, small bowl | ~3g | — | |
+|| Five:AM vanilla yoghurt, small bowl | ~3g | — | |
+
+### Thursday 9/7 — P: ~105g · F: ~24g
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+| Kiwi (half skin on) | ~0.5g | ~2g | |
+| Herman Brot Low Carb bread (1 slice, toasted) | ~11.8g | ~5g | |
+| 3 eggs | ~18g | — | |
+| Coffee + Bonsoy milk | ~2.5g | — | |
+| Chia pudding + raspberries + chocolate | ~8g | ~12.6g | Reneelynch_naturopath recipe — 2.5 Tbsp chia, almond milk, maple, cacao, 50g raspberries, grated chocolate |
+| 2 burritos (chicken thigh, cheddar, cabbage, capsicum, cucumber) | ~46g | ~4g | 1.5 chicken thighs, grated cheddar, handful red cabbage, ¼ capsicum, cucumber |
+| Chief whey + water (¾ scoop) | ~17g | — | |
+
+### Friday 10/7
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| Chia pudding + PB + banana | ~12g | ~10g | Reneelynch_naturopath base (2.5 Tbsp chia, almond milk, maple, cacao), 1 Tbsp peanut butter, 4 banana slices |
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 
