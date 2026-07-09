@@ -104,6 +104,6 @@
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
-| Chia pudding + almond butter + banana | ~11g | ~11g | Reneelynch_naturopath base (2.5 Tbsp chia, almond milk, maple, cacao), 1 Tbsp almond butter, 4 banana slices |
+| Chia + oats + almond butter + banana | ~15g | ~12g | Oats, chia seeds, lactose-free milk base. 1 Tbsp almond butter, 4 banana slices |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 
