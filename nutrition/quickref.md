@@ -42,6 +42,7 @@ Amy tells me what she ate. I don't guess. Confirm: pack sizes, portion amounts, 
 | Peppercorn Chicken Sausage | ~9.9g | ~1.3g | 1 sausage |
 | Medjool date | ~0.5g | ~1.6g | 1 date |
 | Kiwi (with skin) | ~0.5g | ~2g | 1 fruit |
+| Oats + chia breakfast bowl | ~14g | ~8g | 1 portion (¼ batch: ½c oats, ¼c milk, ¾T chia, ¼t flax, ¼ yolk, ¼t hemp + ¼ banana, 1T almond butter, 1T maple) |
 
 ## Portion Prompts
 
