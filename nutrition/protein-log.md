@@ -104,6 +104,6 @@
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
-| Oats + chia breakfast bowl | ~14g | ~8g | Per portion (¼ batch): ½ cup oats, ¼ cup lactose-free milk, ¾ Tbsp chia, ¼ tsp flaxseed, ¼ egg yolk, ¼ tsp hemp seeds. Topped with ¼ banana, 1 Tbsp almond butter, 1 Tbsp maple syrup |
+| Porridge | ~14g | ~8g | Per portion (¼ batch): ½ cup oats, ¼ cup lactose-free milk, ¾ Tbsp chia, ¼ tsp flaxseed, ¼ egg yolk, ¼ tsp hemp seeds. Topped with ¼ banana, 1 Tbsp almond butter, 1 Tbsp maple syrup |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 
