@@ -113,4 +113,5 @@
 | Tea | ~0.5g | — | |
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Chief whey + water | 23g | — | 1 scoop |
+| Kiwi (half skin on) | ~0.5g | ~2g | |
 
