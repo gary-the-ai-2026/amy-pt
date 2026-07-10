@@ -107,4 +107,9 @@
 |---|---|---|---|
 | Porridge | ~14g | ~8g | Per portion (¼ batch): ½ cup oats, ¼ cup lactose-free milk, ¾ Tbsp chia, ¼ tsp flaxseed, ¼ egg yolk, ¼ tsp hemp seeds. Topped with ¼ banana, 1 Tbsp almond butter, 1 Tbsp maple syrup |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+| Turkey burgers ×2 | ~31g | — | Inghams (23.4g P/100g, 400g÷6 patties) |
+| Red capsicum, ½ | ~0.5g | ~1g | |
+| Tea | ~0.5g | — | |
+| Coffee + Bonsoy milk | ~2.5g | — | |
+| Chief whey + water | 23g | — | 1 scoop |
 
