@@ -32,6 +32,7 @@
 || 8/7/26 | 4 | Normal (afternoon) |
 || 9/7/26 | 3 | Normal |
 || 10/7/26 | 3 | Normal |
+|| 10/7/26 | 3 | Normal (afternoon) |
 
 ---
 
