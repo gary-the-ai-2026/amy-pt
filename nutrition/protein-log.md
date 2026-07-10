@@ -114,6 +114,6 @@
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Chief whey + water | 23g | — | 1 scoop |
 | Kiwi (half skin on) | ~0.5g | ~2g | |
-| Biltong | ~20g | — | |
+| Biltong | ~15g | — | Per label |
 | Apple, ½ | ~0.2g | ~1g | |
 
