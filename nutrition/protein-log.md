@@ -34,6 +34,7 @@
 || 10/7/26 | 3 | Normal |
 || 10/7/26 | 3 | Normal (afternoon) |
 || 11/7/26 | — | None |
+| 12/7/26 | 4–5 | Between normal and loose |
 
 ---
 
