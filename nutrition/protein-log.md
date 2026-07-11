@@ -117,7 +117,7 @@
 | Biltong | ~15g | — | Per label |
 || Apple, ½ | ~0.2g | ~1g | |
 
-### Saturday 11/7 — P: ~75g · F: ~10g
+### Saturday 11/7 — P: ~111g · F: ~12g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -125,5 +125,6 @@
 | Chief whey + water | 24g | — | 1 scoop |
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Chicken schnitzel wrap (small) | ~22g | ~3g | With grated carrot + tomato |
-| Haighs chocolate (handful) | ~2g | ~1g | Rough estimate — let me know variety if you want it tighter |
+| Haighs milk chocolate (handful) | ~2g | ~1g | |
+| Green chicken curry | ~36g | ~2g | ~1.5 chicken thighs + veg — no rice assumed |
 
