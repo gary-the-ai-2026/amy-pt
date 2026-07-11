@@ -130,3 +130,9 @@
 | Green chicken curry | ~36g | ~2g | ~1.5 chicken thighs + veg — no rice assumed |
 | Kiwi (half skin on) | ~0.5g | ~2g | |
 
+### Sunday 12/7
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+
