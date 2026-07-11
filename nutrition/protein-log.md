@@ -117,7 +117,7 @@
 | Biltong | ~15g | — | Per label |
 || Apple, ½ | ~0.2g | ~1g | |
 
-### Saturday 11/7 — P: ~111g · F: ~12g
+### Saturday 11/7 — P: ~112g · F: ~14g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -127,4 +127,5 @@
 | Chicken schnitzel wrap (small) | ~22g | ~3g | With grated carrot + tomato |
 | Haighs milk chocolate (handful) | ~2g | ~1g | |
 | Green chicken curry | ~36g | ~2g | ~1.5 chicken thighs + veg — no rice assumed |
+| Kiwi (half skin on) | ~0.5g | ~2g | |
 
