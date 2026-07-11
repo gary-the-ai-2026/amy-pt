@@ -137,7 +137,6 @@
 |---|---|---|---|
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | 2 oat crepes + whey | ~24g | ~6g | Boob to Food recipe (6/batch) + psyllium husk, egg white, Chief whey in batter. Topped w/ 2 tbsp Greek yoghurt + 2 tbsp raspberries |
-| Chief whey + water | 24g | — | 1 scoop |
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Kiwi (half skin on) | ~0.5g | ~2g | |
 
