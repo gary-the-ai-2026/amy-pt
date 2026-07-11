@@ -58,5 +58,21 @@
       ]
     }
   ],
-  "notes": "First logged external class. Bench pyramid 30→40→37.5, hit 40kg×4 then backed off. KB lunges 12→16kg progression across rounds. SL RDL built to 15kg. Lateral raise consistent 5kg×9×3 — only 3 sets (vs 4 rounds), may have run short on time."
+  "notes": "First logged external class. Bench pyramid 30→40→37.5, hit 40kg×4 then backed off. KB lunges 12→16kg progression across rounds. SL RDL built to 15kg. Lateral raise 5kg×9×3 — only 3 sets, ran out of time.",
+  "conditioning": [
+    {
+      "type": "partner-rower",
+      "duration_min": 5,
+      "target": "1200m",
+      "rest": "30 sec",
+      "format": "Alternate rower with partner — off-rower does 20 squat pulses"
+    },
+    {
+      "type": "partner-ski-erg",
+      "duration_min": 5,
+      "target": "1000m",
+      "rest": null,
+      "format": "Alternate ski erg with partner — off-erg does 12 toe taps"
+    }
+  ]
 }
