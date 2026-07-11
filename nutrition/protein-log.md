@@ -8,7 +8,7 @@
 **Medication:** Mounjaro 2.5mg weekly injections — commenced 2/7/26.
 **Ideal weight:** 65kg
 
-**Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage). Herman Brot Low Carb bread = 11.8g protein per slice.
+**Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage). Herman Brot Low Carb bread = 11.8g protein per slice. Chief Whey = 24g protein per scoop.
 
 **Bristol Stool Chart:** 1–2 = constipated · 3–4 = normal · 5–7 = loose/diarrhoea
 
@@ -115,5 +115,11 @@
 | Chief whey + water | 23g | — | 1 scoop |
 | Kiwi (half skin on) | ~0.5g | ~2g | |
 | Biltong | ~15g | — | Per label |
-| Apple, ½ | ~0.2g | ~1g | |
+|| Apple, ½ | ~0.2g | ~1g | |
+
+### Saturday 11/7 — P: ~24g · F: ~6g
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| 2 oat crepes + whey | ~24g | ~6g | Boob to Food recipe (6/batch) + psyllium husk, egg white, Chief whey in batter. Topped w/ 2 tbsp Greek yoghurt + 2 tbsp raspberries |
 

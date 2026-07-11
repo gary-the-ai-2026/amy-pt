@@ -1,0 +1,62 @@
+{
+  "session_id": "2026-07-11-ivory-rose-strength",
+  "date": "2026-07-11",
+  "type": "strength-full-body",
+  "status": "complete",
+  "location": "Ivory Rose",
+  "format": "2 groups × 4 rounds, 14 min/group",
+  "duration_min": 28,
+  "exercises": [
+    {
+      "num": 1,
+      "group": "A",
+      "name": "BB Bench Press",
+      "target_reps": "8–10",
+      "sets": [
+        {"set": 1, "weight_kg": 30, "reps": 10},
+        {"set": 2, "weight_kg": 35, "reps": 8},
+        {"set": 3, "weight_kg": 40, "reps": 4},
+        {"set": 4, "weight_kg": 37.5, "reps": 6}
+      ]
+    },
+    {
+      "num": 2,
+      "group": "A",
+      "name": "KB Deficit 90/90 Lunge",
+      "target_reps": "6–8 ES",
+      "notes": "Front foot on plate",
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 12, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 4, "weight_kg": 16, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 3,
+      "group": "B",
+      "name": "SL RDL (1×DB)",
+      "target_reps": "8–10 ES",
+      "notes": "Back foot on box",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 12.5, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 12.5, "reps": 10, "side": "each"},
+        {"set": 4, "weight_kg": 15, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 4,
+      "group": "B",
+      "name": "Lateral Raise",
+      "target_reps": "10–12",
+      "notes": "5kg per arm",
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 9},
+        {"set": 2, "weight_kg": 5, "reps": 9},
+        {"set": 3, "weight_kg": 5, "reps": 9}
+      ]
+    }
+  ],
+  "notes": "First logged external class. Bench pyramid 30→40→37.5, hit 40kg×4 then backed off. KB lunges 12→16kg progression across rounds. SL RDL built to 15kg. Lateral raise consistent 5kg×9×3 — only 3 sets (vs 4 rounds), may have run short on time."
+}
