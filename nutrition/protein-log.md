@@ -117,11 +117,13 @@
 | Biltong | ~15g | — | Per label |
 || Apple, ½ | ~0.2g | ~1g | |
 
-### Saturday 11/7 — P: ~51g · F: ~6g
+### Saturday 11/7 — P: ~75g · F: ~10g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
 | 2 oat crepes + whey | ~24g | ~6g | Boob to Food recipe (6/batch) + psyllium husk, egg white, Chief whey in batter. Topped w/ 2 tbsp Greek yoghurt + 2 tbsp raspberries |
 | Chief whey + water | 24g | — | 1 scoop |
 | Coffee + Bonsoy milk | ~2.5g | — | |
+| Chicken schnitzel wrap (small) | ~22g | ~3g | With grated carrot + tomato |
+| Haighs chocolate (handful) | ~2g | ~1g | Rough estimate — let me know variety if you want it tighter |
 
