@@ -141,5 +141,5 @@
 | Kiwi (half skin on) | ~0.5g | ~2g | |
 | Turkey burgers ×2 | ~31g | — | Inghams (23.4g P/100g, 400g÷6 patties) |
 | Chief whey + water | 24g | — | 1 scoop |
-| Roast lamb dinner | ~52g | ~14g | 2 lamb chops (grilled, med-rare), roasted potatoes, broccolini, Brussels sprouts, cauliflower, red onion, sweet potato, carrot |
+| Roast lamb dinner | ~44g | ~14g | 2 lamb chops (grilled, med-rare, fat trimmed), roasted potatoes, broccolini, Brussels sprouts, cauliflower, red onion, sweet potato, carrot |
 
