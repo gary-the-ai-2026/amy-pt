@@ -139,4 +139,5 @@
 | 2 oat crepes + whey | ~24g | ~6g | Boob to Food recipe (6/batch) + psyllium husk, egg white, Chief whey in batter. Topped w/ 2 tbsp Greek yoghurt + 2 tbsp raspberries |
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Kiwi (half skin on) | ~0.5g | ~2g | |
+| Turkey burgers ×2 | ~31g | — | Inghams (23.4g P/100g, 400g÷6 patties) |
 
