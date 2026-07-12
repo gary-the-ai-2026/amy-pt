@@ -140,4 +140,5 @@
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Kiwi (half skin on) | ~0.5g | ~2g | |
 | Turkey burgers ×2 | ~31g | — | Inghams (23.4g P/100g, 400g÷6 patties) |
+| Chief whey + water | 24g | — | 1 scoop |
 

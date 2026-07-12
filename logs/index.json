@@ -130,5 +130,27 @@
     "duration_min": null,
     "exercise_count": 9,
     "completed_count": 9
+  },
+  {
+    "name": "2026-07-11-ivory-rose-strength.json",
+    "date": "2026-07-11",
+    "type": "strength-full-body",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": false,
+    "duration_min": 28,
+    "exercise_count": 4,
+    "completed_count": 4
+  },
+  {
+    "name": "2026-07-12-ad-hoc.json",
+    "date": "2026-07-12",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 9,
+    "completed_count": 9
   }
 ]

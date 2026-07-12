@@ -1,0 +1,94 @@
+{
+  "session_id": "2026-07-12-ad-hoc",
+  "date": "2026-07-12",
+  "type": "ad-hoc",
+  "status": "complete",
+  "started": "14:05",
+  "location": "home",
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Leg Curl",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10},
+        {"set": 2, "weight_kg": 12.5, "reps": 10},
+        {"set": 3, "weight_kg": 12.5, "reps": 10}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Easybar Cable Extension",
+      "sets": [
+        {"set": 1, "weight_kg": 14, "reps": 10},
+        {"set": 2, "weight_kg": 18, "reps": 4},
+        {"set": 3, "weight_kg": 18, "reps": 5}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Russian Twist (Legs in Air)",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 20},
+        {"set": 2, "weight_kg": 10, "reps": 20},
+        {"set": 3, "weight_kg": 10, "reps": 20}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Bicep Curl",
+      "notes": "Per arm",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 10, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 10, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Single Leg Hip Thrust (Bench)",
+      "notes": "Per leg",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 10, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 10, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Barbell Overhead Press",
+      "sets": [
+        {"set": 1, "weight_kg": 20, "reps": 10},
+        {"set": 2, "weight_kg": 20, "reps": 10},
+        {"set": 3, "weight_kg": 25, "reps": 7}
+      ],
+      "notes": "Failed on rep 8 of set 3 at 25kg"
+    },
+    {
+      "num": 7,
+      "name": "Barbell Squat",
+      "sets": [
+        {"set": 1, "weight_kg": 40, "reps": 10},
+        {"set": 2, "weight_kg": 40, "reps": 10}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Crab Walk (Blue Band)",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 20},
+        {"set": 2, "weight_kg": null, "reps": 30},
+        {"set": 3, "weight_kg": null, "reps": 30}
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Heel Touches",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 40},
+        {"set": 2, "weight_kg": null, "reps": 40},
+        {"set": 3, "weight_kg": null, "reps": 40}
+      ]
+    }
+  ],
+  "notes": "Solid full-body ad-hoc session. Leg curl building to 12.5kg. Cable extensions jumped to 18kg — low reps suggest near-max effort. OHP hit 25kg×7 (failed 8) — strong press. Squat 40kg solid. Core finisher with Russian twists (10kg plate, legs elevated), crab walks, and heel touches for high volume."
+}
