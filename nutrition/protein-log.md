@@ -163,4 +163,5 @@
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
 | 2 eggs on toast + 1 tbsp cottage cheese | ~26.3g | ~5g | 2 poached/soft-fried eggs on dark toast (assumed Herman Brot Low Carb, 1 slice). Runny yolks, black pepper |
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 
