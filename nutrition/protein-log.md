@@ -143,3 +143,12 @@
 | Chief whey + water | 24g | — | 1 scoop |
 | Roast lamb dinner | ~44g | ~14g | 2 lamb chops (grilled, med-rare, fat trimmed), roasted potatoes, broccolini, Brussels sprouts, cauliflower, red onion, sweet potato, carrot |
 
+### Monday 13/7 — P: ~72g · F: ~5g
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| 2 oat crepes + whey | ~18g | ~3g | Boob to Food recipe + Chief whey in batter. Topped w/ 2 tbsp Greek yoghurt, 2 tbsp raspberries, 1 tbsp maple syrup |
+| Coffee + Bonsoy milk | ~5.1g | — | |
+| 3 turkey burgers (Inghams) | ~47g | — | 23.4g P/100g, ~67g per patty |
+| ¼ red capsicum | ~0.3g | ~0.5g | |
+
