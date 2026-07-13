@@ -156,5 +156,11 @@
 | Chief whey + water | 24g | — | 1 scoop |
 | Lamb dinner | ~46g | ~13g | 2 grilled lamb chops, sweet potato, roasted potatoes, broccolini, Brussels sprouts, cauliflower, carrots |
 | Haighs peppermint bar | ~1g | ~0.5g | |
-| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+|| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+
+### Tuesday 14/7
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| 2 eggs on toast + 1 tbsp cottage cheese | ~26.3g | ~5g | 2 poached/soft-fried eggs on dark toast (assumed Herman Brot Low Carb, 1 slice). Runny yolks, black pepper |
 
