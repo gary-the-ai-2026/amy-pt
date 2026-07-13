@@ -143,7 +143,7 @@
 | Chief whey + water | 24g | — | 1 scoop |
 | Roast lamb dinner | ~44g | ~14g | 2 lamb chops (grilled, med-rare, fat trimmed), roasted potatoes, broccolini, Brussels sprouts, cauliflower, red onion, sweet potato, carrot |
 
-### Monday 13/7 — P: ~97g · F: ~7g
+### Monday 13/7 — P: ~143g · F: ~20g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -153,4 +153,5 @@
 | ¼ red capsicum | ~0.3g | ~0.5g | |
 | Medjool date + ½ tsp almond butter | ~1g | ~1.9g | |
 | Chief whey + water | 24g | — | 1 scoop |
+| Lamb dinner | ~46g | ~13g | 2 grilled lamb chops, sweet potato, roasted potatoes, broccolini, Brussels sprouts, cauliflower, carrots |
 
