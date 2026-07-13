@@ -1,0 +1,97 @@
+{
+  "session_id": "2026-07-14-ad-hoc",
+  "date": "2026-07-14",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "home",
+  "cycle": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Bent Over Row",
+      "notes": "Per arm",
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 18, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Calf Raises (Double Leg)",
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 24},
+        {"set": 2, "weight_kg": 16, "reps": 24},
+        {"set": 3, "weight_kg": 16, "reps": 24}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Lat Pulldown",
+      "sets": [
+        {"set": 1, "weight_kg": 23, "reps": 10},
+        {"set": 2, "weight_kg": 27, "reps": 10},
+        {"set": 3, "weight_kg": 32, "reps": 8}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Plank",
+      "notes": "Timed hold",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 45, "unit": "seconds"},
+        {"set": 2, "weight_kg": null, "reps": 45, "unit": "seconds"},
+        {"set": 3, "weight_kg": null, "reps": 45, "unit": "seconds"}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Barbell Deadlift",
+      "sets": [
+        {"set": 1, "weight_kg": 30, "reps": 10},
+        {"set": 2, "weight_kg": 50, "reps": 10},
+        {"set": 3, "weight_kg": 55, "reps": 8}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Tricep Overhead Bridge",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10},
+        {"set": 2, "weight_kg": 10, "reps": 10},
+        {"set": 3, "weight_kg": 12, "reps": 9}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Lateral Side Bend",
+      "notes": "Per side",
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 16, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Donkey Kicks (Blue Band)",
+      "notes": "Per leg",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 12, "side": "each", "equipment": "blue band"},
+        {"set": 2, "weight_kg": null, "reps": 12, "side": "each", "equipment": "blue band"},
+        {"set": 3, "weight_kg": null, "reps": 12, "side": "each", "equipment": "blue band"}
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Push Ups (On Knees)",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 12},
+        {"set": 2, "weight_kg": null, "reps": 12},
+        {"set": 3, "weight_kg": null, "reps": 12}
+      ]
+    }
+  ],
+  "notes": "Strong deadlift progression: 30→50→55kg. Lat pulldown building to 32kg top set. Bent over row hit 18kg per arm — significant load for single-arm rows. Calf raises at high volume (24 reps). Balanced push/pull/hinge/core session with banded glute work."
+}
