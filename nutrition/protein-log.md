@@ -143,7 +143,7 @@
 | Chief whey + water | 24g | — | 1 scoop |
 | Roast lamb dinner | ~44g | ~14g | 2 lamb chops (grilled, med-rare, fat trimmed), roasted potatoes, broccolini, Brussels sprouts, cauliflower, red onion, sweet potato, carrot |
 
-### Monday 13/7 — P: ~72g · F: ~5g
+### Monday 13/7 — P: ~97g · F: ~7g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -151,4 +151,6 @@
 | Coffee + Bonsoy milk | ~5.1g | — | |
 | 3 turkey burgers (Inghams) | ~47g | — | 23.4g P/100g, ~67g per patty |
 | ¼ red capsicum | ~0.3g | ~0.5g | |
+| Medjool date + ½ tsp almond butter | ~1g | ~1.9g | |
+| Chief whey + water | 24g | — | 1 scoop |
 
