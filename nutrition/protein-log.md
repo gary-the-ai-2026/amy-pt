@@ -170,4 +170,5 @@
 | Coffee + Bonsoy milk | ~5.1g | — | |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Tempura prawn sushi roll | ~10g | ~1g | |
+| Medjool date + ½ tsp almond butter | ~1.5g | ~2.1g | |
 
