@@ -168,4 +168,5 @@
 | Chief whey + water | 24g | — | 1 scoop |
 | Coffee + Bonsoy milk | ~5.1g | — | |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+| Tempura prawn sushi roll | ~10g | ~1g | |
 
