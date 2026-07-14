@@ -37,6 +37,7 @@
 | 12/7/26 | 4–5 | Between normal and loose |
 | 13/7/26 | — | None |
 | 14/7/26 | 1 | Constipated — GLP-1 SE watch |
+| 15/7/26 | 5 | Loose side — psyllium may help firm things up |
 
 ---
 
