@@ -166,4 +166,6 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi, ½ (skin off) | ~0.2g | ~1g | |
 | Chief whey + water | 24g | — | 1 scoop |
+| Coffee + Bonsoy milk | ~5.1g | — | |
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 
