@@ -159,6 +159,12 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 
+### Wednesday 15/7
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| 2 oat crepes + whey | ~27g | ~9g | Boob to Food recipe (6/batch) + 1 tbsp psyllium husk, 1 scoop Chief whey, 1 extra whole egg in batter. Topped w/ ½ cup raspberries, 2 tbsp Greek yoghurt, 1 tbsp maple syrup |
+
 ### Tuesday 14/7
 
 | Item | Protein | Fibre | Notes |
