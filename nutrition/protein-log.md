@@ -167,6 +167,7 @@
 | 2 oat crepes + whey | ~27g | ~9g | Boob to Food recipe (6/batch) + 1 tbsp psyllium husk, 1 scoop Chief whey, 1 extra whole egg in batter. Topped w/ ½ cup raspberries, 2 tbsp Greek yoghurt, 1 tbsp maple syrup |
 | 5 fresh oysters | ~7.5g | — | |
 | Coffee + Bonsoy milk | ~5.1g | — | |
+| Minestrone soup | ~22g | ~4g | Amy's estimate — beef/pork, beans, pasta, veg |
 
 ### Tuesday 14/7
 
