@@ -186,5 +186,11 @@
 | Tempura prawn sushi roll | ~10g | ~1g | |
 | Medjool date + ½ tsp almond butter | ~1.5g | ~2.1g | |
 | Raspberries, ½ cup fresh | ~0.7g | ~4g | |
-| Minestrone soup (sausage + steak bits) | ~20g | ~4g | Amy's estimate: ≤20g P |
+|| Minestrone soup (sausage + steak bits) | ~20g | ~4g | Amy's estimate: ≤20g P |
+
+### Thursday 16/7
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 
