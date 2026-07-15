@@ -160,7 +160,7 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 
-### Wednesday 15/7
+### Wednesday 15/7 — P: ~112g · F: ~15g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -169,7 +169,9 @@
 | Coffee + Bonsoy milk | ~5.1g | — | |
 | Minestrone soup | ~22g | ~4g | Amy's estimate — beef/pork, beans, pasta, veg |
 | Kiwi (skin off) | ~0.5g | ~1g | |
-| Chief whey + water | 24g | — | 1 scoop |
+|| Chief whey + water | 24g | — | 1 scoop |
+|| Chicken pasta (half breast) | ~25g | ~1g | Amy's estimate — half chicken breast + pasta |
+|| Cadbury chocolate | ~1g | — | Small serving |
 
 ### Tuesday 14/7
 
