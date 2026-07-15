@@ -168,6 +168,8 @@
 | 5 fresh oysters | ~7.5g | — | |
 | Coffee + Bonsoy milk | ~5.1g | — | |
 | Minestrone soup | ~22g | ~4g | Amy's estimate — beef/pork, beans, pasta, veg |
+| Kiwi (skin off) | ~0.5g | ~1g | |
+| Chief whey + water | 24g | — | 1 scoop |
 
 ### Tuesday 14/7
 
