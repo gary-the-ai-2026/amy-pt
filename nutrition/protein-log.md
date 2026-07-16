@@ -200,4 +200,5 @@
 | Medjool date + almond butter | ~1.5g | ~2.1g | ½ tsp AB |
 | Minestrone soup (½ serve) | ~11g | ~2g | Half portion |
 | 4 fresh oysters | ~6g | — | |
+| Tom yum soup (¾ chicken thigh + 2 prawns) | ~21g | ~1g | |
 
