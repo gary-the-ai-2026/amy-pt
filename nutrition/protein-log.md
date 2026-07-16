@@ -197,4 +197,5 @@
 | Coffee + Bonsoy milk | ~5.1g | — | |
 | Apple | — | ~2g | |
 | Chief whey + water | 24g | — | 1 scoop |
+| Medjool date + almond butter | ~1.5g | ~2.1g | ½ tsp AB |
 
