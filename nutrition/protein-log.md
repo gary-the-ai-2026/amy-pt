@@ -195,4 +195,5 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | ½ brioche bun + 2 eggs + 2 bacon | ~21g | ~0.5g | Half bun, 2 eggs, 2 rashers |
 | Coffee + Bonsoy milk | ~5.1g | — | |
+| Apple | — | ~2g | |
 
