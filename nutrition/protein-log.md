@@ -199,4 +199,5 @@
 | Chief whey + water | 24g | — | 1 scoop |
 | Medjool date + almond butter | ~1.5g | ~2.1g | ½ tsp AB |
 | Minestrone soup (½ serve) | ~11g | ~2g | Half portion |
+| 4 fresh oysters | ~6g | — | |
 
