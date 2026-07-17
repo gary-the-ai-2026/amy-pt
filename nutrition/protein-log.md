@@ -23,6 +23,16 @@
 
 ---
 
+## Health Metrics
+
+| Date | Time | Metric | Value | Notes |
+|---|---|---|---|---|
+| 13/7/26 | ~11am | Blood glucose | 5.3 mmol/L | Mid-morning, post-breakfast + coffee |
+| 13/7/26 | ~11am | Ketones | 0.1 mmol/L | |
+| 13/7/26 | ~11am | Blood pressure | 105/60 | Historically normal for Amy — consistent for years, pre-dates Mounjaro and deficit |
+
+---
+
 ## Bowel Log (Bristol Scale)
 
 | Date | Type | Notes |
@@ -38,6 +48,8 @@
 | 13/7/26 | — | None |
 | 14/7/26 | 1 | Constipated — GLP-1 SE watch |
 | 15/7/26 | 5 | Loose side — psyllium may help firm things up |
+| 16/7/26 | — | None |
+| 17/7/26 | — | None |
 
 ---
 
@@ -121,6 +133,7 @@
 | Kiwi (half skin on) | ~0.5g | ~2g | |
 | Biltong | ~15g | — | Per label |
 || Apple, ½ | ~0.2g | ~1g | |
+| Cadbury chocolate, 8 squares | ~2g | ~0.5g | ~25g |
 
 ### Saturday 11/7 — P: ~112g · F: ~14g
 
@@ -159,6 +172,7 @@
 | Lamb dinner | ~46g | ~13g | 2 grilled lamb chops, sweet potato, roasted potatoes, broccolini, Brussels sprouts, cauliflower, carrots |
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+|| 🧖‍♀️ Sauna | — | — | |
 
 ### Wednesday 15/7 — P: ~112g · F: ~15g
 
@@ -187,6 +201,7 @@
 | Medjool date + ½ tsp almond butter | ~1.5g | ~2.1g | |
 | Raspberries, ½ cup fresh | ~0.7g | ~4g | |
 || Minestrone soup (sausage + steak bits) | ~20g | ~4g | Amy's estimate: ≤20g P |
+| ½ slice white bread + butter | ~1.5g | ~0.3g | Small spread of butter |
 
 ### Thursday 16/7
 
@@ -201,4 +216,26 @@
 | Minestrone soup (½ serve) | ~11g | ~2g | Half portion |
 | 4 fresh oysters | ~6g | — | |
 | Tom yum soup (¾ chicken thigh + 2 prawns) | ~21g | ~1g | |
+| Haighs peppermint bar | ~1g | ~0.5g | |
+|| 🧖‍♀️ Sauna | — | — | |
 
+### Saturday 18/7
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+
+### Friday 17/7
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+| 2 oat crepes + whey | ~27g | ~9g | Boob to Food recipe (6/batch) + 1 tbsp psyllium husk, 1 scoop Chief whey, 1 extra whole egg in batter. Topped w/ ½ cup raspberries, 2 tbsp Greek yoghurt, 1 tbsp maple syrup |
+| Chief whey + water | 24g | — | 1 scoop |
+| Cheesymite scroll, small | ~7.6g | ~1.4g | Bakers Delight mini (55g) — half of full scroll (15.1g P, 2.8g F per 110g) |
+| Kiwi (skin on) | ~0.5g | ~2g | |
+|| 🧖‍♀️ Sauna | — | — | |
+| Chicken stir-fry + rice | ~37g | ~5g | Photo — chicken, broccoli, carrot, bok choy in soy-based sauce over ~1 cup white rice |
+| Haighs peppermint bar | ~1g | ~0.5g | |
+| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+| Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
