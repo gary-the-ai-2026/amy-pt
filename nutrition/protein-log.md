@@ -239,7 +239,7 @@
 | Coffee + Bonsoy milk | ~5.1g | — | Small + ~½ cup Bonsoy |
 | Kiwi, green (skin on) | ~0.5g | ~2g | |
 || 🧖‍♀️ Sauna | — | — | |
-| Eye fillet steak | ~35g | — | Medium-rare, grilled, ~150-180g |
+| Eye fillet steak | ~22g | — | 100g, medium-rare, grilled |
 | Broccolini | ~2g | ~3g | Buttered |
 | Carrots, cubed | ~0.8g | ~2.5g | Roasted/steamed |
 
