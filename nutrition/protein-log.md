@@ -235,7 +235,7 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || 🧖‍♀️ Sauna | — | — | |
 
-### Saturday 18/7 — P: ~86.9g · F: ~19.6g · ~1,160 kcal
+### Saturday 18/7 — P: ~89.1g · F: ~19.6g · ~1,351 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -256,7 +256,8 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Kiwi, green (skin on) | ~0.5g | ~2g | ~45 | |
 || 🧖‍♀️ Sauna | — | — | — | |
-| Eye fillet steak | ~30.8g | — | ~210 | 140g total, medium-rare, grilled |
+|| Connoisseur Mini Salted Caramel & Macadamia | ~2.2g | — | ~191 | Ice cream bar |
+|| Eye fillet steak | ~30.8g | — | ~210 | 140g total, medium-rare, grilled |
 | Broccolini | ~2g | ~3g | ~35 | Buttered |
 | Carrots, cubed | ~0.8g | ~2.5g | ~32 | Roasted/steamed |
 | Butter, 1 tsp | — | — | ~35 | On veg at dinner |
