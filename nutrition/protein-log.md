@@ -41,6 +41,7 @@
 | 16/7/26 | Sore throat (one side), headache, congestion | |
 | 17/7/26 | Sore throat + ear pain (same side), snotty, fatigue, tingly cough at night | Panadeine (paracetamol + codeine) at night for sleep/headache/congestion |
 | 18/7/26 | Mild congestion, on/off headache, lingering ear discomfort, tingly cough at night | Panadeine again at night. Ear pain = likely eustachian tube irritation from post-nasal drip |
+| 19/7/26 | Intense abdominal cramps post-breakfast + tea | Resolved within 20–30 min with Buscopan. Smooth muscle spasm (gallbladder? gastric?). Second occurrence ever — previous was pre-Mounjaro. |
 
 **Pattern:** Likely mild viral URTI. Onset ~Tue 15/7. Ear pain unilateral, same side as sore throat. Tingling cough only at night. Bending-over congestion resolved by Sat. Codeine use may have contributed to bowel sluggishness (Type 1 on 14/7, Type 2 on 18/7).
 
@@ -64,6 +65,7 @@
 | 16/7/26 | — | None |
 | 17/7/26 | — | None |
 | 18/7/26 | 2 | Constipated side — GLP-1 + codeine (Panadeine) likely contributing |
+| 19/7/26 | — | |
 
 ---
 
@@ -232,6 +234,13 @@
 | Tom yum soup (¾ chicken thigh + 2 prawns) | ~21g | ~1g | |
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || 🧖‍♀️ Sauna | — | — | |
+
+### Sunday 19/7
+
+| Item | Protein | Fibre | Notes |
+|---|---|---|---|
+| Tea (large cup) | ~0.5g | — | English breakfast + dash lactose-free milk |
+|| 💊 Buscopan | — | — | Intense cramps post-breakfast, resolved 20–30 min |
 
 ### Saturday 18/7
 
