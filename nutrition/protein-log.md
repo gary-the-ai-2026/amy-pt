@@ -236,6 +236,7 @@
 | Coriander, sprinkle | — | — | |
 | Avocado, 2 tbsp | ~0.5g | ~2g | |
 | Barossa smoked ham, 3 slices | ~12.5g | — | Amy's figure |
+| Coffee + Bonsoy milk | ~5.1g | — | Small + ~½ cup Bonsoy |
 
 ### Friday 17/7
 
