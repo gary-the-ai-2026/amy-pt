@@ -235,7 +235,7 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || 🧖‍♀️ Sauna | — | — | |
 
-### Saturday 18/7 — P: ~89.1g · F: ~19.6g · ~1,351 kcal
+### Saturday 18/7 — P: ~101.1g · F: ~19.6g · ~1,411 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -257,6 +257,7 @@
 | Kiwi, green (skin on) | ~0.5g | ~2g | ~45 | |
 || 🧖‍♀️ Sauna | — | — | — | |
 || Connoisseur Mini Salted Caramel & Macadamia | ~2.2g | — | ~191 | Ice cream bar |
+|| Chief whey, ½ scoop | ~12g | — | ~60 | Half scoop |
 || Eye fillet steak | ~30.8g | — | ~210 | 140g total, medium-rare, grilled |
 | Broccolini | ~2g | ~3g | ~35 | Buttered |
 | Carrots, cubed | ~0.8g | ~2.5g | ~32 | Roasted/steamed |
