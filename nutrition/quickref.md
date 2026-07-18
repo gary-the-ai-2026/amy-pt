@@ -57,11 +57,15 @@ Dari's canonical: ingredients said 11% chicken → estimated 15g for ¾ tub. Lab
 
 ## Post-Log Action
 
+**CRITICAL — after EVERY update to the daily log, update the heading with running totals.** The dashboard parser (`renderFood()`) filters day sections by regex `/P:.*F:/` in the heading. If the heading doesn't include `— P: Xg · F: Xg`, that day is invisible on the dashboard. This was the root cause of 14–18 July entries not rendering.
+
 ```bash
+# 1. Update the heading: ### Saturday 18/7 → ### Saturday 18/7 — P: ~86.9g · F: ~19.6g
+# 2. Commit and push
 cd /Users/gary/Projects/amy-pt && git add nutrition/ && git commit -m "Nutrition: [date] — P: Xg F: Xg" && git push
 ```
 
-Dashboard (Food tab) reads `protein-log.md` from GitHub Pages on next refresh.
+Dashboard (Food tab) reads `protein-log.md` from `raw.githubusercontent.com` on next refresh.
 
 ## Tone
 
