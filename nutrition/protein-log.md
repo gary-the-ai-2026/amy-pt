@@ -50,6 +50,7 @@
 | 15/7/26 | 5 | Loose side — psyllium may help firm things up |
 | 16/7/26 | — | None |
 | 17/7/26 | — | None |
+| 18/7/26 | 2 | Constipated side — GLP-1 SE watch |
 
 ---
 
