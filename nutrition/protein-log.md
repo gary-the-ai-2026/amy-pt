@@ -128,6 +128,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (half skin on) | ~0.5g | ~2g | |
 | Herman Brot Low Carb bread (1 slice, toasted) | ~11.8g | ~5g | |
+|| Ghee, ½ tsp | — | — | Default for eggs |
 | 3 eggs | ~18g | — | |
 | Coffee + Bonsoy milk | ~2.5g | — | |
 | Chia pudding + raspberries + chocolate | ~8g | ~12.6g | Reneelynch_naturopath recipe — 2.5 Tbsp chia, almond milk, maple, cacao, 50g raspberries, grated chocolate |
@@ -206,7 +207,7 @@
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
-| 2 eggs on toast + 1 tbsp cottage cheese | ~26.3g | ~5g | 2 poached/soft-fried eggs on dark toast (assumed Herman Brot Low Carb, 1 slice). Runny yolks, black pepper |
+| 2 eggs on toast + 1 tbsp cottage cheese | ~26.3g | ~5g | 2 poached/soft-fried eggs on dark toast (assumed Herman Brot Low Carb, 1 slice). Runny yolks, black pepper. Ghee ½ tsp for eggs. |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi, ½ (skin off) | ~0.2g | ~1g | |
 | Chief whey + water | 24g | — | 1 scoop |
@@ -223,7 +224,7 @@
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
-| ½ brioche bun + 2 eggs + 2 bacon | ~21g | ~0.5g | Half bun, 2 eggs, 2 rashers |
+| ½ brioche bun + 2 eggs + 2 bacon | ~21g | ~0.5g | Half bun, 2 eggs, 2 rashers. Ghee ½ tsp for eggs. |
 | Coffee + Bonsoy milk | ~5.1g | — | |
 | Apple | — | ~2g | |
 | Chief whey + water | 24g | — | 1 scoop |
@@ -234,11 +235,12 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || 🧖‍♀️ Sauna | — | — | |
 
-### Saturday 18/7 — P: ~86.9g · F: ~19.6g · ~1,100 kcal
+### Saturday 18/7 — P: ~86.9g · F: ~19.6g · ~1,160 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| Ghee, ½ tsp | — | — | ~22 | Default for eggs |
 | 2 eggs | ~12g | — | ~140 | |
 | Herman Brot Low Carb toast (1 slice) | ~11.8g | ~5g | ~115 | |
 | Cottage cheese, 1 tbsp | ~3g | — | ~15 | |
@@ -257,6 +259,7 @@
 | Eye fillet steak | ~30.8g | — | ~210 | 140g total, medium-rare, grilled |
 | Broccolini | ~2g | ~3g | ~35 | Buttered |
 | Carrots, cubed | ~0.8g | ~2.5g | ~32 | Roasted/steamed |
+| Butter, 1 tsp | — | — | ~35 | On veg at dinner |
 
 ### Friday 17/7 — P: ~98.6g · F: ~19.9g
 

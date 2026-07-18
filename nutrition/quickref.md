@@ -18,12 +18,13 @@ Amy tells me what she ate. I don't guess. Confirm: pack sizes, portion amounts, 
 
 ## Defaults (pre-fill automatically)
 
-| Item | Protein | Fibre |
-|---|---|---|
-| Tea (English breakfast + dash lactose-free milk) | ~0.5g | — |
-| Coffee (small + ~½ cup Bonsoy milk) | ~2.5g | — |
-| Oat crepe + whey in batter | ~9g | ~1.5g |
-| Chicken sausage (Peppercorn Extra Lean) | ~9.9g | ~1.3g |
+| Item | Protein | Fibre | Cals |
+|---|---|---|---|
+| Tea (English breakfast + dash lactose-free milk) | ~0.5g | — | ~5 |
+| Coffee (small + ~½ cup Bonsoy milk) | ~2.5g | — | ~75 |
+| Oat crepe + whey in batter | ~9g | ~1.5g | — |
+| Chicken sausage (Peppercorn Extra Lean) | ~9.9g | ~1.3g | — |
+| Ghee for eggs (½ tsp) | — | — | ~22 |
 
 ## Estimation Priority
 
