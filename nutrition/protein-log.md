@@ -33,6 +33,19 @@
 
 ---
 
+## Illness Log
+
+| Date | Symptom | Notes |
+|---|---|---|
+| 15/7/26 | Head congestion, slight headache | Noticed when bending over — sinus pressure |
+| 16/7/26 | Sore throat (one side), headache, congestion | |
+| 17/7/26 | Sore throat + ear pain (same side), snotty, fatigue, tingly cough at night | Panadeine (paracetamol + codeine) at night for sleep/headache/congestion |
+| 18/7/26 | Mild congestion, on/off headache, lingering ear discomfort, tingly cough at night | Panadeine again at night. Ear pain = likely eustachian tube irritation from post-nasal drip |
+
+**Pattern:** Likely mild viral URTI. Onset ~Tue 15/7. Ear pain unilateral, same side as sore throat. Tingling cough only at night. Bending-over congestion resolved by Sat. Codeine use may have contributed to bowel sluggishness (Type 1 on 14/7, Type 2 on 18/7).
+
+---
+
 ## Bowel Log (Bristol Scale)
 
 | Date | Type | Notes |
@@ -50,7 +63,7 @@
 | 15/7/26 | 5 | Loose side — psyllium may help firm things up |
 | 16/7/26 | — | None |
 | 17/7/26 | — | None |
-| 18/7/26 | 2 | Constipated side — GLP-1 SE watch |
+| 18/7/26 | 2 | Constipated side — GLP-1 + codeine (Panadeine) likely contributing |
 
 ---
 
