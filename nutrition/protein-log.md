@@ -20,6 +20,7 @@
 |---|---|---|
 | 18/6/26 | 69.5kg | Pre-Mounjaro baseline |
 | 18/7/26 | 67.5kg | 4 weeks on Mounjaro (2.5mg) — 2kg down |
+| 19/7/26 | 67.35kg | — |
 
 ---
 
@@ -277,3 +278,9 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
+
+### Sunday 19/7 — P: ~0.5g · F: ~0g · ~5 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
