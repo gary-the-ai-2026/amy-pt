@@ -19,7 +19,7 @@
 | Date | Weight | Notes |
 |---|---|---|
 | 18/6/26 | 69.5kg | Pre-Mounjaro baseline |
-| ~16/7/26 | — | Next weigh-in (2 weeks on Mounjaro) |
+| 18/7/26 | 67.5kg | 4 weeks on Mounjaro (2.5mg) — 2kg down |
 
 ---
 
@@ -234,29 +234,29 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || 🧖‍♀️ Sauna | — | — | |
 
-### Saturday 18/7 — P: ~86.9g · F: ~19.6g
+### Saturday 18/7 — P: ~86.9g · F: ~19.6g · ~1,100 kcal
 
-| Item | Protein | Fibre | Notes |
-|---|---|---|---|
-| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
-| 2 eggs | ~12g | — | |
-| Herman Brot Low Carb toast (1 slice) | ~11.8g | ~5g | |
-| Cottage cheese, 1 tbsp | ~3g | — | |
-| Macro Organic baked beans, 2 tbsp | ~1.7g | ~1.6g | 4.9g P / 4.7g F per 100g — 2 tbsp ≈ 35g |
-|| 💊 Buscopan | — | — | Intense cramps right after breakfast, resolved 20–30 min |
-| Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
-| Abbott's Sourdough Rye, 2 slices | ~4.9g | ~3g | 83g serve |
-| Good Fat mayo, 1 tsp | ~0.1g | — | Olive oil + egg based |
-| Cucumber, 1 small | ~0.2g | ~0.5g | |
-| Coriander, sprinkle | — | — | |
-| Avocado, 2 tbsp | ~0.5g | ~2g | |
-| Barossa smoked ham, 3 slices | ~12.5g | — | Amy's figure |
-| Coffee + Bonsoy milk | ~5.1g | — | Small + ~½ cup Bonsoy |
-| Kiwi, green (skin on) | ~0.5g | ~2g | |
-|| 🧖‍♀️ Sauna | — | — | |
-| Eye fillet steak | ~30.8g | — | 140g total, medium-rare, grilled |
-| Broccolini | ~2g | ~3g | Buttered |
-| Carrots, cubed | ~0.8g | ~2.5g | Roasted/steamed |
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| 2 eggs | ~12g | — | ~140 | |
+| Herman Brot Low Carb toast (1 slice) | ~11.8g | ~5g | ~115 | |
+| Cottage cheese, 1 tbsp | ~3g | — | ~15 | |
+| Macro Organic baked beans, 2 tbsp | ~1.7g | ~1.6g | ~30 | 4.9g P / 4.7g F per 100g — 2 tbsp ≈ 35g |
+|| 💊 Buscopan | — | — | — | Intense cramps right after breakfast, resolved 20–30 min |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| Abbott's Sourdough Rye, 2 slices | ~4.9g | ~3g | ~210 | 83g serve |
+| Good Fat mayo, 1 tsp | ~0.1g | — | ~35 | Olive oil + egg based |
+| Cucumber, 1 small | ~0.2g | ~0.5g | ~12 | |
+| Coriander, sprinkle | — | — | — | |
+| Avocado, 2 tbsp | ~0.5g | ~2g | ~50 | |
+| Barossa smoked ham, 3 slices | ~12.5g | — | ~70 | Amy's figure |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Kiwi, green (skin on) | ~0.5g | ~2g | ~45 | |
+|| 🧖‍♀️ Sauna | — | — | — | |
+| Eye fillet steak | ~30.8g | — | ~210 | 140g total, medium-rare, grilled |
+| Broccolini | ~2g | ~3g | ~35 | Buttered |
+| Carrots, cubed | ~0.8g | ~2.5g | ~32 | Roasted/steamed |
 
 ### Friday 17/7 — P: ~98.6g · F: ~19.9g
 

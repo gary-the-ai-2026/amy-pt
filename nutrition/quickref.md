@@ -8,8 +8,9 @@ Loaded on every Gary - Amy PT group message. Condensed from `pt-gary/references/
 |---|---|
 | Protein | 130g (2g × 65kg ideal BW) |
 | Fibre | 25–30g |
+| Calories | 1,500–1,700 kcal (floor: 1,500) |
 
-**Context:** GLP-1 (Mounjaro 2.5mg/week from 2/7/26). Tracking for protein adequacy and gut health.
+**Context:** GLP-1 (Mounjaro 2.5mg/week from 2/7/26). BW: 67.5kg (18/7). Tracking for protein adequacy, gut health, and calorie awareness.
 
 ## Core Rule: ASK, Don't Assume
 
