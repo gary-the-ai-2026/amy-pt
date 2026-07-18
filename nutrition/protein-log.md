@@ -235,7 +235,7 @@
 | Cucumber, 1 small | ~0.2g | ~0.5g | |
 | Coriander, sprinkle | — | — | |
 | Avocado, 2 tbsp | ~0.5g | ~2g | |
-| Barossa smoked ham, 3 slices | ~18g | — | ~6g P per slice |
+| Barossa smoked ham, 3 slices | ~12.5g | — | Amy's figure |
 
 ### Friday 17/7
 
