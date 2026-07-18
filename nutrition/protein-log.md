@@ -134,7 +134,7 @@
 | 2 burritos (chicken thigh, cheddar, cabbage, capsicum, cucumber) | ~46g | ~4g | 1.5 chicken thighs, grated cheddar, handful red cabbage, ¼ capsicum, cucumber |
 | Chief whey + water (¾ scoop) | ~17g | — | |
 
-### Friday 10/7
+### Friday 10/7 — P: ~89.7g · F: ~12.5g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -162,7 +162,7 @@
 | Green chicken curry | ~36g | ~2g | ~1.5 chicken thighs + veg — no rice assumed |
 | Kiwi (half skin on) | ~0.5g | ~2g | |
 
-### Sunday 12/7
+### Sunday 12/7 — P: ~126.5g · F: ~22g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -202,7 +202,7 @@
 || Chicken pasta (half breast) | ~25g | ~1g | Amy's estimate — half chicken breast + pasta |
 || Cadbury chocolate | ~1g | — | Small serving |
 
-### Tuesday 14/7
+### Tuesday 14/7 — P: ~90.3g · F: ~17.4g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -218,7 +218,7 @@
 || Minestrone soup (sausage + steak bits) | ~20g | ~4g | Amy's estimate: ≤20g P |
 | ½ slice white bread + butter | ~1.5g | ~0.3g | Small spread of butter |
 
-### Thursday 16/7
+### Thursday 16/7 — P: ~91.1g · F: ~8.1g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -234,7 +234,7 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || 🧖‍♀️ Sauna | — | — | |
 
-### Saturday 18/7
+### Saturday 18/7 — P: ~86.9g · F: ~19.6g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
@@ -258,7 +258,7 @@
 | Broccolini | ~2g | ~3g | Buttered |
 | Carrots, cubed | ~0.8g | ~2.5g | Roasted/steamed |
 
-### Friday 17/7
+### Friday 17/7 — P: ~98.6g · F: ~19.9g
 
 | Item | Protein | Fibre | Notes |
 |---|---|---|---|
