@@ -243,8 +243,8 @@
 | Herman Brot Low Carb toast (1 slice) | ~11.8g | ~5g | |
 | Cottage cheese, 1 tbsp | ~3g | — | |
 | Macro Organic baked beans, 2 tbsp | ~1.7g | ~1.6g | 4.9g P / 4.7g F per 100g — 2 tbsp ≈ 35g |
+|| 💊 Buscopan | — | — | Intense cramps right after breakfast, resolved 20–30 min |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
-|| 💊 Buscopan | — | — | Intense cramps post-breakfast + large tea, resolved 20–30 min |
 | Abbott's Sourdough Rye, 2 slices | ~4.9g | ~3g | 83g serve |
 | Good Fat mayo, 1 tsp | ~0.1g | — | Olive oil + egg based |
 | Cucumber, 1 small | ~0.2g | ~0.5g | |
