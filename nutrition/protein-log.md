@@ -41,7 +41,7 @@
 | 16/7/26 | Sore throat (one side), headache, congestion | |
 | 17/7/26 | Sore throat + ear pain (same side), snotty, fatigue, tingly cough at night | Panadeine (paracetamol + codeine) at night for sleep/headache/congestion |
 | 18/7/26 | Mild congestion, on/off headache, lingering ear discomfort, tingly cough at night | Panadeine again at night. Ear pain = likely eustachian tube irritation from post-nasal drip |
-| 19/7/26 | Intense abdominal cramps post-breakfast + tea | Resolved within 20–30 min with Buscopan. Smooth muscle spasm (gallbladder? gastric?). Second occurrence ever — previous was pre-Mounjaro. |
+| 18/7/26 | Intense abdominal cramps post-breakfast + large tea | Resolved within 20–30 min with Buscopan. Smooth muscle spasm (gallbladder? gastric?). Second occurrence ever — previous was pre-Mounjaro. |
 
 **Pattern:** Likely mild viral URTI. Onset ~Tue 15/7. Ear pain unilateral, same side as sore throat. Tingling cough only at night. Bending-over congestion resolved by Sat. Codeine use may have contributed to bowel sluggishness (Type 1 on 14/7, Type 2 on 18/7).
 
@@ -65,7 +65,6 @@
 | 16/7/26 | — | None |
 | 17/7/26 | — | None |
 | 18/7/26 | 2 | Constipated side — GLP-1 + codeine (Panadeine) likely contributing |
-| 19/7/26 | — | |
 
 ---
 
@@ -235,13 +234,6 @@
 | Haighs peppermint bar | ~1g | ~0.5g | |
 || 🧖‍♀️ Sauna | — | — | |
 
-### Sunday 19/7
-
-| Item | Protein | Fibre | Notes |
-|---|---|---|---|
-| Tea (large cup) | ~0.5g | — | English breakfast + dash lactose-free milk |
-|| 💊 Buscopan | — | — | Intense cramps post-breakfast, resolved 20–30 min |
-
 ### Saturday 18/7
 
 | Item | Protein | Fibre | Notes |
@@ -252,6 +244,7 @@
 | Cottage cheese, 1 tbsp | ~3g | — | |
 | Macro Organic baked beans, 2 tbsp | ~1.7g | ~1.6g | 4.9g P / 4.7g F per 100g — 2 tbsp ≈ 35g |
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
+|| 💊 Buscopan | — | — | Intense cramps post-breakfast + large tea, resolved 20–30 min |
 | Abbott's Sourdough Rye, 2 slices | ~4.9g | ~3g | 83g serve |
 | Good Fat mayo, 1 tsp | ~0.1g | — | Olive oil + egg based |
 | Cucumber, 1 small | ~0.2g | ~0.5g | |
