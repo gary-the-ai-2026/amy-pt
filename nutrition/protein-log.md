@@ -279,9 +279,14 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Sunday 19/7 — P: ~27.5g · F: ~12g · ~375 kcal
+### Sunday 19/7 — P: ~34g · F: ~18g · ~490 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 | 2 oat crêpes + whey | ~27g | ~12g | ~370 | Boob to Food recipe (6/batch) + 2 tbsp psyllium husk, 1 scoop Chief whey, 1 extra whole egg in batter |
+| Greek yoghurt, 2 tbsp | ~3g | — | ~20 | |
+| Raspberries, 2 tbsp | ~0.5g | ~2g | ~15 | |
+| Maple syrup | — | — | ~25 | |
+| Hemp seeds, sprinkle | ~2g | ~1g | ~30 | ~1 tsp |
+| Orange | ~1g | ~3g | ~60 | |
