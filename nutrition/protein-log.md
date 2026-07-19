@@ -280,7 +280,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Sunday 19/7 — P: ~80.3g · F: ~30.5g · ~1,367 kcal
+### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -302,3 +302,5 @@
 | Black beans, 2 tbsp (cooked) | ~2g | ~1.5g | ~30 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 || 🧖‍♀️ Sauna | — | — | — | |
+| Chief whey, 1 scoop | 24g | — | ~120 | |
+| Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
