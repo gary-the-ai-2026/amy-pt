@@ -280,7 +280,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Sunday 19/7 — P: ~40.1g · F: ~21g · ~630 kcal
+### Sunday 19/7 — P: ~52.8g · F: ~24.5g · ~867 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -294,3 +294,4 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Lebanese cucumber | ~0.5g | ~1g | ~15 | |
 | Kiwi, green (skin on) | ~0.5g | ~2g | ~45 | |
+| Open sandwich | ~12.7g | ~3.5g | ~237 | Abbott's Sourdough Rye (1 slice), 2 slices Barossa smoked ham, 1 tbsp avocado, 1 tsp Good Fat mayo, handful spinach, Lebanese cucumber |
