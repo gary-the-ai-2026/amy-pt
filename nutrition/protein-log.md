@@ -280,7 +280,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Sunday 19/7 — P: ~79.8g · F: ~31.5g · ~1,382 kcal
+### Sunday 19/7 — P: ~79.8g · F: ~30.5g · ~1,362 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -298,4 +298,5 @@
 | Cleaver's beef meatballs (7) | ~20g | ~1g | ~315 | 380g/20pk — 83% organic beef, 993 kJ/100g. Reduced $6.25 |
 | Rice, very small serve | ~2g | ~0.5g | ~80 | |
 | Broccoli + carrot | ~1g | ~3g | ~40 | |
-| Lentils + black beans | ~4g | ~4g | ~80 | |
+| Lentils, 2 tbsp (cooked) | ~2g | ~1.5g | ~30 | |
+| Black beans, 2 tbsp (cooked) | ~2g | ~1.5g | ~30 | |
