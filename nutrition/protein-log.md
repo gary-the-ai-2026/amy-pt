@@ -279,7 +279,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Sunday 19/7 — P: ~34g · F: ~18g · ~495 kcal
+### Sunday 19/7 — P: ~39.1g · F: ~18g · ~570 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -290,3 +290,4 @@
 | Maple syrup | — | — | ~25 | |
 | Hemp seeds, sprinkle | ~2g | ~1g | ~30 | ~1 tsp |
 | Orange | ~1g | ~3g | ~60 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
