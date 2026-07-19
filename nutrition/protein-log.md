@@ -280,7 +280,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Sunday 19/7 — P: ~52.8g · F: ~24.5g · ~867 kcal
+### Sunday 19/7 — P: ~79.8g · F: ~31.5g · ~1,382 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -292,6 +292,10 @@
 | Hemp seeds, sprinkle | ~2g | ~1g | ~30 | ~1 tsp |
 | Orange | ~1g | ~3g | ~60 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
-| Lebanese cucumber | ~0.5g | ~1g | ~15 | |
+| Qukes cucumber | ~0.5g | ~1g | ~15 | |
 | Kiwi, green (skin on) | ~0.5g | ~2g | ~45 | |
-| Open sandwich | ~12.7g | ~3.5g | ~237 | Abbott's Sourdough Rye (1 slice), 2 slices Barossa smoked ham, 1 tbsp avocado, 1 tsp Good Fat mayo, handful spinach, Lebanese cucumber |
+| Open sandwich | ~12.7g | ~3.5g | ~237 | Abbott's Sourdough Rye (1 slice), 2 slices Barossa smoked ham, 1 tbsp avocado, 1 tsp Good Fat mayo, handful spinach, Qukes cucumber |
+| Cleaver's beef meatballs (7) | ~20g | ~1g | ~315 | 380g/20pk — 83% organic beef, 993 kJ/100g. Reduced $6.25 |
+| Rice, very small serve | ~2g | ~0.5g | ~80 | |
+| Broccoli + carrot | ~1g | ~3g | ~40 | |
+| Lentils + black beans | ~4g | ~4g | ~80 | |
