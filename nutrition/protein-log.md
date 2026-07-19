@@ -280,6 +280,16 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
+### Monday 20/7 — P: ~20.9g · F: ~8.5g · ~315 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 1 oat crêpe + whey | ~13.5g | ~6g | ~150 | From Sunday's batch — Boob to Food recipe (6/batch) + 2 tbsp psyllium husk, 1 scoop Chief whey, 1 extra whole egg. Ghee ⅓ tsp for batch |
+| Greek yoghurt, 1 tbsp | ~1.5g | — | ~20 | |
+| Banana, ¼ | ~0.3g | ~0.5g | ~25 | |
+| Kiwi, green (skin on) | ~0.5g | ~2g | ~45 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
