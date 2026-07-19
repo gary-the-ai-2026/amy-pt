@@ -280,7 +280,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Sunday 19/7 — P: ~79.8g · F: ~30.5g · ~1,362 kcal
+### Sunday 19/7 — P: ~80.3g · F: ~30.5g · ~1,367 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -300,3 +300,5 @@
 | Broccoli + carrot | ~1g | ~3g | ~40 | |
 | Lentils, 2 tbsp (cooked) | ~2g | ~1.5g | ~30 | |
 | Black beans, 2 tbsp (cooked) | ~2g | ~1.5g | ~30 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+|| 🧖‍♀️ Sauna | — | — | — | |
