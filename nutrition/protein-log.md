@@ -74,7 +74,7 @@
 
 ## Daily Log
 
-### Tuesday 21/7 — P: ~16.1g · F: ~6.6g · ~386 kcal
+### Tuesday 21/7 — P: ~39.1g · F: ~6.6g · ~506 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -83,6 +83,7 @@
 | Full cream milk, ¾ cup | ~6.1g | — | ~120 | ~180ml — Woolworths 3.32g P/100g |
 | Hemp seeds, 2 tsp | ~1.9g | ~0.2g | ~33 | ~6g |
 | Sugar, 1 tsp | — | — | ~16 | ~4g |
+| Chief whey + water, 1 scoop | 23g | — | ~120 | |
 
 ### Monday 6/7 — P: ~84g · F: ~18g
 
