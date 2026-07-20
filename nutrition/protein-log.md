@@ -280,7 +280,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Monday 20/7 — P: ~67.2g · F: ~12.1g · ~811 kcal
+### Monday 20/7 — P: ~90.2g · F: ~12.1g · ~931 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -294,6 +294,7 @@
 | Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
 | Medjool date | ~0.5g | ~1.6g | ~66 | |
 | Almond butter, ½ tsp | ~1g | ~0.5g | ~25 | |
+| Chief whey + water, 1 scoop | 23g | — | ~120 | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
