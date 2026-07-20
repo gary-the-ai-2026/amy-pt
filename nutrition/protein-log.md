@@ -280,7 +280,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Monday 20/7 — P: ~90.2g · F: ~12.1g · ~931 kcal
+### Monday 20/7 — P: ~109.1g · F: ~16.7g · ~1,246 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -295,6 +295,10 @@
 | Medjool date | ~0.5g | ~1.6g | ~66 | |
 | Almond butter, ½ tsp | ~1g | ~0.5g | ~25 | |
 | Chief whey + water, 1 scoop | 23g | — | ~120 | |
+| Cleaver's beef meatballs ×4 | ~11.4g | ~0.6g | ~180 | From Sunday's batch (380g/20pk, 83% beef) |
+| Mixed peas, corn & carrot, ½ cup | ~3.5g | ~3.5g | ~65 | |
+| Parmesan cheese, sprinkle | ~1.5g | — | ~15 | |
+| Risoni pasta, ¼ cup cooked | ~2.5g | ~0.5g | ~55 | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
