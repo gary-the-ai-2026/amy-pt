@@ -1,0 +1,89 @@
+{
+  "session_id": "2026-07-21-ad-hoc",
+  "date": "2026-07-21",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "gym",
+  "cycle": 1,
+  "started": "07:27",
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Arnold's Press",
+      "notes": "Per arm",
+      "sets": [
+        {"set": 1, "weight_kg": 8, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 8, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 8, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Leg Extensions",
+      "sets": [
+        {"set": 1, "weight_kg": 35, "reps": 12},
+        {"set": 2, "weight_kg": 40, "reps": 10},
+        {"set": 3, "weight_kg": 45, "reps": 8}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Leg Kickback (Smith Machine)",
+      "notes": "Per leg",
+      "sets": [
+        {"set": 1, "weight_kg": 18, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 18, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 23, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Push Ups",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 12},
+        {"set": 2, "weight_kg": null, "reps": 12},
+        {"set": 3, "weight_kg": null, "reps": 12}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Bulgarian Lunges",
+      "notes": "Per arm, per leg",
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 12, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 12, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Triceps Pull Down (Smith Machine)",
+      "sets": [
+        {"set": 1, "weight_kg": 23, "reps": 10},
+        {"set": 2, "weight_kg": 27, "reps": 8},
+        {"set": 3, "weight_kg": 27, "reps": 7}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Sit Ups",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 12},
+        {"set": 2, "weight_kg": null, "reps": 12},
+        {"set": 3, "weight_kg": null, "reps": 12}
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Reverse Fly on Bench",
+      "notes": "Per arm",
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 6, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 6, "reps": 10, "side": "each"}
+      ]
+    }
+  ],
+  "notes": "Strong leg session: extensions pyramid 35→40→45kg, kickbacks hitting 23kg top set. Bulgarian lunges building to 12kg per arm. Upper body push/pull with Arnold's press, triceps pull down, and reverse fly. Solid core work with push ups and sit ups."
+}
