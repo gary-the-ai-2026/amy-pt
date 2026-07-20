@@ -74,6 +74,16 @@
 
 ## Daily Log
 
+### Tuesday 21/7 — P: ~16.1g · F: ~6.6g · ~386 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| Woolworths Wheat Biscuits ×4 | ~7.6g | ~6.4g | ~212 | 12.6g P / 10.6g F per 100g (label). ~15g per biscuit |
+| Full cream milk, ¾ cup | ~6.1g | — | ~120 | ~180ml — Woolworths 3.32g P/100g |
+| Hemp seeds, 2 tsp | ~1.9g | ~0.2g | ~33 | ~6g |
+| Sugar, 1 tsp | — | — | ~16 | ~4g |
+
 ### Monday 6/7 — P: ~84g · F: ~18g
 
 | Item | Protein | Fibre | Notes |
