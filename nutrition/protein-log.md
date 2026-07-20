@@ -280,7 +280,7 @@
 | Tea | ~0.5g | — | English breakfast + dash lactose-free milk |
 | Kiwi (skin on) | ~0.5g | ~2g | Second kiwi |
 
-### Monday 20/7 — P: ~20.9g · F: ~8.5g · ~315 kcal
+### Monday 20/7 — P: ~67.2g · F: ~12.1g · ~811 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -289,6 +289,11 @@
 | Banana, ¼ | ~0.3g | ~0.5g | ~25 | |
 | Kiwi, green (skin on) | ~0.5g | ~2g | ~45 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| 2 chicken thighs | ~44g | — | ~380 | Skinless, boneless — estimate |
+| Qukes cucumber | ~0.5g | ~1g | ~15 | |
+| Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
+| Medjool date | ~0.5g | ~1.6g | ~66 | |
+| Almond butter, ½ tsp | ~1g | ~0.5g | ~25 | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
