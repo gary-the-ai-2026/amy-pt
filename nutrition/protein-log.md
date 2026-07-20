@@ -68,6 +68,7 @@
 | 18/7/26 | 2 | Constipated side — GLP-1 + codeine (Panadeine) likely contributing |
 | 19/7/26 | 3 | Normal |
 | 20/7/26 | — | None |
+| 21/7/26 | 3 | Normal |
 
 ---
 
