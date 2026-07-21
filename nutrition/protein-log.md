@@ -322,6 +322,13 @@
 | Parmesan cheese, sprinkle | ~1.5g | — | ~15 | |
 | Risoni pasta, ¼ cup cooked | ~2.5g | ~0.5g | ~55 | |
 
+### Wednesday 22/7 — P: ~15.6g · F: ~9.2g · ~363 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| Porridge (Amy's recipe) | ~15.1g | ~9.2g | ~358 | ¼ batch (½c oats, ¼c LF milk, ¾T chia, ¼t flax, ¼ yolk, ¼t hemp). Topped w/ 2 tsp almond butter, ¼ banana, 1 tsp maple syrup |
+
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
