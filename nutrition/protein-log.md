@@ -74,7 +74,7 @@
 
 ## Daily Log
 
-### Tuesday 21/7 — P: ~55.1g · F: ~8.4g · ~781 kcal
+### Tuesday 21/7 — P: ~56.1g · F: ~10.4g · ~836 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -87,6 +87,8 @@
 | Peppercorn Extra Lean chicken sausage | ~9.9g | ~1.3g | ~100 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
+| Gold kiwi (skin on) | ~0.5g | ~2g | ~50 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
 ### Monday 6/7 — P: ~84g · F: ~18g
 
