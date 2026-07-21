@@ -74,7 +74,7 @@
 
 ## Daily Log
 
-### Tuesday 21/7 — P: ~56.1g · F: ~10.4g · ~836 kcal
+### Tuesday 21/7 — P: ~111.9g · F: ~11.9g · ~1,336 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -89,6 +89,9 @@
 | Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
 | Gold kiwi (skin on) | ~0.5g | ~2g | ~50 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| Chicken thighs ×2.5 | ~55g | — | ~475 | Skinless, boneless — ~22g P per thigh |
+| Qukes cucumber | ~0.5g | ~1g | ~15 | |
+| Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
 
 ### Monday 6/7 — P: ~84g · F: ~18g
 
