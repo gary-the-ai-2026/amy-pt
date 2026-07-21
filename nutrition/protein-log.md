@@ -74,7 +74,7 @@
 
 ## Daily Log
 
-### Tuesday 21/7 — P: ~39.1g · F: ~6.6g · ~506 kcal
+### Tuesday 21/7 — P: ~54.1g · F: ~7.9g · ~681 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -84,6 +84,8 @@
 | Hemp seeds, 2 tsp | ~1.9g | ~0.2g | ~33 | ~6g |
 | Sugar, 1 tsp | — | — | ~16 | ~4g |
 | Chief whey + water, 1 scoop | 23g | — | ~120 | |
+| Peppercorn Extra Lean chicken sausage | ~9.9g | ~1.3g | ~100 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 
 ### Monday 6/7 — P: ~84g · F: ~18g
 
