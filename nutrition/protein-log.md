@@ -74,7 +74,7 @@
 
 ## Daily Log
 
-### Tuesday 21/7 — P: ~54.1g · F: ~7.9g · ~681 kcal
+### Tuesday 21/7 — P: ~55.1g · F: ~8.4g · ~781 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -86,6 +86,7 @@
 | Chief whey + water, 1 scoop | 23g | — | ~120 | |
 | Peppercorn Extra Lean chicken sausage | ~9.9g | ~1.3g | ~100 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
 
 ### Monday 6/7 — P: ~84g · F: ~18g
 
