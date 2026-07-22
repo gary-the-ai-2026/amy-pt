@@ -323,7 +323,7 @@
 | Parmesan cheese, sprinkle | ~1.5g | — | ~15 | |
 | Risoni pasta, ¼ cup cooked | ~2.5g | ~0.5g | ~55 | |
 
-### Wednesday 22/7 — P: ~67.8g · F: ~19.2g · ~1,019 kcal
+### Wednesday 22/7 — P: ~95.5g · F: ~22.6g · ~1,633 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -334,6 +334,7 @@
 | Turkey salad sandwich | ~23.5g | ~8g | ~376 | 2 slices wholemeal, 1 serve (~40g) Barossa Roast Turkey Breast (10g P per serve — API per 100g: 25g P, pack = 80g = 2 serves), cheddar slice, cucumber, lettuce, tomato, carrot, 1 tsp Good Fat mayo |
 | Gold kiwi (half skin on) | ~0.5g | ~2g | ~50 | |
 || 🧖‍♀️ Sauna | — | — | — | |
+| Salmon risotto (homemade) | ~27.7g | ~3.4g | ~614 | ~1.25c arborio rice, ~60g salmon + skin strip, 1 tbsp parmesan, peas, brown onion, 1.5 tsp butter, bone broth, 1 tsp honey. Rough estimate |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
