@@ -323,7 +323,7 @@
 | Parmesan cheese, sprinkle | ~1.5g | — | ~15 | |
 | Risoni pasta, ¼ cup cooked | ~2.5g | ~0.5g | ~55 | |
 
-### Wednesday 22/7 — P: ~95.5g · F: ~22.6g · ~1,633 kcal
+### Wednesday 22/7 — P: ~97g · F: ~23.1g · ~1,738 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -335,6 +335,8 @@
 | Gold kiwi (half skin on) | ~0.5g | ~2g | ~50 | |
 || 🧖‍♀️ Sauna | — | — | — | |
 | Salmon risotto (homemade) | ~27.7g | ~3.4g | ~614 | ~1.25c arborio rice, ~60g salmon + skin strip, 1 tbsp parmesan, peas, brown onion, 1.5 tsp butter, bone broth, 1 tsp honey. Rough estimate |
+| Haighs caramel bar | ~1g | ~0.5g | ~100 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
