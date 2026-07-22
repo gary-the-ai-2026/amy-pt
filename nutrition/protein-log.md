@@ -69,6 +69,7 @@
 | 19/7/26 | 3 | Normal |
 | 20/7/26 | — | None |
 | 21/7/26 | 3 | Normal |
+| 22/7/26 | 1, 4 | Two BMs — Type 1 early, Type 4 later |
 
 ---
 
