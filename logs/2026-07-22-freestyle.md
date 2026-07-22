@@ -13,4 +13,4 @@
 | 7 | Lat Pulldown | 3 × 8–10 | Set 1: 23kg × 10 · Set 2: 27kg × 10 · Set 3: 32kg × 8 |
 | 8 | Lateral Side Bend (DB) | 3 × 10/side | 16kg |
 
-**Notes:** Solid mix — posterior chain focus with the single-leg RDLs, hip thrusts, and donkey kicks. Bicep curls: jumped to 12kg after hitting 7 at 10kg — failed the 4th rep on set 3 so 12kg is a stretch weight. Lat pulldown top set at 32kg × 8 is right in the programmed range. Calf raises at 16kg = program weight, locked in.
+**Notes:** Solid mix — posterior chain focus with the single-leg RDLs, hip thrusts, and donkey kicks. Bicep curls: jumped to 12kg after hitting 7 at 10kg — failed the 4th rep on set 3 so 12kg is a stretch weight. Lat pulldown top set at 32kg × 8 is right in the programmed range. Calf raises upgraded to **single leg** at 16kg × 12/leg × 3 sets — that's effectively double the per-leg load vs the programmed double-leg version. Strong progression.
