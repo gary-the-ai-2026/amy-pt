@@ -338,12 +338,13 @@
 | Haighs caramel bar | ~1g | ~0.5g | ~100 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
-### Thursday 23/7 — P: ~16.8g · F: ~3.8g · ~352 kcal
+### Thursday 23/7 — P: ~22.8g · F: ~3.8g · ~422 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 || Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 || 2 boiled eggs | ~12g | — | ~140 | |
+|| +1 boiled egg | ~6g | — | ~70 | |
 || Good Fat Mayo, 1 tbsp | ~0.3g | — | ~105 | |
 || Cucumber | ~0.5g | ~1g | ~15 | Qukes/Lebanese |
 || Wonder Wholemeal Iron bread, 1 slice | ~3.5g | ~2.8g | ~87 | Label: 7g P · 5.5g F per 2-slice (74g) serve → 3.5g P · 2.8g F per slice |
