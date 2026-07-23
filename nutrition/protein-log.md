@@ -354,6 +354,7 @@
 || Turkey sandwich (open) | ~18.6g | ~2.8g | ~256 | 1 slice Wonder Wholemeal Iron, 1 serve Barossa roast turkey (~40g), 1 slice cheese, ½ tsp Good Fat mayo |
 || Green kiwi (skin on) | ~0.5g | ~2g | ~45 | |
 || Chief whey, ¾ scoop | ~18g | — | ~90 | |
+||| 🧖‍♀️ Sauna | — | — | — | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
