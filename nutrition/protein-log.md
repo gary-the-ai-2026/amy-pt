@@ -339,7 +339,7 @@
 | Haighs caramel bar | ~1g | ~0.5g | ~100 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
-### Thursday 23/7 — P: ~65.2g · F: ~10.1g · ~935 kcal
+### Thursday 23/7 — P: ~72.1g · F: ~10.1g · ~1,015 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -355,6 +355,7 @@
 || Green kiwi (skin on) | ~0.5g | ~2g | ~45 | |
 || Chief whey, ¾ scoop | ~18g | — | ~90 | |
 ||| 🧖‍♀️ Sauna | — | — | — | |
+|| Kooee beef stick | ~6.9g | — | ~80 | 25g stick. API: 27.5g P/100g |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
