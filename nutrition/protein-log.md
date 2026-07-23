@@ -339,7 +339,7 @@
 | Haighs caramel bar | ~1g | ~0.5g | ~100 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
-### Thursday 23/7 — P: ~47.2g · F: ~10.1g · ~845 kcal
+### Thursday 23/7 — P: ~65.2g · F: ~10.1g · ~935 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -353,6 +353,7 @@
 || Dried fig | ~0.2g | ~1.5g | ~47 | |
 || Turkey sandwich (open) | ~18.6g | ~2.8g | ~256 | 1 slice Wonder Wholemeal Iron, 1 serve Barossa roast turkey (~40g), 1 slice cheese, ½ tsp Good Fat mayo |
 || Green kiwi (skin on) | ~0.5g | ~2g | ~45 | |
+|| Chief whey, ¾ scoop | ~18g | — | ~90 | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
