@@ -338,7 +338,7 @@
 | Haighs caramel bar | ~1g | ~0.5g | ~100 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
-### Thursday 23/7 — P: ~22.8g · F: ~3.8g · ~422 kcal
+### Thursday 23/7 — P: ~28.1g · F: ~5.3g · ~544 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -348,6 +348,8 @@
 || Good Fat Mayo, 1 tbsp | ~0.3g | — | ~105 | |
 || Cucumber | ~0.5g | ~1g | ~15 | Qukes/Lebanese |
 || Wonder Wholemeal Iron bread, 1 slice | ~3.5g | ~2.8g | ~87 | Label: 7g P · 5.5g F per 2-slice (74g) serve → 3.5g P · 2.8g F per slice |
+|| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+|| Dried fig | ~0.2g | ~1.5g | ~47 | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
