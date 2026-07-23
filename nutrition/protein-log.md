@@ -360,6 +360,12 @@
 || Soy sauce sachet | — | — | ~3 | |
 || Dried fig | ~0.2g | ~1.5g | ~47 | Second one |
 
+### Friday 24/7 — P: ~31.3g · F: ~4.5g · ~362 kcal
+
+|| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+||| 3 eggs | ~18g | — | ~232 | Large eggs + ghee ½ tsp. ~70 kcal/egg + 22 kcal ghee |
+||| Herman Brot Complete Protein, 1 slice | ~12.8g | ~4.5g | ~125 | |
+
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
