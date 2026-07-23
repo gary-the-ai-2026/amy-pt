@@ -339,7 +339,7 @@
 | Haighs caramel bar | ~1g | ~0.5g | ~100 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
-### Thursday 23/7 — P: ~89.5g · F: ~13.6g · ~1,458 kcal
+### Thursday 23/7 — P: ~89.7g · F: ~15.1g · ~1,505 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -358,6 +358,7 @@
 || Kooee beef stick | ~6.9g | — | ~80 | 25g stick. API: 27.5g P/100g |
 || Chicken avocado uramaki (11pc) | ~17g | ~3.5g | ~440 | Photo — white rice, nori, sesame seeds, cooked chicken strips, fresh avocado |
 || Soy sauce sachet | — | — | ~3 | |
+|| Dried fig | ~0.2g | ~1.5g | ~47 | Second one |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
