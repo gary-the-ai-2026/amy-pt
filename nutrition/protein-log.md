@@ -360,7 +360,21 @@
 || Soy sauce sachet | — | — | ~3 | |
 || Dried fig | ~0.2g | ~1.5g | ~47 | Second one |
 
-### Friday 24/7 — P: ~70.4g · F: ~11.7g · ~944 kcal
+### Friday 24/7 — P: ~86.3g · F: ~16.1g · ~1,350 kcal
+
+|| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+||| 3 boiled eggs | ~18g | — | ~210 | Large eggs, no ghee |
+||| Good Fat Mayo, 1 tbsp | ~0.3g | — | ~105 | |
+||| Herman Brot Complete Protein, 1 slice | ~12.8g | ~4.5g | ~125 | |
+||| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+||| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+||| Kooee beef stick | ~6.9g | — | ~80 | 25g stick. API: 27.5g P/100g |
+||| Chief whey + water, 1 scoop | ~23g | — | ~120 | |
+||| Koja Bickie Bites Choc Brownie, 3 serves (9 bickies) | ~3.3g | ~7.2g | ~219 | Per serve (18g/3 bickies): 304kJ, 1.1g P, 2.4g F |
+||| Beef & bean taco mince, ~60g | ~9.9g | ~2.1g | ~106 | Batch: 500g beef mince + 1 can lentils + 1 can black beans. Amy portion: ~30g beef, ~15g lentils, ~15g black beans |
+||| Old El Paso soft taco, ×2 | ~4.3g | ~2.1g | ~193 | API dinner kit: 5.6g P, 2.8g F, 254 kcal/100g. ~38g each |
+||| Cheddar cheese, sprinkle | ~1.3g | — | ~20 | ~5g |
+||| Good Fat Mayo, 1 tsp | ~0.1g | — | ~35 | |
 
 || Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 ||| 3 boiled eggs | ~18g | — | ~210 | Large eggs, no ghee |
