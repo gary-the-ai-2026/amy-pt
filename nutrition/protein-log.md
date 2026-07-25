@@ -433,6 +433,15 @@
 ||| Good Fat Mayo, 1 tbsp | ~0.3g | — | ~105 | |
 ||| Herman Brot Complete Protein, 1 slice | ~12.8g | ~4.5g | ~125 | |
 
+### Saturday 25/7 — P: ~31.5g · F: ~10g · ~492 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 2 oat crêpes + whey | ~27g | ~9g | ~375 | Boob to Food recipe (6/batch) + 1 tbsp psyllium husk, 1 scoop Chief whey, 1 extra whole egg in batter. Ghee ⅓ tsp for cooking (batch) |
+| 5 AM Honey Cinnamon yoghurt, 2 tbsp | ~1.5g | — | ~35 | |
+| Hemp seeds, sprinkle (~1 tsp) | ~3g | ~1g | ~30 | |
+| Maple syrup, 1 tbsp | — | — | ~52 | |
+
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
 | Item | Protein | Fibre | Cals | Notes |

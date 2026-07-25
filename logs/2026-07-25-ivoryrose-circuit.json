@@ -1,0 +1,108 @@
+{
+  "session_id": "2026-07-25-ivoryrose-circuit",
+  "date": "2026-07-25",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Ivoryrose (circuit)",
+  "started": null,
+  "finished": null,
+  "duration_min": 28,
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Hip Thrust (DB + Band, B-Stance)",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": 25,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 25, "reps": 45, "notes": "45s ON / 45s OFF · 25kg DB + blue band, B-stance"},
+        {"set": 2, "weight_kg": 25, "reps": 45, "notes": "45s ON / 45s OFF · 25kg DB + blue band, B-stance"},
+        {"set": 3, "weight_kg": 25, "reps": 45, "notes": "45s ON / 45s OFF · 25kg DB + blue band, B-stance"}
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Chest Fly (DB)",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": 6,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 45, "notes": "45s ON / 45s OFF · 6kg/arm"},
+        {"set": 2, "weight_kg": 6, "reps": 45, "notes": "45s ON / 45s OFF · 6kg/arm"},
+        {"set": 3, "weight_kg": 7, "reps": 45, "notes": "45s ON / 45s OFF · 7kg/arm"}
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Rower",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"},
+        {"set": 2, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"},
+        {"set": 3, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"}
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Chest Press (Barbell)",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": 30,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 30, "reps": 45, "notes": "45s ON / 45s OFF · 30kg"},
+        {"set": 2, "weight_kg": 30, "reps": 45, "notes": "45s ON / 45s OFF · 30kg"},
+        {"set": 3, "weight_kg": 35, "reps": 45, "notes": "45s ON / 45s OFF · 35kg"}
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Bicep Curl (DB)",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": 9,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": 9, "reps": 45, "notes": "45s ON / 45s OFF · 9kg/arm"},
+        {"set": 2, "weight_kg": 9, "reps": 45, "notes": "45s ON / 45s OFF · 9kg/arm"},
+        {"set": 3, "weight_kg": 10, "reps": 45, "notes": "45s ON / 45s OFF · 10kg/arm"}
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Bike",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"},
+        {"set": 2, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"},
+        {"set": 3, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"}
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Jack Hammer (Abs)",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "target_weight_kg": null,
+      "skipped": false,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"},
+        {"set": 2, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"},
+        {"set": 3, "weight_kg": null, "reps": 45, "notes": "45s ON / 45s OFF"}
+      ]
+    }
+  ],
+  "notes": "Ivoryrose circuit — 3 sets, 45s ON / 45s OFF format. Hip thrust (25kg DB + blue band, B-stance), chest fly (6→7kg/arm), rower, chest press BB (30→35kg), bicep curl (9→10kg/arm), bike, jack hammer abs.",
+  "progression_skipped": true
+}
