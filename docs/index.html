@@ -1192,8 +1192,13 @@
       <div class="chart-wrap" style="height:280px;"><canvas id="chart-nutrition"></canvas></div>
     </div>
 
+    <div class="food-chart-nav" id="bowel-chart-nav" style="display:none;">
+      <button class="food-nav-btn" id="bowel-nav-prev" onclick="bowelChartPage(-1)">← Earlier</button>
+      <span class="food-nav-label" id="bowel-chart-label">Last 14 days</span>
+      <button class="food-nav-btn" id="bowel-nav-next" onclick="bowelChartPage(1)">Later →</button>
+    </div>
     <div class="section-label">Bowel Movements — Bristol Scale</div>
-    <div class="card-cream chart-card" style="margin-bottom:var(--space-xl);">
+    <div class="card-cream chart-card" style="margin-bottom:var(--space-xl);" id="bowel-chart-card">
       <div class="chart-wrap" style="height:260px;"><canvas id="chart-bowel"></canvas></div>
       <div class="bowel-legend" id="bowel-legend" style="margin-top:12px;"></div>
     </div>
@@ -2255,6 +2260,10 @@ async function renderProgress() {
 let foodChartData = [];       // all parsed days (chronological order)
 let foodChartPageIdx = 0;     // current 30-day window offset
 const FOOD_CHART_WINDOW = 30;
+
+let bowelChartPageIdx = 0;    // current 14-day window offset
+const BOWEL_CHART_WINDOW = 14;
+let allBowelDays = [];        // full bowel data for windowed chart
 let foodChartInst = null;
 let bowelChartInst = null;
 
@@ -2621,6 +2630,37 @@ function renderBowelChart(md) {
     cur.setUTCDate(cur.getUTCDate() + 1);
   }
 
+  // ── Store globally for windowed navigation ──
+  allBowelDays = allDays;
+
+  // ── Compute current 14-day window ──
+  const totalPages = Math.ceil(allDays.length / BOWEL_CHART_WINDOW);
+  // If page would be out of range (data changed), clamp to last page
+  if (bowelChartPageIdx >= totalPages) bowelChartPageIdx = Math.max(0, totalPages - 1);
+  const start = bowelChartPageIdx * BOWEL_CHART_WINDOW;
+  const end = start + BOWEL_CHART_WINDOW;
+  const windowDays = allDays.slice(start, end);
+
+  // ── Nav bar ──
+  const nav = document.getElementById('bowel-chart-nav');
+  const navLabel = document.getElementById('bowel-chart-label');
+  const prevBtn = document.getElementById('bowel-nav-prev');
+  const nextBtn = document.getElementById('bowel-nav-next');
+  if (nav && allDays.length > BOWEL_CHART_WINDOW) {
+    nav.style.display = 'flex';
+    const isLastPage = bowelChartPageIdx >= totalPages - 1;
+    const isFirstPage = bowelChartPageIdx === 0;
+    if (isLastPage) {
+      navLabel.textContent = `Last ${windowDays.length} days`;
+    } else {
+      navLabel.textContent = `${windowDays[0].dateStr} — ${windowDays[windowDays.length-1].dateStr}`;
+    }
+    prevBtn.disabled = isFirstPage;
+    nextBtn.disabled = isLastPage;
+  } else if (nav) {
+    nav.style.display = 'none';
+  }
+
   canvas.style.display = '';
 
   // Legend — add BNO
@@ -2635,9 +2675,9 @@ function renderBowelChart(md) {
     ).join('') +
     `<span class="bl-item"><span class="bl-dot" style="background:#8e8b82;border-radius:2px;"></span>BNO — Bowels Not Open</span>`;
 
-  const labels = allDays.map(d => d.dateStr);
-  const values = allDays.map(d => d.type);        // null for BNO
-  const bnoData = allDays.map(d => d.isBNO ? 0.25 : null);  // BNO markers at base
+  const labels = windowDays.map(d => d.dateStr);
+  const values = windowDays.map(d => d.type);        // null for BNO
+  const bnoData = windowDays.map(d => d.isBNO ? 0.25 : null);  // BNO markers at base
 
   if (bowelChartInst) bowelChartInst.destroy();
 
@@ -2647,9 +2687,9 @@ function renderBowelChart(md) {
       id: 'weekMarkers',
       afterDraw(chart) {
         const { ctx, scales: { x, y } } = chart;
-        let weekNum = 1;
-        for (let i = 0; i < allDays.length; i++) {
-          const d = allDays[i];
+        let foundFirstMonday = false;
+        for (let i = 0; i < windowDays.length; i++) {
+          const d = windowDays[i];
           const dt = new Date(d.ts);
           if (dt.getUTCDay() === 1) { // Monday
             const xPos = x.getPixelForValue(i);
@@ -2662,15 +2702,7 @@ function renderBowelChart(md) {
             ctx.lineTo(xPos, y.bottom);
             ctx.stroke();
             ctx.restore();
-
-            ctx.save();
-            ctx.fillStyle = '#8e8b82';
-            ctx.font = '8px JetBrains Mono';
-            ctx.textAlign = 'center';
-            ctx.fillText(`W${weekNum}`, xPos, y.bottom + 16);
-            ctx.restore();
-
-            weekNum++;
+            foundFirstMonday = true;
           }
         }
       }
@@ -2684,14 +2716,14 @@ function renderBowelChart(md) {
           data: values,
           borderColor: '#5db8a6',
           backgroundColor: '#5db8a6',
-          pointBackgroundColor: allDays.map(d => {
+          pointBackgroundColor: windowDays.map(d => {
             if (d.isBNO) return 'transparent';
             if (d.type >= 3 && d.type <= 4) return '#5db872';
             if (d.type <= 2) return '#e8a55a';
             return '#c64545';
           }),
-          pointRadius: allDays.map(d => d.isBNO ? 0 : 6),
-          pointHoverRadius: allDays.map(d => d.isBNO ? 0 : 8),
+          pointRadius: windowDays.map(d => d.isBNO ? 0 : 6),
+          pointHoverRadius: windowDays.map(d => d.isBNO ? 0 : 8),
           borderWidth: 2,
           tension: 0.2,
           spanGaps: true,
@@ -2735,7 +2767,7 @@ function renderBowelChart(md) {
         tooltip: {
           callbacks: {
             label: ctx => {
-              const d = allDays[ctx.dataIndex];
+              const d = windowDays[ctx.dataIndex];
               if (!d) return '';
               if (d.isBNO) return 'BNO — Bowels Not Open';
               return `Type ${d.type}${d.label ? ' — ' + d.label : ''}`;
@@ -2769,6 +2801,13 @@ function renderBowelChart(md) {
       interaction: { intersect: false, mode: 'index' }
     }
   });
+}
+
+function bowelChartPage(dir) {
+  const maxPage = Math.ceil(allBowelDays.length / BOWEL_CHART_WINDOW) - 1;
+  bowelChartPageIdx = Math.max(0, Math.min(maxPage, bowelChartPageIdx + dir));
+  // Re-render from stored data — parse the raw MD again
+  renderFood();
 }
 
 function foodChartPage(dir) {
@@ -2843,6 +2882,21 @@ document.addEventListener('DOMContentLoaded', async () => {
   setInterval(async () => {
     if (document.getElementById('view-hub').classList.contains('active')) await renderHub();
   }, 120000);
+
+  // ── Bowel chart swipe navigation ──
+  let touchStartX = 0;
+  const bowelCard = document.getElementById('bowel-chart-card');
+  if (bowelCard) {
+    bowelCard.addEventListener('touchstart', e => {
+      touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+    bowelCard.addEventListener('touchend', e => {
+      const dx = e.changedTouches[0].screenX - touchStartX;
+      if (Math.abs(dx) > 60) {
+        bowelChartPage(dx > 0 ? -1 : 1);
+      }
+    }, { passive: true });
+  }
 });
 </script>
 </body>
