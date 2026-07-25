@@ -1182,10 +1182,10 @@
     <div class="food-targets-row" id="food-targets">
     </div>
 
-    <div class="section-label">30-Day Trend</div>
+    <div class="section-label">14-Day Trend</div>
     <div class="food-chart-nav" id="food-chart-nav" style="display:none;">
       <button class="food-nav-btn" id="food-nav-prev" onclick="foodChartPage(-1)">← Earlier</button>
-      <span class="food-nav-label" id="food-chart-label">Last 30 days</span>
+      <span class="food-nav-label" id="food-chart-label">Last 14 days</span>
       <button class="food-nav-btn" id="food-nav-next" onclick="foodChartPage(1)">Later →</button>
     </div>
     <div class="card-cream chart-card">
@@ -2258,8 +2258,8 @@ async function renderProgress() {
 // ═══════════════════════════════════════════════════
 
 let foodChartData = [];       // all parsed days (chronological order)
-let foodChartPageIdx = 0;     // current 30-day window offset
-const FOOD_CHART_WINDOW = 30;
+let foodChartPageIdx = 0;     // current 14-day window offset
+const FOOD_CHART_WINDOW = 14;
 
 let bowelChartPageIdx = 0;    // current 14-day window offset
 const BOWEL_CHART_WINDOW = 14;
@@ -2463,7 +2463,7 @@ function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
 
   nav.style.display = 'flex';
   label.textContent = isLastPage
-    ? `All ${foodChartData.length} days`
+    ? `Last ${windowData.length} days`
     : `${windowData[0].dateStr.slice(5)} — ${windowData[windowData.length-1].dateStr.slice(5)}`;
   prevBtn.disabled = isLastPage;
   nextBtn.disabled = isFirstPage;
@@ -2477,6 +2477,28 @@ function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
   const ctx = canvas.getContext('2d');
   foodChartInst = new Chart(ctx, {
     type: 'bar',
+    plugins: [{
+      id: 'nutritionWeekMarkers',
+      afterDraw(chart) {
+        const { ctx, scales: { x, y } } = chart;
+        for (let i = 0; i < windowData.length; i++) {
+          const d = windowData[i];
+          const dt = new Date(d.ts);
+          if (dt.getUTCDay() === 1) { // Monday
+            const xPos = x.getPixelForValue(i);
+            ctx.save();
+            ctx.beginPath();
+            ctx.setLineDash([4, 4]);
+            ctx.strokeStyle = 'rgba(142, 139, 130, 0.3)';
+            ctx.lineWidth = 1;
+            ctx.moveTo(xPos, y.top);
+            ctx.lineTo(xPos, y.bottom);
+            ctx.stroke();
+            ctx.restore();
+          }
+        }
+      }
+    }],
     data: {
       labels,
       datasets: [
