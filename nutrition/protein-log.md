@@ -479,3 +479,14 @@
 || 🧖‍♀️ Sauna | — | — | — | |
 | Chief whey, 1 scoop | 24g | — | ~120 | |
 | Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
+
+### Sunday 26/7 — P: ~24.7g · F: ~4.1g · ~372 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| Ghee, ½ tsp | — | — | ~22 | Default for eggs |
+| 2 eggs | ~12g | — | ~140 | |
+| Macro Organic baked beans, 2 tbsp | ~1.7g | ~1.6g | ~30 | 4.9g P / 4.7g F per 100g — 2 tbsp ≈ 35g |
+| Just wholemeal bread, 1 slice | ~3.5g | ~2.5g | ~85 | Estimate — not in API. Similar to Wonder Wholemeal Iron |
+| Rindless bacon, 2 slices | ~7g | — | ~90 | |
