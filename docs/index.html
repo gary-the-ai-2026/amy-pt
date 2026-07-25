@@ -2264,6 +2264,7 @@ const FOOD_CHART_WINDOW = 30;
 let bowelChartPageIdx = 0;    // current 14-day window offset
 const BOWEL_CHART_WINDOW = 14;
 let allBowelDays = [];        // full bowel data for windowed chart
+let cachedProteinMD = '';     // raw MD for bowel chart re-renders
 let foodChartInst = null;
 let bowelChartInst = null;
 
@@ -2296,6 +2297,7 @@ async function renderFood() {
 
   try {
     const md = await fetchText(`${REPO_RAW}/nutrition/protein-log.md?t=${Date.now()}`);
+    cachedProteinMD = md;  // store for bowel chart page navigation
     if (!md) throw new Error('No data');
 
     // Parse targets from header table
@@ -2426,8 +2428,8 @@ async function renderFood() {
     // ── Chart ──
     renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh);
 
-    // ── Bowel chart ──
-    renderBowelChart(md);
+    // ── Bowel chart (reset to latest on fresh load) ──
+    renderBowelChart(md, true);
 
   } catch (e) {
     daysEl.innerHTML = '<div class="card-cream" style="text-align:center;color:var(--muted-soft);padding:32px;">Could not load nutrition data.</div>';
@@ -2551,7 +2553,7 @@ function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
   });
 }
 
-function renderBowelChart(md) {
+function renderBowelChart(md, resetPage = false) {
   const canvas = document.getElementById('chart-bowel');
   const legendEl = document.getElementById('bowel-legend');
   if (!canvas || !legendEl) return;
@@ -2635,8 +2637,7 @@ function renderBowelChart(md) {
 
   // ── Compute current 14-day window ──
   const totalPages = Math.ceil(allDays.length / BOWEL_CHART_WINDOW);
-  // Default to most recent page
-  bowelChartPageIdx = Math.max(0, totalPages - 1);
+  if (resetPage) bowelChartPageIdx = Math.max(0, totalPages - 1);
   const start = bowelChartPageIdx * BOWEL_CHART_WINDOW;
   const end = start + BOWEL_CHART_WINDOW;
   const windowDays = allDays.slice(start, end);
@@ -2806,8 +2807,8 @@ function renderBowelChart(md) {
 function bowelChartPage(dir) {
   const maxPage = Math.ceil(allBowelDays.length / BOWEL_CHART_WINDOW) - 1;
   bowelChartPageIdx = Math.max(0, Math.min(maxPage, bowelChartPageIdx + dir));
-  // Re-render from stored data — parse the raw MD again
-  renderFood();
+  // Re-render bowel chart directly — don't re-fetch (would reset page)
+  renderBowelChart(cachedProteinMD);
 }
 
 function foodChartPage(dir) {
