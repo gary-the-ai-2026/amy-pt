@@ -2466,8 +2466,8 @@ function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
   label.textContent = isLastPage
     ? `Last ${windowData.length} days`
     : `${windowData[0].dateStr.slice(5)} — ${windowData[windowData.length-1].dateStr.slice(5)}`;
-  prevBtn.disabled = isLastPage;
-  nextBtn.disabled = isFirstPage;
+  prevBtn.disabled = isFirstPage;
+  nextBtn.disabled = isLastPage;
 
   const labels = windowData.map(d => d.dateStr.slice(5)); // MM-DD
   const pValues = windowData.map(d => d.protein);
