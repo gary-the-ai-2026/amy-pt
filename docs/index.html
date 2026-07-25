@@ -2635,8 +2635,8 @@ function renderBowelChart(md) {
 
   // ── Compute current 14-day window ──
   const totalPages = Math.ceil(allDays.length / BOWEL_CHART_WINDOW);
-  // If page would be out of range (data changed), clamp to last page
-  if (bowelChartPageIdx >= totalPages) bowelChartPageIdx = Math.max(0, totalPages - 1);
+  // Default to most recent page
+  bowelChartPageIdx = Math.max(0, totalPages - 1);
   const start = bowelChartPageIdx * BOWEL_CHART_WINDOW;
   const end = start + BOWEL_CHART_WINDOW;
   const windowDays = allDays.slice(start, end);
