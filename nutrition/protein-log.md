@@ -434,7 +434,7 @@
 ||| Good Fat Mayo, 1 tbsp | ~0.3g | — | ~105 | |
 ||| Herman Brot Complete Protein, 1 slice | ~12.8g | ~4.5g | ~125 | |
 
-### Saturday 25/7 — P: ~56.1g · F: ~14.4g · ~860 kcal
+### Saturday 25/7 — P: ~77.1g · F: ~23.4g · ~1,145 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -447,6 +447,10 @@
 | Sweet & Sour turkey burger, 1 patty (9/batch) | ~11g | ~0.5g | ~90 | Homemade — 500g lean turkey mince, mayo, onion, chilli, breadcrumbs, spices. Batch made 9. |
 | Gold kiwi (half skin on) | ~0.5g | ~1.5g | ~50 | |
 | Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
+| Glazed salmon, half fillet (~75g) | ~15g | — | ~150 | Pan-seared with glaze |
+| Zucchini, half of 2 thick slices | ~0.5g | ~1g | ~15 | Roasted/grilled |
+| Brussels sprouts, 5 whole | ~5g | ~5g | ~40 | Roasted |
+| Roasted butternut squash, 1 wedge | ~1g | ~3g | ~80 | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
