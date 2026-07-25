@@ -434,7 +434,7 @@
 ||| Good Fat Mayo, 1 tbsp | ~0.3g | — | ~105 | |
 ||| Herman Brot Complete Protein, 1 slice | ~12.8g | ~4.5g | ~125 | |
 
-### Saturday 25/7 — P: ~83.1g · F: ~23.4g · ~1,218 kcal
+### Saturday 25/7 — P: ~94.6g · F: ~23.4g · ~1,278 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -451,6 +451,7 @@
 | Zucchini, half of 2 thick slices | ~0.5g | ~1g | ~15 | Roasted/grilled |
 | Brussels sprouts, 5 whole | ~5g | ~5g | ~40 | Roasted |
 | Roasted butternut squash, 1 wedge | ~1g | ~3g | ~80 | |
+| Chief whey, ½ scoop | ~11.5g | — | ~60 | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
