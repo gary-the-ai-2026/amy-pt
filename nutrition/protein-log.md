@@ -434,7 +434,7 @@
 ||| Good Fat Mayo, 1 tbsp | ~0.3g | — | ~105 | |
 ||| Herman Brot Complete Protein, 1 slice | ~12.8g | ~4.5g | ~125 | |
 
-### Saturday 25/7 — P: ~48.7g · F: ~12.9g · ~730 kcal
+### Saturday 25/7 — P: ~49.2g · F: ~14.4g · ~780 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -445,6 +445,7 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Koja Bickie Bites Choc Brownie, 1 serve (3 bickies) | ~1.1g | ~2.4g | ~73 | |
 | Sweet & Sour turkey burger, 1 patty (9/batch) | ~11g | ~0.5g | ~90 | Homemade — 500g lean turkey mince, mayo, onion, chilli, breadcrumbs, spices. Batch made 9. |
+| Gold kiwi (half skin on) | ~0.5g | ~1.5g | ~50 | |
 
 ### Sunday 19/7 — P: ~105.3g · F: ~31g · ~1,587 kcal
 
