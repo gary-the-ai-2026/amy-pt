@@ -1,8 +1,8 @@
 # Amy's Nutrition Tracker
 
-| Target | Protein | Fibre |
-|---|---|---|
-| Daily | 130g | 25–30g |
+| Target | Protein | Fibre | Calories |
+|---|---|---|---|
+| Daily | 130g | 25–30g | 1,500–1,700 kcal |
 
 **Context:** GLP-1 medication — tracking intake for curiosity, protein adequacy, and gut health.
 **Medication:** Mounjaro 2.5mg weekly injections — commenced 2/7/26.
