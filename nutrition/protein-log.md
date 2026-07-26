@@ -481,7 +481,7 @@
 | Chief whey, 1 scoop | 24g | — | ~120 | |
 | Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
 
-### Sunday 26/7 — P: ~24.9g · F: ~4.2g · ~375 kcal
+### Sunday 26/7 — P: ~30.0g · F: ~4.2g · ~450 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -491,3 +491,4 @@
 | Macro Organic baked beans, 2 tbsp | ~1.7g | ~1.6g | ~30 | 4.9g P / 4.7g F per 100g — 2 tbsp ≈ 35g |
 | Just wholemeal bread, 1 slice | ~3.7g | ~2.6g | ~88 | Per label: 7.4g P · 5.1g F per 74g (2 slices) → 3.7g P · 2.55g F per slice. 370kJ |
 | Rindless bacon, 2 slices | ~7g | — | ~90 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
