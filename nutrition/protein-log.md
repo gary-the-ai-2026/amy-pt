@@ -100,6 +100,7 @@
 | 50g pumpkin (cooked) | ~0.5g | ~1g | ~15 | Roasted |
 | Few tbsp gravy | ~1g | — | ~25 | |
 | 4 squares caramel milk chocolate | ~1g | ~0.5g | ~100 | Cadbury — estimate |
+| Green kiwi (skin on) | ~0.5g | ~2g | ~45 | |
 | Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
 | Gold kiwi (skin on) | ~0.5g | ~2g | ~50 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
@@ -490,7 +491,7 @@
 | Chief whey, 1 scoop | 24g | — | ~120 | |
 | Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
 
-### Sunday 26/7 — P: ~104.3g · F: ~14.0g · ~1,115 kcal
+### Sunday 26/7 — P: ~104.8g · F: ~16.0g · ~1,160 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
