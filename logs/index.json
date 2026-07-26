@@ -1,5 +1,16 @@
 [
   {
+    "name": "2026-07-26-freestyle.json",
+    "date": "2026-07-26",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 8,
+    "completed_count": 8
+  },
+  {
     "name": "2026-07-25-ivoryrose-circuit.json",
     "date": "2026-07-25",
     "type": "ad-hoc",

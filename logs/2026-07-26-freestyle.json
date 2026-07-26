@@ -1,0 +1,205 @@
+{
+  "session_id": "2026-07-26-freestyle",
+  "date": "2026-07-26",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "gym",
+  "cycle": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Tricep Kickback",
+      "notes": "Per arm",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 4,
+          "reps": 12,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 12,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 12,
+          "side": "each"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Hip Thrust (1 foot on ball)",
+      "notes": "Per leg \u2014 stability ball",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 8,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 8,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 8,
+          "side": "each"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Lateral Raise Machine",
+      "notes": "Per side",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 5,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 5,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 5,
+          "reps": 10,
+          "side": "each"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Chin Up",
+      "notes": "Unassisted",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 1
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 1
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 1
+        },
+        {
+          "set": 4,
+          "weight_kg": null,
+          "reps": 1
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Leg Curl",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 8
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 15,
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Plank",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": null,
+          "duration_sec": 45
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": null,
+          "duration_sec": 45
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": null,
+          "duration_sec": 45
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Row",
+      "notes": "Per arm",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 18,
+          "reps": 8,
+          "side": "each"
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Tricep Dip (straight legs)",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 8
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 10
+        }
+      ]
+    }
+  ],
+  "notes": "Solid full-body freestyle. Chin-ups: 4 clean singles unassisted \u2014 big milestone. Row top set 18kg/arm \u00d78. Leg curl ramped to 15kg \u00d710. Hip thrusts on stability ball for unilateral challenge."
+}
