@@ -92,6 +92,14 @@
 | Peppercorn Extra Lean chicken sausage | ~9.9g | ~1.3g | ~100 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Chief whey, ¾ scoop | ~17.3g | — | ~90 | |
+| 150g turkey + chicken (combined) | ~45g | — | ~250 | Roast, mixed white/dark meat estimate |
+| 5 Brussels sprouts | ~5g | ~5g | ~40 | Roasted |
+| ¼ potato | ~1g | ~1g | ~40 | Roast |
+| 1 Yorkshire pudding | ~2g | ~0.5g | ~70 | |
+| ¼ cup carrots + peas | ~1.5g | ~2g | ~35 | |
+| 50g pumpkin (cooked) | ~0.5g | ~1g | ~15 | Roasted |
+| Few tbsp gravy | ~1g | — | ~25 | |
+| 4 squares caramel milk chocolate | ~1g | ~0.5g | ~100 | Cadbury — estimate |
 | Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
 | Gold kiwi (skin on) | ~0.5g | ~2g | ~50 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
@@ -482,7 +490,7 @@
 | Chief whey, 1 scoop | 24g | — | ~120 | |
 | Haighs peppermint bar | ~1g | ~0.5g | ~100 | |
 
-### Sunday 26/7 — P: ~47.3g · F: ~4.2g · ~540 kcal
+### Sunday 26/7 — P: ~104.3g · F: ~14.0g · ~1,115 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
