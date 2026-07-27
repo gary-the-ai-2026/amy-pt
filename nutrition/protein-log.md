@@ -71,9 +71,10 @@
 | 21/7/26 | 3 | Normal |
 | 22/7/26 | 1, 4 | Two BMs — Type 1 early, Type 4 later |
 | 23/7/26 | 3 | Normal |
-| 24/7/26 | — | None |
-| 25/7/26 | 3 | Normal |
-| 26/7/26 | 3 | Normal |
+|| 24/7/26 | — | None |
+|| 25/7/26 | 3 | Normal |
+|| 26/7/26 | 3 | Normal |
+|| 27/7/26 | — | None |
 
 ---
 
@@ -498,7 +499,36 @@
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 | Ghee, ½ tsp | — | — | ~22 | Default for eggs |
 | 2 eggs | ~12g | — | ~140 | |
-| Macro Organic baked beans, 2 tbsp | ~1.7g | ~1.6g | ~30 | 4.9g P / 4.7g F per 100g — 2 tbsp ≈ 35g |
-| Just wholemeal bread, 1 slice | ~3.7g | ~2.6g | ~88 | Per label: 7.4g P · 5.1g F per 74g (2 slices) → 3.7g P · 2.55g F per slice. 370kJ |
-| Rindless bacon, 2 slices | ~7g | — | ~90 | |
+|| Macro Organic baked beans, 2 tbsp | ~1.7g | ~1.6g | ~30 | 4.9g P / 4.7g F per 100g — 2 tbsp ≈ 35g |
+|| Just wholemeal bread, 1 slice | ~3.7g | ~2.6g | ~88 | Per label: 7.4g P · 5.1g F per 74g (2 slices) → 3.7g P · 2.55g F per slice. 370kJ |
+|| Rindless bacon, 2 slices | ~7g | — | ~90 | |
+|| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+
+### Monday 27/7 — P: ~98.5g · F: ~26.1g · ~1,771 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Woolworths Wheat Biscuits ×4 | ~7.6g | ~6.4g | ~212 | 12.6g P / 10.6g F per 100g (label). ~15g per biscuit |
+| Full cream milk, 1 cup (250ml) | ~8.5g | — | ~167 | Woolworths 3.32g P/100g — scaled up from ¾ cup reference |
+| Hemp seeds, 2 tsp | ~1.9g | ~0.2g | ~33 | ~6g |
+| Raw sugar, 1 tsp | — | — | ~16 | ~4g |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| Five:AM Strawberry yoghurt, 130g | ~5.2g | — | ~125 | ~4g P per 100g (organic pot-set style) |
+| Sweet & Sour turkey burgers ×3 | ~33g | ~1.5g | ~270 | Latest batch (9/batch — 500g lean turkey mince, mayo, onion, chilli, breadcrumbs, spices) |
+| Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
+| Cucumber, 1 | ~0.5g | ~1g | ~15 | Qukes/Lebanese |
+| Gold kiwi (skin on) | ~0.5g | ~2g | ~50 | |
+| Medjool date + toppings | ~1.5g | ~2.1g | ~91 | ½ tsp almond butter assumed |
+| Kooee beef stick | ~6.9g | — | ~80 | 25g stick, 27.5g P/100g |
+| Beef & bean tacos ×2 | ~25g | ~11.4g | ~472 | Same build as Fri 24/7 — 70g mince, ¼c lentils, ¼c black beans, 2× tortilla, cheese, mayo, capsicum, salsa |
+| 🧖‍♀️ Sauna | — | — | — | |
+|| Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
+
+### Tuesday 28/7 — P: ~16.2g · F: ~2.6g · ~233 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| 2 eggs | ~12g | — | ~140 | Boiled — no added fat mentioned |
+| Just wholemeal bread, 1 slice | ~3.7g | ~2.6g | ~88 | 7.4g P · 5.1g F per 74g (2 slices) → per slice |
