@@ -525,10 +525,12 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
-### Tuesday 28/7 — P: ~16.2g · F: ~2.6g · ~233 kcal
+### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 | 2 eggs | ~12g | — | ~140 | Boiled — no added fat mentioned |
 | Just wholemeal bread, 1 slice | ~3.7g | ~2.6g | ~88 | 7.4g P · 5.1g F per 74g (2 slices) → per slice |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy — assumed, let me know if different |
+| Green kiwi, skin on (half skin) | ~0.5g | ~2g | ~50 | |
