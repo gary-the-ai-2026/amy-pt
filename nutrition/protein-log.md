@@ -525,6 +525,14 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
+### Wednesday 29/7 — P: ~17.9g · F: ~5.2g · ~372 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Banana Oat Blender Pancakes ×2 | ~16.3g | ~5.2g | ~305 | Batch of 7 — full-cream milk, 2 tsp psyllium husk, 1 scoop protein. Ghee for frying |
+| Greek yoghurt, 2 tbsp | ~1.6g | — | ~50 | Aldi Brooklea full-fat |
+| Maple syrup, 1 tsp | — | — | ~17 | |
+
 ### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
@@ -535,5 +543,10 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy — assumed, let me know if different |
 | Green kiwi, skin on (half skin) | ~0.5g | ~2g | ~50 | |
 | 💩 Bristol type 5 | — | — | — | |
-| Beef steak | ~39g | — | ~255 | ~150g, grilled — assumed lean, no added fat |
+| Beef stick | ~6.9g | — | ~80 | Kooee — 25g stick, ~27.5g P/100g |
 | Protein powder, 1 scoop | ~25g | — | ~120 | Standard whey |
+| Just wholemeal bread, 2 slices | ~7.4g | ~5.1g | ~176 | |
+| Good Fat Mayo, 1 tsp | ~0.1g | — | ~35 | |
+| Turkey slices, ~60g | ~11.4g | — | ~72 | ~19g P per 100g (deli turkey) |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| Cadbury Dairy Milk ×4 squares | ~3.6g | — | ~256 | ~64 kcal per square (~12g) |
