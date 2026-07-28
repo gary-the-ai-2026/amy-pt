@@ -534,3 +534,6 @@
 | Just wholemeal bread, 1 slice | ~3.7g | ~2.6g | ~88 | 7.4g P · 5.1g F per 74g (2 slices) → per slice |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy — assumed, let me know if different |
 | Green kiwi, skin on (half skin) | ~0.5g | ~2g | ~50 | |
+| 💩 Bristol type 5 | — | — | — | |
+| Beef steak | ~39g | — | ~255 | ~150g, grilled — assumed lean, no added fat |
+| Protein powder, 1 scoop | ~25g | — | ~120 | Standard whey |
