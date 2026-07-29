@@ -524,7 +524,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
-### Wednesday 29/7 — P: ~23.0g · F: ~5.2g · ~447 kcal
+### Wednesday 29/7 — P: ~45.0g · F: ~6.2g · ~627 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -532,6 +532,7 @@
 | Greek yoghurt, 2 tbsp | ~1.6g | — | ~50 | Aldi Brooklea full-fat |
 | Maple syrup, 1 tsp | — | — | ~17 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Sweet & Sour turkey burgers ×2 | ~22g | ~1g | ~180 | Same batch as Mon — 9 patties |
 
 ### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
