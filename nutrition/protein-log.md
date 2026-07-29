@@ -524,7 +524,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
-### Wednesday 29/7 — P: ~65.3g · F: ~9.2g · ~974 kcal
+### Wednesday 29/7 — P: ~96.5g · F: ~12.3g · ~1,324 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -536,6 +536,11 @@
 | Salted peanuts, 1 handful | ~7.8g | ~2.5g | ~172 | ~30g |
 | Harvey beef jerky, 25g | ~11.5g | — | ~75 | Hickory smoked |
 | Haighs caramel bar | ~1g | ~0.5g | ~100 | |
+| Basmati rice, ¼ cup cooked | ~1.4g | ~0.2g | ~60 | |
+| Chicken thigh ×1.5 | ~25g | — | ~190 | ~100g cooked, skinless |
+| Frozen peas/corn/carrots, ¼ cup | ~1.4g | ~1.4g | ~29 | Mixed veg |
+| Greek yoghurt, 2 tbsp | ~1.6g | — | ~50 | Aldi Brooklea full-fat |
+| Broccolini, 2 stalks | ~1.8g | ~1.5g | ~21 | ~60g |
 
 ### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
