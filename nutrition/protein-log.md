@@ -524,7 +524,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
-### Wednesday 29/7 — P: ~64.3g · F: ~8.7g · ~874 kcal
+### Wednesday 29/7 — P: ~65.3g · F: ~9.2g · ~974 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -535,6 +535,7 @@
 | Sweet & Sour turkey burgers ×2 | ~22g | ~1g | ~180 | Same batch as Mon — 9 patties |
 | Salted peanuts, 1 handful | ~7.8g | ~2.5g | ~172 | ~30g |
 | Harvey beef jerky, 25g | ~11.5g | — | ~75 | Hickory smoked |
+| Haighs caramel bar | ~1g | ~0.5g | ~100 | |
 
 ### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
