@@ -524,7 +524,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
-### Wednesday 29/7 — P: ~45.0g · F: ~6.2g · ~627 kcal
+### Wednesday 29/7 — P: ~64.3g · F: ~8.7g · ~874 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -533,6 +533,8 @@
 | Maple syrup, 1 tsp | — | — | ~17 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Sweet & Sour turkey burgers ×2 | ~22g | ~1g | ~180 | Same batch as Mon — 9 patties |
+| Salted peanuts, 1 handful | ~7.8g | ~2.5g | ~172 | ~30g |
+| Harvey beef jerky, 25g | ~11.5g | — | ~75 | Hickory smoked |
 
 ### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
