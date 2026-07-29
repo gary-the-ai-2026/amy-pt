@@ -524,7 +524,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
-### Wednesday 29/7 — P: ~96.5g · F: ~12.3g · ~1,324 kcal
+### Wednesday 29/7 — P: ~97.0g · F: ~14.3g · ~1,374 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -541,6 +541,7 @@
 | Frozen peas/corn/carrots, ¼ cup | ~1.4g | ~1.4g | ~29 | Mixed veg |
 | Greek yoghurt, 2 tbsp | ~1.6g | — | ~50 | Aldi Brooklea full-fat |
 | Broccolini, 2 stalks | ~1.8g | ~1.5g | ~21 | ~60g |
+| Green kiwi, ¾ skin on | ~0.5g | ~2g | ~50 | |
 
 ### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
