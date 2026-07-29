@@ -454,7 +454,6 @@
 | 5 AM Honey Cinnamon yoghurt, 2 tbsp | ~1.5g | — | ~35 | |
 | Hemp seeds, sprinkle (~1 tsp) | ~3g | ~1g | ~30 | |
 | Maple syrup, 1 tbsp | — | — | ~52 | |
-| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Koja Bickie Bites Choc Brownie, 1 serve (3 bickies) | ~1.1g | ~2.4g | ~73 | |
 | Sweet & Sour turkey burger, 1 patty (9/batch) | ~11g | ~0.5g | ~90 | Homemade — 500g lean turkey mince, mayo, onion, chilli, breadcrumbs, spices. Batch made 9. |
 | Gold kiwi (half skin on) | ~0.5g | ~1.5g | ~50 | |
@@ -525,13 +524,14 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
-### Wednesday 29/7 — P: ~17.9g · F: ~5.2g · ~372 kcal
+### Wednesday 29/7 — P: ~23.0g · F: ~5.2g · ~447 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | Banana Oat Blender Pancakes ×2 | ~16.3g | ~5.2g | ~305 | Batch of 7 — full-cream milk, 2 tsp psyllium husk, 1 scoop protein. Ghee for frying |
 | Greek yoghurt, 2 tbsp | ~1.6g | — | ~50 | Aldi Brooklea full-fat |
 | Maple syrup, 1 tsp | — | — | ~17 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 
 ### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
