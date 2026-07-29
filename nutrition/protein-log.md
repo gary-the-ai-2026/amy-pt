@@ -546,7 +546,7 @@
 | Cadbury dark peppermint, 3 squares | ~0.8g | ~0.2g | ~50 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
-### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
+### Tuesday 28/7 — P: ~109.7g · F: ~15.5g · ~1,717 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -563,3 +563,10 @@
 | Turkey slices, ~60g | ~11.4g | — | ~72 | ~19g P per 100g (deli turkey) |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 | Cadbury Dairy Milk ×4 squares | ~3.6g | — | ~256 | ~64 kcal per square (~12g) |
+| Basmati rice, ¼ cup cooked | ~1.4g | ~0.2g | ~60 | Same dinner as Wednesday |
+| Chicken thigh ×1.5 | ~25g | — | ~190 | ~100g cooked, skinless |
+| Frozen peas/corn/carrots, ¼ cup | ~1.4g | ~1.4g | ~29 | Mixed veg |
+| Greek yoghurt, 2 tbsp | ~1.6g | — | ~50 | Aldi Brooklea full-fat |
+| Broccolini, 2 stalks | ~1.8g | ~1.5g | ~21 | ~60g |
+| 🥧 Nana's apple & blackberry pie, ¾ individual | ~1.5g | ~2.3g | ~210 | Individual size, ~280 kcal whole |
+| Dollop cream, 1 tbsp | ~0.3g | — | ~55 | |
