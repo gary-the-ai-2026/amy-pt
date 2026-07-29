@@ -570,3 +570,12 @@
 | Broccolini, 2 stalks | ~1.8g | ~1.5g | ~21 | ~60g |
 | 🥧 Nana's apple & blackberry pie, ¾ individual | ~1.5g | ~2.3g | ~210 | Individual size, ~280 kcal whole |
 | Dollop cream, 1 tbsp | ~0.3g | — | ~55 | |
+
+### Thursday 30/7 — P: ~26g · F: ~5.1g · ~461 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
+| 3 eggs | ~18g | — | ~210 | Boiled |
+| Just wholemeal bread, 2 slices | ~7.4g | ~5.1g | ~176 | |
+| Mainland butter, 2 tsp | ~0.1g | — | ~70 | ~35 kcal/tsp |
