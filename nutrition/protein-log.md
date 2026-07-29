@@ -524,7 +524,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 || Salt & vinegar crinkle chips, 1 handful | ~2g | ~1g | ~150 | ~30g |
 
-### Wednesday 29/7 — P: ~97.0g · F: ~14.3g · ~1,374 kcal
+### Wednesday 29/7 — P: ~98.3g · F: ~14.5g · ~1,429 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -542,6 +542,8 @@
 | Greek yoghurt, 2 tbsp | ~1.6g | — | ~50 | Aldi Brooklea full-fat |
 | Broccolini, 2 stalks | ~1.8g | ~1.5g | ~21 | ~60g |
 | Green kiwi, ¾ skin on | ~0.5g | ~2g | ~50 | |
+| Cadbury dark peppermint, 3 squares | ~0.8g | ~0.2g | ~50 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
 
 ### Tuesday 28/7 — P: ~21.8g · F: ~4.6g · ~358 kcal
 
