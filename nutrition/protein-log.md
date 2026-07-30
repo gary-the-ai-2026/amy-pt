@@ -572,7 +572,7 @@
 | 🥧 Nana's apple & blackberry pie, ¾ individual | ~1.5g | ~2.3g | ~210 | Individual size, ~280 kcal whole |
 | Dollop cream, 1 tbsp | ~0.3g | — | ~55 | |
 
-### Thursday 30/7 — P: ~93.6g · F: ~9.6g · ~1,556 kcal
+### Thursday 30/7 — P: ~81.6g · F: ~9.6g · ~1,356 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -583,7 +583,7 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Chief Whey protein, 1 scoop | ~23g | — | ~120 | |
 | Green kiwi, half skin on | ~0.5g | ~2g | ~50 | |
-| Pizza, 2 pieces | ~22g | ~2g | ~550 | Estimate — let me know if different |
+| Pizza, 2 pieces | ~10g | ~2g | ~350 | ~5g P per piece |
 | Beef meatballs, 3 small | ~16g | — | ~200 | Estimate — ~5-6g P each |
 | Haighs chocolate caramel bar | ~1g | ~0.5g | ~100 | |
 
