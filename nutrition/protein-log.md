@@ -572,7 +572,7 @@
 | 🥧 Nana's apple & blackberry pie, ¾ individual | ~1.5g | ~2.3g | ~210 | Individual size, ~280 kcal whole |
 | Dollop cream, 1 tbsp | ~0.3g | — | ~55 | |
 
-### Thursday 30/7 — P: ~81.6g · F: ~9.6g · ~1,356 kcal
+### Thursday 30/7 — P: ~91.8g · F: ~17.2g · ~1,636 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -587,9 +587,7 @@
 | Beef meatballs, 3 small | ~16g | — | ~200 | Estimate — ~5-6g P each |
 | Haighs chocolate caramel bar | ~1g | ~0.5g | ~100 | |
 
-| Item | Protein | Fibre | Cals | Notes |
-|---|---|---|---|---|
-| Tea | ~0.5g | — | ~5 | English breakfast + dash lactose-free milk |
-| 3 eggs | ~18g | — | ~210 | Boiled |
-| Just wholemeal bread, 2 slices | ~7.4g | ~5.1g | ~176 | |
-| Mainland butter, 2 tsp | ~0.1g | — | ~70 | ~35 kcal/tsp |
+| Only Organic Veg Minestrone soup, full pouch | ~6.2g | ~6.6g | ~160 | 380g. Label: 6.2g P, 6.6g F |
+| Woolworths bakery crust bread, 1 piece | ~4g | ~1g | ~120 | |
+| 🧖‍♀️ Sauna | — | — | — | |
+
