@@ -1,0 +1,106 @@
+{
+  "session_id": "2026-08-01-ivoryrose-strength",
+  "date": "2026-08-01",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Ivoryrose",
+  "format": "2 sections: 16 min AMRAP conditioning (4 stations, partner YIGIG) + 24 min strength (3 rounds/group)",
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "conditioning",
+      "name": "Rower",
+      "target_reps": "8–10 cals",
+      "format": "AMRAP — 4 min station, partner YIGIG",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "4 min AMRAP — rower (chose over ski)"}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "conditioning",
+      "name": "DB Snatch",
+      "target_reps": "8 ES",
+      "format": "AMRAP — 4 min station, partner YIGIG",
+      "sets": [
+        {"set": 1, "weight_kg": 9, "reps": null, "notes": "4 min AMRAP — 9kg, 8 ES per round"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "conditioning",
+      "name": "Burpee + Plate Tap",
+      "target_reps": "8 reps",
+      "format": "AMRAP — 4 min station, partner YIGIG",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "4 min AMRAP — bodyweight, 8 reps per round"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "conditioning",
+      "name": "DB OH Stork to Split Squat (1×DB)",
+      "target_reps": "4 ES",
+      "format": "AMRAP — 4 min station, partner YIGIG",
+      "sets": [
+        {"set": 1, "weight_kg": 9, "reps": null, "notes": "4 min AMRAP — 9kg, 4 ES per round"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "A — Lower Limb",
+      "name": "BB Deadlift",
+      "target_reps": "8–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 45, "reps": 10},
+        {"set": 2, "weight_kg": 55, "reps": 10},
+        {"set": 3, "weight_kg": 60, "reps": 6}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "A — Lower Limb",
+      "name": "TB Upright Row",
+      "target_reps": "10–12",
+      "target_sets": 3,
+      "notes": "Red band",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": 12, "notes": "Red band"},
+        {"set": 2, "weight_kg": null, "reps": 12, "notes": "Red band"},
+        {"set": 3, "weight_kg": null, "reps": 12, "notes": "Red band"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "B — Upper Limb",
+      "name": "DB 4-Point Bent-Over Row on Bench",
+      "target_reps": "6–8 ES",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 15, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 17.5, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 17.5, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "B — Upper Limb",
+      "name": "KB Goblet Squat (3s eccentric)",
+      "target_reps": "10–12",
+      "target_sets": 3,
+      "skipped": true,
+      "sets": [],
+      "notes": "Not mentioned — confirm?"
+    }
+  ],
+  "notes": "Ivoryrose — conditioning + strength. Chose rower over ski erg. 3 strength rounds instead of 4. Deadlift pyramid: 45→55→60kg. DB rows: 15→17.5kg. Snatch and stork split squat at 9kg. KB goblet squat status TBC.",
+  "progression_skipped": true
+}
