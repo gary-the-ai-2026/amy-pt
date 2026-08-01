@@ -607,3 +607,4 @@
 | Kids pear | ~0.5g | ~3g | ~60 | Small pear |
 | Peppercorn chicken sausage | ~10g | ~1.3g | ~100 | |
 | Cucumber | ~0.5g | ~1g | ~15 | Qukes |
+| 🧖‍♀️ Sauna | — | — | — | |
