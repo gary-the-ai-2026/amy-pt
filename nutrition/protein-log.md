@@ -615,11 +615,11 @@
 | Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 — scaled from 6g P / 5g F per ball (15-ball recipe) |
 | Haighs milk pastilles, 50g | ~4g | ~1g | ~275 | |
-### Sunday 2/8 — P: ~24.6g · F: ~9.6g · ~581 kcal
+### Sunday 2/8 — P: ~24.4g · F: ~8.8g · ~564 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
-| Banana oat blender pancakes ×3 | ~15.9g | ~6.6g | ~354 | Doubled batch + 1 scoop protein + 2 tsp psyllium. 19 total, ate 3 |
+| Banana oat blender pancakes ×3 | ~15.7g | ~5.8g | ~338 | Doubled batch + 1 scoop protein + 2 tsp psyllium, 3 bananas total. 19 made, ate 3 |
 | East Coast Bush Honey yoghurt, 2 tbsp | ~1.6g | — | ~25 | |
 | Maple syrup, 1 tbsp | — | — | ~52 | |
 | Frozen raspberries, ¼ cup | ~1g | ~2g | ~25 | |
