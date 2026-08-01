@@ -93,14 +93,18 @@
       "num": 8,
       "section": "strength",
       "group": "B — Upper Limb",
-      "name": "KB Goblet Squat (3s eccentric)",
-      "target_reps": "10–12",
+      "name": "Thigh Stretch (Weighted)",
+      "target_reps": "—",
       "target_sets": 3,
-      "skipped": true,
-      "sets": [],
-      "notes": "Not mentioned — confirm?"
+      "substitution_for": "KB Goblet Squat (3s eccentric)",
+      "notes": "7kg plate on chest",
+      "sets": [
+        {"set": 1, "weight_kg": 7, "reps": null, "notes": "7kg plate on chest"},
+        {"set": 2, "weight_kg": 7, "reps": null, "notes": "7kg plate on chest"},
+        {"set": 3, "weight_kg": 7, "reps": null, "notes": "7kg plate on chest"}
+      ]
     }
   ],
-  "notes": "Ivoryrose — conditioning + strength. Chose rower over ski erg. 3 strength rounds instead of 4. Deadlift pyramid: 45→55→60kg. DB rows: 15→17.5kg. Snatch and stork split squat at 9kg. KB goblet squat status TBC.",
+  "notes": "Ivoryrose — conditioning + strength. Chose rower over ski erg. 3 strength rounds instead of 4. Deadlift pyramid: 45→55→60kg. DB rows: 15→17.5kg. Snatch and stork split squat at 9kg. Subbed KB goblet squat → weighted thigh stretch (7kg plate).",
   "progression_skipped": true
 }
