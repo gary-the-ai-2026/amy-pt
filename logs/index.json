@@ -11,6 +11,28 @@
     "completed_count": 8
   },
   {
+    "name": "2026-07-31-waterfall-gully-walk.json",
+    "date": "2026-07-31",
+    "type": "cardio",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 0,
+    "completed_count": 0
+  },
+  {
+    "name": "2026-07-28-waterfall-gully-walk.json",
+    "date": "2026-07-28",
+    "type": "cardio",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": 54,
+    "exercise_count": 0,
+    "completed_count": 0
+  },
+  {
     "name": "2026-07-26-freestyle.json",
     "date": "2026-07-26",
     "type": "ad-hoc",
