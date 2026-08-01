@@ -615,7 +615,7 @@
 | Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 — scaled from 6g P / 5g F per ball (15-ball recipe) |
 | Haighs milk pastilles, 50g | ~4g | ~1g | ~275 | |
-### Sunday 2/8 — P: ~19g · F: ~9.6g · ~501 kcal
+### Sunday 2/8 — P: ~24.6g · F: ~9.6g · ~581 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -624,3 +624,5 @@
 | Maple syrup, 1 tbsp | — | — | ~52 | |
 | Frozen raspberries, ¼ cup | ~1g | ~2g | ~25 | |
 | Green kiwi (skin off) | ~0.5g | ~1g | ~45 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
