@@ -592,7 +592,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 
 
-### Saturday 1/8 — P: ~21g · F: ~3.8g · ~348 kcal
+### Saturday 1/8 — P: ~44g · F: ~3.8g · ~468 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -600,12 +600,4 @@
 | 2½ eggs | ~15g | — | ~175 | |
 | Woolworths wholemeal toast, 1½ slices | ~5.5g | ~3.8g | ~132 | |
 | Butter, 1 tsp | — | — | ~36 | |
-
-### Saturday 1/8 — P: ~21g · F: ~3.8g · ~348 kcal
-
-| Item | Protein | Fibre | Cals | Notes |
-|---|---|---|---|---|
-| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
-| 2½ eggs | ~15g | — | ~175 | |
-| Woolworths wholemeal toast, 1½ slices | ~5.5g | ~3.8g | ~132 | |
-| Butter, 1 tsp | — | — | ~36 | |
+| Chief Whey, 1 scoop | ~23g | — | ~120 | |
