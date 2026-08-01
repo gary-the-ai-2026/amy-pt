@@ -592,7 +592,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 
 
-### Saturday 1/8 — P: ~50.1g · F: ~8.8g · ~653 kcal
+### Saturday 1/8 — P: ~60.6g · F: ~11.1g · ~768 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -604,3 +604,5 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Gold kiwi (half skin on) | ~0.5g | ~2g | ~50 | |
 | Kids pear | ~0.5g | ~3g | ~60 | Small pear |
+| Peppercorn chicken sausage | ~10g | ~1.3g | ~100 | |
+| Cucumber | ~0.5g | ~1g | ~15 | Qukes |
