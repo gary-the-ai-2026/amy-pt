@@ -595,7 +595,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 
 
-### Saturday 1/8 — P: ~86.5g · F: ~14.6g · ~1,010 kcal
+### Saturday 1/8 — P: ~90.8g · F: ~18.2g · ~1,158 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -613,3 +613,4 @@
 | Chicken thigh ×1 | ~22g | — | ~190 | Skinless, boneless |
 | Broccolini, 4 stalks | ~3.6g | ~3g | ~42 | |
 | Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
+| Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 — scaled from 6g P / 5g F per ball (15-ball recipe) |
