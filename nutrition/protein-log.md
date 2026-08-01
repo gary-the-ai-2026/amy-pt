@@ -594,7 +594,7 @@
 | 🧖‍♀️ Sauna | — | — | — | |
 
 
-### Saturday 1/8 — P: ~60.6g · F: ~11.1g · ~768 kcal
+### Saturday 1/8 — P: ~86.5g · F: ~14.6g · ~1,010 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -609,3 +609,6 @@
 | Peppercorn chicken sausage | ~10g | ~1.3g | ~100 | |
 | Cucumber | ~0.5g | ~1g | ~15 | Qukes |
 | 🧖‍♀️ Sauna | — | — | — | |
+| Chicken thigh ×1 | ~22g | — | ~190 | Skinless, boneless |
+| Broccolini, 4 stalks | ~3.6g | ~3g | ~42 | |
+| Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
