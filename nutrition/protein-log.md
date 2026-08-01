@@ -8,7 +8,7 @@
 **Medication:** Mounjaro 2.5mg weekly injections — commenced 2/7/26.
 **Ideal weight:** 65kg
 
-**Defaults:** Tea = English breakfast + dash lactose-free milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage). Herman Brot Low Carb bread = 11.8g protein per slice. Chief Whey = 24g protein per scoop.
+**Defaults:** Tea = English breakfast + dash full-cream milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage). Herman Brot Low Carb bread = 11.8g protein per slice. Chief Whey = 24g protein per scoop.
 
 **Bristol Stool Chart:** 1–2 = constipated · 3–4 = normal · 5–7 = loose/diarrhoea
 
@@ -591,3 +591,21 @@
 | Woolworths bakery crust bread, 1 piece | ~4g | ~1g | ~120 | |
 | 🧖‍♀️ Sauna | — | — | — | |
 
+
+### Saturday 1/8 — P: ~21g · F: ~3.8g · ~348 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| 2½ eggs | ~15g | — | ~175 | |
+| Woolworths wholemeal toast, 1½ slices | ~5.5g | ~3.8g | ~132 | |
+| Butter, 1 tsp | — | — | ~36 | |
+
+### Saturday 1/8 — P: ~21g · F: ~3.8g · ~348 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| 2½ eggs | ~15g | — | ~175 | |
+| Woolworths wholemeal toast, 1½ slices | ~5.5g | ~3.8g | ~132 | |
+| Butter, 1 tsp | — | — | ~36 | |
