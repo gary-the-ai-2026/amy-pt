@@ -74,8 +74,9 @@
 || 24/7/26 | — | None |
 || 25/7/26 | 3 | Normal |
 || 26/7/26 | 3 | Normal |
-|| 27/7/26 | — | None |
-|| 29/7/26 | — | None |
+| 27/7/26 | — | None |
+| 28/7/26 | 5 | Loose — reported by Amy |
+| 29/7/26 | — | None |
 || 30/7/26 | 3 | Normal |
 | 31/7/26 | — | Unknown — not recorded |
 
