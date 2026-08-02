@@ -99,6 +99,9 @@
 | Peppercorn Extra Lean chicken sausage | ~9.9g | ~1.3g | ~100 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Same batch as yesterday (batch of 21) |
+| Chicken thigh ×1 | ~22g | — | ~190 | Skinless, boneless |
+| Peppercorn chicken sausage | ~10g | ~1.3g | ~100 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
 | Chief whey, ¾ scoop | ~17.3g | — | ~90 | |
 | 150g turkey + chicken (combined) | ~45g | — | ~250 | Roast, mixed white/dark meat estimate |
 | 5 Brussels sprouts | ~5g | ~5g | ~40 | Roasted |
@@ -617,7 +620,7 @@
 | Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 — scaled from 6g P / 5g F per ball (15-ball recipe) |
 | Haighs milk pastilles, 50g | ~4g | ~1g | ~275 | |
-### Sunday 2/8 — P: ~28.7g · F: ~12.4g · ~712 kcal
+### Sunday 2/8 — P: ~61.2g · F: ~13.7g · ~1,007 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
