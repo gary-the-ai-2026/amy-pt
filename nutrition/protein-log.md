@@ -102,6 +102,11 @@
 | Chicken thigh ×1 | ~22g | — | ~190 | Skinless, boneless |
 | Peppercorn chicken sausage | ~10g | ~1.3g | ~100 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| ¾ chicken breast | ~30g | — | ~170 | Roasted |
+| Roasted vegetables | ~5g | ~10g | ~150 | Cauliflower, zucchini, butternut squash, Brussels sprouts, carrot, red onion |
+| Olive oil (roasting) | — | — | ~120 | ~1 tbsp |
+| Danish fetta, small sprinkle | ~2g | — | ~30 | |
+| Chorizo, small handful | ~4g | — | ~80 | ~20g |
 | Chief whey, ¾ scoop | ~17.3g | — | ~90 | |
 | 150g turkey + chicken (combined) | ~45g | — | ~250 | Roast, mixed white/dark meat estimate |
 | 5 Brussels sprouts | ~5g | ~5g | ~40 | Roasted |
@@ -620,7 +625,7 @@
 | Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 — scaled from 6g P / 5g F per ball (15-ball recipe) |
 | Haighs milk pastilles, 50g | ~4g | ~1g | ~275 | |
-### Sunday 2/8 — P: ~61.2g · F: ~13.7g · ~1,007 kcal
+### Sunday 2/8 — P: ~102.2g · F: ~23.7g · ~1,557 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
