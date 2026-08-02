@@ -637,3 +637,29 @@
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Haighs milk pastilles, 40g | ~3.2g | ~0.8g | ~220 | Sunday night |
+
+### Monday 3/8 — P: ~29.9g · F: ~11.2g · ~703 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Banana oat blender pancakes ×4 | ~20.9g | ~7.7g | ~451 | Same batch as Sun — 19 total. ~5.23g P per pancake |
+| Banana, ¼ | ~0.25g | ~0.5g | ~25 | On top |
+| East Coast Bush Honey yoghurt, 2 tbsp | ~1.6g | — | ~25 | |
+| Maple syrup, 1 tbsp | — | — | ~52 | |
+| Frozen raspberries, ¼ cup | ~1g | ~2g | ~25 | |
+| Green kiwi (skin off) | ~0.5g | ~1g | ~45 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+
+### Monday 3/8 — P: ~29.9g · F: ~11.2g · ~703 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Banana oat blender pancakes ×4 | ~20.9g | ~7.7g | ~451 | Same batch as Sun — 19 total. ~5.23g P per pancake |
+| Banana, ¼ | ~0.25g | ~0.5g | ~25 | On top |
+| East Coast Bush Honey yoghurt, 2 tbsp | ~1.6g | — | ~25 | |
+| Maple syrup, 1 tbsp | — | — | ~52 | |
+| Frozen raspberries, ¼ cup | ~1g | ~2g | ~25 | |
+| Green kiwi (skin off) | ~0.5g | ~1g | ~45 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
