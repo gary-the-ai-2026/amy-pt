@@ -641,7 +641,7 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Haighs milk pastilles, 40g | ~3.2g | ~0.8g | ~220 | Sunday night |
 
-### Monday 3/8 — P: ~106.4g · F: ~28.0g · ~1,544 kcal
+### Monday 3/8 — P: ~107.4g · F: ~28.3g · ~1,629 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -661,4 +661,5 @@
 | Mixed roast veg, ~1.5 cups | ~5g | ~7g | ~120 | Pumpkin, carrot, broccoli, cauliflower, 1 Brussels sprout |
 | Cooked pasta spirals, ½ cup | ~4g | ~1g | ~110 | |
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
+| Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 
