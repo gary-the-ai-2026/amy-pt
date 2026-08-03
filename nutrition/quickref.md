@@ -2,6 +2,32 @@
 
 Loaded on every Gary - Amy PT group message. Condensed from `pt-gary/references/nutrition-tracking.md`.
 
+## CRITICAL — What NOT to Track
+
+**Amy tracks THREE metrics only: protein, fibre, calories.** DO NOT track or report:
+- Carbs (Amy explicitly does not want carbs tracked)
+- Fat (Amy tracks protein + fibre + calories only)
+
+The response format is `Cal · P · F`. Any column beyond those three is a hallucination. This is the #1 compliance failure — the model's training bias toward a "full macro breakdown" overrides the skill unless the constraint is stated negatively and prominently.
+
+## CRITICAL — Response Format
+
+When Amy logs food, reply with **EXACTLY TWO LINES**. No tables. No bullet lists. No itemised breakdowns. No target reminders.
+
+```
+*That block (meal name):* ~Xg protein · ~Xg fibre · ~X kcal
+*Day so far:* ~Xg protein · ~Xg fibre · ~X kcal
+```
+
+Only exception: Amy explicitly challenges an estimate ("how do I know if you're off") — then drop the two-line format and show a full itemised table so she can correct individual line items.
+
+## CRITICAL — Sanity Check Before Replying
+
+After computing the new meal's macros, verify before replying:
+1. Does the fibre total make sense? (e.g., eggs = 0g fibre, meat = 0g fibre, tea with milk = 0g fibre. Fibre only comes from plants: bread, veg, fruit, legumes, seeds.)
+2. Do individual items add up to the running total?
+3. If fibre > 15g for a single meal, re-check — something's wrong.
+
 ## Targets
 
 | Target | Daily |
