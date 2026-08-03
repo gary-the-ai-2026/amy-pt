@@ -641,7 +641,7 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Haighs milk pastilles, 40g | ~3.2g | ~0.8g | ~220 | Sunday night |
 
-### Monday 3/8 — P: ~107.4g · F: ~28.3g · ~1,629 kcal
+### Monday 3/8 — P: ~106.0g · F: ~28.7g · ~1,589 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -657,9 +657,8 @@
 | Sweet & Sour turkey burgers ×2 | ~22g | ~1g | ~180 | Same batch — 9 patties |
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 |
 | Rockmelon, a few squares | ~0.3g | ~0.5g | ~25 | |
-| Edamame beans, ¼ small can | ~3.4g | ~1.6g | ~40 | ~31g. ~11g P/100g |
 | Mixed roast veg, ~1.5 cups | ~5g | ~7g | ~120 | Pumpkin, carrot, broccoli, cauliflower, 1 Brussels sprout |
-| Cooked pasta spirals, ½ cup | ~4g | ~1g | ~110 | |
+| Wholemeal pasta spirals, ½ cup | ~6g | ~3g | ~110 | Organic |
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 | 🧖‍♀️ Sauna | — | — | — | |
