@@ -662,4 +662,5 @@
 | Cooked pasta spirals, ½ cup | ~4g | ~1g | ~110 | |
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
+| 🧖‍♀️ Sauna | — | — | — | |
 
