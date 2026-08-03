@@ -31,6 +31,8 @@
 | 13/7/26 | ~11am | Blood glucose | 5.3 mmol/L | Mid-morning, post-breakfast + coffee |
 | 13/7/26 | ~11am | Ketones | 0.1 mmol/L | |
 | 13/7/26 | ~11am | Blood pressure | 105/60 | Historically normal for Amy — consistent for years, pre-dates Mounjaro and deficit |
+| 3/8/26 | ~11am | Blood glucose | 4.8 mmol/L | Pre-lunch |
+| 3/8/26 | ~11am | Ketones | 0.1 mmol/L | |
 
 ---
 
@@ -638,7 +640,7 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Haighs milk pastilles, 40g | ~3.2g | ~0.8g | ~220 | Sunday night |
 
-### Monday 3/8 — P: ~23.8g · F: ~10.2g · ~578 kcal
+### Monday 3/8 — P: ~60.4g · F: ~19.9g · ~1,116 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -647,4 +649,12 @@
 | East Coast Bush Honey yoghurt, 2 tbsp | ~1.6g | — | ~25 | |
 | Maple syrup, 1 tbsp | — | — | ~52 | |
 | Frozen raspberries, ¼ cup | ~1g | ~2g | ~25 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Gold kiwi (half skin on) | ~0.5g | ~2g | ~50 | |
+| Cucumber | ~0.5g | ~1g | ~15 | Qukes |
+| Sweet & Sour turkey burgers ×2 | ~22g | ~1g | ~180 | Same batch — 9 patties |
+| Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 |
+| Rockmelon, a few squares | ~0.3g | ~0.5g | ~25 | |
+| Edamame beans, ¼ small can | ~3.4g | ~1.6g | ~40 | ~31g. ~11g P/100g |
 
