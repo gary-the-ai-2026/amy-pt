@@ -641,7 +641,7 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Haighs milk pastilles, 40g | ~3.2g | ~0.8g | ~220 | Sunday night |
 
-### Monday 3/8 — P: ~60.4g · F: ~19.9g · ~1,116 kcal
+### Monday 3/8 — P: ~105.3g · F: ~24.4g · ~1,476 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -658,4 +658,8 @@
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 |
 | Rockmelon, a few squares | ~0.3g | ~0.5g | ~25 | |
 | Edamame beans, ¼ small can | ~3.4g | ~1.6g | ~40 | ~31g. ~11g P/100g |
+| Broccolini, 4 stalks | ~3.6g | ~3g | ~42 | Same veg as last night |
+| Red capsicum, ¼ | ~0.3g | ~0.5g | ~10 | |
+| Cooked pasta spirals, ½ cup | ~4g | ~1g | ~110 | |
+| Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 
