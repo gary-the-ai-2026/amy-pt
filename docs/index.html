@@ -2470,11 +2470,14 @@ function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
   nav.style.display = 'flex';
   label.textContent = isLastPage
     ? `Last ${windowData.length} days`
-    : `${windowData[0].dateStr.slice(5)} — ${windowData[windowData.length-1].dateStr.slice(5)}`;
+    : `${windowData[0].dateStr.slice(8)}/${windowData[0].dateStr.slice(5,7)} — ${windowData[windowData.length-1].dateStr.slice(8)}/${windowData[windowData.length-1].dateStr.slice(5,7)}`;
   prevBtn.disabled = isFirstPage;
   nextBtn.disabled = isLastPage;
 
-  const labels = windowData.map(d => d.dateStr.slice(5)); // MM-DD
+  const labels = windowData.map(d => {
+    const parts = d.dateStr.split('-');
+    return parts[2] + '/' + parts[1]; // DD/MM
+  });
   const pValues = windowData.map(d => d.protein);
   const fValues = windowData.map(d => d.fibre);
 
