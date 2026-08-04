@@ -1,0 +1,217 @@
+{
+  "session_id": "2026-08-04-ad-hoc",
+  "date": "2026-08-04",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "home",
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Bulgarian Lunge",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 12,
+          "reps": 10,
+          "side": "per leg",
+          "notes": "12kg per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 14,
+          "reps": 10,
+          "side": "per leg",
+          "notes": "14kg per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 14,
+          "reps": 10,
+          "side": "per leg",
+          "notes": "14kg per arm"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Leg Curls",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 12
+        },
+        {
+          "set": 2,
+          "weight_kg": 15,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 17.5,
+          "reps": 8
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Barbell Overhead Press",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 20,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 25,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 25,
+          "reps": 8
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Tricep Pulldown",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 23,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 27,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 32,
+          "reps": 6
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Sit Ups (Weighted)",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 5,
+          "reps": 10,
+          "notes": "5kg above head"
+        },
+        {
+          "set": 2,
+          "weight_kg": 5,
+          "reps": 10,
+          "notes": "5kg above head"
+        },
+        {
+          "set": 3,
+          "weight_kg": 5,
+          "reps": 10,
+          "notes": "5kg above head"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Hip Bridge Overhead DB (Straight Arms)",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Chin Ups",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 1.5,
+          "notes": "bodyweight \u2014 1 full + partial"
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 1
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 1
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Donkey Kicks",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 12,
+          "side": "per leg",
+          "notes": "Blue band (~17kg resistance)"
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 12,
+          "side": "per leg",
+          "notes": "Blue band (~17kg resistance)"
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 12,
+          "side": "per leg",
+          "notes": "Blue band (~17kg resistance)"
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Push Ups (On Toes)",
+      "target_sets": 1,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 4
+        }
+      ]
+    }
+  ],
+  "notes": "Home session. Bulgarian lunges: 12\u219214kg per arm. Leg curls pyramid: 10\u219215\u219217.5kg. OHP: 20\u219225kg. Tricep pulldown: 23\u219227\u219232kg. Chin ups: 1.5/1/1. Donkey kicks with blue band. Push ups on toes to finish."
+}
