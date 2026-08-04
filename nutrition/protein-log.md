@@ -663,9 +663,14 @@
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 | 🧖‍♀️ Sauna | — | — | — | |
-### Tuesday 4/8 — P: ~5.1g · F: — · ~75 kcal
+### Tuesday 4/8 — P: ~31.0g · F: ~5.8g · ~543 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| 3 eggs | ~18g | — | ~210 | |
+| Good Fat mayo, 1 tbsp | ~0.3g | — | ~105 | |
+| Macro Organic baked beans, ¼ cup | ~3.4g | ~3.3g | ~60 | 4.9g P / 4.7g F per 100g — ¼ cup ≈ 70g |
+| Woolworths wholemeal toast, 1 slice | ~3.7g | ~2.5g | ~88 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 
