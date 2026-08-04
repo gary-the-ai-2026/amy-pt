@@ -885,6 +885,9 @@
   .food-day-header .d-macros .macro-f {
     color: var(--accent-teal);
   }
+  .food-day-header .d-macros .macro-c {
+    color: var(--accent-amber);
+  }
   .food-day-header .d-chevron {
     font-size: 16px; color: var(--muted-soft);
     transition: transform 0.2s ease;
@@ -930,6 +933,9 @@
   }
   .food-item-row .i-f {
     color: var(--accent-teal); font-weight: 500;
+  }
+  .food-item-row .i-c {
+    color: var(--accent-amber); font-weight: 500;
   }
 
   .food-totals-row {
@@ -2264,8 +2270,8 @@ async function renderProgress() {
 // ═══════════════════════════════════════════════════
 
 let foodChartData = [];       // all parsed days (chronological order)
-let foodChartPageIdx = 0;     // current 14-day window offset
-const FOOD_CHART_WINDOW = 14;
+let foodChartPageIdx = 0;     // current 7-day window offset
+const FOOD_CHART_WINDOW = 7;
 
 let bowelChartPageIdx = 0;    // current 14-day window offset
 const BOWEL_CHART_WINDOW = 14;
@@ -2327,6 +2333,8 @@ async function renderFood() {
       const label = hMatch[1].trim();
       const protein = parseFloat(hMatch[2]);
       const fibre = parseFloat(hMatch[3]);
+      const calMatch = heading.match(/~\s*([\d,]+)\s*kcal/);
+      const calories = calMatch ? parseInt(calMatch[1].replace(/,/g, '')) : null;
 
       // Parse date for sorting
       const dt = parseFoodDate(heading);
@@ -2338,17 +2346,19 @@ async function renderFood() {
       const tables = parseMDTable(sec);
       const items = [];
       for (const t of tables) {
+        const hasCals = t.rows.length > 0 && t.rows[0].length >= 5 && /cal/i.test(t.rows[0][3] || '');
         for (const row of t.rows) {
           if (row[0] === 'Item' || row[0] === 'Target') continue;
           const name = row[0] || '';
           const p = row[1] ? row[1].replace(/[~g]/g, '').trim() : '—';
           const f = row[2] ? row[2].replace(/[~g]/g, '').trim() : '—';
-          const notes = row[3] || '';
-          items.push({ name, protein: p, fibre: f, notes });
+          const cals = hasCals && row[3] ? row[3].replace(/[~kcal]/g, '').trim() : null;
+          const notes = hasCals ? (row[4] || '') : (row[3] || '');
+          items.push({ name, protein: p, fibre: f, cals, notes });
         }
       }
 
-      daysRaw.push({ label, protein, fibre, items, dateStr, ts, isToday });
+      daysRaw.push({ label, protein, fibre, calories, items, dateStr, ts, isToday });
     }
 
     // Sort reverse-chronological (most recent first — for day cards)
@@ -2408,15 +2418,17 @@ async function renderFood() {
       const isToday = d.isToday;
       let itemsHTML = '';
       for (const item of d.items) {
+        const calStr = item.cals ? `<span class="i-c">${item.cals} kcal</span>` : '';
         itemsHTML += `<div class="food-item-row">
           <span class="i-name">${item.name}${item.notes ? `<span class="i-notes">· ${item.notes}</span>` : ''}</span>
-          <span class="i-macros"><span class="i-p">${item.protein}g</span><span class="i-f">${item.fibre}g</span></span>
+          <span class="i-macros"><span class="i-p">${item.protein}g</span><span class="i-f">${item.fibre}g</span>${calStr}</span>
         </div>`;
       }
+      const dayCalStr = d.calories ? `<span class="macro-c">${d.calories} kcal</span>` : '';
       daysHTML += `<div class="food-day-card">
         <div class="food-day-header${isToday ? ' open' : ''}" onclick="toggleFoodDay(this)">
           <span class="d-label">${isToday ? 'Today — ' : ''}${d.label}</span>
-          <span class="d-macros"><span class="macro-p">P: ${d.protein}g</span><span class="macro-f">F: ${d.fibre}g</span></span>
+          <span class="d-macros"><span class="macro-p">P: ${d.protein}g</span><span class="macro-f">F: ${d.fibre}g</span>${dayCalStr}</span>
           <span class="d-chevron">›</span>
         </div>
         <div class="food-day-items${isToday ? ' open' : ''}">
@@ -2424,7 +2436,7 @@ async function renderFood() {
           <div class="food-totals-row">
             <span>Totals:</span>
             <span class="t-p">Protein ${d.protein}g</span>
-            <span class="t-f">Fibre ${d.fibre}g</span>
+            <span class="t-f">Fibre ${d.fibre}g</span>${dayCalStr ? `<span class="t-c">${d.calories} kcal</span>` : ''}
           </div>
         </div>
       </div>`;
@@ -2456,7 +2468,7 @@ function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
     return;
   }
 
-  // Slice the current 30-day window
+  // Slice the current 7-day window
   const start = foodChartPageIdx * FOOD_CHART_WINDOW;
   const end = start + FOOD_CHART_WINDOW;
   const windowData = foodChartData.slice(start, end);
