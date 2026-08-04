@@ -663,7 +663,7 @@
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 | 🧖‍♀️ Sauna | — | — | — | |
-### Tuesday 4/8 — P: ~54.5g · F: ~8.8g · ~723 kcal
+### Tuesday 4/8 — P: ~54.8g · F: ~10.8g · ~773 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -675,4 +675,5 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Hackham pear | ~0.5g | ~3g | ~60 | |
 | Chief whey, 1 scoop | 23g | — | ~120 | |
+| Kids apple | ~0.3g | ~2g | ~50 | |
 
