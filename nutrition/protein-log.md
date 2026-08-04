@@ -642,7 +642,7 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Haighs milk pastilles, 40g | ~3.2g | ~0.8g | ~220 | Sunday night |
 
-### Monday 3/8 — P: ~108.2g · F: ~29.0g · ~1,739 kcal
+### Monday 3/8 — P: ~106.0g · F: ~28.7g · ~1,589 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -662,9 +662,8 @@
 | Wholemeal pasta spirals, ½ cup | ~6g | ~3g | ~110 | Organic |
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
-| Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
 | 🧖‍♀️ Sauna | — | — | — | |
-### Tuesday 4/8 — P: ~87.9g · F: ~22.7g · ~1,356 kcal
+### Tuesday 4/8 — P: ~90.1g · F: ~23.0g · ~1,506 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -684,5 +683,5 @@
 | Broccoli, several florets | ~2g | ~3g | ~35 | |
 | Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
 | Carrot, small pieces | ~0.5g | ~1g | ~15 | |
-| 🧖‍♀️ Sauna | — | — | — | |
+| Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
 
