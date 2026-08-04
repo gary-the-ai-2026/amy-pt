@@ -663,7 +663,7 @@
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 | 🧖‍♀️ Sauna | — | — | — | |
-### Tuesday 4/8 — P: ~86.6g · F: ~22.7g · ~1,386 kcal
+### Tuesday 4/8 — P: ~87.9g · F: ~22.7g · ~1,356 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -677,9 +677,9 @@
 | Chief whey, 1 scoop | 23g | — | ~120 | |
 | Kids apple | ~0.3g | ~2g | ~50 | |
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 |
-| Fusilli pasta, ~1 cup cooked | ~7g | ~2g | ~200 | Pesto-coated |
-| Pesto, ~1 tbsp | ~1.5g | ~0.3g | ~70 | Oil, parmesan, basil, pine nuts |
-| Sirena tuna in oil, half can (~65g drained) | ~15g | — | ~120 | Italian Style, 185g can — in oil, not springwater |
+| Fusilli pasta, ~1 cup cooked | ~7g | ~2g | ~200 | With iron-rich green sauce |
+| Iron-rich green sauce, ~1 tbsp | ~0.2g | ~0.3g | ~70 | @boobtofood — olive oil, avocado, herbs, spinach, spirulina |
+| Sirena tuna in oil, half can (drained) | ~17.6g | — | ~90 | 185g can, 17.6g P per serve, oil drained |
 | Broccoli, several florets | ~2g | ~3g | ~35 | |
 | Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
 | Carrot, small pieces | ~0.5g | ~1g | ~15 | |
