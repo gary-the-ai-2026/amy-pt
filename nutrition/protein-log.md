@@ -683,4 +683,5 @@
 | Broccoli, several florets | ~2g | ~3g | ~35 | |
 | Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
 | Carrot, small pieces | ~0.5g | ~1g | ~15 | |
+| 🧖‍♀️ Sauna | — | — | — | |
 
