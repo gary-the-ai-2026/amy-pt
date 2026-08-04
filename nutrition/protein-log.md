@@ -84,6 +84,7 @@
 | 1/8/26 | — | None |
 | 2/8/26 | 2 | Constipated side |
 | 3/8/26 | 3 | Normal |
+| 4/8/26 | 3 | Normal |
 
 ---
 
@@ -662,4 +663,9 @@
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 | 🧖‍♀️ Sauna | — | — | — | |
+### Tuesday 4/8 — P: ~5.1g · F: — · ~75 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 
