@@ -663,7 +663,7 @@
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 | 🧖‍♀️ Sauna | — | — | — | |
-### Tuesday 4/8 — P: ~59.1g · F: ~14.4g · ~921 kcal
+### Tuesday 4/8 — P: ~83.6g · F: ~22.7g · ~1,321 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -677,4 +677,10 @@
 | Chief whey, 1 scoop | 23g | — | ~120 | |
 | Kids apple | ~0.3g | ~2g | ~50 | |
 | Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 |
+| Fusilli pasta, ~1 cup cooked | ~7g | ~2g | ~200 | Pesto-coated |
+| Pesto, ~1 tbsp | ~1.5g | ~0.3g | ~70 | Oil, parmesan, basil, pine nuts |
+| Tuna (half can) | ~12g | — | ~55 | ~47g drained, in springwater |
+| Broccoli, several florets | ~2g | ~3g | ~35 | |
+| Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
+| Carrot, small pieces | ~0.5g | ~1g | ~15 | |
 
