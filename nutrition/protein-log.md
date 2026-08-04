@@ -663,7 +663,7 @@
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 | 🧖‍♀️ Sauna | — | — | — | |
-### Tuesday 4/8 — P: ~69.5g · F: ~8.8g · ~823 kcal
+### Tuesday 4/8 — P: ~54.5g · F: ~8.8g · ~723 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -673,7 +673,6 @@
 | Macro Organic baked beans, ¼ cup | ~3.4g | ~3.3g | ~60 | 4.9g P / 4.7g F per 100g — ¼ cup ≈ 70g |
 | Woolworths wholemeal toast, 1 slice | ~3.7g | ~2.5g | ~88 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
-| Barossa smoked ham, 1 pack | ~15g | — | ~100 | ~80–100g pack, lean estimate |
-| Pear (kids) | ~0.5g | ~3g | ~60 | Small pear |
+| Hackham pear | ~0.5g | ~3g | ~60 | |
 | Chief whey, 1 scoop | 23g | — | ~120 | |
 
