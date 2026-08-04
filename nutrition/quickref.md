@@ -2,6 +2,29 @@
 
 Loaded on every Gary - Amy PT group message. Condensed from `pt-gary/references/nutrition-tracking.md`.
 
+## 🛑 MANDATORY STEP ZERO — Read Today's Log First
+
+**Before replying to ANY food, bowel, or sauna report, you MUST:**
+
+```
+read_file('/Users/gary/Projects/amy-pt/nutrition/protein-log.md', limit=2000)
+```
+
+Find today's heading (e.g. `### Tuesday 4/8 — P: ~31.0g · F: ~5.8g · ~543 kcal`). Extract the running totals.
+
+**Paste the heading verbatim as a prefix to your reply:**
+
+```
+Logged. Today's heading: |Tuesday 4/8 — P: ~31.0g · F: ~5.8g · ~543 kcal|
+
+*That block (coffee):* ~5.1g protein · — fibre · ~75 kcal
+*Day so far:* ~36.1g protein · ~5.8g fibre · ~618 kcal
+```
+
+The heading prefix is MANDATORY — it proves you read the log. If today has no heading, create one with zero totals and prefix with that.
+
+**Why this matters:** This is the #1 recurring failure. The agent treats every message as a fresh day because the session boundary resets short-term memory. The log file is the ONLY reliable record of what Amy has already eaten. If you skip this step, your Day So Far will be wrong — and Amy will notice.
+
 ## CRITICAL — What NOT to Track
 
 **Amy tracks THREE metrics only: protein, fibre, calories.** DO NOT track or report:
