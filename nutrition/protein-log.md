@@ -663,7 +663,7 @@
 | Chicken breast, ¾ | ~37g | — | ~198 | ~120g cooked |
 | Mint slice biscuit | ~1g | ~0.3g | ~85 | |
 | 🧖‍♀️ Sauna | — | — | — | |
-### Tuesday 4/8 — P: ~54.8g · F: ~10.8g · ~773 kcal
+### Tuesday 4/8 — P: ~59.1g · F: ~14.4g · ~921 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -676,4 +676,5 @@
 | Hackham pear | ~0.5g | ~3g | ~60 | |
 | Chief whey, 1 scoop | 23g | — | ~120 | |
 | Kids apple | ~0.3g | ~2g | ~50 | |
+| Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Batch of 21 |
 
