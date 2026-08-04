@@ -2468,13 +2468,14 @@ function renderFoodChart(proteinTarget, fibreTargetLow, fibreTargetHigh) {
     return;
   }
 
-  // Slice the current 7-day window
-  const start = foodChartPageIdx * FOOD_CHART_WINDOW;
+  // Slice the current 7-day window — anchor latest page from end
+  const totalPages = Math.ceil(foodChartData.length / FOOD_CHART_WINDOW);
+  const reversePage = totalPages - 1 - foodChartPageIdx;
+  const start = Math.max(0, foodChartData.length - (reversePage + 1) * FOOD_CHART_WINDOW);
   const end = start + FOOD_CHART_WINDOW;
   const windowData = foodChartData.slice(start, end);
   if (!windowData.length) return;
 
-  const totalPages = Math.ceil(foodChartData.length / FOOD_CHART_WINDOW);
   const currentPage = foodChartPageIdx;
   const isLastPage = currentPage >= totalPages - 1;
   const isFirstPage = currentPage === 0;
@@ -2678,10 +2679,11 @@ function renderBowelChart(md, resetPage = false) {
   // ── Store globally for windowed navigation ──
   allBowelDays = allDays;
 
-  // ── Compute current 14-day window ──
+  // ── Compute current 14-day window — anchor latest page from end ──
   const totalPages = Math.ceil(allDays.length / BOWEL_CHART_WINDOW);
   if (resetPage) bowelChartPageIdx = Math.max(0, totalPages - 1);
-  const start = bowelChartPageIdx * BOWEL_CHART_WINDOW;
+  const reversePage = totalPages - 1 - bowelChartPageIdx;
+  const start = Math.max(0, allDays.length - (reversePage + 1) * BOWEL_CHART_WINDOW);
   const end = start + BOWEL_CHART_WINDOW;
   const windowDays = allDays.slice(start, end);
 
