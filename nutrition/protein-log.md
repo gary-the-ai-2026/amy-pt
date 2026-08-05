@@ -684,7 +684,7 @@
 | Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
 | Carrot, small pieces | ~0.5g | ~1g | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
-### Wednesday 5/8 — P: ~22.7g · F: ~3.5g · ~370 kcal
+### Wednesday 5/8 — P: ~27.8g · F: ~3.5g · ~445 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -693,4 +693,5 @@
 | 3 organic eggs | ~18g | — | ~210 | |
 | Woolworths wholemeal toast, 1 slice | ~3.7g | ~2.5g | ~88 | |
 | Green kiwi (skin off) | ~0.5g | ~1g | ~45 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 
