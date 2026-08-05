@@ -685,7 +685,7 @@
 | Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
 | Carrot, small pieces | ~0.5g | ~1g | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
-### Wednesday 5/8 — P: ~100.0g · F: ~19.3g · ~1,390 kcal
+### Wednesday 5/8 — P: ~102.2g · F: ~19.6g · ~1,540 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -705,4 +705,5 @@
 | Carrot, ½ steamed | ~0.3g | ~1g | ~12 | |
 | Broccolini, a few stalks | ~2g | ~2g | ~30 | |
 | Parmesan, sprinkle | ~1.5g | — | ~15 | |
+| Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
 
