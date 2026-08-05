@@ -685,7 +685,7 @@
 | Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
 | Carrot, small pieces | ~0.5g | ~1g | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
-### Wednesday 5/8 — P: ~53.3g · F: ~7.3g · ~838 kcal
+### Wednesday 5/8 — P: ~52.7g · F: ~11.0g · ~837 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -698,5 +698,5 @@
 | Maple sage chicken patties ×2 | ~20g | ~2.8g | ~176 | 5-ingredient, batch of 10 (500g mince + psyllium) |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
 | Cucumber | ~0.5g | ~1g | ~15 | Qukes |
-| Health Lab Peanut Butter Envy ball | ~4.5g | — | ~197 | 40g — label: 197kcal, 4.5g P |
+| Health Lab Peanut Butter Envy ball | ~3.9g | ~3.7g | ~196 | 40g — label: 820kJ, 3.9g P, 3.7g F |
 
