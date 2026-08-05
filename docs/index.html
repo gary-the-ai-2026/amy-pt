@@ -2273,8 +2273,8 @@ let foodChartData = [];       // all parsed days (chronological order)
 let foodChartPageIdx = 0;     // current 7-day window offset
 const FOOD_CHART_WINDOW = 7;
 
-let bowelChartPageIdx = 0;    // current 14-day window offset
-const BOWEL_CHART_WINDOW = 14;
+let bowelChartPageIdx = 0;    // current 7-day window offset
+const BOWEL_CHART_WINDOW = 7;
 let allBowelDays = [];        // full bowel data for windowed chart
 let cachedProteinMD = '';     // raw MD for bowel chart re-renders
 let foodChartInst = null;
@@ -2679,7 +2679,7 @@ function renderBowelChart(md, resetPage = false) {
   // ── Store globally for windowed navigation ──
   allBowelDays = allDays;
 
-  // ── Compute current 14-day window — anchor latest page from end ──
+  // ── Compute current 7-day window — anchor latest page from end ──
   const totalPages = Math.ceil(allDays.length / BOWEL_CHART_WINDOW);
   if (resetPage) bowelChartPageIdx = Math.max(0, totalPages - 1);
   const reversePage = totalPages - 1 - bowelChartPageIdx;
