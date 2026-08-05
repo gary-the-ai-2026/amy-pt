@@ -707,3 +707,13 @@
 | Parmesan, sprinkle | ~1.5g | — | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
 
+### Thursday 6/8 — P: ~27.2g · F: ~6.9g · ~381 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| 2 eggs | ~12g | — | ~140 | |
+| Woolworths wholemeal toast, 1 slice | ~3.7g | ~2.5g | ~88 | |
+| Orange | ~1g | ~3g | ~60 | |
+| Maple sage chicken patty ×1 | ~10g | ~1.4g | ~88 | From yesterday's batch of 10 (500g mince + psyllium) |
+
