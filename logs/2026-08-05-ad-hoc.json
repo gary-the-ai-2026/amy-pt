@@ -1,0 +1,202 @@
+{
+  "session_id": "2026-08-05-ad-hoc",
+  "date": "2026-08-05",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "home",
+  "cycle": 1,
+  "week": 1,
+  "exercises": [
+    {
+      "num": 1,
+      "name": "Calf Raisers (Double Leg)",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 20
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 20
+        },
+        {
+          "set": 3,
+          "weight_kg": 16,
+          "reps": 20
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Bicep Curl (Single Arm)",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 5,
+          "side": "per side"
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "per side"
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "per side"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Leg Extensions",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 35,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 40,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 40,
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Lateral Side Bend",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 12,
+          "side": "per side"
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 12,
+          "side": "per side"
+        },
+        {
+          "set": 3,
+          "weight_kg": 16,
+          "reps": 12,
+          "side": "per side"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Lat Pull Down",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 23,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 27,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 32,
+          "reps": 7
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Smith Machine SL Kickback",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 18,
+          "reps": 10,
+          "side": "per leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 23,
+          "reps": 8,
+          "side": "per leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 23,
+          "reps": 8,
+          "side": "per leg"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Smith Machine Chest Press",
+      "target_sets": 3,
+      "notes": "35kg includes 15kg Smith bar",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 35,
+          "reps": 6
+        },
+        {
+          "set": 2,
+          "weight_kg": 35,
+          "reps": 7
+        },
+        {
+          "set": 3,
+          "weight_kg": 35,
+          "reps": 7
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Triceps DB Kickbacks",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "per arm"
+        }
+      ]
+    }
+  ],
+  "notes": "Home session \u2014 full body. Smith chest press 35kg (incl. 15kg bar) \u00d7 6-7, matching June weights. Leg extensions ramped 35\u219240kg. Lat pulldown 23\u219227\u219232kg. SL kickbacks 18\u219223kg. Bicep curls 10kg/arm building from 5\u21926 reps."
+}
