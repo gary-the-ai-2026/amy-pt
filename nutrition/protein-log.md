@@ -707,11 +707,12 @@
 | Parmesan, sprinkle | ~1.5g | — | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
 
-### Thursday 6/8 — P: ~27.2g · F: ~6.9g · ~381 kcal
+### Thursday 6/8 — P: ~27.2g · F: ~6.9g · ~416 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Butter, 1 tsp | — | — | ~35 | For eggs |
 | 2 eggs | ~12g | — | ~140 | |
 | Woolworths wholemeal toast, 1 slice | ~3.7g | ~2.5g | ~88 | |
 | Orange | ~1g | ~3g | ~60 | |
