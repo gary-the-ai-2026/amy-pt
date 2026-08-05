@@ -685,7 +685,7 @@
 | Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
 | Carrot, small pieces | ~0.5g | ~1g | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
-### Wednesday 5/8 — P: ~47.8g · F: ~6.3g · ~621 kcal
+### Wednesday 5/8 — P: ~53.3g · F: ~7.3g · ~838 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -696,4 +696,7 @@
 | Green kiwi (skin off) | ~0.5g | ~1g | ~45 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Maple sage chicken patties ×2 | ~20g | ~2.8g | ~176 | 5-ingredient, batch of 10 (500g mince + psyllium) |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Cucumber | ~0.5g | ~1g | ~15 | Qukes |
+| Health Lab Peanut Butter Envy ball | ~4.5g | — | ~197 | 40g — label: 197kcal, 4.5g P |
 
