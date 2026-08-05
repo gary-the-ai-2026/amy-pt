@@ -78,9 +78,13 @@ Amy tells me what she ate. I don't guess. Confirm: pack sizes, portion amounts, 
 ## Estimation Priority
 
 1. **Label** (from photo or Amy's number) — always wins
-2. **Recipe extraction** — from URL, estimate from ingredients
-3. **Known products** (table below)
-4. **Conservative** — round down when uncertain
+2. **API lookup** — for ANY branded Australian product, query before estimating:
+   ```
+   python3 /Users/gary/Projects/amy-pt/scripts/food_lookup.py --search "product name" --json
+   ```
+   Do NOT use fatsecret, web search, or training knowledge. The API covers Health Lab, Bonsoy, Uncle Tobys, Coles, Woolworths, Chief, Herman Brot, Inghams, and most Australian supermarket products. See `pt-gary/references/food-api.md` for usage details.
+3. **Known products** (table below) — for products Amy eats regularly
+4. **Conservative** — round down when uncertain, flag with `~`
 
 ## Known Products
 
