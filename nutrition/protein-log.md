@@ -685,7 +685,7 @@
 | Cauliflower, several florets | ~1.5g | ~2g | ~25 | |
 | Carrot, small pieces | ~0.5g | ~1g | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
-### Wednesday 5/8 — P: ~52.7g · F: ~11.0g · ~837 kcal
+### Wednesday 5/8 — P: ~103.0g · F: ~19.3g · ~1,490 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -699,4 +699,10 @@
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
 | Cucumber | ~0.5g | ~1g | ~15 | Qukes |
 | Health Lab Peanut Butter Envy ball | ~3.9g | ~3.7g | ~196 | 40g — label: 820kJ, 3.9g P, 3.7g F |
+| 🧖‍♀️ Sauna | — | — | — | |
+| Tubed pasta, 1 cup cooked | ~7g | ~2g | ~200 | |
+| Lamb ragu, 1 cup | ~40g | ~4g | ~400 | Wholesome Lamb Ragu — lamb shoulder, veg, tomato (~¼ batch) |
+| Carrot, ½ steamed | ~0.3g | ~1g | ~12 | |
+| Broccolini, a few stalks | ~2g | ~2g | ~30 | |
+| Parmesan, sprinkle | ~1.5g | — | ~15 | |
 
