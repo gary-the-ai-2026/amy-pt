@@ -2273,10 +2273,26 @@ let foodChartData = [];       // all parsed days (chronological order)
 let foodChartPageIdx = 0;     // current 7-day window offset
 const FOOD_CHART_WINDOW = 7;
 
-let bowelChartPageIdx = 0;    // current 7-day window offset
-const BOWEL_CHART_WINDOW = 7;
-let allBowelDays = [];        // full bowel data for windowed chart
+let bowelChartPageIdx = 0;    // current week offset (0 = earliest week)
+const BOWEL_DAYS_PER_WEEK = 7;
+let allBowelDays = [];        // full bowel data (every day min→max, with BNO fill)
+let allBowelWeeks = [];       // array of { monday, days[] } for navigation
 let cachedProteinMD = '';     // raw MD for bowel chart re-renders
+
+// Return Monday (UTC) of the week containing `date` (UTC noon-ish Date)
+function getWeekMonday(date) {
+  const d = new Date(date);
+  const day = d.getUTCDay();
+  const diff = day === 0 ? -6 : 1 - day;
+  d.setUTCDate(d.getUTCDate() + diff);
+  d.setUTCHours(0,0,0,0);
+  return d;
+}
+// Format a Date as abbreviated weekday + D/M (e.g. "Mon 4/8")
+function fmtWeekLabel(d) {
+  const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  return `${days[d.getUTCDay()]} ${d.getUTCDate()}/${d.getUTCMonth()+1}`;
+}
 let foodChartInst = null;
 let bowelChartInst = null;
 
@@ -2676,33 +2692,52 @@ function renderBowelChart(md, resetPage = false) {
     cur.setUTCDate(cur.getUTCDate() + 1);
   }
 
-  // ── Store globally for windowed navigation ──
+  // ── Store globally for week-based navigation ──
   allBowelDays = allDays;
 
-  // ── Compute current 7-day window — anchor latest page from end ──
-  const totalPages = Math.ceil(allDays.length / BOWEL_CHART_WINDOW);
-  if (resetPage) bowelChartPageIdx = Math.max(0, totalPages - 1);
-  const reversePage = totalPages - 1 - bowelChartPageIdx;
-  const start = Math.max(0, allDays.length - (reversePage + 1) * BOWEL_CHART_WINDOW);
-  const end = start + BOWEL_CHART_WINDOW;
-  const windowDays = allDays.slice(start, end);
+  // ── Build weeks array ──
+  const today = adelaideToday();
+  const currentMonday = getWeekMonday(today);
+  const firstMonday = getWeekMonday(new Date(allDays[0].ts));
+  allBowelWeeks = [];
+  let wm = new Date(firstMonday);
+  while (wm.getTime() <= currentMonday.getTime()) {
+    const weekStart = wm.getTime();
+    const weekEnd = weekStart + 6 * 86400000;
+    allBowelWeeks.push({
+      monday: new Date(wm),
+      days: allDays.filter(d => d.ts >= weekStart && d.ts <= weekEnd)
+    });
+    wm.setUTCDate(wm.getUTCDate() + 7);
+  }
 
-  // ── Nav bar ──
+  // ── Default to current week on reset ──
+  const totalWeeks = allBowelWeeks.length;
+  if (resetPage) bowelChartPageIdx = totalWeeks - 1;
+
+  // Safety clamp
+  bowelChartPageIdx = Math.max(0, Math.min(totalWeeks - 1, bowelChartPageIdx));
+
+  const week = allBowelWeeks[bowelChartPageIdx];
+  const windowDays = week ? week.days : [];
+
+  // ── Nav bar (week-based) ──
   const nav = document.getElementById('bowel-chart-nav');
   const navLabel = document.getElementById('bowel-chart-label');
   const prevBtn = document.getElementById('bowel-nav-prev');
   const nextBtn = document.getElementById('bowel-nav-next');
-  if (nav && allDays.length > BOWEL_CHART_WINDOW) {
+  if (nav && allBowelWeeks.length > 1) {
     nav.style.display = 'flex';
-    const isLastPage = bowelChartPageIdx >= totalPages - 1;
-    const isFirstPage = bowelChartPageIdx === 0;
-    if (isLastPage) {
-      navLabel.textContent = `Last ${windowDays.length} days`;
+    const isCurrentWeek = bowelChartPageIdx >= totalWeeks - 1;
+    const isFirstWeek = bowelChartPageIdx === 0;
+    if (isCurrentWeek) {
+      navLabel.textContent = 'This week';
     } else {
-      navLabel.textContent = `${windowDays[0].dateStr} — ${windowDays[windowDays.length-1].dateStr}`;
+      const wm = week.monday;
+      navLabel.textContent = `Week of ${fmtWeekLabel(wm)}`;
     }
-    prevBtn.disabled = isFirstPage;
-    nextBtn.disabled = isLastPage;
+    prevBtn.disabled = isFirstWeek;
+    nextBtn.disabled = isCurrentWeek;
   } else if (nav) {
     nav.style.display = 'none';
   }
@@ -2850,7 +2885,7 @@ function renderBowelChart(md, resetPage = false) {
 }
 
 function bowelChartPage(dir) {
-  const maxPage = Math.ceil(allBowelDays.length / BOWEL_CHART_WINDOW) - 1;
+  const maxPage = Math.max(0, allBowelWeeks.length - 1);
   bowelChartPageIdx = Math.max(0, Math.min(maxPage, bowelChartPageIdx + dir));
   // Re-render bowel chart directly — don't re-fetch (would reset page)
   renderBowelChart(cachedProteinMD);
