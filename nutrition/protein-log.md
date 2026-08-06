@@ -86,6 +86,7 @@
 | 3/8/26 | 3 | Normal |
 | 4/8/26 | 3 | Normal |
 | 5/8/26 | 3 | Normal |
+| 6/8/26 | 2 | Constipated side |
 
 ---
 
