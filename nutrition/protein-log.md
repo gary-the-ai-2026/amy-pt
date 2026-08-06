@@ -731,3 +731,13 @@
 | Kiwi, ¾ green | ~0.6g | ~1.6g | ~32 | Skin off |
 | Twix bars ×2 | ~1.4g | — | ~143 | 14.3g bar, 300kJ/0.7g P per bar |
 
+### Friday 7/8 — P: ~20.8g · F: ~9.9g · ~487 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Porridge bowl (⅓ recipe) | ~16.3g | ~8.9g | ~440 | 1 cup oats, 1 cup milk, 2 tbsp chia, 1 tsp flax, 1 egg yolk, 2 tbsp Chief collagen — Amy had ⅓ |
+| Banana, ½ | ~0.6g | ~1g | ~50 | |
+| Maple syrup, 1 tbsp | — | — | ~52 | |
+| Hemp seeds, 1 tsp | ~1g | ~0.1g | ~17 | ~5g |
+| Almond butter, 1 tbsp | ~3.0g | ~0.9g | ~98 | ~16g |
+
