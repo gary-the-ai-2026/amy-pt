@@ -707,7 +707,7 @@
 | Parmesan, sprinkle | ~1.5g | — | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
 
-### Thursday 6/8 — P: ~51.6g · F: ~14.6g · ~951 kcal
+### Thursday 6/8 — P: ~74.6g · F: ~14.6g · ~1,071 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -723,4 +723,5 @@
 | Full cream milk, 1 cup | ~8.3g | — | ~167 | 3.32g P/100g |
 | Raw sugar, 1 tsp | — | — | ~16 | |
 | Hemp seeds, 1 tbsp | ~2.9g | ~0.3g | ~50 | ~15g |
+| Chief whey, 1 scoop | 23g | — | ~120 | |
 
