@@ -708,7 +708,7 @@
 | Parmesan, sprinkle | ~1.5g | — | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
 
-### Thursday 6/8 — P: ~74.6g · F: ~14.6g · ~1,071 kcal
+### Thursday 6/8 — P: ~97.1g · F: ~18.8g · ~1,581 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -725,4 +725,7 @@
 | Raw sugar, 1 tsp | — | — | ~16 | |
 | Hemp seeds, 1 tbsp | ~2.9g | ~0.3g | ~50 | ~15g |
 | Chief whey, 1 scoop | 23g | — | ~120 | |
+| La Napoli Margherita pizza, half | ~15g | ~3.7g | ~430 | 375g box, half ≈ 187g |
+| Olives, small handful | ~0.5g | ~0.5g | ~30 | |
+| Ham, 40g | ~7g | — | ~50 | |
 
