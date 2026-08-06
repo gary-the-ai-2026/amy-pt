@@ -707,7 +707,7 @@
 | Parmesan, sprinkle | ~1.5g | — | ~15 | |
 | Cadbury Twirl, 28g | ~2.2g | ~0.3g | ~150 | |
 
-### Thursday 6/8 — P: ~32.8g · F: ~7.9g · ~506 kcal
+### Thursday 6/8 — P: ~51.6g · F: ~14.6g · ~951 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -719,4 +719,8 @@
 | Maple sage chicken patty ×1 | ~10g | ~1.4g | ~88 | From yesterday's batch of 10 (500g mince + psyllium) |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Cucumber | ~0.5g | ~1g | ~15 | Qukes |
+| Woolworths Wheat Biscuits ×4 | ~7.6g | ~6.4g | ~212 | 12.6g P / 10.6g F per 100g, ~15g per biscuit |
+| Full cream milk, 1 cup | ~8.3g | — | ~167 | 3.32g P/100g |
+| Raw sugar, 1 tsp | — | — | ~16 | |
+| Hemp seeds, 1 tbsp | ~2.9g | ~0.3g | ~50 | ~15g |
 
