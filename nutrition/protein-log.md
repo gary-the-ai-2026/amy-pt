@@ -87,7 +87,8 @@
 | 4/8/26 | 3 | Normal |
 | 5/8/26 | 3 | Normal |
 | 6/8/26 | 2 | Constipated side |
-| 7/8/26 | 4 | Normal |
+| 7/8/26 | — | None |
+| 8/8/26 | 4 | Normal |
 
 ---
 
@@ -755,4 +756,10 @@
 | Chief whey, 1 scoop | 24g | — | ~120 | |
 | Sushi Hub chicken avocado roll | ~10g | ~1.5g | ~278 | |
 | KB's prawn gyoza ×3 | ~5.4g | — | ~146 | 1.8g P per dumpling (25g each) |
+
+### Saturday 8/8 — P: ~0g · F: ~0g · ~0 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| — | — | — | — | |
 
