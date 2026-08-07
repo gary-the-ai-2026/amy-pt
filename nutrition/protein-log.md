@@ -8,7 +8,7 @@
 **Medication:** Mounjaro 2.5mg weekly injections — commenced 2/7/26.
 **Ideal weight:** 65kg
 
-**Defaults:** Tea = English breakfast + dash full-cream milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage). Herman Brot Low Carb bread = 11.8g protein per slice. Chief Whey = 24g protein per scoop.
+**Defaults:** Tea = English breakfast + dash full-cream milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage). Herman Brot Low Carb bread = 11.8g protein per slice. Chief Whey = 24g protein per scoop. Barossa Fine Foods Roast Turkey Breast = 20g protein per 80g pack (4 slices = 5g protein per slice). Coles Multigrain High-Fibre bread = 4.4g protein, 3.1g fibre per slice.
 
 **Bristol Stool Chart:** 1–2 = constipated · 3–4 = normal · 5–7 = loose/diarrhoea
 
@@ -731,7 +731,7 @@
 | Kiwi, ¾ green | ~0.6g | ~1.6g | ~32 | Skin off |
 | Twix bars ×2 | ~1.4g | — | ~143 | 14.3g bar, 300kJ/0.7g P per bar |
 
-### Friday 7/8 — P: ~20.8g · F: ~9.9g · ~487 kcal
+### Friday 7/8 — P: ~47.1g · F: ~24.8g · ~1,136 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -740,4 +740,15 @@
 | Maple syrup, 1 tbsp | — | — | ~52 | |
 | Hemp seeds, 1 tsp | ~1g | ~0.1g | ~17 | ~5g |
 | Almond butter, 1 tbsp | ~3.0g | ~0.9g | ~98 | ~16g |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Kiwi, 1 green (half skin on) | ~0.8g | ~2.4g | ~43 | |
+| Kids pink lady apple, ½ | ~0.2g | ~1.8g | ~35 | |
+| Kids green packham pear, ½ | ~0.3g | ~2.5g | ~48 | |
+| Coles multigrain high-fibre bread ×2 | ~8.8g | ~6.2g | ~172 | ~50g for 2 slices, 8.8g P/100g, 6.2g F/100g |
+| Barossa Roast Turkey Breast, 2 slices | ~10g | — | ~44 | 80g pack = 4 slices = 20g P — 2 slices = 10g P |
+| Cucumber, 1 whole | ~0.5g | ~1g | ~15 | Qukes |
+| Butter, ½ tsp | — | — | ~17 | |
+| Good Fat mayo, 1 tsp | — | — | ~25 | ~5g |
+| Tea + dash full-cream milk | ~0.5g | — | ~5 | |
+| 🧖‍♀️ Sauna | — | — | — | |
 
