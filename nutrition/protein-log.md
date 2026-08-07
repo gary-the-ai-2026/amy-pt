@@ -87,6 +87,7 @@
 | 4/8/26 | 3 | Normal |
 | 5/8/26 | 3 | Normal |
 | 6/8/26 | 2 | Constipated side |
+| 7/8/26 | — | None |
 
 ---
 
@@ -731,7 +732,7 @@
 | Kiwi, ¾ green | ~0.6g | ~1.6g | ~32 | Skin off |
 | Twix bars ×2 | ~1.4g | — | ~143 | 14.3g bar, 300kJ/0.7g P per bar |
 
-### Friday 7/8 — P: ~47.1g · F: ~24.8g · ~1,136 kcal
+### Friday 7/8 — P: ~86.5g · F: ~26.3g · ~1,680 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -751,4 +752,7 @@
 | Good Fat mayo, 1 tsp | — | — | ~25 | ~5g |
 | Tea + dash full-cream milk | ~0.5g | — | ~5 | |
 | 🧖‍♀️ Sauna | — | — | — | |
+| Chief whey, 1 scoop | 24g | — | ~120 | |
+| Sushi Hub chicken avocado roll | ~10g | ~1.5g | ~278 | |
+| KB's prawn gyoza ×3 | ~5.4g | — | ~146 | 1.8g P per dumpling (25g each) |
 
