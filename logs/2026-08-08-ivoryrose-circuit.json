@@ -1,0 +1,108 @@
+{
+  "session_id": "2026-08-08-ivoryrose-circuit",
+  "date": "2026-08-08",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Ivoryrose",
+  "format": "2 sections: 14 min conditioning (teams of 2, 1 min rest between rounds) + strength (4 exercises)",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "conditioning",
+      "name": "Rower",
+      "target_reps": "1250m",
+      "format": "6 min — person 1 ERG, person 2 accessory, teams of 2",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "6 min — Row 1250m"}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "conditioning",
+      "name": "Box Step Over",
+      "target_reps": "5 ES",
+      "format": "Chase effort during rower block",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "5 each side — chase effort while partner rows"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "conditioning",
+      "name": "Ski Erg",
+      "target_reps": "1000m",
+      "format": "6 min — person 1 ERG, person 2 accessory, teams of 2",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "6 min — Ski 1000m"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "conditioning",
+      "name": "Plate Russian Twist",
+      "target_reps": "6 ES",
+      "format": "Chase effort during ski block",
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "6 each side — chase effort while partner skis"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Core",
+      "name": "V-Up Toe Taps",
+      "target_reps": "15",
+      "target_sets": 4,
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 15},
+        {"set": 2, "weight_kg": 5, "reps": 15},
+        {"set": 3, "weight_kg": 5, "reps": 15},
+        {"set": 4, "weight_kg": 5, "reps": 15}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "DB Rear Delt Fly (Incline Bench)",
+      "target_reps": "8 per side",
+      "target_sets": 4,
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 5, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 5, "reps": 8, "side": "each"},
+        {"set": 4, "weight_kg": 5, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Legs",
+      "name": "BB Back Squat (3s eccentric)",
+      "target_reps": "7–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 45, "reps": 10, "notes": "3s eccentric"},
+        {"set": 2, "weight_kg": 50, "reps": 8, "notes": "3s eccentric"},
+        {"set": 3, "weight_kg": 55, "reps": 7, "notes": "3s eccentric"}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "SL Hip Thrust (Medicine Ball)",
+      "target_reps": "8 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 9, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 9, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 9, "reps": 8, "side": "each"}
+      ]
+    }
+  ],
+  "notes": "Ivoryrose — conditioning + strength. Teams of 2 (not 3) with 1 min rest between rounds. Conditioning: Rower 1250m + box step overs → Ski 1000m + Russian twists. Strength: Back squat pyramid 45→50→55kg with 3s eccentric. Rear delt fly 5kg. V-up toe taps 5kg plate. SL hip thrust 9kg med ball."
+}

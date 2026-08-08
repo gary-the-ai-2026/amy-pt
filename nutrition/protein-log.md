@@ -757,9 +757,14 @@
 | Sushi Hub chicken avocado roll | ~10g | ~1.5g | ~278 | |
 | KB's prawn gyoza ×3 | ~5.4g | — | ~146 | 1.8g P per dumpling (25g each) |
 
-### Saturday 8/8 — P: ~0g · F: ~0g · ~0 kcal
+### Saturday 8/8 — P: ~26.1g · F: ~5.6g · ~425 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
-| — | — | — | — | |
+| 2 oat crêpes (⅓ batch) | ~20.8g | ~5.0g | ~330 | Boob to Food recipe (6/batch) + 1 scoop Chief whey, 1 extra egg, 1 tbsp psyllium husk in batter |
+| Greek yoghurt, 2 tbsp | ~4.0g | — | ~30 | |
+| Banana, ¼ | ~0.3g | ~0.5g | ~25 | |
+| Maple syrup, 2 tsp | — | — | ~35 | |
+| Hemp seeds, ½ tsp | ~0.5g | ~0.1g | ~8 | |
+| Tea + dash full-cream milk | ~0.5g | — | ~5 | |
 
