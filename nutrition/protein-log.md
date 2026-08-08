@@ -21,6 +21,7 @@
 | 18/6/26 | 69.5kg | Pre-Mounjaro baseline |
 | 18/7/26 | 67.5kg | 4 weeks on Mounjaro (2.5mg) — 2kg down |
 | 19/7/26 | 67.35kg | — |
+| 8/8/26 | 66.25kg | — |
 
 ---
 
