@@ -13,10 +13,10 @@
       "num": 1,
       "section": "conditioning",
       "name": "Rower",
-      "target_reps": "1250m",
-      "format": "6 min — person 1 ERG, person 2 accessory, teams of 2",
+      "target_reps": "1250m (shared with partner)",
+      "format": "6 min — YIGIG: partners alternate rower ↔ box step overs",
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": null, "notes": "6 min — Row 1250m"}
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "Shared distance with partner — not solo"}
       ]
     },
     {
@@ -33,10 +33,10 @@
       "num": 3,
       "section": "conditioning",
       "name": "Ski Erg",
-      "target_reps": "1000m",
-      "format": "6 min — person 1 ERG, person 2 accessory, teams of 2",
+      "target_reps": "1000m (shared with partner)",
+      "format": "6 min — YIGIG: partners alternate ski erg ↔ Russian twists",
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": null, "notes": "6 min — Ski 1000m"}
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "Shared distance with partner — not solo"}
       ]
     },
     {
