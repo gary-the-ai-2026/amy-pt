@@ -758,7 +758,7 @@
 | Sushi Hub chicken avocado roll | ~10g | ~1.5g | ~278 | |
 | KB's prawn gyoza ×3 | ~5.4g | — | ~146 | 1.8g P per dumpling (25g each) |
 
-### Saturday 8/8 — P: ~26.1g · F: ~5.6g · ~425 kcal
+### Saturday 8/8 — P: ~87.0g · F: ~12.7g · ~1,678 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -768,4 +768,19 @@
 | Maple syrup, 2 tsp | — | — | ~35 | |
 | Hemp seeds, ½ tsp | ~0.5g | ~0.1g | ~8 | |
 | Tea + dash full-cream milk | ~0.5g | — | ~5 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Kooee beef stick | ~6.9g | — | ~80 | 25g stick, 6.9g P, 80 cal |
+| Choc peanut energy ball ×1 | ~4.3g | ~3.6g | ~148 | Homemade batch of 21 |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | |
+| Toscano mini pizza base | ~9.1g | ~2.0g | ~258 | 90g per base — Woolworths panel |
+| Tomato paste, 1 tbsp | ~0.5g | ~0.5g | ~15 | |
+| Ham, 30g | ~5.5g | — | ~33 | |
+| Chicken thigh, ½ | ~13.0g | — | ~100 | ~50g cooked |
+| Cheddar cheese, sprinkle | ~2.5g | — | ~40 | ~10g |
+| Bocconcini ×2 small | ~5.0g | — | ~90 | ~30g |
+| Cadbury Oreo, 10 squares | ~3.4g | — | ~334 | ~60g — 139 cal/25g |
+| Tea + dash full-cream milk | ~0.5g | — | ~5 | |
+| 🏋️‍♀️ Ivoryrose circuit + strength | — | — | — | |
+| 💩 Bowel | — | — | — | Type 4 |
+| ⚖️ Weight | — | — | — | 66.25kg |
 
