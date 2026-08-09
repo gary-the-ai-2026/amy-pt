@@ -785,7 +785,7 @@
 | 💩 Bowel | — | — | — | Type 4 |
 | ⚖️ Weight | — | — | — | 66.25kg |
 
-### Sunday 9/8 — P: ~54.9g · F: ~11.9g · ~1,035 kcal
+### Sunday 9/8 — P: ~56.9g · F: ~12.9g · ~1,235 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -800,4 +800,5 @@
 | Cucumber | ~0.5g | ~1g | ~15 | Qukes |
 | Kids packham pear | ~0.3g | ~2.5g | ~48 | |
 | Barossa roast turkey breast, 2 slices | ~10g | — | ~44 | 5g P per slice |
+| Cadbury caramel milk chocolate, 8 squares | ~2g | ~1g | ~200 | |
 
