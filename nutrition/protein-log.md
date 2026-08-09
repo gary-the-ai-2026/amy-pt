@@ -785,7 +785,7 @@
 | 💩 Bowel | — | — | — | Type 4 |
 | ⚖️ Weight | — | — | — | 66.25kg |
 
-### Sunday 9/8 — P: ~44.9g · F: ~11.9g · ~991 kcal
+### Sunday 9/8 — P: ~54.9g · F: ~11.9g · ~1,035 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -799,4 +799,5 @@
 | Green kiwi, half skin on | ~0.5g | ~2g | ~45 | |
 | Cucumber | ~0.5g | ~1g | ~15 | Qukes |
 | Kids packham pear | ~0.3g | ~2.5g | ~48 | |
+| Barossa roast turkey breast, 2 slices | ~10g | — | ~44 | 5g P per slice |
 
