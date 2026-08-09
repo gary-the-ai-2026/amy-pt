@@ -784,3 +784,13 @@
 | 💩 Bowel | — | — | — | Type 4 |
 | ⚖️ Weight | — | — | — | 66.25kg |
 
+### Sunday 9/8 — P: ~34.8g · F: ~5.7g · ~458 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Herman Brot Low Carb toast, ½ slice | ~5.9g | ~2.5g | ~58 | Half slice — 11.8g P / ~5g F per full slice |
+| Woolworths Macro Organic baked beans, 4 tbsp | ~3.4g | ~3.2g | ~60 | 4.9g P / 4.7g F per 100g — 4 tbsp ≈ 70g |
+| Cheddar cheese, 2 slices | ~10g | — | ~160 | ~20g per slice |
+| Eggs, 2.5 | ~15g | — | ~175 | Large, no ghee/butter mentioned |
+| Tea + dash full-cream milk | ~0.5g | — | ~5 | English breakfast |
+
