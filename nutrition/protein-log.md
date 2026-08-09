@@ -785,7 +785,7 @@
 | 💩 Bowel | — | — | — | Type 4 |
 | ⚖️ Weight | — | — | — | 66.25kg |
 
-### Sunday 9/8 — P: ~34.8g · F: ~5.7g · ~458 kcal
+### Sunday 9/8 — P: ~43.6g · F: ~6.4g · ~883 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -794,4 +794,6 @@
 | Cheddar cheese, 2 slices | ~10g | — | ~160 | ~20g per slice |
 | Eggs, 2.5 | ~15g | — | ~175 | Large, no ghee/butter mentioned |
 | Tea + dash full-cream milk | ~0.5g | — | ~5 | English breakfast |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Vanilla cake, 1 piece + M&Ms | ~3.7g | ~0.7g | ~350 | Cake ~275 cal, M&Ms ~75 cal — estimate |
 
