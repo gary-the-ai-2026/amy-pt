@@ -785,7 +785,7 @@
 | 💩 Bowel | — | — | — | Type 4 |
 | ⚖️ Weight | — | — | — | 66.25kg |
 
-### Sunday 9/8 — P: ~84.3g · F: ~17.9g · ~1,680 kcal
+### Sunday 9/8 — P: ~108.3g · F: ~17.9g · ~1,800 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -805,4 +805,5 @@
 | Potato, ½ | ~2g | ~2g | ~80 | |
 | Broccoli + cauliflower, handful | ~3g | ~3g | ~35 | Partially steamed |
 | Iron-rich green sauce, 2 tbsp | ~0.4g | — | ~140 | @boobtofood — olive oil, avocado, herbs, spinach, spirulina, lime |
+| Chief whey + water, 1 scoop | 24g | — | ~120 | |
 
