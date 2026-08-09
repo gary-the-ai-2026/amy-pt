@@ -785,7 +785,7 @@
 | 💩 Bowel | — | — | — | Type 4 |
 | ⚖️ Weight | — | — | — | 66.25kg |
 
-### Sunday 9/8 — P: ~43.6g · F: ~6.4g · ~883 kcal
+### Sunday 9/8 — P: ~44.9g · F: ~11.9g · ~991 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -796,4 +796,7 @@
 | Tea + dash full-cream milk | ~0.5g | — | ~5 | English breakfast |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Vanilla cake, 1 piece + M&Ms | ~3.7g | ~0.7g | ~350 | Cake ~275 cal, M&Ms ~75 cal — estimate |
+| Green kiwi, half skin on | ~0.5g | ~2g | ~45 | |
+| Cucumber | ~0.5g | ~1g | ~15 | Qukes |
+| Kids packham pear | ~0.3g | ~2.5g | ~48 | |
 
