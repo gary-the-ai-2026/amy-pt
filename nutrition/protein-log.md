@@ -808,7 +808,7 @@
 | Iron-rich green sauce, 2 tbsp | ~0.4g | — | ~140 | @boobtofood — olive oil, avocado, herbs, spinach, spirulina, lime |
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
 
-### Monday 10/8 — P: ~90.2g · F: ~19.4g · ~1,474 kcal
+### Monday 10/8 — P: ~88.7g · F: ~19.0g · ~1,425 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -833,6 +833,6 @@
 
 | Green kiwi, half skin on | ~0.5g | ~2g | ~45 | |
 | Medjool date | ~0.5g | ~1.6g | ~66 | |
-| Almond butter, 2 tsp | ~2g | ~0.6g | ~65 | |
+| Almond butter, ½ tsp | ~0.5g | ~0.2g | ~16 | |
 | Hemp seeds, ⅛ tsp | ~0.2g | ~0.1g | ~4 | |
 
