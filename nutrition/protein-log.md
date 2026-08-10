@@ -785,7 +785,7 @@
 | 💩 Bowel | — | — | — | Type 4 |
 | ⚖️ Weight | — | — | — | 66.25kg |
 
-### Sunday 9/8 — P: ~108.3g · F: ~17.9g · ~1,800 kcal
+### Sunday 9/8 — P: ~139.2g · F: ~25.2g · ~2,317 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -807,4 +807,11 @@
 | Broccoli + cauliflower, handful | ~3g | ~3g | ~35 | Partially steamed |
 | Iron-rich green sauce, 2 tbsp | ~0.4g | — | ~140 | @boobtofood — olive oil, avocado, herbs, spinach, spirulina, lime |
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
+| 2 oat crêpes (⅓ batch) | ~20.8g | ~5.0g | ~330 | Boob to Food recipe (6/batch) + whey, extra egg, psyllium |
+| Greek yoghurt, 2 tbsp | ~4.0g | — | ~30 | |
+| Maple syrup, 1 tsp | — | — | ~17 | |
+| Banana, ¼ | ~0.3g | ~0.5g | ~25 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | |
+| Tea + dash full-cream milk | ~0.5g | — | ~5 | |
+| Kids pink lady apple | ~0.2g | ~1.8g | ~35 | |
 
