@@ -808,7 +808,7 @@
 | Iron-rich green sauce, 2 tbsp | ~0.4g | — | ~140 | @boobtofood — olive oil, avocado, herbs, spinach, spirulina, lime |
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
 
-### Monday 10/8 — P: ~88.7g · F: ~19.0g · ~1,425 kcal
+### Monday 10/8 — P: ~108.5g · F: ~25.6g · ~1,853 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -841,4 +841,9 @@
 | Medjool date | ~0.5g | ~1.6g | ~66 | |
 | Almond butter, ½ tsp | ~0.5g | ~0.2g | ~16 | |
 | Hemp seeds, ⅛ tsp | ~0.2g | ~0.1g | ~4 | |
+
+| Cow’s milk, 1 cup | ~8.3g | — | ~167 | Full cream — 3.32g P/100g |
+| Woolworths Wheat Biscuits ×4 | ~7.6g | ~6.4g | ~212 | 12.6g P / 10.6g F per 100g |
+| Hemp seeds, 2 tsp | ~1.9g | ~0.2g | ~33 | ~10g |
+| Sugar, 1 tsp | — | — | ~16 | |
 
