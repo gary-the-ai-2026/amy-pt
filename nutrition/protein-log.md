@@ -824,6 +824,7 @@
 | Green curry: rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
 | Green curry sauce (Ayam) | ~0.5g | — | ~30 | Ayam paste — negligible macros |
 | 🏋️‍♀️ Home workout | — | — | — | 8 exercises — chest fly, lunges, lat raises, SL RDL, push ups, plank, tricep dips, leg curls |
+| 🧖‍♀️ Sauna | — | — | — | |
 | Chicken thigh ×1 | ~22g | — | ~190 | Skinless, boneless |
 | Spiral pasta, ½ cup cooked | ~3.5g | ~1g | ~100 | |
 | Iron-rich green sauce, 2 tsp | ~0.1g | — | ~47 | @boobtofood |
