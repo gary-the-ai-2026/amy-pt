@@ -808,7 +808,7 @@
 | Iron-rich green sauce, 2 tbsp | ~0.4g | — | ~140 | @boobtofood — olive oil, avocado, herbs, spinach, spirulina, lime |
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
 
-### Monday 10/8 — P: ~57.4g · F: ~10.6g · ~822 kcal
+### Monday 10/8 — P: ~87.0g · F: ~15.1g · ~1,294 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -824,4 +824,9 @@
 | Green curry: rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
 | Green curry sauce (Ayam) | ~0.5g | — | ~30 | Ayam paste — negligible macros |
 | 🏋️‍♀️ Home workout | — | — | — | 8 exercises — chest fly, lunges, lat raises, SL RDL, push ups, plank, tricep dips, leg curls |
+| Chicken thigh ×1 | ~22g | — | ~190 | Skinless, boneless |
+| Spiral pasta, ½ cup cooked | ~3.5g | ~1g | ~100 | |
+| Iron-rich green sauce, 2 tsp | ~0.1g | — | ~47 | @boobtofood |
+| Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
+| Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 
