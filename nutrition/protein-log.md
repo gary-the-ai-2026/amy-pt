@@ -831,7 +831,7 @@
 | Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
 | Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 
-### Tuesday 11/8 — P: ~0g · F: ~0g · ~0 kcal
+### Tuesday 11/8 — P: ~19.5g · F: ~10.5g · ~559 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
