@@ -808,7 +808,7 @@
 | Iron-rich green sauce, 2 tbsp | ~0.4g | — | ~140 | @boobtofood — olive oil, avocado, herbs, spinach, spirulina, lime |
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
 
-### Monday 10/8 — P: ~58.9g · F: ~11.6g · ~912 kcal
+### Monday 10/8 — P: ~57.4g · F: ~10.6g · ~822 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -822,5 +822,5 @@
 | Green curry: chicken thigh ×1 | ~22g | — | ~190 | Skinless, boneless |
 | Green curry: broccoli + zucchini, 1 cup | ~3g | ~3g | ~35 | |
 | Green curry: rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
-| Green curry sauce | ~2g | ~1g | ~120 | Coconut milk base — estimate |
+| Green curry sauce (Ayam) | ~0.5g | — | ~30 | Ayam paste — negligible macros |
 
