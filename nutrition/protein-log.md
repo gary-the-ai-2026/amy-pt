@@ -90,7 +90,7 @@
 | 6/8/26 | 2 | Constipated side |
 | 7/8/26 | — | None |
 | 8/8/26 | 4 | Normal |
-| 9/8/26 | 4 | Normal |
+| 9/8/26 | — | None |
 
 ---
 
@@ -830,6 +830,12 @@
 | Iron-rich green sauce, 2 tsp | ~0.1g | — | ~47 | @boobtofood |
 | Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
 | Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
+
+### Tuesday 11/8 — P: ~0g · F: ~0g · ~0 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 🏋️‍♀️ Home workout | — | — | — | 8 exercises — bicep curls, leg extensions, side lying leg raise, step downs, calf raisers, V-ups, frontal raise, hip thrusts |
 
 | Green kiwi, half skin on | ~0.5g | ~2g | ~45 | |
 | Medjool date | ~0.5g | ~1.6g | ~66 | |
