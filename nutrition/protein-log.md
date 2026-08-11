@@ -529,6 +529,8 @@
 || Rindless bacon, 2 slices | ~7g | — | ~90 | |
 || Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 
+| Chief Collagen bar | ~16g | ~2g | ~180 | 16g protein on label, 45g bar |
+
 ### Monday 27/7 — P: ~98.5g · F: ~26.1g · ~1,771 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
@@ -832,7 +834,7 @@
 | Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
 | Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 
-### Tuesday 11/8 — P: ~24.6g · F: ~10.5g · ~634 kcal
+### Tuesday 11/8 — P: ~40.6g · F: ~12.5g · ~814 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
