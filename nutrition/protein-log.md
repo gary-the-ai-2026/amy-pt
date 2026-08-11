@@ -531,7 +531,7 @@
 
 | Chief Collagen bar | ~16g | ~2g | ~180 | 16g protein on label, 45g bar |
 
-| Teriyaki chicken cold rolls ×2 | ~24g | ~2.4g | ~230 | Rice paper, chicken, veg, teriyaki sauce |
+| Teriyaki chicken cold rolls ×2 | ~25g | ~2.7g | ~285 | Rice paper, chicken, vermicelli noodles, veg, teriyaki sauce |
 
 | Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
@@ -839,7 +839,7 @@
 | Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
 | Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 
-### Tuesday 11/8 — P: ~95.5g · F: ~14.9g · ~1,244 kcal
+### Tuesday 11/8 — P: ~96.5g · F: ~15.2g · ~1,299 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
