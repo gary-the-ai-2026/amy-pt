@@ -533,6 +533,9 @@
 
 | Teriyaki chicken cold rolls ×2 | ~24g | ~2.4g | ~230 | Rice paper, chicken, veg, teriyaki sauce |
 
+| Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
+| Chief whey + water, 1 scoop | 24g | — | ~120 | |
+
 ### Monday 27/7 — P: ~98.5g · F: ~26.1g · ~1,771 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
@@ -836,7 +839,7 @@
 | Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
 | Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 
-### Tuesday 11/8 — P: ~64.6g · F: ~14.9g · ~1,044 kcal
+### Tuesday 11/8 — P: ~95.5g · F: ~14.9g · ~1,244 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
