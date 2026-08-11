@@ -536,7 +536,7 @@
 | Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
 
-| Chinese stir-fry (meat + veg) | ~22g | ~3g | ~280 | Estimate — what protein + dish? |
+| Honey chicken + beef in black bean | ~38g | ~2g | ~450 | Shared dishes — battered chicken + stir-fried beef |
 | Rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
 | Fruit salad, small serve | ~0.5g | ~2g | ~60 | |
 
@@ -843,7 +843,7 @@
 | Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
 | Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 
-### Tuesday 11/8 — P: ~120.0g · F: ~20.5g · ~1,689 kcal
+### Tuesday 11/8 — P: ~136.0g · F: ~19.5g · ~1,859 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
