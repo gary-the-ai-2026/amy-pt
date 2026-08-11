@@ -528,22 +528,6 @@
 || Just wholemeal bread, 1 slice | ~3.7g | ~2.6g | ~88 | Per label: 7.4g P · 5.1g F per 74g (2 slices) → 3.7g P · 2.55g F per slice. 370kJ |
 || Rindless bacon, 2 slices | ~7g | — | ~90 | |
 || Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
-
-| Chief Collagen bar | ~16g | ~2g | ~180 | 16g protein on label, 45g bar |
-
-| Teriyaki chicken cold rolls ×2 | ~25g | ~2.7g | ~285 | Rice paper, chicken, vermicelli noodles, veg, teriyaki sauce |
-
-| Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
-| Chief whey + water, 1 scoop | 24g | — | ~120 | |
-
-| Honey chicken + beef in black bean | ~38g | ~2g | ~450 | Shared dishes — battered chicken + stir-fried beef |
-| Rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
-| Fruit salad, small serve | ~0.5g | ~2g | ~60 | |
-
-### Monday 27/7 — P: ~98.5g · F: ~26.1g · ~1,771 kcal
-
-| Item | Protein | Fibre | Cals | Notes |
-|---|---|---|---|---|
 | Woolworths Wheat Biscuits ×4 | ~7.6g | ~6.4g | ~212 | 12.6g P / 10.6g F per 100g (label). ~15g per biscuit |
 | Full cream milk, 1 cup (250ml) | ~8.5g | — | ~167 | Woolworths 3.32g P/100g — scaled up from ¾ cup reference |
 | Hemp seeds, 2 tsp | ~1.9g | ~0.2g | ~33 | ~6g |
@@ -861,4 +845,19 @@
 | Sugar, 1 tsp | — | — | ~16 | |
 
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Chief Collagen bar | ~16g | ~2g | ~180 | 16g protein on label, 45g bar |
+| Teriyaki chicken cold rolls ×2 | ~25g | ~2.7g | ~285 | Rice paper, chicken, vermicelli noodles, veg, teriyaki sauce |
+| Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
+| Chief whey + water, 1 scoop | 24g | — | ~120 | |
+| Honey chicken + beef in black bean | ~38g | ~2g | ~450 | Shared dishes — battered chicken + stir-fried beef |
+| Rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
+| Fruit salad, small serve | ~0.5g | ~2g | ~60 | |
+### Wednesday 12/8 — P: ~17.5g · F: ~3.0g · ~360 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Gold kiwi, skin off | ~0.5g | ~1.5g | ~50 | |
+| Tip Top English Muffin | ~5g | ~1.5g | ~135 | |
+| Eggs ×2 | ~12g | — | ~140 | |
+| Butter, 1 tsp | — | — | ~35 | |
 
