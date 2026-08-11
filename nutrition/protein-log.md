@@ -90,6 +90,7 @@
 | 6/8/26 | 2 | Constipated side |
 | 7/8/26 | — | None |
 | 8/8/26 | 4 | Normal |
+| 11/8/26 | 4 | Normal |
 | 9/8/26 | — | None |
 
 ---
@@ -831,7 +832,7 @@
 | Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
 | Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 
-### Tuesday 11/8 — P: ~19.5g · F: ~10.5g · ~559 kcal
+### Tuesday 11/8 — P: ~24.6g · F: ~10.5g · ~634 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -846,4 +847,6 @@
 | Woolworths Wheat Biscuits ×4 | ~7.6g | ~6.4g | ~212 | 12.6g P / 10.6g F per 100g |
 | Hemp seeds, 2 tsp | ~1.9g | ~0.2g | ~33 | ~10g |
 | Sugar, 1 tsp | — | — | ~16 | |
+
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 
