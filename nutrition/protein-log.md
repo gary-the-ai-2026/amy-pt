@@ -90,8 +90,8 @@
 | 6/8/26 | 2 | Constipated side |
 | 7/8/26 | — | None |
 | 8/8/26 | 4 | Normal |
-| 11/8/26 | 4 | Normal |
 | 9/8/26 | — | None |
+| 11/8/26 | 3 | Normal |
 
 ---
 
@@ -841,6 +841,7 @@
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | 🏋️‍♀️ Home workout | — | — | — | 8 exercises — bicep curls, leg extensions, side lying leg raise, step downs, calf raisers, V-ups, frontal raise, hip thrusts |
+| 🧖‍♀️ Sauna | — | — | — | |
 
 | Green kiwi, half skin on | ~0.5g | ~2g | ~45 | |
 | Medjool date | ~0.5g | ~1.6g | ~66 | |
