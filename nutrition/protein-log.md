@@ -531,6 +531,8 @@
 
 | Chief Collagen bar | ~16g | ~2g | ~180 | 16g protein on label, 45g bar |
 
+| Teriyaki chicken cold rolls ×2 | ~24g | ~2.4g | ~230 | Rice paper, chicken, veg, teriyaki sauce |
+
 ### Monday 27/7 — P: ~98.5g · F: ~26.1g · ~1,771 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
@@ -834,7 +836,7 @@
 | Broccoli + cauliflower, 1 cup | ~3g | ~3g | ~35 | Slightly steamed |
 | Cadbury plain chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 
-### Tuesday 11/8 — P: ~40.6g · F: ~12.5g · ~814 kcal
+### Tuesday 11/8 — P: ~64.6g · F: ~14.9g · ~1,044 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
