@@ -852,7 +852,7 @@
 | Honey chicken + beef in black bean | ~38g | ~2g | ~450 | Shared dishes — battered chicken + stir-fried beef |
 | Rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
 | Fruit salad, small serve | ~0.5g | ~2g | ~60 | |
-### Wednesday 12/8 — P: ~105.3g · F: ~8.7g · ~1,566 kcal
+### Wednesday 12/8 — P: ~112.4g · F: ~11.1g · ~1,650 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -873,4 +873,6 @@
 
 | Cadbury almond chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
+
+| Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
