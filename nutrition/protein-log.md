@@ -852,7 +852,7 @@
 | Honey chicken + beef in black bean | ~38g | ~2g | ~450 | Shared dishes — battered chicken + stir-fried beef |
 | Rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
 | Fruit salad, small serve | ~0.5g | ~2g | ~60 | |
-### Wednesday 12/8 — P: ~17.5g · F: ~3.0g · ~360 kcal
+### Wednesday 12/8 — P: ~29.5g · F: ~3.0g · ~515 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -860,4 +860,7 @@
 | Tip Top English Muffin | ~5g | ~1.5g | ~135 | |
 | Eggs ×2 | ~12g | — | ~140 | |
 | Butter, 1 tsp | — | — | ~35 | |
+
+| Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 
