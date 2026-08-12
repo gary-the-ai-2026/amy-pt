@@ -872,3 +872,13 @@
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
 | Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
+### Thursday 13/8 — P: ~27.0g · F: ~1.5g · ~430 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea + dash full-cream milk | ~0.5g | — | ~5 | |
+| Tip Top English Muffin | ~5g | ~1.5g | ~135 | |
+| Eggs ×3 | ~18g | — | ~210 | |
+| Rindless bacon, 1 piece | ~3.5g | — | ~45 | |
+| Butter, 1 tsp | — | — | ~35 | |
+
