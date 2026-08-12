@@ -853,12 +853,12 @@
 | Honey chicken + beef in black bean | ~38g | ~2g | ~450 | Shared dishes — battered chicken + stir-fried beef |
 | Rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
 | Fruit salad, small serve | ~0.5g | ~2g | ~60 | |
-### Wednesday 12/8 — P: ~112.4g · F: ~11.1g · ~1,650 kcal
+### Wednesday 12/8 — P: ~113.8g · F: ~11.8g · ~1,667 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | Gold kiwi, skin off | ~0.5g | ~1.5g | ~50 | |
-| Tip Top English Muffin | ~5g | ~1.5g | ~135 | |
+| Tip Top English Muffin | ~6.4g | ~2.2g | ~152 | Per label — 6.4g P, 2.2g F, 637kJ per 67g muffin |
 | Eggs ×2 | ~12g | — | ~140 | |
 | Butter, 1 tsp | — | — | ~35 | |
 | Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
@@ -872,12 +872,12 @@
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
 | Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
-### Thursday 13/8 — P: ~27.0g · F: ~1.5g · ~430 kcal
+### Thursday 13/8 — P: ~28.4g · F: ~2.2g · ~447 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | Tea + dash full-cream milk | ~0.5g | — | ~5 | |
-| Tip Top English Muffin | ~5g | ~1.5g | ~135 | |
+| Tip Top English Muffin | ~6.4g | ~2.2g | ~152 | Per label — 6.4g P, 2.2g F, 637kJ per 67g muffin |
 | Eggs ×3 | ~18g | — | ~210 | |
 | Rindless bacon, 1 piece | ~3.5g | — | ~45 | |
 | Butter, 1 tsp | — | — | ~35 | |
