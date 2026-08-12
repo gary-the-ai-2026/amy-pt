@@ -852,7 +852,7 @@
 | Honey chicken + beef in black bean | ~38g | ~2g | ~450 | Shared dishes — battered chicken + stir-fried beef |
 | Rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
 | Fruit salad, small serve | ~0.5g | ~2g | ~60 | |
-### Wednesday 12/8 — P: ~76.5g · F: ~6.0g · ~1,015 kcal
+### Wednesday 12/8 — P: ~102.8g · F: ~7.7g · ~1,364 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -867,4 +867,7 @@
 | Chicken thighs ×2 | ~44g | — | ~380 | Skinless, boneless |
 | Potato, ½ | ~2g | ~2g | ~80 | |
 | Pumpkin, a few pieces | ~1g | ~1g | ~40 | |
+
+| Sweet & Sour turkey burgers ×2 | ~22g | ~1g | ~180 | Same batch — 9 patties |
+| Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~169 | Batch of 12 — honey + EVOO subs. ~51.5g P/2,030 cal per batch |
 
