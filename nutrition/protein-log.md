@@ -860,19 +860,14 @@
 | Tip Top English Muffin | ~5g | ~1.5g | ~135 | |
 | Eggs ×2 | ~12g | — | ~140 | |
 | Butter, 1 tsp | — | — | ~35 | |
-
 | Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
-
 | Chicken thighs ×2 | ~44g | — | ~380 | Skinless, boneless |
 | Potato, ½ | ~2g | ~2g | ~80 | |
 | Pumpkin, a few pieces | ~1g | ~1g | ~40 | |
-
 | Sweet & Sour turkey burgers ×2 | ~22g | ~1g | ~180 | Same batch — 9 patties |
 | Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO. ~51.5g P/1,935 cal per batch |
-
 | Cadbury almond chocolate, 4 squares | ~1g | ~0.5g | ~100 | |
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
-
 | Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
