@@ -852,7 +852,7 @@
 | Honey chicken + beef in black bean | ~38g | ~2g | ~450 | Shared dishes — battered chicken + stir-fried beef |
 | Rice, ¼ cup cooked | ~1g | ~0.3g | ~50 | |
 | Fruit salad, small serve | ~0.5g | ~2g | ~60 | |
-### Wednesday 12/8 — P: ~29.5g · F: ~3.0g · ~515 kcal
+### Wednesday 12/8 — P: ~76.5g · F: ~6.0g · ~1,015 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -863,4 +863,8 @@
 
 | Kooee beef stick | ~6.9g | — | ~80 | 25g stick |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+
+| Chicken thighs ×2 | ~44g | — | ~380 | Skinless, boneless |
+| Potato, ½ | ~2g | ~2g | ~80 | |
+| Pumpkin, a few pieces | ~1g | ~1g | ~40 | |
 
