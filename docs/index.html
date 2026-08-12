@@ -2314,9 +2314,10 @@ function parseFoodDate(heading) {
 function adelaideToday() {
   // Always compute Adelaide date from UTC, NOT browser local time
   // Adelaide = UTC+9:30 (ACST) — add 9.5 hours to get Adelaide local
+  // Returns UTC midnight so it matches parseFoodDate's Date.UTC output
   const now = new Date();
   const adelaide = new Date(now.getTime() + 9.5 * 60 * 60 * 1000);
-  return new Date(adelaide.getUTCFullYear(), adelaide.getUTCMonth(), adelaide.getUTCDate());
+  return new Date(Date.UTC(adelaide.getUTCFullYear(), adelaide.getUTCMonth(), adelaide.getUTCDate()));
 }
 
 async function renderFood() {
