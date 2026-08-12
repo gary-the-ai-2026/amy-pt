@@ -2631,13 +2631,12 @@ function renderBowelChart(md, resetPage = false) {
   const tables = parseMDTable(bowelSection[0]);
 
   // ── Parse all entries including BNO days ──
-  // Map: day timestamp → { dateStr, type (null=BNO), label, ts }
+  // Map: day timestamp → { dateStr, types[], labels[], ts }
   const dayMap = new Map();
   for (const t of tables) {
     for (const row of t.rows) {
       if (row[0] === 'Date' || !row[0]) continue;
       const datePart = row[0].trim(); // e.g., "7/7/26" or "8/7/26"
-      // Parse date — D/M/YY or D/M format
       const parts = datePart.split('/');
       if (parts.length < 2) continue;
       const day = parseInt(parts[0]);
@@ -2649,21 +2648,34 @@ function renderBowelChart(md, resetPage = false) {
       const dateStr = `${String(dt.getUTCDate()).padStart(2,'0')}/${String(dt.getUTCMonth()+1).padStart(2,'0')}`;
       const label = row[2] || '';
 
-      // Parse type: could be "3", "4–5" (range), "—" (BNO), or "None"
+      // Parse type: comma-separated ("1, 4"), range ("4–5"), or single number
       const typeStr = (row[1] || '').trim();
-      let type = null; // null = BNO by default
+      const types = [];
       if (typeStr !== '—' && typeStr.toLowerCase() !== 'none' && typeStr !== '') {
-        // Try range like "4–5" → take midpoint
-        const rangeMatch = typeStr.match(/^(\d+)[–—\-](\d+)$/);
-        if (rangeMatch) {
-          type = (parseInt(rangeMatch[1]) + parseInt(rangeMatch[2])) / 2;
-        } else {
-          const n = parseInt(typeStr);
-          if (!isNaN(n) && n >= 1 && n <= 7) type = n;
+        // Split on commas first (e.g. "1, 4")
+        const commaParts = typeStr.split(/[,;、]/);
+        for (const cp of commaParts) {
+          const pt = cp.trim();
+          if (!pt) continue;
+          // Try range like "4–5" → midpoint
+          const rangeMatch = pt.match(/^(\d+)[–—\-](\d+)$/);
+          if (rangeMatch) {
+            types.push((parseInt(rangeMatch[1]) + parseInt(rangeMatch[2])) / 2);
+          } else {
+            const n = parseInt(pt);
+            if (!isNaN(n) && n >= 1 && n <= 7) types.push(n);
+          }
         }
       }
-      // If multiple entries for same day, use the last one in the table
-      dayMap.set(ts, { dateStr, type, label, ts });
+
+      // Merge into existing entry for same day (support multiple BMs)
+      if (dayMap.has(ts)) {
+        const existing = dayMap.get(ts);
+        existing.types.push(...types);
+        if (label) existing.labels.push(label);
+      } else {
+        dayMap.set(ts, { dateStr, types, labels: label ? [label] : [], ts });
+      }
     }
   }
 
@@ -2673,10 +2685,14 @@ function renderBowelChart(md, resetPage = false) {
     return;
   }
 
-  // ── Build complete date range, filling every day ──
+  // ── Build complete date range, filling every day from first entry to TODAY ──
   const sorted = [...dayMap.values()].sort((a, b) => a.ts - b.ts);
   const minTs = sorted[0].ts;
-  const maxTs = sorted[sorted.length - 1].ts;
+  const today = adelaideToday();
+  const todayTs = today.getTime();
+  // Extend range to at least today (fix: chart was stopping at last data entry)
+  const maxDataTs = sorted[sorted.length - 1].ts;
+  const maxTs = Math.max(maxDataTs, todayTs);
   const allDays = [];
   const cur = new Date(minTs);
   while (cur.getTime() <= maxTs) {
@@ -2685,11 +2701,11 @@ function renderBowelChart(md, resetPage = false) {
     const m = String(cur.getUTCMonth() + 1).padStart(2,'0');
     const dateStr = `${d}/${m}`;
     const entry = dayMap.get(ts);
-    if (entry) {
-      allDays.push({ dateStr, type: entry.type, label: entry.label, isBNO: entry.type === null, ts });
+    if (entry && entry.types.length > 0) {
+      allDays.push({ dateStr, types: entry.types, labels: entry.labels, isBNO: false, ts });
     } else {
       // Day with no row at all → BNO
-      allDays.push({ dateStr, type: null, label: '', isBNO: true, ts });
+      allDays.push({ dateStr, types: [], labels: [], isBNO: true, ts });
     }
     cur.setUTCDate(cur.getUTCDate() + 1);
   }
@@ -2698,7 +2714,6 @@ function renderBowelChart(md, resetPage = false) {
   allBowelDays = allDays;
 
   // ── Build weeks array ──
-  const today = adelaideToday();
   const currentMonday = getWeekMonday(today);
   const firstMonday = getWeekMonday(new Date(allDays[0].ts));
   allBowelWeeks = [];
@@ -2746,7 +2761,7 @@ function renderBowelChart(md, resetPage = false) {
 
   canvas.style.display = '';
 
-  // Legend — add BNO
+  // Legend — add BNO + multi-BM marker
   const types = [
     { t: '1–2', label: 'Constipated', color: '#e8a55a' },
     { t: '3–4', label: 'Normal', color: '#5db872' },
@@ -2756,11 +2771,15 @@ function renderBowelChart(md, resetPage = false) {
     types.map(tp =>
       `<span class="bl-item"><span class="bl-zone" style="background:${tp.color}"></span>Type ${tp.t}: ${tp.label}</span>`
     ).join('') +
-    `<span class="bl-item"><span class="bl-dot" style="background:#8e8b82;border-radius:2px;"></span>BNO — Bowels Not Open</span>`;
+    `<span class="bl-item"><span class="bl-dot" style="background:#8e8b82;border-radius:2px;"></span>BNO — Bowels Not Open</span>` +
+    `<span class="bl-item"><span class="bl-dot" style="background:transparent;border:2px solid #5db8a6;border-radius:50%;width:6px;height:6px;"></span>2nd BM (same day)</span>`;
 
   const labels = windowDays.map(d => d.dateStr);
-  const values = windowDays.map(d => d.type);        // null for BNO
-  const bnoData = windowDays.map(d => d.isBNO ? 0.25 : null);  // BNO markers at base
+  const values = windowDays.map(d => d.types.length > 0 ? d.types[0] : null);  // primary BM
+  const bnoData = windowDays.map(d => d.isBNO ? 0.25 : null);
+
+  // Second BM of the day (types[1]) — scatter dataset with offset
+  const secondBM = windowDays.map(d => d.types.length > 1 ? d.types[1] : null);
 
   if (bowelChartInst) bowelChartInst.destroy();
 
@@ -2770,7 +2789,6 @@ function renderBowelChart(md, resetPage = false) {
       id: 'weekMarkers',
       afterDraw(chart) {
         const { ctx, scales: { x, y } } = chart;
-        let foundFirstMonday = false;
         for (let i = 0; i < windowDays.length; i++) {
           const d = windowDays[i];
           const dt = new Date(d.ts);
@@ -2785,7 +2803,6 @@ function renderBowelChart(md, resetPage = false) {
             ctx.lineTo(xPos, y.bottom);
             ctx.stroke();
             ctx.restore();
-            foundFirstMonday = true;
           }
         }
       }
@@ -2801,8 +2818,9 @@ function renderBowelChart(md, resetPage = false) {
           backgroundColor: '#5db8a6',
           pointBackgroundColor: windowDays.map(d => {
             if (d.isBNO) return 'transparent';
-            if (d.type >= 3 && d.type <= 4) return '#5db872';
-            if (d.type <= 2) return '#e8a55a';
+            const t = d.types[0];
+            if (t >= 3 && t <= 4) return '#5db872';
+            if (t <= 2) return '#e8a55a';
             return '#c64545';
           }),
           pointRadius: windowDays.map(d => d.isBNO ? 0 : 6),
@@ -2810,6 +2828,26 @@ function renderBowelChart(md, resetPage = false) {
           borderWidth: 2,
           tension: 0.2,
           spanGaps: true,
+        },
+        {
+          label: '2nd BM (same day)',
+          data: secondBM,
+          type: 'scatter',
+          pointStyle: 'circle',
+          pointBackgroundColor: 'transparent',
+          pointBorderColor: windowDays.map(d => {
+            if (!d.types[1]) return 'transparent';
+            const t = d.types[1];
+            if (t >= 3 && t <= 4) return '#5db872';
+            if (t <= 2) return '#e8a55a';
+            return '#c64545';
+          }),
+          pointBorderWidth: 2,
+          pointRadius: windowDays.map(d => d.types.length > 1 ? 7 : 0),
+          pointHoverRadius: windowDays.map(d => d.types.length > 1 ? 9 : 0),
+          showLine: false,
+          // Small horizontal offset so 2nd dot doesn't perfectly overlap
+          animation: false,
         },
         {
           label: 'BNO — Bowels Not Open',
@@ -2844,7 +2882,7 @@ function renderBowelChart(md, resetPage = false) {
             usePointStyle: true, boxWidth: 8, boxHeight: 8, padding: 16,
             font: { size: 11, family: 'Inter, sans-serif' },
             color: '#6c6a64',
-            filter: item => item.datasetIndex === 0 || item.datasetIndex === 2, // Bristol + Normal range
+            filter: item => item.datasetIndex === 0 || item.datasetIndex === 2 || item.datasetIndex === 3, // Bristol + 2nd BM + Normal range
           }
         },
         tooltip: {
@@ -2853,7 +2891,13 @@ function renderBowelChart(md, resetPage = false) {
               const d = windowDays[ctx.dataIndex];
               if (!d) return '';
               if (d.isBNO) return 'BNO — Bowels Not Open';
-              return `Type ${d.type}${d.label ? ' — ' + d.label : ''}`;
+              if (ctx.datasetIndex === 0) {
+                return `Type ${d.types[0]}${d.labels[0] ? ' — ' + d.labels[0] : ''}`;
+              }
+              if (ctx.datasetIndex === 1 && d.types.length > 1) {
+                return `Type ${d.types[1]}${d.labels[1] ? ' — ' + d.labels[1] : ''} (2nd BM)`;
+              }
+              return '';
             }
           }
         }
@@ -2864,7 +2908,7 @@ function renderBowelChart(md, resetPage = false) {
           ticks: {
             color: '#8e8b82', font: { size: 9, family: 'JetBrains Mono' },
             maxRotation: 0,
-            autoSkip: false,       // show every single day
+            autoSkip: false,
           },
           border: { display: false }
         },
