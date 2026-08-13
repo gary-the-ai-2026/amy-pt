@@ -806,6 +806,8 @@
 | Iron-rich green sauce, 2 tbsp | ~0.4g | — | ~140 | @boobtofood — olive oil, avocado, herbs, spinach, spirulina, lime |
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
 
+| Kids packham pear | ~0.3g | ~2.5g | ~48 | |
+
 ### Monday 10/8 — P: ~108.5g · F: ~25.6g · ~1,853 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
@@ -873,7 +875,7 @@
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
 | Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
-### Thursday 13/8 — P: ~61.8g · F: ~2.9g · ~803 kcal
+### Thursday 13/8 — P: ~62.1g · F: ~5.4g · ~851 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
