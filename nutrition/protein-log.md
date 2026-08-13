@@ -872,7 +872,7 @@
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
 | Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
-### Thursday 13/8 — P: ~28.4g · F: ~2.2g · ~447 kcal
+### Thursday 13/8 — P: ~37.8g · F: ~2.9g · ~683 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -881,4 +881,7 @@
 | Eggs ×3 | ~18g | — | ~210 | |
 | Rindless bacon, 1 piece | ~3.5g | — | ~45 | |
 | Butter, 1 tsp | — | — | ~35 | |
+
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
 
