@@ -873,7 +873,7 @@
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
 | Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
-### Thursday 13/8 — P: ~86.1g · F: ~16.2g · ~1,362 kcal
+### Thursday 13/8 — P: ~92.6g · F: ~19.7g · ~1,904 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -897,4 +897,6 @@
 | Cleaver’s Organic Beef Lasagna, ⅓ pack (200g) | ~11g | ~2g | ~271 | Per label — 5.5g P, 566kJ per 100g |
 | Broccolini, a few stems | ~2g | ~2g | ~30 | |
 | Cauliflower, ½ cup | ~1.5g | ~2g | ~25 | |
+| Almonds, ⅛ cup | ~2.5g | ~1.5g | ~82 | ≈12 almonds |
+| Bracegirdle’s chocolate pastilles, ½ cup | ~4g | ~2g | ~460 | |
 
