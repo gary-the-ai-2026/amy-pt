@@ -1,0 +1,131 @@
+{
+  "session_id": "2026-08-13-ad-hoc",
+  "date": "2026-08-13",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Strength — 9 exercises, 3 sets each",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Back",
+      "name": "Bent Over Row (Single Arm)",
+      "target_reps": "8–10 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 18, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 18, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Squat Pulses (Blue Band)",
+      "target_reps": "30",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 30, "notes": "blue resistance band"},
+        {"set": 2, "weight_kg": 0, "reps": 30, "notes": "blue resistance band"},
+        {"set": 3, "weight_kg": 0, "reps": 30, "notes": "blue resistance band"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Back",
+      "name": "Pull Ups",
+      "target_reps": "max",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 1.5, "notes": "bodyweight"},
+        {"set": 2, "weight_kg": 0, "reps": 1, "notes": "bodyweight"},
+        {"set": 3, "weight_kg": 0, "reps": 1, "notes": "bodyweight"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Triceps",
+      "name": "Hip Bridge + Straight Arm Overhead Tricep",
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10},
+        {"set": 2, "weight_kg": 10, "reps": 10},
+        {"set": 3, "weight_kg": 10, "reps": 10}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Goblet Squat (on Plate)",
+      "target_reps": "12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 12},
+        {"set": 2, "weight_kg": 10, "reps": 12},
+        {"set": 3, "weight_kg": 10, "reps": 12}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Core",
+      "name": "Lateral Side Bend",
+      "target_reps": "10 per side",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 18, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 18, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 18, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Arnold's Press",
+      "target_reps": "7–10 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 8, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 8, "reps": 7, "side": "each"}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Core",
+      "name": "Sit Ups (Overhead Weight)",
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 10, "notes": "5kg overhead"},
+        {"set": 2, "weight_kg": 5, "reps": 10, "notes": "5kg overhead"},
+        {"set": 3, "weight_kg": 5, "reps": 10, "notes": "5kg overhead"}
+      ]
+    },
+    {
+      "num": 9,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Hip Thrust (Single Foot on Med Ball)",
+      "target_reps": "10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 10, "side": "each", "notes": "1 foot on 12kg med ball, other leg in air"},
+        {"set": 2, "weight_kg": 12, "reps": 10, "side": "each", "notes": "1 foot on 12kg med ball, other leg in air"},
+        {"set": 3, "weight_kg": 12, "reps": 10, "side": "each", "notes": "1 foot on 12kg med ball, other leg in air"}
+      ]
+    }
+  ],
+  "notes": "Home workout. Bent over row: 16→18kg per arm. Squat pulses 30×3 (blue band). Pull ups: 1.5, 1, 1 (bodyweight). Hip bridge + straight arm overhead tricep 10kg×10×3. Goblet squat on plate 10kg×12×3. Lateral side bend 18kg×10/side×3. Arnold's press: 6→8kg per arm. Sit ups 5kg overhead×10×3. Hip thrust single foot on 12kg med ball, 10/leg×3."
+}

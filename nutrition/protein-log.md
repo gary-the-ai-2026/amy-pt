@@ -93,6 +93,7 @@
 | 9/8/26 | — | None |
 | 11/8/26 | 3 | Normal |
 || 11/8/26 | 4 | Normal (afternoon) |
+| 13/8/26 | 4 | Normal |
 
 ---
 
@@ -876,6 +877,7 @@
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
+| 🏋️‍♀️ Home workout | — | — | — | 9 exercises — bent over row, squat pulses, pull ups, hip bridge tricep, goblet squat, lateral side bend, Arnold's press, sit ups, hip thrust |
 | Tea + dash full-cream milk | ~0.5g | — | ~5 | |
 | Tip Top English Muffin | ~6.4g | ~2.2g | ~152 | Per label — 6.4g P, 2.2g F, 637kJ per 67g muffin |
 | Eggs ×3 | ~18g | — | ~210 | |
