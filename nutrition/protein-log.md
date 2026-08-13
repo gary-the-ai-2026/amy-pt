@@ -811,6 +811,8 @@
 | Gold kiwi, skin off | ~0.5g | ~1.5g | ~50 | |
 | Orange | ~1g | ~3g | ~60 | |
 
+| Coriander chicken patty ×1 | ~8g | ~0.3g | ~75 | Double batch (~24 patties) — chicken mince, coconut milk, breadcrumbs, pan-fried in ghee |
+
 ### Monday 10/8 — P: ~108.5g · F: ~25.6g · ~1,853 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
@@ -878,7 +880,7 @@
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
 | Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
-### Thursday 13/8 — P: ~63.6g · F: ~9.9g · ~961 kcal
+### Thursday 13/8 — P: ~71.6g · F: ~10.2g · ~1,036 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
