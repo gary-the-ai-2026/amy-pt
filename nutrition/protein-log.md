@@ -873,7 +873,7 @@
 | Impressed orange juice, 1 cup | ~1.5g | ~0.5g | ~110 | |
 | Edgell Edamame Beans, 1 can (70g drained) | ~7.1g | ~2.4g | ~84 | Per label — 7.1g P, 2.4g F, 351kJ per 70g serve |
 
-### Thursday 13/8 — P: ~37.8g · F: ~2.9g · ~683 kcal
+### Thursday 13/8 — P: ~61.8g · F: ~2.9g · ~803 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -887,4 +887,6 @@
 
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
+
+| Chief whey + water, 1 scoop | 24g | — | ~120 | |
 
