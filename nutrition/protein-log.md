@@ -93,7 +93,7 @@
 | 9/8/26 | — | None |
 | 11/8/26 | 3 | Normal |
 || 11/8/26 | 4 | Normal (afternoon) |
-| 13/8/26 | 4 | Normal |
+| 13/8/26 | 4, 3 | Two BMs — Type 4 earlier, Type 3 later |
 
 ---
 
