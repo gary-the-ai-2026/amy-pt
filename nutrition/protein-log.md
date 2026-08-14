@@ -900,3 +900,12 @@
 | Almonds, ⅛ cup | ~2.5g | ~1.5g | ~82 | ≈12 almonds |
 | Bracegirdle’s chocolate pastilles, ½ cup | ~4g | ~2g | ~460 | |
 
+### Friday 14/8 — P: ~27.5g · F: ~2.2g · ~417 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Eggs ×2 | ~12g | — | ~140 | |
+| Tip Top English Muffin | ~6.4g | ~2.2g | ~152 | Per label — 6.4g P, 2.2g F, 637kJ per 67g muffin |
+| Rindless bacon, 1 slice | ~3.5g | — | ~45 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
