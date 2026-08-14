@@ -901,7 +901,7 @@
 | Almonds, ⅛ cup | ~2.5g | ~1.5g | ~82 | ≈12 almonds |
 | Bracegirdle’s chocolate pastilles, ½ cup | ~4g | ~2g | ~460 | |
 
-### Friday 14/8 — P: ~55.8g · F: ~3.8g · ~818 kcal
+### Friday 14/8 — P: ~56.8g · F: ~4.1g · ~898 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -913,3 +913,4 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
 | Chicken & coriander patties ×3 | ~24g | ~0.9g | ~225 | Double batch (~24 patties) — chicken mince, coconut milk, breadcrumbs, pan-fried in ghee |
+| Jam drop ×1 | ~1g | ~0.3g | ~80 | Estimate |
