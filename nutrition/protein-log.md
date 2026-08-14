@@ -901,7 +901,7 @@
 | Almonds, ⅛ cup | ~2.5g | ~1.5g | ~82 | ≈12 almonds |
 | Bracegirdle’s chocolate pastilles, ½ cup | ~4g | ~2g | ~460 | |
 
-### Friday 14/8 — P: ~31.8g · F: ~2.9g · ~593 kcal
+### Friday 14/8 — P: ~55.8g · F: ~3.8g · ~818 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -912,3 +912,4 @@
 | Rindless bacon, 1 slice | ~3.5g | — | ~45 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
+| Chicken & coriander patties ×3 | ~24g | ~0.9g | ~225 | Double batch (~24 patties) — chicken mince, coconut milk, breadcrumbs, pan-fried in ghee |
