@@ -1,0 +1,136 @@
+{
+  "session_id": "2026-08-15-ivoryrose",
+  "date": "2026-08-15",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Ivoryrose",
+  "format": "3 blocks: 2 strength blocks (erg + 2 exercises) + 40/20 conditioning circuit (4 stations ×3 rounds)",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Conditioning",
+      "name": "Erg",
+      "target_reps": "1 min",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "1 min"},
+        {"set": 2, "weight_kg": null, "reps": null, "notes": "1 min"},
+        {"set": 3, "weight_kg": null, "reps": null, "notes": "1 min"}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Sumo Squat",
+      "target_reps": "12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 20, "reps": 12},
+        {"set": 2, "weight_kg": 24, "reps": 12},
+        {"set": 3, "weight_kg": 24, "reps": 12}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Step Ups",
+      "target_reps": "12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 12, "notes": "bodyweight"},
+        {"set": 2, "weight_kg": 0, "reps": 12, "notes": "bodyweight"},
+        {"set": 3, "weight_kg": 0, "reps": 12, "notes": "bodyweight"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Conditioning",
+      "name": "Erg",
+      "target_reps": "1 min",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "1 min"},
+        {"set": 2, "weight_kg": null, "reps": null, "notes": "1 min"},
+        {"set": 3, "weight_kg": null, "reps": null, "notes": "1 min"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Chest Press (DB)",
+      "target_reps": "9–10 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 12.5, "reps": 9, "side": "each"},
+        {"set": 3, "weight_kg": 12.5, "reps": 9, "side": "each"}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Lateral Raise (DB)",
+      "target_reps": "9 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 9, "side": "each"},
+        {"set": 2, "weight_kg": 5, "reps": 9, "side": "each"},
+        {"set": 3, "weight_kg": 5, "reps": 9, "side": "each"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "conditioning",
+      "group": "Shoulders",
+      "name": "Push Press",
+      "target_reps": "40s on",
+      "format": "40s on / 20s off — 3 rounds",
+      "sets": [
+        {"set": 1, "weight_kg": 7, "reps": null, "side": "each", "notes": "7kg per arm, 40s on / 20s off"}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "conditioning",
+      "group": "Core",
+      "name": "Heel Toe Taps",
+      "target_reps": "40s on",
+      "format": "40s on / 20s off — 3 rounds",
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": null, "notes": "bodyweight, 40s on / 20s off"}
+      ]
+    },
+    {
+      "num": 9,
+      "section": "conditioning",
+      "group": "Full Body",
+      "name": "Kettlebell Swings",
+      "target_reps": "40s on",
+      "format": "40s on / 20s off — 3 rounds",
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": null, "notes": "16kg KB, 40s on / 20s off"}
+      ]
+    },
+    {
+      "num": 10,
+      "section": "conditioning",
+      "group": "Legs",
+      "name": "TRX Jump Squats",
+      "target_reps": "40s on",
+      "format": "40s on / 20s off — 3 rounds",
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": null, "notes": "TRX, 40s on / 20s off"}
+      ]
+    }
+  ],
+  "notes": "Ivoryrose — 3 blocks. Block 1: Erg 1min ×3, sumo squat 20→24kg, step ups ×12. Block 2: Erg 1min ×3, chest press 10→12.5kg per arm, lateral raise 5kg ×9. Block 3 (40s on / 20s off ×3 rounds): push press 7kg per arm, heel toe taps, KB swings 16kg, TRX jump squats."
+}

@@ -916,3 +916,9 @@
 | Jam drop ×1 | ~1g | ~0.3g | ~80 | Estimate |
 | Eight hour lamb, ¾ cup | ~26g | — | ~263 | Slow-cooked, shredded |
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
+
+### Saturday 15/8 — P: ~0g · F: ~0g · ~0 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 🏋️‍♀️ IvoryRose workout | — | — | — | 3 blocks — erg + sumo squat + step ups; erg + chest press + lateral raise; 40/20 circuit (push press, heel toe taps, KB swings, TRX jump squats) |
