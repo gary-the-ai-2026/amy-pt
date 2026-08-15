@@ -918,7 +918,7 @@
 | Eight hour lamb, ¾ cup | ~26g | — | ~263 | Slow-cooked, shredded |
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
 
-### Saturday 15/8 — P: ~94.3g · F: ~19.4g · ~1,515 kcal
+### Saturday 15/8 — P: ~97.3g · F: ~20.4g · ~1,785 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -939,3 +939,4 @@
 | Chief beef stick | ~8.5g | — | ~95 | 25g stick, sea salt — label: 8.5g protein |
 | Eight hour lamb, ¾ cup | ~26g | — | ~263 | Same as last night — slow-cooked, shredded |
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
+| Celebrations chocolates ×6 | ~3g | ~1g | ~270 | Individually wrapped, last night |
