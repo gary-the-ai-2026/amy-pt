@@ -95,6 +95,7 @@
 || 11/8/26 | 4 | Normal (afternoon) |
 | 13/8/26 | 4 | Normal |
 | 14/8/26 | 3 | Normal |
+| 15/8/26 | 3 | Normal |
 
 ---
 
