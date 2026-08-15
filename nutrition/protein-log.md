@@ -917,7 +917,7 @@
 | Eight hour lamb, ¾ cup | ~26g | — | ~263 | Slow-cooked, shredded |
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
 
-### Saturday 15/8 — P: ~20g · F: ~8g · ~410 kcal
+### Saturday 15/8 — P: ~29.4g · F: ~8.7g · ~646 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -927,3 +927,5 @@
 | Maple syrup, 1 tsp | — | — | ~18 | Topping |
 | Frozen raspberries, sprinkle | ~0.4g | ~2g | ~15 | Topping |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
