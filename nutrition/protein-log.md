@@ -923,6 +923,7 @@
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | 🏋️‍♀️ IvoryRose workout | — | — | — | 3 blocks — erg + sumo squat + step ups; erg + chest press + lateral raise; 40/20 circuit (push press, heel toe taps, KB swings, TRX jump squats) |
+| 🧖‍♀️ Sauna | — | — | — | |
 | Banana oat blender pancakes ×3 | ~16g | ~6g | ~350 | ½ scoop protein, no spinach — base recipe (banana, eggs, oats, milk) |
 | Greek yoghurt, 2 tbsp | ~3g | — | ~20 | Topping |
 | Maple syrup, 1 tsp | — | — | ~18 | Topping |
