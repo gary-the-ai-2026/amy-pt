@@ -918,7 +918,7 @@
 | Eight hour lamb, ¾ cup | ~26g | — | ~263 | Slow-cooked, shredded |
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
 
-### Saturday 15/8 — P: ~30.8g · F: ~14.5g · ~782 kcal
+### Saturday 15/8 — P: ~54.8g · F: ~15.4g · ~1,007 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -934,3 +934,4 @@
 | Orange, ½ | ~0.5g | ~1.5g | ~30 | |
 | Kids apple, ¼ | ~0.1g | ~0.3g | ~8 | |
 | Gold kiwi, skin off | ~0.5g | ~1.5g | ~50 | |
+| Coriander chicken meatballs ×3 | ~24g | ~0.9g | ~225 | Double batch (~24) — chicken mince, coconut milk, breadcrumbs, pan-fried in ghee |
