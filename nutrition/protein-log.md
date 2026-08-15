@@ -917,8 +917,13 @@
 | Eight hour lamb, ¾ cup | ~26g | — | ~263 | Slow-cooked, shredded |
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
 
-### Saturday 15/8 — P: ~0g · F: ~0g · ~0 kcal
+### Saturday 15/8 — P: ~20g · F: ~8g · ~410 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | 🏋️‍♀️ IvoryRose workout | — | — | — | 3 blocks — erg + sumo squat + step ups; erg + chest press + lateral raise; 40/20 circuit (push press, heel toe taps, KB swings, TRX jump squats) |
+| Banana oat blender pancakes ×3 | ~16g | ~6g | ~350 | ½ scoop protein, no spinach — base recipe (banana, eggs, oats, milk) |
+| Greek yoghurt, 2 tbsp | ~3g | — | ~20 | Topping |
+| Maple syrup, 1 tsp | — | — | ~18 | Topping |
+| Frozen raspberries, sprinkle | ~0.4g | ~2g | ~15 | Topping |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
