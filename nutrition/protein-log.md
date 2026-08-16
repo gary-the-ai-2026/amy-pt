@@ -943,7 +943,7 @@
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
 | Celebrations chocolates ×6 | ~3g | ~1g | ~270 | Individually wrapped, last night |
 
-### Sunday 16/8 — P: ~65.5g · F: ~6.2g · ~718 kcal
+### Sunday 16/8 — P: ~102.5g · F: ~7.2g · ~1,233 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -956,3 +956,7 @@
 | Chief whey + water, 1 scoop | 24g | — | ~120 | |
 | Kids packham pear | ~0.3g | ~2.5g | ~48 | |
 | Barossa ham, 4 slices | ~16.7g | — | ~93 | Amy’s figure — ~4.2g P per slice |
+| Sourdough bread, small slice | ~1.5g | ~0.5g | ~65 | Lunch |
+| Butter, 1 tsp | — | — | ~35 | Lunch |
+| Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless |
+| Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
