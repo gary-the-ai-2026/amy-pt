@@ -961,7 +961,7 @@
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
 
-### Monday 17/8 — P: ~16.6g · F: ~6.5g · ~410 kcal
+### Monday 17/8 — P: ~26g · F: ~7.2g · ~646 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -969,3 +969,5 @@
 | Cow’s milk, 1 cup | ~8g | — | ~165 | Full cream |
 | Sugar, 1 tsp | — | — | ~16 | |
 | Hemp seeds, 1 tsp | ~1g | ~0.1g | ~17 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
