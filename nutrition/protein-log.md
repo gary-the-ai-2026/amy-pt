@@ -942,7 +942,7 @@
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
 | Celebrations chocolates ×6 | ~3g | ~1g | ~270 | Individually wrapped, last night |
 
-### Sunday 16/8 — P: ~19.4g · F: ~3.7g · ~382 kcal
+### Sunday 16/8 — P: ~24.5g · F: ~3.7g · ~457 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -951,3 +951,4 @@
 | Butter, 1 tsp | — | — | ~35 | |
 | Tip Top English Muffin | ~6.4g | ~2.2g | ~152 | Per label — 6.4g P, 2.2g F, 637kJ per 67g muffin |
 | Gold kiwi, half skin on | ~0.5g | ~1.5g | ~50 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
