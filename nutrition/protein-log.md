@@ -943,7 +943,7 @@
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
 | Celebrations chocolates ×6 | ~3g | ~1g | ~270 | Individually wrapped, last night |
 
-### Sunday 16/8 — P: ~119.1g · F: ~13.7g · ~1,643 kcal
+### Sunday 16/8 — P: ~102.5g · F: ~7.2g · ~1,233 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -960,6 +960,11 @@
 | Butter, 1 tsp | — | — | ~35 | Lunch |
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
+
+### Monday 17/8 — P: ~16.6g · F: ~6.5g · ~410 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
 | Woolworths Wheat Biscuits ×4 | ~7.6g | ~6.4g | ~212 | 12.6g P / 10.6g F per 100g (label) |
 | Cow’s milk, 1 cup | ~8g | — | ~165 | Full cream |
 | Sugar, 1 tsp | — | — | ~16 | |
