@@ -961,7 +961,7 @@
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
 
-### Monday 17/8 — P: ~57g · F: ~14.2g · ~1,096 kcal
+### Monday 17/8 — P: ~54g · F: ~14.2g · ~1,096 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -973,4 +973,4 @@
 | Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
 | Green kiwi, skin on | ~0.5g | ~2g | ~45 | |
-| Minestrone soup, 1 bowl | ~30g | ~5g | ~400 | Hearty Beef & Minestrone (Auntie Donna) — ~⅕–⅙ batch |
+| Minestrone soup, 1 bowl | ~27g | ~5g | ~400 | Hearty Beef & Minestrone (Auntie Donna) — Amy's estimate |
