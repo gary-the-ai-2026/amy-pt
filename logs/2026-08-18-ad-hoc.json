@@ -1,0 +1,129 @@
+{
+  "session_id": "2026-08-18-ad-hoc",
+  "date": "2026-08-18",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Full body strength — 9 exercises",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Bicep Curl (Single Arm)",
+      "target_reps": "6 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 6, "side": "each"},
+        {"set": 2, "weight_kg": 10, "reps": 6, "side": "each"},
+        {"set": 3, "weight_kg": 10, "reps": 6, "side": "each"}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Smith Machine Booty Kickback",
+      "target_reps": "10–12 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 18, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 23, "reps": 12, "side": "each"},
+        {"set": 3, "weight_kg": 23, "reps": 12, "side": "each"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Crab Walk",
+      "target_reps": "30",
+      "target_sets": 1,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 30, "notes": "blue band"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Chest Fly (DB)",
+      "target_reps": "6–10 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 8, "reps": 6, "side": "each", "notes": "failed on 7th"},
+        {"set": 3, "weight_kg": 8, "reps": 6, "side": "each"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Push Ups (on knees)",
+      "target_reps": "12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 12},
+        {"set": 2, "weight_kg": 0, "reps": 12},
+        {"set": 3, "weight_kg": 0, "reps": 12}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Extension (Single Leg)",
+      "target_reps": "8–10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 15, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 17.5, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 20, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Back",
+      "name": "Lat Pulldown",
+      "target_reps": "8–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 23, "reps": 10},
+        {"set": 2, "weight_kg": 27, "reps": 10},
+        {"set": 3, "weight_kg": 32, "reps": 8}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Tricep Kickback",
+      "target_reps": "12 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 6, "reps": 12, "side": "each"},
+        {"set": 3, "weight_kg": 6, "reps": 12, "side": "each"}
+      ]
+    },
+    {
+      "num": 9,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Hip Thrust (1 foot on medicine ball)",
+      "target_reps": "10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, 12kg med ball"},
+        {"set": 2, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, 12kg med ball"},
+        {"set": 3, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, 12kg med ball"}
+      ]
+    }
+  ],
+  "notes": "Home session — 9 exercises. Bicep curl 10kg per arm x6 x3; smith booty kickback 18kg x10 then 23kg x12 x2; crab walk x30 (blue band); chest fly 6kg x10 then 8kg x6 (failed 7th) then 8kg x6; push ups on knees x12 x3; single-leg leg extension 15kg x10, 17.5kg x10, 20kg x8; lat pulldown 23kg x10, 27kg x10, 32kg x8; tricep kickbacks 6kg x12 x3; hip thrust 1 foot on 12kg med ball, other in air x10 per leg x3."
+}

@@ -982,3 +982,9 @@
 | Medjool date | ~0.4g | ~1.6g | ~66 | |
 | Almond butter, ½ tsp | ~0.5g | ~0.3g | ~15 | |
 | Hemp seeds, sprinkle | ~1g | ~0.1g | ~17 | |
+
+### Tuesday 18/8 — P: ~0g · F: ~0g · ~0 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 🏋️‍♀️ Home workout | — | — | — | 9 exercises — bicep curl 10kg; smith booty kickback 18→23kg; crab walk; chest fly 6→8kg; push ups (knees); single-leg leg ext 15→20kg; lat pulldown 23→32kg; tricep kickbacks 6kg; hip thrust (med ball) |
