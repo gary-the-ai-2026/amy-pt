@@ -962,7 +962,7 @@
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
 | Greek yoghurt, 1 tbsp | ~1.5g | — | ~20 | Dinner |
 
-### Monday 17/8 — P: ~89.5g · F: ~14.7g · ~1,511 kcal
+### Monday 17/8 — P: ~91.4g · F: ~16.7g · ~1,609 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -978,3 +978,6 @@
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
 | 🧖‍♀️ Sauna | — | — | — | |
+| Medjool date | ~0.4g | ~1.6g | ~66 | |
+| Almond butter, ½ tsp | ~0.5g | ~0.3g | ~15 | |
+| Hemp seeds, sprinkle | ~1g | ~0.1g | ~17 | |
