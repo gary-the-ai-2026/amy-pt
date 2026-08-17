@@ -967,6 +967,7 @@
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | Woolworths Wheat Biscuits ×4 | ~7.6g | ~6.4g | ~212 | 12.6g P / 10.6g F per 100g (label) |
+| 🏋️‍♀️ IvoryRose workout | — | — | — | Mixed strength & conditioning — 38 min, details not remembered |
 | Cow’s milk, 1 cup | ~8g | — | ~165 | Full cream |
 | Sugar, 1 tsp | — | — | ~16 | |
 | Hemp seeds, 1 tsp | ~1g | ~0.1g | ~17 | |
