@@ -943,7 +943,7 @@
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | 3 potato + 1 sweet potato + cannellini beans + butter + organ powder |
 | Celebrations chocolates ×6 | ~3g | ~1g | ~270 | Individually wrapped, last night |
 
-### Sunday 16/8 — P: ~102.5g · F: ~7.2g · ~1,233 kcal
+### Sunday 16/8 — P: ~104g · F: ~7.2g · ~1,253 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -960,8 +960,9 @@
 | Butter, 1 tsp | — | — | ~35 | Lunch |
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
+| Greek yoghurt, 1 tbsp | ~1.5g | — | ~20 | Dinner |
 
-### Monday 17/8 — P: ~54g · F: ~14.2g · ~1,096 kcal
+### Monday 17/8 — P: ~89.5g · F: ~14.7g · ~1,511 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -974,3 +975,5 @@
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
 | Green kiwi, skin on | ~0.5g | ~2g | ~45 | |
 | Minestrone soup, 1 bowl | ~27g | ~5g | ~400 | Hearty Beef & Minestrone (Auntie Donna) — Amy's estimate |
+| Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
+| Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
