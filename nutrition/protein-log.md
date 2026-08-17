@@ -977,3 +977,4 @@
 | Minestrone soup, 1 bowl | ~27g | ~5g | ~400 | Hearty Beef & Minestrone (Auntie Donna) — Amy's estimate |
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
+| 🧖‍♀️ Sauna | — | — | — | |
