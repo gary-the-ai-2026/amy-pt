@@ -984,7 +984,7 @@
 | Almond butter, ½ tsp | ~0.5g | ~0.3g | ~15 | |
 | Hemp seeds, sprinkle | ~1g | ~0.1g | ~17 | |
 
-### Tuesday 18/8 — P: ~48.9g · F: ~13.6g · ~939 kcal
+### Tuesday 18/8 — P: ~56.5g · F: ~16.1g · ~1,179 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -999,3 +999,6 @@
 | Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Celebrations chocolates ×5 | ~2.5g | ~0.8g | ~225 | Individually wrapped |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Green kiwi, skin on | ~0.5g | ~2g | ~45 | |
+| Jatz crackers ×6 | ~2g | ~0.5g | ~120 | Estimate |
