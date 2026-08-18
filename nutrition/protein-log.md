@@ -983,7 +983,7 @@
 | Almond butter, ½ tsp | ~0.5g | ~0.3g | ~15 | |
 | Hemp seeds, sprinkle | ~1g | ~0.1g | ~17 | |
 
-### Tuesday 18/8 — P: ~36.5g · F: ~12.1g · ~473 kcal
+### Tuesday 18/8 — P: ~41.3g · F: ~12.8g · ~639 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -994,3 +994,5 @@
 | Smoothie — chia seeds, 1 tbsp | ~2g | ~4g | ~58 | |
 | Smoothie — honey, 2 tsp | — | — | ~43 | |
 | Smoothie — hemp seeds, sprinkle | ~1g | ~0.1g | ~17 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Yoghurt & Raspberry muffin ×1 | ~4.3g | ~0.7g | ~161 | Batch of 12 — maple syrup + EVOO |
