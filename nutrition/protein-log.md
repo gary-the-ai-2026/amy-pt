@@ -1004,3 +1004,13 @@
 | Jatz crackers ×6 | ~2g | ~0.5g | ~120 | Estimate |
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
+
+### Wednesday 19/8 — P: ~32g · F: ~2.6g · ~410 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Eggs ×2 | ~12g | — | ~140 | |
+| Woolworths wholemeal toast, 1 slice | ~3.5g | ~2g | ~80 | Estimate — no label |
+| Butter, 1 tsp | — | — | ~35 | |
+| Chicken & coriander meatballs ×2 | ~16g | ~0.6g | ~150 | Double batch (~24) |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
