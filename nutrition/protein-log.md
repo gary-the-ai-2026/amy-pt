@@ -984,7 +984,7 @@
 | Almond butter, ½ tsp | ~0.5g | ~0.3g | ~15 | |
 | Hemp seeds, sprinkle | ~1g | ~0.1g | ~17 | |
 
-### Tuesday 18/8 — P: ~56.5g · F: ~16.1g · ~1,179 kcal
+### Tuesday 18/8 — P: ~92g · F: ~16.6g · ~1,594 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1002,3 +1002,5 @@
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Green kiwi, skin on | ~0.5g | ~2g | ~45 | |
 | Jatz crackers ×6 | ~2g | ~0.5g | ~120 | Estimate |
+| Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
+| Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
