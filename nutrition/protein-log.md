@@ -99,6 +99,7 @@
 | 16/8/26 | 3 | Normal |
 | 16/8/26 | 3 | Normal (afternoon) |
 | 18/8/26 | 3 | Normal |
+| 19/8/26 | 3 | Normal |
 
 ---
 
