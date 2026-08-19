@@ -1006,7 +1006,7 @@
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
 
-### Wednesday 19/8 — P: ~40.1g · F: ~3.6g · ~755 kcal
+### Wednesday 19/8 — P: ~70.8g · F: ~7.3g · ~1,090 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1017,3 +1017,9 @@
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
 | Celebrations chocolates ×6 | ~3g | ~1g | ~270 | Individually wrapped |
+| Sandwich — wholemeal bread, 1½ slices | ~5.3g | ~3g | ~120 | Estimate — no label |
+| Sandwich — turkey, 90g | ~20g | — | ~105 | Estimate |
+| Sandwich — butter, ½ tsp | — | — | ~18 | |
+| Sandwich — grated carrot, a little | ~0.2g | ~0.5g | ~8 | |
+| Sandwich — tomato, 1 slice | ~0.2g | ~0.2g | ~4 | |
+| Sandwich — cheddar, 1 slice | ~5g | — | ~80 | |
