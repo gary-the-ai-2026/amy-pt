@@ -1006,7 +1006,7 @@
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
 
-### Wednesday 19/8 — P: ~116.8g · F: ~11.8g · ~1,565 kcal
+### Wednesday 19/8 — P: ~111.8g · F: ~11.8g · ~1,465 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1026,4 +1026,5 @@
 | Broccoli, 1 cup | ~2.5g | ~3g | ~35 | Cooked |
 | Carrot, steamed, a few pieces | ~0.5g | ~1.5g | ~20 | |
 | Eye fillet steak, 160g | ~33g | — | ~220 | Estimate |
-| Pork sausage ×1 | ~10g | — | ~200 | Estimate |
+| Pork sausage, ½ | ~5g | — | ~100 | Estimate — half |
+| 🧖♀️ Sauna | — | — | — | |
