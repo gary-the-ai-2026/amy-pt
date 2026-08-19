@@ -1005,7 +1005,7 @@
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
 
-### Wednesday 19/8 — P: ~32g · F: ~2.6g · ~410 kcal
+### Wednesday 19/8 — P: ~40.1g · F: ~3.6g · ~755 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1014,3 +1014,5 @@
 | Butter, 1 tsp | — | — | ~35 | |
 | Chicken & coriander meatballs ×2 | ~16g | ~0.6g | ~150 | Double batch (~24) |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Celebrations chocolates ×6 | ~3g | ~1g | ~270 | Individually wrapped |
