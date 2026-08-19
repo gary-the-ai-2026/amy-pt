@@ -1029,3 +1029,13 @@
 | Pork sausage, ½ | ~5g | — | ~100 | Estimate — half |
 | 🧖♀️ Sauna | — | — | — | |
 | Twix, small share ×2 | ~2.5g | ~0.8g | ~250 | Estimate — share pack size |
+
+### Thursday 20/8 — P: ~28.7g · F: ~3.8g · ~449 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Oat crêpes — 2 of 5 | ~24.9g | ~3.2g | ~332 | Bonsoy instead of cow's milk; +1 scoop whey; +1 egg |
+| Greek yoghurt, 2 tbsp | ~3g | — | ~40 | |
+| Maple syrup, 1 tbsp | — | — | ~50 | |
+| Banana, ¼ | ~0.3g | ~0.6g | ~22 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
