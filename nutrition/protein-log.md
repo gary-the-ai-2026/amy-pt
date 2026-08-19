@@ -1006,7 +1006,7 @@
 | Shredded chicken, ~1.5 thighs | ~33g | — | ~285 | Skinless, boneless — same as last night |
 | Cooked rice, ½ cup | ~2.5g | ~0.5g | ~130 | |
 
-### Wednesday 19/8 — P: ~111.8g · F: ~11.8g · ~1,465 kcal
+### Wednesday 19/8 — P: ~114.3g · F: ~12.6g · ~1,715 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1028,3 +1028,4 @@
 | Eye fillet steak, 160g | ~33g | — | ~220 | Estimate |
 | Pork sausage, ½ | ~5g | — | ~100 | Estimate — half |
 | 🧖♀️ Sauna | — | — | — | |
+| Twix, small share ×2 | ~2.5g | ~0.8g | ~250 | Estimate — share pack size |
