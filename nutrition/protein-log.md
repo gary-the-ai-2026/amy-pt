@@ -1031,7 +1031,7 @@
 | 🧖♀️ Sauna | — | — | — | |
 | Twix, small share ×2 | ~2.5g | ~0.8g | ~250 | Estimate — share pack size |
 
-### Thursday 20/8 — P: ~115.5g · F: ~20.9g · ~1,668 kcal
+### Thursday 20/8 — P: ~116g · F: ~22.4g · ~1,710 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1056,3 +1056,4 @@
 | Cheddar, sprinkle | ~5g | — | ~80 | |
 | Cucumber, 1 | ~1g | ~0.8g | ~22 | |
 | Good Fat mayo, 1 tsp | — | — | ~35 | |
+| Green kiwi, skin off | ~0.5g | ~1.5g | ~42 | |
