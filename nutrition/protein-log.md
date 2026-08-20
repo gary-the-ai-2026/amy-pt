@@ -1030,7 +1030,7 @@
 | 🧖♀️ Sauna | — | — | — | |
 | Twix, small share ×2 | ~2.5g | ~0.8g | ~250 | Estimate — share pack size |
 
-### Thursday 20/8 — P: ~34.7g · F: ~5.7g · ~605 kcal
+### Thursday 20/8 — P: ~70.2g · F: ~17.7g · ~1,039 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1042,3 +1042,8 @@
 | Medjool date | ~0.4g | ~1.6g | ~66 | |
 | Almond butter, ½ tsp | ~0.5g | ~0.3g | ~15 | |
 | Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Smoothie — frozen raspberries, 1 cup | ~1.5g | ~8g | ~70 | |
+| Smoothie — cow's milk, 1 cup | ~8g | — | ~165 | |
+| Smoothie — protein powder, 1 scoop | ~24g | — | ~120 | Chief whey assumed — tell me if different |
+| Smoothie — chia seeds, 1 tbsp | ~2g | ~4g | ~58 | |
+| Smoothie — honey, 1 tsp | — | — | ~21 | |
