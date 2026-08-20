@@ -1030,7 +1030,7 @@
 | 🧖♀️ Sauna | — | — | — | |
 | Twix, small share ×2 | ~2.5g | ~0.8g | ~250 | Estimate — share pack size |
 
-### Thursday 20/8 — P: ~70.2g · F: ~17.7g · ~1,039 kcal
+### Thursday 20/8 — P: ~78.7g · F: ~17.7g · ~1,134 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1047,3 +1047,4 @@
 | Smoothie — protein powder, 1 scoop | ~24g | — | ~120 | Chief whey assumed — tell me if different |
 | Smoothie — chia seeds, 1 tbsp | ~2g | ~4g | ~58 | |
 | Smoothie — honey, 1 tsp | — | — | ~21 | |
+| Chief beef stick | ~8.5g | — | ~95 | Label — 8.5g per stick |
