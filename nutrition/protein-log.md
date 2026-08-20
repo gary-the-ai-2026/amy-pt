@@ -1058,8 +1058,13 @@
 | Good Fat mayo, 1 tsp | — | — | ~35 | |
 | Green kiwi, skin off | ~0.5g | ~1.5g | ~42 | |
 
-### Friday 21/8 — P: ~0g · F: ~0g · ~0 kcal
+### Friday 21/8 — P: ~16.5g · F: ~3.5g · ~284 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
+| Green kiwi, skin off | ~0.5g | ~1.5g | ~42 | |
+| Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Eggs ×2 | ~12g | — | ~140 | |
+| Butter, ½ tsp | — | — | ~17 | |
+| Woolworths wholemeal bread, 1 slice | ~3.5g | ~2g | ~80 | Estimate — no label |
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
