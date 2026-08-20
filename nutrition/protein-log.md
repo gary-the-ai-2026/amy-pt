@@ -100,6 +100,7 @@
 | 16/8/26 | 3 | Normal (afternoon) |
 | 18/8/26 | 3 | Normal |
 | 19/8/26 | 3 | Normal |
+| 20/8/26 | 4 | Normal |
 
 ---
 
@@ -1048,3 +1049,4 @@
 | Smoothie — chia seeds, 1 tbsp | ~2g | ~4g | ~58 | |
 | Smoothie — honey, 1 tsp | — | — | ~21 | |
 | Chief beef stick | ~8.5g | — | ~95 | Label — 8.5g per stick |
+| 🧖♀️ Sauna | — | — | — | |
