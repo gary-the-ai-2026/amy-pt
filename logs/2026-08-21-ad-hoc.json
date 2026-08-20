@@ -1,0 +1,131 @@
+{
+  "session_id": "2026-08-21-ad-hoc",
+  "date": "2026-08-21",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Full body strength — 9 exercises",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Back",
+      "name": "Chin Ups",
+      "target_reps": "1",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 1},
+        {"set": 2, "weight_kg": 0, "reps": 1},
+        {"set": 3, "weight_kg": 0, "reps": 1}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Seated Overhead DB Press",
+      "target_reps": "9–10 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 8, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 10, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 10, "reps": 9, "side": "each"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Smith Machine Single Leg Kick Back",
+      "target_reps": "12 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 18, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 23, "reps": 12, "side": "each"},
+        {"set": 3, "weight_kg": 27, "reps": 12, "side": "each"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Back",
+      "name": "Bent Over Row (Single Arm)",
+      "target_reps": "8–10 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 18, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Curl",
+      "target_reps": "7–12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 15, "reps": 12},
+        {"set": 2, "weight_kg": 17.5, "reps": 12},
+        {"set": 3, "weight_kg": 20, "reps": 7}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Core",
+      "name": "Lateral Side Bend (kneeling, 1 leg straight)",
+      "target_reps": "10 per side",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 12, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 14, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 18, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Calves",
+      "name": "Calf Raise (double leg)",
+      "target_reps": "22–30",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 18, "reps": 22},
+        {"set": 2, "weight_kg": 18, "reps": 25},
+        {"set": 3, "weight_kg": 18, "reps": 30}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Tricep Overhead Hip Bridge",
+      "target_reps": "8–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10},
+        {"set": 2, "weight_kg": 10, "reps": 10},
+        {"set": 3, "weight_kg": 12, "reps": 8, "notes": "failed on 9th"}
+      ]
+    },
+    {
+      "num": 9,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Side Lying Leg Raise (with weight plate)",
+      "target_reps": "12–15 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 10, "reps": 15, "side": "each"},
+        {"set": 3, "weight_kg": 10, "reps": 15, "side": "each"}
+      ]
+    }
+  ],
+  "notes": "Home session — 9 exercises. Chin ups x1 x3; seated overhead DB press 8kg x10, 10kg x10, 10kg x9 per arm; smith single-leg kickback 18kg x12, 23kg x12, 27kg x12 per leg; bent over row 16kg x10 per arm x2, 18kg x8 per arm; leg curls 15kg x12, 17.5kg x12, 20kg x7; lateral side bend (kneeling, 1 leg straight) 12kg x10, 14kg x10, 18kg x10 per side; calf raise 18kg x22, x25, x30; tricep overhead hip bridge 10kg x10, 10kg x10, 12kg x8 (failed 9th); side lying leg raise w/ plate 10kg x12, x15, x15 per leg."
+}

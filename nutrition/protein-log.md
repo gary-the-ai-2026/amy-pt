@@ -1057,3 +1057,9 @@
 | Cucumber, 1 | ~1g | ~0.8g | ~22 | |
 | Good Fat mayo, 1 tsp | — | — | ~35 | |
 | Green kiwi, skin off | ~0.5g | ~1.5g | ~42 | |
+
+### Friday 21/8 — P: ~0g · F: ~0g · ~0 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
