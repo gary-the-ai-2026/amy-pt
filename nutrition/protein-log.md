@@ -1031,7 +1031,7 @@
 | 🧖♀️ Sauna | — | — | — | |
 | Twix, small share ×2 | ~2.5g | ~0.8g | ~250 | Estimate — share pack size |
 
-### Thursday 20/8 — P: ~78.7g · F: ~17.7g · ~1,134 kcal
+### Thursday 20/8 — P: ~120.7g · F: ~20.5g · ~1,791 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1050,3 +1050,9 @@
 | Smoothie — honey, 1 tsp | — | — | ~21 | |
 | Chief beef stick | ~8.5g | — | ~95 | Label — 8.5g per stick |
 | 🧖♀️ Sauna | — | — | — | |
+| Burrito — Old El Paso tortilla ×2 | ~10g | ~2g | ~340 | Kit estimate |
+| Burrito — chicken, ½ breast | ~25g | — | ~140 | Estimate |
+| Burrito — kit seasoning + salsa | ~1g | — | ~40 | Estimate |
+| Cheddar, sprinkle | ~5g | — | ~80 | |
+| Cucumber, 1 | ~1g | ~0.8g | ~22 | |
+| Good Fat mayo, 1 tsp | — | — | ~35 | |
