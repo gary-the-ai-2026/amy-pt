@@ -1030,7 +1030,7 @@
 | 🧖♀️ Sauna | — | — | — | |
 | Twix, small share ×2 | ~2.5g | ~0.8g | ~250 | Estimate — share pack size |
 
-### Thursday 20/8 — P: ~28.7g · F: ~3.8g · ~449 kcal
+### Thursday 20/8 — P: ~34.7g · F: ~5.7g · ~605 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1039,3 +1039,6 @@
 | Maple syrup, 1 tbsp | — | — | ~50 | |
 | Banana, ¼ | ~0.3g | ~0.6g | ~22 | |
 | Tea | ~0.5g | — | ~5 | English breakfast + dash full-cream milk |
+| Medjool date | ~0.4g | ~1.6g | ~66 | |
+| Almond butter, ½ tsp | ~0.5g | ~0.3g | ~15 | |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
