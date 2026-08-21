@@ -22,6 +22,7 @@
 | 18/7/26 | 67.5kg | 4 weeks on Mounjaro (2.5mg) — 2kg down |
 | 19/7/26 | 67.35kg | — |
 | 8/8/26 | 66.25kg | — |
+| 22/8/26 | 64.6kg | New low — below 65kg ideal |
 
 ---
 
