@@ -1905,7 +1905,7 @@ async function renderBodyweightChart() {
     if (!points.length) return;
 
     // 7-day rolling average
-    const labels = points.map(p => p.date.slice(5));
+    const labels = points.map(p => `${parseInt(p.date.slice(8), 10)}/${parseInt(p.date.slice(5, 7), 10)}`);
     const raw = points.map(p => p.weight);
     const avg = raw.map((_, i) => {
       const slice = raw.slice(Math.max(0, i-6), i+1);
