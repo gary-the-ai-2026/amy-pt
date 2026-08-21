@@ -6,7 +6,7 @@
 
 **Context:** GLP-1 medication — tracking intake for curiosity, protein adequacy, and gut health.
 **Medication:** Mounjaro 2.5mg weekly injections — commenced 2/7/26.
-**Ideal weight:** 65kg
+**Ideal weight:** 63kg
 
 **Defaults:** Tea = English breakfast + dash full-cream milk. Coffee = small + ~½ cup Bonsoy milk. Chicken sausage = Peppercorn Extra Lean (9.9g protein, 1.3g fibre per sausage). Herman Brot Low Carb bread = 11.8g protein per slice. Chief Whey = 24g protein per scoop. Barossa Fine Foods Roast Turkey Breast = 20g protein per 80g pack (4 slices = 5g protein per slice). Coles Multigrain High-Fibre bread = 4.4g protein, 3.1g fibre per slice.
 
