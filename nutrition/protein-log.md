@@ -1080,12 +1080,13 @@
 | Orange, ¼ | ~0.3g | ~0.8g | ~15 | |
 | Green kiwi, ½ skin off | ~0.3g | ~0.8g | ~21 | |
 | 🧖♀️ Sauna | — | — | — | |
-| 🏋️♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
+| 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
 
 ### Saturday 22/8 — P: ~28.9g · F: ~10.5g · ~409 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
+| 🏋️‍♀️ IvoryRose workout | — | — | — | 38 min — Tabata 45s/45s ×3. BB deadlift 45→55kg; DB chest fly 6→7kg; TRX SL squat; Bike ~10cal×3; DB push press 8→9kg; Wall sit 45s+15kg med ball×3; Rower; Bicep curl 10kg×6×3 |
 | Smoothie — frozen raspberries, 1 cup (¾) | ~1.1g | ~6g | ~53 | ¾ of full batch |
 | Smoothie — cow's milk, 1¼ cups (¾) | ~7.5g | — | ~155 | |
 | Smoothie — protein powder, 1 scoop (¾) | ~18g | — | ~90 | Chief whey assumed — tell me if different |

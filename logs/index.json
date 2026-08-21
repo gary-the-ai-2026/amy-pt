@@ -1,5 +1,16 @@
 [
   {
+    "name": "2026-08-22-ivoryrose.json",
+    "date": "2026-08-22",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": 38,
+    "exercise_count": 8,
+    "completed_count": 8
+  },
+  {
     "name": "2026-08-21-ad-hoc.json",
     "date": "2026-08-21",
     "type": "ad-hoc",

@@ -1,0 +1,111 @@
+{
+  "session_id": "2026-08-22-ivoryrose",
+  "date": "2026-08-22",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Ivoryrose",
+  "format": "Strength & Conditioning Combo — Tabata 45s ON / 45s OFF, 3 rounds",
+  "cycle": 1,
+  "week": 3,
+  "duration_min": 38,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Full Body",
+      "name": "BB Deadlift",
+      "target_reps": "8–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 45, "reps": 10},
+        {"set": 2, "weight_kg": 55, "reps": 8},
+        {"set": 3, "weight_kg": 55, "reps": 8}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Chest",
+      "name": "DB Chest Fly",
+      "target_reps": "10–12 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 7, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 7, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Legs",
+      "name": "TRX SL Squat",
+      "target_reps": "8–10 each side",
+      "target_sets": 3,
+      "sets": []
+    },
+    {
+      "num": 4,
+      "section": "conditioning",
+      "group": "Conditioning",
+      "name": "Bike",
+      "target_reps": "45s max distance",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": null, "reps": null, "notes": "~10 cal"},
+        {"set": 2, "weight_kg": null, "reps": null, "notes": "~10 cal"},
+        {"set": 3, "weight_kg": null, "reps": null, "notes": "~10 cal"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "DB Push Press",
+      "target_reps": "10–12 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 8, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 9, "reps": 12, "side": "each"},
+        {"set": 3, "weight_kg": 9, "reps": 12, "side": "each"}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "conditioning",
+      "group": "Legs",
+      "name": "Wall Sit",
+      "target_reps": "30–45s",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 15, "reps": null, "notes": "45s, 15kg med ball on lap"},
+        {"set": 2, "weight_kg": 15, "reps": null, "notes": "45s, 15kg med ball on lap"},
+        {"set": 3, "weight_kg": 15, "reps": null, "notes": "45s, 15kg med ball on lap"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "conditioning",
+      "group": "Conditioning",
+      "name": "Rower",
+      "target_reps": "45s max distance",
+      "target_sets": 3,
+      "sets": []
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Bicep Curl",
+      "target_reps": "10–12 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 6, "side": "each"},
+        {"set": 2, "weight_kg": 10, "reps": 6, "side": "each"},
+        {"set": 3, "weight_kg": 10, "reps": 6, "side": "each"}
+      ]
+    }
+  ],
+  "notes": "Ivoryrose — Strength & Conditioning Combo, 38 min. Tabata format: 3 rounds, 45s ON / 45s OFF. BB deadlift 45kg x10, 55kg x8 x2; DB chest fly 6kg x12, 7kg x8 x2; TRX SL squat (details not recorded); Bike ~10 cal x3; DB push press 8kg x12, 9kg x12 x2; Wall sit 45s + 15kg med ball x3; Rower (details not recorded); Bicep curl 10kg x6 x3 (per arm)."
+}
