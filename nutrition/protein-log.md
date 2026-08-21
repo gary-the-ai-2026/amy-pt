@@ -1059,7 +1059,7 @@
 | Good Fat mayo, 1 tsp | — | — | ~35 | |
 | Green kiwi, skin off | ~0.5g | ~1.5g | ~42 | |
 
-### Friday 21/8 — P: ~103.2g · F: ~15.1g · ~1,472 kcal
+### Friday 21/8 — P: ~103.5g · F: ~15.9g · ~1,487 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1075,5 +1075,6 @@
 | Lamb ragu, 1 cup | ~37g | ~4g | ~300 | Same as last time — ~150g lamb, veg, tomato |
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | Sweet potato + cannellini beans + butter + organ powder |
 | Cadbury Twirl, small ×2 | ~4.4g | ~0.6g | ~300 | Assumed ~28g each — tell me if share pack is smaller |
+| Orange, ¼ | ~0.3g | ~0.8g | ~15 | |
 | 🧖♀️ Sauna | — | — | — | |
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
