@@ -1058,7 +1058,7 @@
 | Good Fat mayo, 1 tsp | — | — | ~35 | |
 | Green kiwi, skin off | ~0.5g | ~1.5g | ~42 | |
 
-### Friday 21/8 — P: ~16.5g · F: ~3.5g · ~284 kcal
+### Friday 21/8 — P: ~56.8g · F: ~6.5g · ~722 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1067,4 +1067,8 @@
 | Eggs ×2 | ~12g | — | ~140 | |
 | Butter, ½ tsp | — | — | ~17 | |
 | Woolworths wholemeal bread, 1 slice | ~3.5g | ~2g | ~80 | Estimate — no label |
+| Coffee + Bonsoy milk | ~5.1g | — | ~75 | Small + ~½ cup Bonsoy |
+| Chief beef stick | ~8.5g | — | ~95 | Label — 8.5g per stick |
+| Protein powder, 1 scoop | ~24g | — | ~120 | Chief whey assumed — tell me if different |
+| Lindt 90% dark chocolate, 4 squares | ~2.7g | ~3g | ~148 | Estimate — 25g serve (4 squares) |
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
