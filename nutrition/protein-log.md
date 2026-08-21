@@ -1075,4 +1075,5 @@
 | Lamb ragu, 1 cup | ~37g | ~4g | ~300 | Same as last time — ~150g lamb, veg, tomato |
 | Mashed potato, 1 serve (⅙ batch) | ~5g | ~4g | ~150 | Sweet potato + cannellini beans + butter + organ powder |
 | Cadbury Twirl, small ×2 | ~4.4g | ~0.6g | ~300 | Assumed ~28g each — tell me if share pack is smaller |
+| 🧖♀️ Sauna | — | — | — | |
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
