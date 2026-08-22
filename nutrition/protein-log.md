@@ -1083,7 +1083,7 @@
 | 🧖♀️ Sauna | — | — | — | |
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
 
-### Saturday 22/8 — P: ~113.9g · F: ~10.5g · ~1,392 kcal
+### Saturday 22/8 — P: ~113.9g · F: ~25.8g · ~1,392 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
