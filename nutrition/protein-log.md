@@ -1083,7 +1083,7 @@
 | 🧖♀️ Sauna | — | — | — | |
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
 
-### Saturday 22/8 — P: ~36.3g · F: ~10.5g · ~532 kcal
+### Saturday 22/8 — P: ~41.6g · F: ~10.5g · ~710 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1097,3 +1097,5 @@
 | Smoothie — hemp seeds, sprinkle (¾) | ~0.8g | ~0.4g | ~14 | ~1 tsp |
 | Kooee Beef Stick | ~6.9g | — | ~80 | Label — 25g stick |
 | Green kiwi, half skin on | ~0.5g | ~1.7g | ~43 | Between skin-on (45) & skin-off (42) |
+| Qukes cucumbers ×2 | ~1g | ~2g | ~30 | |
+| Peanut butter bliss ball ×1 (homemade) | ~4.3g | ~3.6g | ~148 | Assumed same as choc peanut energy ball batch of 21 — tell me if this is a different recipe |
