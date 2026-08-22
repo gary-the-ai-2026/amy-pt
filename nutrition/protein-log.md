@@ -1102,3 +1102,4 @@
 | D'Orsogna Lite Smoked Turkey, 3 slices (75g) | ~11.3g | — | ~68 | Label: 15.0g P, 602kJ/100g — 3.75 servings/pack, 25g per slice |
 | Butter, ½ tsp | — | — | ~17 | |
 | Woolworths wholemeal bread, 1 slice | ~3.5g | ~2g | ~80 | Estimate — no label |
+| 🧖♀️ Sauna | — | — | — | |
