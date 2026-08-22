@@ -1083,7 +1083,7 @@
 | 🧖♀️ Sauna | — | — | — | |
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — chin ups ×1×3; seated OHP 8→10kg; smith single-leg kickback 18→27kg; bent over row 16→18kg; leg curls 15→20kg; lateral side bend 12→18kg; calf raise 18kg; tricep overhead hip bridge 10→12kg; side lying leg raise w/ plate 10kg |
 
-### Saturday 22/8 — P: ~57.4g · F: ~10.5g · ~875 kcal
+### Saturday 22/8 — P: ~113.9g · F: ~10.5g · ~1,392 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1100,6 +1100,10 @@
 | Qukes cucumbers ×2 | ~1g | ~2g | ~30 | |
 | Peanut butter bliss ball ×1 (homemade) | ~4.3g | ~3.6g | ~148 | Assumed same as choc peanut energy ball batch of 21 — tell me if this is a different recipe |
 | D'Orsogna Lite Smoked Turkey, 3 slices (75g) | ~11.3g | — | ~68 | Label: 15.0g P, 602kJ/100g — 3.75 servings/pack, 25g per slice |
+| Butter, ½ tsp | — | — | ~17 | |
+| 🧖♀️ Sauna | — | — | — | |
+| Trim lamb chops ×4 (grilled, fat trimmed) | ~52g | — | ~430 | ~13g P / 25g fat-trimmed chop; ~110 cal each |
+| Broccoli, ½ bunch, lightly steamed | ~4.5g | ~6g | ~65 | ~2 cups |
 | Butter, ½ tsp | — | — | ~17 | |
 | Woolworths wholemeal bread, 1 slice | ~3.5g | ~2g | ~80 | Estimate — no label |
 | 🧖♀️ Sauna | — | — | — | |
