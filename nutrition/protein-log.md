@@ -104,6 +104,7 @@
 | 20/8/26 | 2 | Normal |
 | 21/8/26 | 2 | Normal |
 | 22/8/26 | 3 | Normal |
+| 22/8/26 | 3 | Normal (afternoon) |
 
 ---
 
