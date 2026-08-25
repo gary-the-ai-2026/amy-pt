@@ -105,6 +105,7 @@
 | 21/8/26 | 2 | Normal |
 | 22/8/26 | 3 | Normal |
 | 22/8/26 | 3 | Normal (afternoon) |
+| 24/8/26 (UK) | 5 | Normal |
 
 ---
 
@@ -1107,3 +1108,21 @@
 | Butter, ½ tsp | — | — | ~17 | |
 | Woolworths wholemeal bread, 1 slice | ~3.5g | ~2g | ~80 | Estimate — no label |
 | 🧖♀️ Sauna | — | — | — | |
+
+### Monday 24/8/26 (UK) — P: ~107g · F: ~14g · ~1,883 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Eggs ×3 | ~18g | — | ~210 | |
+| Wholemeal bread, 1 slice | ~3.5g | ~2g | ~80 | UK bread — estimate |
+| Tea | ~0.5g | — | ~5 | Dash milk |
+| Coffee + oat milk | ~1g | ~0.5g | ~47 | ~100ml oat milk |
+| Chicken salad — protein | ~26g | ~4g | ~280 | Amy: 26g protein; salad fibre estimate |
+| Chicken thighs ×2 (skinless) | ~44g | — | ~380 | |
+| Potato, ½ medium | ~1.5g | ~1.5g | ~65 | |
+| Green beans, ~½ cup | ~1.5g | ~2g | ~25 | |
+| Broccoli, ~½ cup | ~1.5g | ~2g | ~25 | |
+| Cadbury milk chocolate, 8 squares | ~3.5g | — | ~266 | ~50g — Dairy Milk |
+| Organic fresh juice, small | ~0.5g | ~0.5g | ~80 | |
+| Scone + strawberry jam + clotted cream | ~4.9g | ~2g | ~415 | UK treat |
+| Tea | ~0.5g | — | ~5 | |
