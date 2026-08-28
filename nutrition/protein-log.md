@@ -106,6 +106,7 @@
 | 22/8/26 | 3 | Normal |
 | 22/8/26 | 3 | Normal (afternoon) |
 | 24/8/26 (UK) | 5 | Normal |
+| 28/8/26 (UK) | 3 | Normal |
 
 ---
 
