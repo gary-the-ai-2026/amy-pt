@@ -107,6 +107,7 @@
 | 22/8/26 | 3 | Normal (afternoon) |
 | 24/8/26 (UK) | 5 | Normal |
 | 28/8/26 (UK) | 3 | Normal |
+| 2/9/26 | 4 | Normal |
 
 ---
 
@@ -1128,7 +1129,7 @@
 | Scone + strawberry jam + clotted cream | ~4.9g | ~2g | ~415 | UK treat |
 | Tea | ~0.5g | — | ~5 | |
 
-### Thursday 3/9 — P: ~18.8g · F: ~5.9g · ~393 kcal
+### Thursday 3/9 — P: ~25.5g · F: ~5.9g · ~458 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1137,6 +1138,6 @@
 | Butter, ½ tsp | — | — | ~17 | |
 | Woolworths wholemeal bread, 1 slice | ~3.5g | ~2g | ~80 | Estimate — no label |
 | Tea | ~0.5g | — | ~5 | |
-| Coffee | ~1g | — | ~47 | Milk unspecified — tell me if oat/full-cream |
+| Coffee + Bonsoy milk, ¾ cup | ~7.7g | — | ~112 | Bonsoy ~5.1g P / ~115 cal per ½ cup → ¾ cup ≈ 7.7g P, ~112 cal |
 | Green kiwi, no skin (whole) | ~0.5g | ~1g | ~42 | |
 | Kids pear, small | ~0.3g | ~2.5g | ~48 | |
