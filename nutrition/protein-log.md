@@ -1129,7 +1129,7 @@
 | Scone + strawberry jam + clotted cream | ~4.9g | ~2g | ~415 | UK treat |
 | Tea | ~0.5g | — | ~5 | |
 
-### Thursday 3/9 — P: ~58g · F: ~6.8g · ~778 kcal
+### Thursday 3/9 — P: ~67g · F: ~7.4g · ~823 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1141,5 +1141,5 @@
 | Coffee + Bonsoy milk, ¾ cup | ~7.7g | — | ~112 | Bonsoy ~5.1g P / ~115 cal per ½ cup → ¾ cup ≈ 7.7g P, ~112 cal |
 | Green kiwi, no skin (whole) | ~0.5g | ~1g | ~42 | |
 | Kids pear, small | ~0.3g | ~2.5g | ~48 | |
-| Coriander chicken meatballs ×3 | ~24g | ~0.9g | ~225 | Double batch (~24) — chicken mince, coconut milk, breadcrumbs |
+| Sweet & Sour turkey patty ×3 (homemade) | ~33g | ~1.5g | ~270 | Batch of 9 — 500g lean turkey mince, mayo, onion, chilli, breadcrumbs |
 | Chief beef stick | ~8.5g | — | ~95 | Label — sea salt, 8.5g P per stick |
