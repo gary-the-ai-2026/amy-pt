@@ -1127,3 +1127,16 @@
 | Organic fresh juice, small | ~0.5g | ~0.5g | ~80 | |
 | Scone + strawberry jam + clotted cream | ~4.9g | ~2g | ~415 | UK treat |
 | Tea | ~0.5g | — | ~5 | |
+
+### Thursday 3/9 — P: ~18.8g · F: ~5.9g · ~393 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| Eggs ×2 | ~12g | — | ~140 | |
+| Hemp seeds, 1 tsp | ~1g | ~0.4g | ~14 | |
+| Butter, ½ tsp | — | — | ~17 | |
+| Woolworths wholemeal bread, 1 slice | ~3.5g | ~2g | ~80 | Estimate — no label |
+| Tea | ~0.5g | — | ~5 | |
+| Coffee | ~1g | — | ~47 | Milk unspecified — tell me if oat/full-cream |
+| Green kiwi, no skin (whole) | ~0.5g | ~1g | ~42 | |
+| Kids pear, small | ~0.3g | ~2.5g | ~48 | |
