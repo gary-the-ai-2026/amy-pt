@@ -1129,7 +1129,7 @@
 | Scone + strawberry jam + clotted cream | ~4.9g | ~2g | ~415 | UK treat |
 | Tea | ~0.5g | — | ~5 | |
 
-### Thursday 3/9 — P: ~49.5g · F: ~6.8g · ~683 kcal
+### Thursday 3/9 — P: ~58g · F: ~6.8g · ~778 kcal
 
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
@@ -1142,3 +1142,4 @@
 | Green kiwi, no skin (whole) | ~0.5g | ~1g | ~42 | |
 | Kids pear, small | ~0.3g | ~2.5g | ~48 | |
 | Coriander chicken meatballs ×3 | ~24g | ~0.9g | ~225 | Double batch (~24) — chicken mince, coconut milk, breadcrumbs |
+| Chief beef stick | ~8.5g | — | ~95 | Label — sea salt, 8.5g P per stick |
