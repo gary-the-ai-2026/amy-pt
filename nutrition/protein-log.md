@@ -1143,3 +1143,9 @@
 | Kids pear, small | ~0.3g | ~2.5g | ~48 | |
 | Sweet & Sour turkey patty ×3 (homemade) | ~33g | ~1.5g | ~270 | Batch of 9 — 500g lean turkey mince, mayo, onion, chilli, breadcrumbs |
 | Chief beef stick | ~8.5g | — | ~95 | Label — sea salt, 8.5g P per stick |
+
+### Tuesday 8/9 — P: ~0g · F: ~0g · ~0 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 🏋️‍♀️ Home workout | — | — | — | 9 exercises — lat pulldown 27→32kg; bicep curl 10kg; single-leg leg ext 20→25kg; smith donkey kicks 18→27kg; push ups ×12×3; chest fly 6kg; calf raise 16kg×30×3; single-leg RDL 14→16kg; sit ups/v-ups 5kg×20×3 |

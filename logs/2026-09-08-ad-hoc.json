@@ -1,0 +1,131 @@
+{
+  "session_id": "2026-09-08-ad-hoc",
+  "date": "2026-09-08",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Full body strength — 10 exercises",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Back",
+      "name": "Lat Pulldown",
+      "target_reps": "7–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 27, "reps": 10},
+        {"set": 2, "weight_kg": 32, "reps": 8},
+        {"set": 3, "weight_kg": 32, "reps": 7}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Bicep Curl",
+      "target_reps": "6 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 6, "side": "each"},
+        {"set": 2, "weight_kg": 10, "reps": 6, "side": "each"},
+        {"set": 3, "weight_kg": 10, "reps": 6, "side": "each"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Extension (Single Leg)",
+      "target_reps": "7–8 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 20, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 22.5, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 25, "reps": 7, "side": "each"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Donkey Kick (Smith Machine)",
+      "target_reps": "8–12 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 18, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 23, "reps": 12, "side": "each"},
+        {"set": 3, "weight_kg": 27, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Push Ups",
+      "target_reps": "12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 12},
+        {"set": 2, "weight_kg": 0, "reps": 12},
+        {"set": 3, "weight_kg": 0, "reps": 12}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Chest Fly (DB)",
+      "target_reps": "8–10 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 6, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 6, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Calves",
+      "name": "Calf Raise",
+      "target_reps": "30",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 30},
+        {"set": 2, "weight_kg": 16, "reps": 30},
+        {"set": 3, "weight_kg": 16, "reps": 30}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Legs / Glutes",
+      "name": "Single Leg RDL",
+      "target_reps": "10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 14, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 16, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 9,
+      "section": "strength",
+      "group": "Core",
+      "name": "Sit Ups / V Ups",
+      "target_reps": "20",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 20, "notes": "5kg plate"},
+        {"set": 2, "weight_kg": 5, "reps": 20, "notes": "5kg plate"},
+        {"set": 3, "weight_kg": 5, "reps": 20, "notes": "5kg plate"}
+      ]
+    }
+  ],
+  "notes": "Home session — 9 exercises. Lat pulldown 27kg x10, 32kg x8, 32kg x7; bicep curls 10kg per arm x6 x3; single-leg leg extensions 20kg x8, 22.5kg x8, 25kg x7 per leg; smith donkey kicks 18kg x12, 23kg x12, 27kg x8 per leg; push ups x12 x3; chest fly 6kg x10, 6kg x8, 6kg x8 per arm; calf raises 16kg x30 x3; single-leg RDL 14kg x10, 16kg x10 x2 per leg; sit ups/v-ups 5kg plate x20 x3."
+}
