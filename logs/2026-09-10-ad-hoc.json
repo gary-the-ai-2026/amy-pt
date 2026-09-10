@@ -1,0 +1,118 @@
+{
+  "session_id": "2026-09-10-ad-hoc",
+  "date": "2026-09-10",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Full body strength — 9 exercises",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Chest Press (Smith Machine)",
+      "target_reps": "5–6",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 35, "reps": 6, "notes": "including 15kg bar"},
+        {"set": 2, "weight_kg": 35, "reps": 6, "notes": "including 15kg bar"},
+        {"set": 3, "weight_kg": 35, "reps": 5, "notes": "including 15kg bar"}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Arnold's Press",
+      "target_reps": "5–7 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 8, "reps": 7, "side": "each"},
+        {"set": 2, "weight_kg": 8, "reps": 6, "side": "each"},
+        {"set": 3, "weight_kg": 8, "reps": 5, "side": "each"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Single Leg Hip Thrust (1 foot on ball)",
+      "target_reps": "10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, med ball"},
+        {"set": 2, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, med ball"},
+        {"set": 3, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, med ball"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Crab Walk",
+      "target_reps": "30",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 30},
+        {"set": 2, "weight_kg": 0, "reps": 30},
+        {"set": 3, "weight_kg": 0, "reps": 30}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Core",
+      "name": "Plank",
+      "target_reps": "45s",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": null, "notes": "45s"},
+        {"set": 2, "weight_kg": 0, "reps": null, "notes": "45s"},
+        {"set": 3, "weight_kg": 0, "reps": null, "notes": "45s"}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Core",
+      "name": "Lateral Side Bend",
+      "target_reps": "12 per side",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 16, "reps": 12, "side": "each"},
+        {"set": 3, "weight_kg": 16, "reps": 12, "side": "each"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Tricep Pulldown (Smith Machine)",
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 23, "reps": 10},
+        {"set": 2, "weight_kg": 27, "reps": 10},
+        {"set": 3, "weight_kg": 27, "reps": 10}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Full Body",
+      "name": "Barbell Deadlift",
+      "target_reps": "7–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 40, "reps": 10},
+        {"set": 2, "weight_kg": 50, "reps": 10},
+        {"set": 3, "weight_kg": 55, "reps": 7}
+      ]
+    }
+  ],
+  "notes": "Home session — 8 exercises. Smith chest press 35kg (incl. 15kg bar) x6, x6, x5; Arnold's press 8kg per arm x7, x6, x5; single-leg hip thrust (1 foot on med ball) 10 per leg x3; crab walk x30 x3; plank 45s x3; lateral side bend 16kg x12 per side x3; tricep pulldown (smith) 23kg x10, 27kg x10, 27kg x10; barbell deadlift 40kg x10, 50kg x10, 55kg x7."
+}

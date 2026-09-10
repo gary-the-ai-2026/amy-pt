@@ -1149,3 +1149,9 @@
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — lat pulldown 27→32kg; bicep curl 10kg; single-leg leg ext 20→25kg; smith donkey kicks 18→27kg; push ups ×12×3; chest fly 6kg; calf raise 16kg×30×3; single-leg RDL 14→16kg; sit ups/v-ups 5kg×20×3 |
+
+### Thursday 10/9 — P: ~0g · F: ~0g · ~0 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 🏋️‍♀️ Home workout | — | — | — | 8 exercises — smith chest press 35kg (incl bar)×6/6/5; Arnold's press 8kg×7/6/5; single-leg hip thrust×10×3; crab walk×30×3; plank 45s×3; lateral side bend 16kg×12×3; smith tricep pulldown 23→27kg; deadlift 40→55kg |
