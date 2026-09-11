@@ -14,12 +14,13 @@ updated: 2026-08-22
 | 2026-07-26 | 66.40 | — |
 | 2026-08-08 | 66.25 | — |
 | 2026-08-22 | 64.60 | New low |
+| 2026-09-12 | 64.30 | New low |
 
 ## Target
 
-- Initial (18 Jun): 69.50kg → now 64.60kg = **-4.90kg** over ~9.5 weeks.
-- Weekly rate: ~0.52 kg/week — steady progress.
-- 1.6kg to 63kg goal.
+- Initial (18 Jun): 69.50kg → now 64.30kg = **-5.20kg** over ~12.5 weeks.
+- Weekly rate: ~0.42 kg/week — steady progress.
+- 1.3kg to 63kg goal.
 
 ## Trend
 

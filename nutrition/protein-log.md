@@ -23,6 +23,7 @@
 | 19/7/26 | 67.35kg | — |
 | 8/8/26 | 66.25kg | — |
 | 22/8/26 | 64.6kg | New low — below 65kg ideal |
+| 12/9/26 | 64.3kg | New low — 1.3kg to 63kg goal |
 
 ---
 
