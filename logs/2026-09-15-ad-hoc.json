@@ -1,0 +1,95 @@
+{
+  "session_id": "2026-09-15-ad-hoc",
+  "date": "2026-09-15",
+  "type": "ad-hoc",
+  "status": "planned",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Planned session — weights/reps to be filled in on completion",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Triceps",
+      "name": "Overhead Tricep Hip Bridge",
+      "planned_weights_kg": [8, 10],
+      "sets": [],
+      "notes": "8kg then 10kg — reps not yet logged"
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Back",
+      "name": "Bent Over Row",
+      "planned_weights_kg": 16,
+      "sets": [],
+      "notes": "16kg"
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Curl",
+      "planned_weights_kg": null,
+      "sets": [],
+      "notes": "weight not yet specified"
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Bulgarian Lunge",
+      "planned_weights_kg": 12,
+      "sets": [],
+      "notes": "12kg per arm"
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Lateral Raises (Smith Machine)",
+      "planned_weights_kg": 5,
+      "sets": [],
+      "notes": "5kg"
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Barbell Overhead Press",
+      "planned_weights_kg": 20,
+      "sets": [],
+      "notes": "20kg"
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Bicep Curl",
+      "planned_weights_kg": 8,
+      "sets": [],
+      "notes": "8kg per arm — reps not yet logged"
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Hip Thrust",
+      "planned_weights_kg": null,
+      "sets": [],
+      "notes": "exercise queried — weight/reps to confirm"
+    },
+    {
+      "num": 9,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Side Lying Leg Raise",
+      "planned_weights_kg": 10,
+      "sets": [],
+      "notes": "10kg plate on hip"
+    }
+  ],
+  "notes": "PLANNED session — not yet completed. Sent by Amy 15/9 to avoid losing the list. Weights placeholders where specified; reps to be filled in after completion."
+}

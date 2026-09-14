@@ -1156,3 +1156,9 @@
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | 🏋️‍♀️ Home workout | — | — | — | 8 exercises — smith chest press 35kg (incl bar)×6/6/5; Arnold's press 8kg×7/6/5; single-leg hip thrust×10×3; crab walk×30×3; plank 45s×3; lateral side bend 16kg×12×3; smith tricep pulldown 23→27kg; deadlift 40→55kg |
+
+### Tuesday 15/9 — PLANNED (not yet completed)
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 🏋️‍♀️ Planned home workout | — | — | — | 9 exercises (weights/reps TBC on completion) — overhead tricep hip bridge 8→10kg; bent over row 16kg; leg curl; Bulgarian lunge 12kg/arm; smith lateral raises 5kg; BB overhead press 20kg; bicep curl 8kg/arm; hip thrust; side-lying leg raise 10kg plate |
