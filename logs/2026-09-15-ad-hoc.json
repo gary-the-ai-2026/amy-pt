@@ -2,10 +2,10 @@
   "session_id": "2026-09-15-ad-hoc",
   "date": "2026-09-15",
   "type": "ad-hoc",
-  "status": "planned",
+  "status": "complete",
   "ad_hoc": true,
   "location": "Home",
-  "format": "Planned session — weights/reps to be filled in on completion",
+  "format": "Full body strength — 9 exercises",
   "cycle": 1,
   "week": 2,
   "exercises": [
@@ -14,82 +14,118 @@
       "section": "strength",
       "group": "Triceps",
       "name": "Overhead Tricep Hip Bridge",
-      "planned_weights_kg": [8, 10],
-      "sets": [],
-      "notes": "8kg then 10kg — reps not yet logged"
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 8, "reps": 10},
+        {"set": 2, "weight_kg": 10, "reps": 10},
+        {"set": 3, "weight_kg": 10, "reps": 10}
+      ]
     },
     {
       "num": 2,
       "section": "strength",
       "group": "Back",
       "name": "Bent Over Row",
-      "planned_weights_kg": 16,
-      "sets": [],
-      "notes": "16kg"
+      "target_reps": "8–10 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 14, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 18, "reps": 8, "side": "each"}
+      ]
     },
     {
       "num": 3,
       "section": "strength",
       "group": "Legs",
       "name": "Leg Curl",
-      "planned_weights_kg": null,
-      "sets": [],
-      "notes": "weight not yet specified"
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10},
+        {"set": 2, "weight_kg": 15, "reps": 10},
+        {"set": 3, "weight_kg": 15, "reps": 10}
+      ]
     },
     {
       "num": 4,
       "section": "strength",
-      "group": "Legs",
-      "name": "Bulgarian Lunge",
-      "planned_weights_kg": 12,
-      "sets": [],
-      "notes": "12kg per arm"
+      "group": "Shoulders",
+      "name": "Lateral Raises (Smith Machine)",
+      "target_reps": "10–12 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 12, "side": "each"},
+        {"set": 2, "weight_kg": 5, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 5, "reps": null, "side": "each", "notes": "reps not reported"}
+      ]
     },
     {
       "num": 5,
       "section": "strength",
-      "group": "Shoulders",
-      "name": "Lateral Raises (Smith Machine)",
-      "planned_weights_kg": 5,
-      "sets": [],
-      "notes": "5kg"
+      "group": "Core",
+      "name": "Russian Twist (Legs Up)",
+      "target_reps": "30",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 5, "reps": 30},
+        {"set": 2, "weight_kg": 5, "reps": 30},
+        {"set": 3, "weight_kg": 5, "reps": 30}
+      ]
     },
     {
       "num": 6,
       "section": "strength",
-      "group": "Shoulders",
-      "name": "Barbell Overhead Press",
-      "planned_weights_kg": 20,
-      "sets": [],
-      "notes": "20kg"
+      "group": "Triceps",
+      "name": "Tricep Overhead Extension",
+      "target_reps": "8–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 8, "reps": 8},
+        {"set": 2, "weight_kg": 8, "reps": 8},
+        {"set": 3, "weight_kg": 8, "reps": 10}
+      ]
     },
     {
       "num": 7,
       "section": "strength",
       "group": "Arms",
       "name": "Bicep Curl",
-      "planned_weights_kg": 8,
-      "sets": [],
-      "notes": "8kg per arm — reps not yet logged"
+      "target_reps": "6 per arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 6, "side": "each"},
+        {"set": 2, "weight_kg": 10, "reps": 6, "side": "each"},
+        {"set": 3, "weight_kg": 10, "reps": 6, "side": "each"}
+      ]
     },
     {
       "num": 8,
       "section": "strength",
-      "group": "Glutes",
-      "name": "Hip Thrust",
-      "planned_weights_kg": null,
-      "sets": [],
-      "notes": "exercise queried — weight/reps to confirm"
+      "group": "Legs",
+      "name": "Side Lying Leg Raise",
+      "target_reps": "15 per side",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 15, "side": "each", "notes": "10kg plate on hip"},
+        {"set": 2, "weight_kg": 10, "reps": 15, "side": "each", "notes": "10kg plate on hip"},
+        {"set": 3, "weight_kg": 10, "reps": 15, "side": "each", "notes": "10kg plate on hip"}
+      ]
     },
     {
       "num": 9,
       "section": "strength",
       "group": "Legs",
-      "name": "Side Lying Leg Raise",
-      "planned_weights_kg": 10,
-      "sets": [],
-      "notes": "10kg plate on hip"
+      "name": "Single Leg RDL (Leg on Bench)",
+      "target_reps": "10 per side",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 18, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 18, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 20, "reps": 10, "side": "each"}
+      ]
     }
   ],
-  "notes": "PLANNED session — not yet completed. Sent by Amy 15/9 to avoid losing the list. Weights placeholders where specified; reps to be filled in after completion."
+  "notes": "Home session — 9 exercises. Overhead tricep hip bridge 8kg x10, 10kg x10, 10kg x10; bent over row 14/16/18kg per arm (10,10,8); leg curl 10/15/15kg x10; smith lateral raises 5kg per arm x12, x10, x?; Russian twist (legs up) 5kg x30 x3; tricep overhead extension 8kg x8, x8, x10; bicep curl 10kg per arm x6 x3; side-lying leg raise 10kg plate on hip x15 per side x3; SL RDL (leg on bench) 18/18/20kg x10 per side. Started as planned session 15/9, completed later same day."
 }
