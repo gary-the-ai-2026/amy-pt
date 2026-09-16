@@ -1162,3 +1162,9 @@
 | Item | Protein | Fibre | Cals | Notes |
 |---|---|---|---|---|
 | 🏋️‍♀️ Home workout | — | — | — | 9 exercises — overhead tricep hip bridge 8→10kg x10; bent over row 14→18kg/arm (10,10,8); leg curl 10→15kg x10; smith lateral raises 5kg/arm x12,x10,x?; Russian twist (legs up) 5kg x30 x3; tricep overhead extension 8kg x8,x8,x10; bicep curl 10kg/arm x6 x3; side-lying leg raise 10kg plate x15/side x3; SL RDL (leg on bench) 18→20kg x10/side |
+
+### Wednesday 16/9 — P: ~0g · F: ~0g · ~0 kcal
+
+| Item | Protein | Fibre | Cals | Notes |
+|---|---|---|---|---|
+| 🏋️‍♀️ Home workout | — | — | — | 9 exercises — step downs 16kg x10/leg x3; push ups x12 x3; lat pulldown 27kg x10 x2, 32kg x6; calf raisers (double leg, 10kg plate) 16kg x30 x3; donkey kicks (blue band) x15/leg x3; chin up x1 x3; SL hip thrust (foot on ball) x8,x10,x10/leg; tricep dips (straight legs) x8,x10,x10 |

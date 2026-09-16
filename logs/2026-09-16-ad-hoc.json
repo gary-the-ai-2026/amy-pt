@@ -1,0 +1,118 @@
+{
+  "session_id": "2026-09-16-ad-hoc",
+  "date": "2026-09-16",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Full body strength — 9 exercises",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Step Downs",
+      "target_reps": "10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 2, "weight_kg": 16, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 16, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Push Ups",
+      "target_reps": "12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 12},
+        {"set": 2, "weight_kg": 0, "reps": 12},
+        {"set": 3, "weight_kg": 0, "reps": 12}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Back",
+      "name": "Lat Pulldown",
+      "target_reps": "6–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 27, "reps": 10},
+        {"set": 2, "weight_kg": 27, "reps": 10},
+        {"set": 3, "weight_kg": 32, "reps": 6}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Calves",
+      "name": "Calf Raisers (Double Leg, on 10kg plate)",
+      "target_reps": "30",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 30, "notes": "on 10kg plate"},
+        {"set": 2, "weight_kg": 16, "reps": 30, "notes": "on 10kg plate"},
+        {"set": 3, "weight_kg": 16, "reps": 30, "notes": "on 10kg plate"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Donkey Kicks (Blue Band)",
+      "target_reps": "15 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 15, "side": "each", "notes": "blue band"},
+        {"set": 2, "weight_kg": 0, "reps": 15, "side": "each", "notes": "blue band"},
+        {"set": 3, "weight_kg": 0, "reps": 15, "side": "each", "notes": "blue band"}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Back",
+      "name": "Chin Up",
+      "target_reps": "1",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 1},
+        {"set": 2, "weight_kg": 0, "reps": 1},
+        {"set": 3, "weight_kg": 0, "reps": 1}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Single Leg Hip Thrust (Foot on Ball)",
+      "target_reps": "8–10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 0, "reps": 10, "side": "each"},
+        {"set": 3, "weight_kg": 0, "reps": 10, "side": "each"}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Tricep Dips (Straight Legs)",
+      "target_reps": "8–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 8, "notes": "straight legs"},
+        {"set": 2, "weight_kg": 0, "reps": 10, "notes": "straight legs"},
+        {"set": 3, "weight_kg": 0, "reps": 10, "notes": "straight legs"}
+      ]
+    }
+  ],
+  "notes": "Home session — 9 exercises. Step downs 16kg x10 per leg x3; push ups x12 x3; lat pulldown 27kg x10 x2, 32kg x6; calf raisers double leg on 10kg plate 16kg x30 x3; donkey kicks (blue band) x15 per leg x3; chin up x1 x3; SL hip thrust (foot on ball) x8, x10, x10 per leg; tricep dips (straight legs) x8, x10, x10."
+}
