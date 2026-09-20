@@ -1,0 +1,79 @@
+{
+  "session_id": "2026-09-20-ad-hoc",
+  "date": "2026-09-20",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Full body strength — 5 exercises",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Extension",
+      "target_reps": "8 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 15, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 20, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 22.5, "reps": 8, "side": "each"}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Barbell Back Squat",
+      "target_reps": "7–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 40, "reps": 10},
+        {"set": 2, "weight_kg": 50, "reps": 8},
+        {"set": 3, "weight_kg": 55, "reps": 7}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Bulgarian Lunge (DB)",
+      "target_reps": "10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10, "side": "each", "notes": "per arm"},
+        {"set": 2, "weight_kg": 12, "reps": 10, "side": "each", "notes": "per arm"},
+        {"set": 3, "weight_kg": 14, "reps": 10, "side": "each", "notes": "per arm"}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Tricep Overhead Hip Bridge",
+      "target_reps": "8–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 10},
+        {"set": 2, "weight_kg": 12, "reps": 9},
+        {"set": 3, "weight_kg": 12, "reps": 8}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Cable Chest (High to Low)",
+      "target_reps": "8",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 9, "reps": 8, "side": "each"},
+        {"set": 2, "weight_kg": 9, "reps": 8, "side": "each"},
+        {"set": 3, "weight_kg": 9, "reps": 8, "side": "each"}
+      ]
+    }
+  ],
+  "notes": "Home session — 5 exercises. Leg extension 15/20/22.5kg x8 per leg; BB back squat 40x10, 50x8, 55x7; Bulgarian lunge DB 10/12/14kg per arm x10 per leg; tricep overhead hip bridge 10x10, 12x9, 12x8; cable chest high to low 9kg per arm x8 x3."
+}
