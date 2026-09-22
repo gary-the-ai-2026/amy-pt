@@ -1,0 +1,207 @@
+{
+  "session_id": "2026-09-22-ad-hoc",
+  "date": "2026-09-22",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Full body strength \u2014 7 exercises",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Bicep Curl (DB)",
+      "target_reps": "6\u201310",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 8,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 7,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "each",
+          "notes": "per arm"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "DB Overhead Press",
+      "target_reps": "10\u201312",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 20,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 20,
+          "reps": 12
+        },
+        {
+          "set": 3,
+          "weight_kg": 20,
+          "reps": 12
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Wall Sit",
+      "target_reps": "45 sec",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 15,
+          "reps": null,
+          "notes": "45 sec"
+        },
+        {
+          "set": 2,
+          "weight_kg": 15,
+          "reps": null,
+          "notes": "45 sec"
+        },
+        {
+          "set": 3,
+          "weight_kg": 15,
+          "reps": null,
+          "notes": "45 sec"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Calves",
+      "name": "Calf Raisers (Double Leg)",
+      "target_reps": "24\u201330",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 30
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 30
+        },
+        {
+          "set": 3,
+          "weight_kg": 16,
+          "reps": 24
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Core",
+      "name": "Lateral Side Bend",
+      "target_reps": "12 per side",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 12,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 12,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 16,
+          "reps": 12,
+          "side": "each"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Tricep Extension (Behind Head)",
+      "target_reps": "8",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 8,
+          "reps": 8,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 8,
+          "reps": 8,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 8,
+          "reps": 8,
+          "side": "each",
+          "notes": "per arm"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Core",
+      "name": "Sit Ups",
+      "target_reps": "15",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 5,
+          "reps": 15
+        },
+        {
+          "set": 2,
+          "weight_kg": 5,
+          "reps": 15
+        },
+        {
+          "set": 3,
+          "weight_kg": 5,
+          "reps": 15
+        }
+      ]
+    }
+  ],
+  "notes": "Home session \u2014 7 exercises. DB bicep curl 8/10/10kg per arm x10/7/6; DB overhead press 20kg x10/x12/x12; wall sit 15kg 45s x3; calf raisers double leg 16kg x30/x30/x24; lateral side bend 16kg x12 per side x3; tricep extension behind head 8kg x8 x3; sit ups 5kg x15 x3."
+}
