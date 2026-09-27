@@ -1,0 +1,117 @@
+{
+  "session_id": "2026-09-27-ad-hoc",
+  "date": "2026-09-27",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "location": "Home",
+  "format": "Full body strength — 8 exercises",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Barbell Romanian Deadlift",
+      "target_reps": "5–12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 40, "reps": 12},
+        {"set": 2, "weight_kg": 50, "reps": 10},
+        {"set": 3, "weight_kg": 60, "reps": 5}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Curl",
+      "target_reps": "5–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 17.5, "reps": 10},
+        {"set": 2, "weight_kg": 20, "reps": 7},
+        {"set": 3, "weight_kg": 20, "reps": 5}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Tricep Pulldown (Smith Machine)",
+      "target_reps": "8–12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 23, "reps": 12},
+        {"set": 2, "weight_kg": 32, "reps": 9},
+        {"set": 3, "weight_kg": 32, "reps": 8}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Back",
+      "name": "Lat Pulldown",
+      "target_reps": "7–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 27, "reps": 10},
+        {"set": 2, "weight_kg": 32, "reps": 8},
+        {"set": 3, "weight_kg": 32, "reps": 7}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Arms",
+      "name": "Bicep Curl (DB)",
+      "target_reps": "1–6",
+      "target_sets": 2,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 6, "side": "each", "notes": "per arm"},
+        {"set": 2, "weight_kg": 12, "reps": 1, "side": "each", "notes": "per arm"}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Extension (Single)",
+      "target_reps": "8–10 per leg",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 20, "reps": 10, "side": "each", "notes": "per leg"},
+        {"set": 2, "weight_kg": 22.5, "reps": 10, "side": "each", "notes": "per leg"},
+        {"set": 3, "weight_kg": 25, "reps": 8, "side": "each", "notes": "per leg"}
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Back",
+      "name": "Chin Up",
+      "target_reps": "1–1.5",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 1.5, "notes": "1.5 reps"},
+        {"set": 2, "weight_kg": 0, "reps": 1.5, "notes": "1.5 reps"},
+        {"set": 3, "weight_kg": 0, "reps": 1}
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Chest Fly (DB)",
+      "target_reps": "6–10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 6, "reps": 10, "side": "each", "notes": "per arm"},
+        {"set": 2, "weight_kg": 6, "reps": 10, "side": "each", "notes": "per arm"},
+        {"set": 3, "weight_kg": 8, "reps": 6, "side": "each", "notes": "per arm"}
+      ]
+    }
+  ],
+  "notes": "Home session — 8 exercises. BB RDL 40x12, 50x10, 60x5; leg curl 17.5x10, 20x7, 20x5; tricep pulldown Smith 23x12, 32x9, 32x8; lat pulldown 27x10, 32x8, 32x7; DB bicep curl 10kg/arm x6, 12kg/arm x1; leg extension single 20/22.5/25kg x10/x10/x8 per leg; chin up x1.5 x2, x1; DB chest fly 6/6/8kg per arm x10/x10/x6."
+}
