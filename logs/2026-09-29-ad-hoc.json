@@ -4,6 +4,7 @@
   "type": "ad-hoc",
   "status": "complete",
   "ad_hoc": true,
+  "progression_skipped": true,
   "location": "Home",
   "format": "Full body strength — 6 exercises",
   "cycle": 1,
