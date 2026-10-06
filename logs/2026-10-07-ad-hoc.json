@@ -1,0 +1,93 @@
+{
+  "session_id": "2026-10-07-ad-hoc",
+  "date": "2026-10-07",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "Full body circuit — today's picks",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Back",
+      "name": "Barbell Deadlift",
+      "target_reps": "8-10",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 40, "reps": 10},
+        {"set": 2, "weight_kg": 50, "reps": 10},
+        {"set": 3, "weight_kg": 60, "reps": 8}
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Biceps",
+      "name": "Bicep Curl (DB)",
+      "target_reps": "6-8/arm",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 10, "reps": 6, "side": "each", "notes": "per arm each side"},
+        {"set": 2, "weight_kg": 10, "reps": 6, "side": "each", "notes": "per arm each side"},
+        {"set": 3, "weight_kg": 10, "reps": 7, "side": "each", "notes": "per arm each side"}
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Core",
+      "name": "Dead Bug",
+      "target_reps": "20-30",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 30},
+        {"set": 2, "weight_kg": 0, "reps": 30},
+        {"set": 3, "weight_kg": 0, "reps": 30}
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Push Ups",
+      "target_reps": "10-12",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 0, "reps": 12, "notes": "5 on toes + 7 on knees"},
+        {"set": 2, "weight_kg": 0, "reps": 12, "notes": "6 on toes + 6 on knees"},
+        {"set": 3, "weight_kg": 0, "reps": 12, "notes": "7 on toes + 5 on knees"}
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Core",
+      "name": "Lateral Side Bend",
+      "target_reps": "12-15/side",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 16, "reps": 12, "side": "each", "notes": "per side"},
+        {"set": 2, "weight_kg": 16, "reps": 12, "side": "each", "notes": "per side"},
+        {"set": 3, "weight_kg": 16, "reps": 12, "side": "each", "notes": "per side"}
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Wall Sit (Plate)",
+      "target_reps": "45s",
+      "target_sets": 3,
+      "sets": [
+        {"set": 1, "weight_kg": 15, "reps": 1, "notes": "45s hold w/ 15kg plate"},
+        {"set": 2, "weight_kg": 15, "reps": 1, "notes": "45s hold w/ 15kg plate"},
+        {"set": 3, "weight_kg": 15, "reps": 1, "notes": "45s hold w/ 15kg plate"}
+      ]
+    }
+  ],
+  "notes": "Home session — today's picks. Barbell deadlift 40kg x10, 50kg x10, 60kg x8; bicep curls 10kg/arm x6 each side x2, x7; dead bug x30 x3; push ups 12 x3 (toes/knees split 5/7, 6/6, 7/5); lateral side bend 16kg x12/side x3; wall sit +15kg plate 45s x3."
+}

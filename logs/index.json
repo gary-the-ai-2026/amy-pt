@@ -1,5 +1,16 @@
 [
   {
+    "name": "2026-10-07-ad-hoc.json",
+    "date": "2026-10-07",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 6,
+    "completed_count": 6
+  },
+  {
     "name": "2026-10-05-ad-hoc.json",
     "date": "2026-10-05",
     "type": "ad-hoc",
