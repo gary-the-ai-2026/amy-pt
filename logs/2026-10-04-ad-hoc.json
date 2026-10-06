@@ -6,7 +6,7 @@
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
-  "format": "Rusty favourites — full body (6 exercises)",
+  "format": "Rusty favourites \u2014 full body (6 exercises)",
   "cycle": 1,
   "week": 2,
   "exercises": [
@@ -15,12 +15,30 @@
       "section": "strength",
       "group": "Back",
       "name": "Reverse Fly",
-      "target_reps": "10–15",
+      "target_reps": "10\u201315",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 4, "reps": 10, "side": "each", "notes": "per arm"},
-        {"set": 2, "weight_kg": 4, "reps": 10, "side": "each", "notes": "per arm"},
-        {"set": 3, "weight_kg": 6, "reps": 8, "side": "each", "notes": "per arm"}
+        {
+          "set": 1,
+          "weight_kg": 4,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 4,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 8,
+          "side": "each",
+          "notes": "per arm"
+        }
       ]
     },
     {
@@ -28,25 +46,55 @@
       "section": "strength",
       "group": "Legs",
       "name": "Barbell Back Squat",
-      "target_reps": "8–10",
+      "target_reps": "8\u201310",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 40, "reps": 10},
-        {"set": 2, "weight_kg": 50, "reps": 10},
-        {"set": 3, "weight_kg": 55, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 40,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 50,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 55,
+          "reps": 8
+        }
       ]
     },
     {
       "num": 3,
       "section": "strength",
       "group": "Chest",
-      "name": "Seated Chest Fly",
-      "target_reps": "10–15",
+      "name": "Chest Fly (DB)",
+      "target_reps": "10\u201315",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 6, "reps": 10, "side": "each", "notes": "per arm"},
-        {"set": 2, "weight_kg": 6, "reps": 12, "side": "each", "notes": "per arm"},
-        {"set": 3, "weight_kg": 8, "reps": 6, "side": "each", "notes": "per arm, failed on 7th"}
+        {
+          "set": 1,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 12,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 8,
+          "reps": 6,
+          "side": "each",
+          "notes": "per arm, failed on 7th"
+        }
       ]
     },
     {
@@ -57,9 +105,24 @@
       "target_reps": "45s hold",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 0, "reps": 45, "notes": "45s hold"},
-        {"set": 2, "weight_kg": 0, "reps": 45, "notes": "45s hold"},
-        {"set": 3, "weight_kg": 0, "reps": 45, "notes": "45s hold"}
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 45,
+          "notes": "45s hold"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 45,
+          "notes": "45s hold"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 45,
+          "notes": "45s hold"
+        }
       ]
     },
     {
@@ -67,12 +130,24 @@
       "section": "strength",
       "group": "Triceps",
       "name": "Overhead Tricep Bridge Extension",
-      "target_reps": "10–12",
+      "target_reps": "10\u201312",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 10, "reps": 10},
-        {"set": 2, "weight_kg": 10, "reps": 10},
-        {"set": 3, "weight_kg": 10, "reps": 10}
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 10
+        }
       ]
     },
     {
@@ -83,11 +158,29 @@
       "target_reps": "10/leg",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 12, "reps": 10, "side": "each", "notes": "per leg"},
-        {"set": 2, "weight_kg": 12, "reps": 10, "side": "each", "notes": "per leg"},
-        {"set": 3, "weight_kg": 12, "reps": 10, "side": "each", "notes": "per leg"}
+        {
+          "set": 1,
+          "weight_kg": 12,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 12,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 12,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        }
       ]
     }
   ],
-  "notes": "Home session — Rusty Favourites full body, 6 exercises. Reverse fly 4kg/arm x10/x10, 6kg/arm x8; barbell back squat 40x10 / 50x10 / 55x8; seated chest fly 6kg/arm x10 / 6kg/arm x12 / 8kg/arm x6 (failed on 7th rep); plank 45s x3; overhead tricep bridge extension 10kg x10 x3; med ball hip thrust 12kg x10/leg x3."
+  "notes": "Home session \u2014 Rusty Favourites full body, 6 exercises. Reverse fly 4kg/arm x10/x10, 6kg/arm x8; barbell back squat 40x10 / 50x10 / 55x8; Chest Fly (DB) 6kg/arm x10 / 6kg/arm x12 / 8kg/arm x6 (failed on 7th rep); plank 45s x3; overhead tricep bridge extension 10kg x10 x3; med ball hip thrust 12kg x10/leg x3."
 }

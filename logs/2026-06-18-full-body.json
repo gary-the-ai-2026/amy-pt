@@ -15,9 +15,21 @@
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 27, "reps": 10},
-        {"set": 2, "weight_kg": 27, "reps": 10},
-        {"set": 3, "weight_kg": 27, "reps": 10}
+        {
+          "set": 1,
+          "weight_kg": 27,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 27,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 27,
+          "reps": 10
+        }
       ]
     },
     {
@@ -28,9 +40,21 @@
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 35, "reps": 8},
-        {"set": 2, "weight_kg": 35, "reps": 8},
-        {"set": 3, "weight_kg": 35, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 35,
+          "reps": 8
+        },
+        {
+          "set": 2,
+          "weight_kg": 35,
+          "reps": 8
+        },
+        {
+          "set": 3,
+          "weight_kg": 35,
+          "reps": 8
+        }
       ]
     },
     {
@@ -41,22 +65,46 @@
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 6, "reps": 12},
-        {"set": 2, "weight_kg": 6, "reps": 12},
-        {"set": 3, "weight_kg": 6, "reps": 12}
+        {
+          "set": 1,
+          "weight_kg": 6,
+          "reps": 12
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 12
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 12
+        }
       ]
     },
     {
       "num": 4,
-      "name": "Seated Chest Fly",
+      "name": "Chest Fly (DB)",
       "target_sets": 3,
       "target_reps": "8-12",
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 6, "reps": 8},
-        {"set": 2, "weight_kg": 6, "reps": 8},
-        {"set": 3, "weight_kg": 6, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 6,
+          "reps": 8
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 8
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 8
+        }
       ]
     },
     {
@@ -67,8 +115,16 @@
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 30, "reps": 8},
-        {"set": 2, "weight_kg": 30, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 30,
+          "reps": 8
+        },
+        {
+          "set": 2,
+          "weight_kg": 30,
+          "reps": 8
+        }
       ],
       "notes": "Only 2 rounds"
     },
@@ -80,9 +136,21 @@
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 12, "reps": 10},
-        {"set": 2, "weight_kg": 14, "reps": 10},
-        {"set": 3, "weight_kg": 14, "reps": 10}
+        {
+          "set": 1,
+          "weight_kg": 12,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 14,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 14,
+          "reps": 10
+        }
       ],
       "notes": "Weight per arm"
     },
@@ -94,9 +162,21 @@
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 12, "reps": 20},
-        {"set": 2, "weight_kg": 12, "reps": 20},
-        {"set": 3, "weight_kg": 12, "reps": 20}
+        {
+          "set": 1,
+          "weight_kg": 12,
+          "reps": 20
+        },
+        {
+          "set": 2,
+          "weight_kg": 12,
+          "reps": 20
+        },
+        {
+          "set": 3,
+          "weight_kg": 12,
+          "reps": 20
+        }
       ]
     },
     {
@@ -107,9 +187,21 @@
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 8, "reps": 7},
-        {"set": 2, "weight_kg": 10, "reps": 7},
-        {"set": 3, "weight_kg": 10, "reps": 7}
+        {
+          "set": 1,
+          "weight_kg": 8,
+          "reps": 7
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 7
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 7
+        }
       ],
       "notes": "Weight per arm"
     },
@@ -121,9 +213,21 @@
       "target_weight_kg": null,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 16, "reps": 10},
-        {"set": 2, "weight_kg": 16, "reps": 10},
-        {"set": 3, "weight_kg": 16, "reps": 10}
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 16,
+          "reps": 10
+        }
       ]
     }
   ]
