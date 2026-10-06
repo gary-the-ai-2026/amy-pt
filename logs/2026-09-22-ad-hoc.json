@@ -44,7 +44,7 @@
       "num": 2,
       "section": "strength",
       "group": "Shoulders",
-      "name": "DB Overhead Press",
+      "name": "Barbell Overhead Press",
       "target_reps": "10\u201312",
       "target_sets": 3,
       "sets": [
@@ -203,5 +203,5 @@
       ]
     }
   ],
-  "notes": "Home session \u2014 7 exercises. DB bicep curl 8/10/10kg per arm x10/7/6; DB overhead press 20kg x10/x12/x12; wall sit 15kg 45s x3; calf raisers double leg 16kg x30/x30/x24; lateral side bend 16kg x12 per side x3; tricep extension behind head 8kg x8 x3; sit ups 5kg x15 x3."
+  "notes": "Home session \u2014 7 exercises. DB bicep curl 8/10/10kg per arm x10/7/6; barbell overhead press 20kg x10/x12/x12; wall sit 15kg 45s x3; calf raisers double leg 16kg x30/x30/x24; lateral side bend 16kg x12 per side x3; tricep extension behind head 8kg x8 x3; sit ups 5kg x15 x3."
 }
