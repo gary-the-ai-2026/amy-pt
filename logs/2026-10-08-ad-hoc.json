@@ -1,0 +1,110 @@
+{
+  "session_id": "2026-10-08-ad-hoc",
+  "date": "2026-10-08",
+  "type": "ad-hoc",
+  "status": "in_progress",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "Fresh-movement balance day + lunges & thigh stretch",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "DB Overhead Press",
+      "target_reps": "8-10",
+      "target_sets": 3,
+      "target_weight_kg": 12,
+      "rest": "60-90s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Back",
+      "name": "Lat Pulldown",
+      "target_reps": "10-12",
+      "target_sets": 3,
+      "target_weight_kg": 32,
+      "rest": "60-90s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Chest",
+      "name": "DB Bench Press",
+      "target_reps": "10-12",
+      "target_sets": 3,
+      "target_weight_kg": 12.5,
+      "rest": "60-90s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Curl",
+      "target_reps": "10-12",
+      "target_sets": 3,
+      "target_weight_kg": 17.5,
+      "rest": "60-90s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Lunges",
+      "target_reps": "8-10/leg",
+      "target_sets": 3,
+      "target_weight_kg": 12,
+      "rest": "60-90s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Lateral Raise",
+      "target_reps": "12-15",
+      "target_sets": 3,
+      "target_weight_kg": 10,
+      "rest": "45-60s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Core",
+      "name": "Sit Ups (Weighted)",
+      "target_reps": "12-15",
+      "target_sets": 3,
+      "target_weight_kg": 7.5,
+      "rest": "45-60s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 8,
+      "section": "mobility",
+      "group": "Legs",
+      "name": "Quad Stretch",
+      "target_reps": "30s/side",
+      "target_sets": 2,
+      "rest": "30s",
+      "skipped": false,
+      "sets": []
+    }
+  ],
+  "notes": "Tomorrow's plan (2026-10-08). Six fresh movements avoiding this week's work (OHP, lat pulldown, DB bench, leg curl, lateral raise, weighted sit ups) + lunges and a quad/hip-flexor thigh stretch."
+}
