@@ -1,6 +1,6 @@
 ---
 name: bodyweight-tracking
-updated: 2026-08-22
+updated: 2026-10-08
 ---
 
 # Bodyweight Log
@@ -15,12 +15,13 @@ updated: 2026-08-22
 | 2026-08-08 | 66.25 | — |
 | 2026-08-22 | 64.60 | New low |
 | 2026-09-12 | 64.30 | New low |
+| 2026-10-08 | 63.50 | New low |
 
 ## Target
 
-- Initial (18 Jun): 69.50kg → now 64.30kg = **-5.20kg** over ~12.5 weeks.
-- Weekly rate: ~0.42 kg/week — steady progress.
-- 1.3kg to 63kg goal.
+- Initial (18 Jun): 69.50kg → now 63.50kg = **-6.00kg** over ~16 weeks.
+- Weekly rate: ~0.375 kg/week — steady progress.
+- **0.5kg to 63kg goal.**
 
 ## Trend
 
@@ -31,4 +32,4 @@ updated: 2026-08-22
 | 19 Jul | 67.35 | −0.30 |
 | 26 Jul | 66.40 | −0.95 |
 
-*~0.52 kg/week average. Steady downward trajectory.*
+*~0.52 kg/week average (early). Steady downward trajectory.*
