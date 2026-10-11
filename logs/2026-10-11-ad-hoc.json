@@ -18,9 +18,21 @@
       "target_reps": "8-12",
       "target_sets": 3,
       "sets": [
-        { "set": 1, "weight_kg": 32, "reps": 10 },
-        { "set": 2, "weight_kg": 36, "reps": 8 },
-        { "set": 3, "weight_kg": 41, "reps": 5 }
+        {
+          "set": 1,
+          "weight_kg": 32,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 36,
+          "reps": 8
+        },
+        {
+          "set": 3,
+          "weight_kg": 41,
+          "reps": 5
+        }
       ]
     },
     {
@@ -31,9 +43,27 @@
       "target_reps": "10-12/leg",
       "target_sets": 3,
       "sets": [
-        { "set": 1, "weight_kg": 12, "reps": 12, "side": "each", "notes": "per leg" },
-        { "set": 2, "weight_kg": 16, "reps": 10, "side": "each", "notes": "per leg" },
-        { "set": 3, "weight_kg": 16, "reps": 10, "side": "each", "notes": "per leg" }
+        {
+          "set": 1,
+          "weight_kg": 12,
+          "reps": 12,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        }
       ]
     },
     {
@@ -44,9 +74,24 @@
       "target_reps": "10",
       "target_sets": 3,
       "sets": [
-        { "set": 1, "weight_kg": 10, "reps": 10, "notes": "10kg plate" },
-        { "set": 2, "weight_kg": 10, "reps": 10, "notes": "10kg plate" },
-        { "set": 3, "weight_kg": 10, "reps": 10, "notes": "10kg plate" }
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 10,
+          "notes": "10kg plate"
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 10,
+          "notes": "10kg plate"
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 10,
+          "notes": "10kg plate"
+        }
       ]
     },
     {
@@ -57,9 +102,27 @@
       "target_reps": "10-12/side",
       "target_sets": 3,
       "sets": [
-        { "set": 1, "weight_kg": 5, "reps": 10, "side": "each", "notes": "per arm" },
-        { "set": 2, "weight_kg": 5, "reps": 12, "side": "each", "notes": "per side" },
-        { "set": 3, "weight_kg": 5, "reps": 12, "side": "each", "notes": "per side" }
+        {
+          "set": 1,
+          "weight_kg": 5,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 5,
+          "reps": 12,
+          "side": "each",
+          "notes": "per side"
+        },
+        {
+          "set": 3,
+          "weight_kg": 5,
+          "reps": 12,
+          "side": "each",
+          "notes": "per side"
+        }
       ]
     },
     {
@@ -70,9 +133,24 @@
       "target_reps": "10",
       "target_sets": 3,
       "sets": [
-        { "set": 1, "weight_kg": 8, "reps": 10, "notes": "8kg DB" },
-        { "set": 2, "weight_kg": 8, "reps": 10, "notes": "8kg DB" },
-        { "set": 3, "weight_kg": 8, "reps": 10, "notes": "8kg DB" }
+        {
+          "set": 1,
+          "weight_kg": 8,
+          "reps": 10,
+          "notes": "8kg DB"
+        },
+        {
+          "set": 2,
+          "weight_kg": 8,
+          "reps": 10,
+          "notes": "8kg DB"
+        },
+        {
+          "set": 3,
+          "weight_kg": 8,
+          "reps": 10,
+          "notes": "8kg DB"
+        }
       ]
     },
     {
@@ -83,22 +161,55 @@
       "target_reps": "8-10/leg",
       "target_sets": 3,
       "sets": [
-        { "set": 1, "weight_kg": 17.5, "reps": 10, "side": "each", "notes": "per leg" },
-        { "set": 2, "weight_kg": 25, "reps": 8, "side": "each", "notes": "per leg" },
-        { "set": 3, "weight_kg": 25, "reps": 5, "side": "each", "notes": "per leg" }
+        {
+          "set": 1,
+          "weight_kg": 17.5,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 25,
+          "reps": 8,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 25,
+          "reps": 5,
+          "side": "each",
+          "notes": "per leg"
+        }
       ]
     },
     {
       "num": 7,
       "section": "strength",
       "group": "Triceps",
-      "name": "Tricep Extension",
+      "name": "Tricep Extension (Overhead)",
       "target_reps": "10",
       "target_sets": 3,
       "sets": [
-        { "set": 1, "weight_kg": 8, "reps": 10 },
-        { "set": 2, "weight_kg": 8, "reps": 10 },
-        { "set": 3, "weight_kg": 8, "reps": 10 }
+        {
+          "set": 1,
+          "weight_kg": 8,
+          "reps": 10,
+          "notes": "distinct from 10kg Overhead Tricep Bridge Extension"
+        },
+        {
+          "set": 2,
+          "weight_kg": 8,
+          "reps": 10,
+          "notes": "distinct from 10kg Overhead Tricep Bridge Extension"
+        },
+        {
+          "set": 3,
+          "weight_kg": 8,
+          "reps": 10,
+          "notes": "distinct from 10kg Overhead Tricep Bridge Extension"
+        }
       ]
     },
     {
@@ -109,9 +220,24 @@
       "target_reps": "30",
       "target_sets": 3,
       "sets": [
-        { "set": 1, "weight_kg": 0, "reps": 30, "notes": "blue band" },
-        { "set": 2, "weight_kg": 0, "reps": 30, "notes": "blue band" },
-        { "set": 3, "weight_kg": 0, "reps": 30, "notes": "blue band" }
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 30,
+          "notes": "blue band"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 30,
+          "notes": "blue band"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 30,
+          "notes": "blue band"
+        }
       ]
     }
   ],
