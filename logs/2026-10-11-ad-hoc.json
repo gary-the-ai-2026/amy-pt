@@ -1,0 +1,119 @@
+{
+  "session_id": "2026-10-11-ad-hoc",
+  "date": "2026-10-11",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "Full body circuit \u2014 Sunday picks",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Back",
+      "name": "Lat Pulldown",
+      "target_reps": "8-12",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 32, "reps": 10 },
+        { "set": 2, "weight_kg": 36, "reps": 8 },
+        { "set": 3, "weight_kg": 41, "reps": 5 }
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Lunges",
+      "target_reps": "10-12/leg",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 12, "reps": 12, "side": "each", "notes": "per leg" },
+        { "set": 2, "weight_kg": 16, "reps": 10, "side": "each", "notes": "per leg" },
+        { "set": 3, "weight_kg": 16, "reps": 10, "side": "each", "notes": "per leg" }
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Core",
+      "name": "Sit Ups (Weighted)",
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 10, "reps": 10, "notes": "10kg plate" },
+        { "set": 2, "weight_kg": 10, "reps": 10, "notes": "10kg plate" },
+        { "set": 3, "weight_kg": 10, "reps": 10, "notes": "10kg plate" }
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Lateral Raise",
+      "target_reps": "10-12/side",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 5, "reps": 10, "side": "each", "notes": "per arm" },
+        { "set": 2, "weight_kg": 5, "reps": 12, "side": "each", "notes": "per side" },
+        { "set": 3, "weight_kg": 5, "reps": 12, "side": "each", "notes": "per side" }
+      ]
+    },
+    {
+      "num": 5,
+      "section": "mobility",
+      "group": "Legs",
+      "name": "Quad Stretch",
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 8, "reps": 10, "notes": "8kg DB" },
+        { "set": 2, "weight_kg": 8, "reps": 10, "notes": "8kg DB" },
+        { "set": 3, "weight_kg": 8, "reps": 10, "notes": "8kg DB" }
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Extension (Single)",
+      "target_reps": "8-10/leg",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 17.5, "reps": 10, "side": "each", "notes": "per leg" },
+        { "set": 2, "weight_kg": 25, "reps": 8, "side": "each", "notes": "per leg" },
+        { "set": 3, "weight_kg": 25, "reps": 5, "side": "each", "notes": "per leg" }
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Triceps",
+      "name": "Tricep Extension",
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 8, "reps": 10 },
+        { "set": 2, "weight_kg": 8, "reps": 10 },
+        { "set": 3, "weight_kg": 8, "reps": 10 }
+      ]
+    },
+    {
+      "num": 8,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Crab Walks (Blue Band)",
+      "target_reps": "30",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 0, "reps": 30, "notes": "blue band" },
+        { "set": 2, "weight_kg": 0, "reps": 30, "notes": "blue band" },
+        { "set": 3, "weight_kg": 0, "reps": 30, "notes": "blue band" }
+      ]
+    }
+  ],
+  "notes": "Sunday full body. Lat pulldown 32x10/36x8/41x5; lunges 12kg/arm x12 then 16kg/arm x10 x2; weighted sit ups 10kg plate x10 x3; lateral raise 5kg/arm x10 then x12 x2; quad stretch 8kg DB x10 x3; leg extension single 17.5x10 / 25x8 / 25x5 per leg; tricep extension 8kg x10 x3; crab walks blue band x30 x3."
+}

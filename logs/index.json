@@ -1,5 +1,16 @@
 [
   {
+    "name": "2026-10-11-ad-hoc.json",
+    "date": "2026-10-11",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 8,
+    "completed_count": 8
+  },
+  {
     "name": "2026-10-08-ad-hoc.json",
     "date": "2026-10-08",
     "type": "ad-hoc",
@@ -95,8 +106,8 @@
     "cycle": 1,
     "ad_hoc": true,
     "duration_min": null,
-    "exercise_count": 9,
-    "completed_count": 9
+    "exercise_count": 8,
+    "completed_count": 8
   },
   {
     "name": "2026-09-15-ad-hoc.json",
@@ -140,7 +151,7 @@
     "ad_hoc": true,
     "duration_min": 38,
     "exercise_count": 8,
-    "completed_count": 8
+    "completed_count": 6
   },
   {
     "name": "2026-08-21-ad-hoc.json",
@@ -268,7 +279,7 @@
     "date": "2026-07-31",
     "type": "cardio",
     "status": "complete",
-    "cycle": 1,
+    "cycle": null,
     "ad_hoc": true,
     "duration_min": null,
     "exercise_count": 0,
@@ -279,9 +290,9 @@
     "date": "2026-07-28",
     "type": "cardio",
     "status": "complete",
-    "cycle": 1,
+    "cycle": null,
     "ad_hoc": true,
-    "duration_min": 54,
+    "duration_min": null,
     "exercise_count": 0,
     "completed_count": 0
   },
@@ -330,41 +341,8 @@
     "completed_count": 8
   },
   {
-    "name": "2026-06-18-full-body.json",
-    "date": "2026-06-18",
-    "type": "full-body",
-    "status": "complete",
-    "cycle": 1,
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 9,
-    "completed_count": 9
-  },
-  {
-    "name": "2026-06-21-day-b.json",
-    "date": "2026-06-21",
-    "type": "day-b",
-    "status": "complete",
-    "cycle": 1,
-    "ad_hoc": false,
-    "duration_min": null,
-    "exercise_count": 10,
-    "completed_count": 10
-  },
-  {
-    "name": "2026-06-23-ad-hoc.json",
-    "date": "2026-06-23",
-    "type": "full-body",
-    "status": "complete",
-    "cycle": 1,
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 0,
-    "completed_count": 0
-  },
-  {
-    "name": "2026-06-24-ad-hoc.json",
-    "date": "2026-06-24",
+    "name": "2026-07-14-ad-hoc.json",
+    "date": "2026-07-14",
     "type": "ad-hoc",
     "status": "complete",
     "cycle": 1,
@@ -374,68 +352,35 @@
     "completed_count": 9
   },
   {
-    "name": "2026-06-26-ad-hoc.json",
-    "date": "2026-06-26",
+    "name": "2026-07-12-ad-hoc.json",
+    "date": "2026-07-12",
     "type": "ad-hoc",
     "status": "complete",
-    "cycle": 1,
-    "ad_hoc": true,
-    "duration_min": 40,
-    "exercise_count": 9,
-    "completed_count": 9
-  },
-  {
-    "name": "2026-06-27-ad-hoc.json",
-    "date": "2026-06-27",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 8,
-    "completed_count": 8
-  },
-  {
-    "name": "2026-06-30-ad-hoc.json",
-    "date": "2026-06-30",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 6,
-    "completed_count": 6
-  },
-  {
-    "name": "2026-07-01-ad-hoc.json",
-    "date": "2026-07-01",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
-    "ad_hoc": true,
-    "duration_min": null,
-    "exercise_count": 10,
-    "completed_count": 10
-  },
-  {
-    "name": "2026-07-03-ad-hoc.json",
-    "date": "2026-07-03",
-    "type": "ad-hoc",
-    "status": "complete",
-    "cycle": 1,
+    "cycle": null,
     "ad_hoc": true,
     "duration_min": null,
     "exercise_count": 9,
     "completed_count": 9
   },
   {
-    "name": "2026-07-04-ad-hoc.json",
-    "date": "2026-07-04",
+    "name": "2026-07-11-ivory-rose-strength.json",
+    "date": "2026-07-11",
+    "type": "strength-full-body",
+    "status": "complete",
+    "cycle": null,
+    "ad_hoc": true,
+    "duration_min": 28,
+    "exercise_count": 4,
+    "completed_count": 4
+  },
+  {
+    "name": "2026-07-08-ad-hoc.json",
+    "date": "2026-07-08",
     "type": "ad-hoc",
     "status": "complete",
     "cycle": 1,
     "ad_hoc": true,
-    "duration_min": 38,
+    "duration_min": null,
     "exercise_count": 9,
     "completed_count": 9
   },
@@ -451,8 +396,19 @@
     "completed_count": 8
   },
   {
-    "name": "2026-07-08-ad-hoc.json",
-    "date": "2026-07-08",
+    "name": "2026-07-04-ad-hoc.json",
+    "date": "2026-07-04",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": 38,
+    "exercise_count": 9,
+    "completed_count": 9
+  },
+  {
+    "name": "2026-07-03-ad-hoc.json",
+    "date": "2026-07-03",
     "type": "ad-hoc",
     "status": "complete",
     "cycle": 1,
@@ -462,33 +418,88 @@
     "completed_count": 9
   },
   {
-    "name": "2026-07-11-ivory-rose-strength.json",
-    "date": "2026-07-11",
-    "type": "strength-full-body",
-    "status": "complete",
-    "cycle": 1,
-    "ad_hoc": false,
-    "duration_min": 28,
-    "exercise_count": 4,
-    "completed_count": 4
-  },
-  {
-    "name": "2026-07-12-ad-hoc.json",
-    "date": "2026-07-12",
+    "name": "2026-07-01-ad-hoc.json",
+    "date": "2026-07-01",
     "type": "ad-hoc",
     "status": "complete",
     "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 10,
+    "completed_count": 10
+  },
+  {
+    "name": "2026-06-30-ad-hoc.json",
+    "date": "2026-06-30",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 6,
+    "completed_count": 6
+  },
+  {
+    "name": "2026-06-27-ad-hoc.json",
+    "date": "2026-06-27",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 8,
+    "completed_count": 8
+  },
+  {
+    "name": "2026-06-26-ad-hoc.json",
+    "date": "2026-06-26",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": 40,
+    "exercise_count": 9,
+    "completed_count": 9
+  },
+  {
+    "name": "2026-06-24-ad-hoc.json",
+    "date": "2026-06-24",
+    "type": "ad-hoc",
+    "status": "complete",
+    "cycle": null,
     "ad_hoc": true,
     "duration_min": null,
     "exercise_count": 9,
     "completed_count": 9
   },
   {
-    "name": "2026-07-14-ad-hoc.json",
-    "date": "2026-07-14",
-    "type": "ad-hoc",
+    "name": "2026-06-23-ad-hoc.json",
+    "date": "2026-06-23",
+    "type": "full-body",
     "status": "complete",
     "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 0,
+    "completed_count": 0
+  },
+  {
+    "name": "2026-06-21-day-b.json",
+    "date": "2026-06-21",
+    "type": "day-b",
+    "status": "complete",
+    "cycle": 1,
+    "ad_hoc": true,
+    "duration_min": null,
+    "exercise_count": 10,
+    "completed_count": 10
+  },
+  {
+    "name": "2026-06-18-full-body.json",
+    "date": "2026-06-18",
+    "type": "full-body",
+    "status": "complete",
+    "cycle": null,
     "ad_hoc": true,
     "duration_min": null,
     "exercise_count": 9,
