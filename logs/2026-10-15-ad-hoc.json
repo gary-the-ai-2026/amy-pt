@@ -6,7 +6,7 @@
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
-  "format": "6-move full body \u2014 Amy's picks",
+  "format": "5-move full body \u2014 Amy's picks (no squat)",
   "cycle": 1,
   "week": 2,
   "exercises": [
@@ -25,18 +25,6 @@
     {
       "num": 2,
       "section": "strength",
-      "group": "Legs",
-      "name": "Barbell Back Squat",
-      "target_reps": "8-10",
-      "target_sets": 3,
-      "target_weight_kg": 50,
-      "rest": "90-120s",
-      "skipped": false,
-      "sets": []
-    },
-    {
-      "num": 3,
-      "section": "strength",
       "group": "Back",
       "name": "DB Row (Single Arm)",
       "target_reps": "10-12/side",
@@ -47,7 +35,7 @@
       "sets": []
     },
     {
-      "num": 4,
+      "num": 3,
       "section": "strength",
       "group": "Chest",
       "name": "DB Bench Press",
@@ -59,7 +47,7 @@
       "sets": []
     },
     {
-      "num": 5,
+      "num": 4,
       "section": "strength",
       "group": "Triceps",
       "name": "Overhead Tricep Bridge Extension",
@@ -71,7 +59,7 @@
       "sets": []
     },
     {
-      "num": 6,
+      "num": 5,
       "section": "strength",
       "group": "Glutes",
       "name": "Single Leg Hip Thrust (Foot on Ball)",
@@ -83,5 +71,5 @@
       "sets": []
     }
   ],
-  "notes": "2026-10-15 \u2014 Amy's 6 picks: barbell RDL 45kg, barbell back squat 50kg, DB single arm row 16kg, DB bench 12.5kg, overhead tricep bridge extension 10kg, single leg hip thrust (foot on med ball) BW x3/leg. Shoulder press parked per Amy's selection."
+  "notes": "2026-10-15 \u2014 Amy's picks (squat saved for tomorrow): barbell RDL 45kg, DB single arm row 16kg, DB bench 12.5kg, overhead tricep bridge ext 10kg, single leg hip thrust (foot on ball) BW. Barbell Back Squat + shoulder press deferred to 16 Oct."
 }
