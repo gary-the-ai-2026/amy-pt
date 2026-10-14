@@ -14,12 +14,12 @@
     "name": "2026-10-15-ad-hoc.json",
     "date": "2026-10-15",
     "type": "ad-hoc",
-    "status": "in_progress",
+    "status": "complete",
     "cycle": 1,
     "ad_hoc": true,
     "duration_min": null,
-    "exercise_count": 5,
-    "completed_count": 0
+    "exercise_count": 7,
+    "completed_count": 7
   },
   {
     "name": "2026-10-14-ad-hoc.json",
