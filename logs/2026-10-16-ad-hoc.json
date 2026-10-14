@@ -6,7 +6,7 @@
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
-  "format": "5-move \u2014 squat + shoulder press + DB row + chest fly + plank",
+  "format": "6-move \u2014 squat + shoulder press + DB row + chest fly + bench + plank",
   "cycle": 1,
   "week": 2,
   "exercises": [
@@ -69,7 +69,19 @@
       "rest": "45-60s",
       "skipped": false,
       "sets": []
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Chest",
+      "name": "DB Bench Press",
+      "target_reps": "10-12",
+      "target_sets": 3,
+      "target_weight_kg": 12.5,
+      "rest": "60-90s",
+      "skipped": false,
+      "sets": []
     }
   ],
-  "notes": "2026-10-16 plan. Barbell back squat 50kg, DB shoulder press 10kg, DB single arm row 16kg, chest fly (DB) 6kg, plank 45s x3."
+  "notes": "2026-10-16 plan. Barbell back squat 50kg, DB shoulder press 10kg, DB single arm row 16kg, chest fly (DB) 6kg, DB bench press 12.5kg, plank 45s x3."
 }
