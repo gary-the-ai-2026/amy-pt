@@ -6,7 +6,7 @@
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
-  "format": "5-move full body \u2014 Amy's pick",
+  "format": "6-move full body \u2014 Amy's picks",
   "cycle": 1,
   "week": 2,
   "exercises": [
@@ -61,15 +61,27 @@
     {
       "num": 5,
       "section": "strength",
-      "group": "Shoulders",
-      "name": "DB Shoulder Press",
+      "group": "Triceps",
+      "name": "Overhead Tricep Bridge Extension",
       "target_reps": "10-12",
       "target_sets": 3,
       "target_weight_kg": 10,
-      "rest": "60-90s",
+      "rest": "45-60s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Single Leg Hip Thrust (Foot on Ball)",
+      "target_reps": "10-12/leg",
+      "target_sets": 3,
+      "target_weight_kg": 0,
+      "rest": "45-60s",
       "skipped": false,
       "sets": []
     }
   ],
-  "notes": "Tomorrow's plan (2026-10-15). Amy's pick: RDL, barbell squat 50kg, DB row, chest press, shoulder press. Weights calibrated from actuals: RDL 45kg (range 40-50), squat 50kg (matches 4 Oct 50x10), DB row 16-18kg, DB bench 12.5kg, shoulder press 10kg."
+  "notes": "2026-10-15 \u2014 Amy's 6 picks: barbell RDL 45kg, barbell back squat 50kg, DB single arm row 16kg, DB bench 12.5kg, overhead tricep bridge extension 10kg, single leg hip thrust (foot on med ball) BW x3/leg. Shoulder press parked per Amy's selection."
 }
