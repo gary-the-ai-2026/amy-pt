@@ -1,0 +1,106 @@
+{
+  "session_id": "2026-10-14-ad-hoc",
+  "date": "2026-10-14",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "Home workout \u2014 lower + upper mix",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Bulgarian Split Squat",
+      "target_reps": "10-12/leg",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 16, "reps": 12, "side": "each", "notes": "per leg" },
+        { "set": 2, "weight_kg": 18, "reps": 10, "side": "each", "notes": "per leg" },
+        { "set": 3, "weight_kg": 22, "reps": 10, "side": "each", "notes": "per leg" }
+      ]
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Calf Raises (Plate)",
+      "target_reps": "30",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 16, "reps": 30 },
+        { "set": 2, "weight_kg": 16, "reps": 30 },
+        { "set": 3, "weight_kg": 16, "reps": 30 }
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Core",
+      "name": "Dead Bug",
+      "target_reps": "30",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 0, "reps": 30 },
+        { "set": 2, "weight_kg": 0, "reps": 30 },
+        { "set": 3, "weight_kg": 0, "reps": 30 }
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Biceps",
+      "name": "Bicep Curl (DB)",
+      "target_reps": "6/arm",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 10, "reps": 6, "side": "each", "notes": "per arm" },
+        { "set": 2, "weight_kg": 10, "reps": 6, "side": "each", "notes": "per arm" },
+        { "set": 3, "weight_kg": 10, "reps": 6, "side": "each", "notes": "per arm" }
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Triceps",
+      "name": "Tricep Pushdown (Smith)", 
+      "target_reps": "8-10",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 27, "reps": 10, "notes": "smith machine" },
+        { "set": 2, "weight_kg": 32, "reps": 8, "notes": "smith machine" },
+        { "set": 3, "weight_kg": 32, "reps": 7, "notes": "smith machine" }
+      ]
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Push Ups",
+      "target_reps": "AMRAP",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 0, "reps": 12, "notes": "5 on toes + 7 on knees" },
+        { "set": 2, "weight_kg": 0, "reps": 12, "notes": "5 on toes + 7 on knees" },
+        { "set": 3, "weight_kg": 0, "reps": 12, "notes": "5 on toes + 7 on knees" }
+      ]
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Leg Curl",
+      "target_reps": "10",
+      "target_sets": 3,
+      "sets": [
+        { "set": 1, "weight_kg": 15, "reps": 10 },
+        { "set": 2, "weight_kg": 15, "reps": 10 },
+        { "set": 3, "weight_kg": 15, "reps": 10 }
+      ]
+    }
+  ],
+  "notes": "Home workout. Bulgarian split squat 16x12/18x10/22x10 per leg; calf raises 16kg x30 x3; dead bug x30 x3; bicep curl 10kg/arm x6 x3; tricep pushdown (smith) 27x10/32x8/32x7; push ups 5 toes+7 knees x12 x3; leg curl 15kg x10 x3."
+}
