@@ -6,7 +6,7 @@
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
-  "format": "6-move \u2014 squat + shoulder press + tricep kickbacks + chin up + Bulgarian split squat + calf raises",
+  "format": "7-move \u2014 squat + shoulder press + tricep kickbacks + chin up + Bulgarian split squat + calf raises + DB bench press",
   "cycle": 1,
   "week": 2,
   "exercises": [
@@ -81,7 +81,19 @@
       "rest": "45-60s",
       "skipped": false,
       "sets": []
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Chest",
+      "name": "DB Bench Press",
+      "target_reps": "10-12",
+      "target_sets": 3,
+      "target_weight_kg": 12.5,
+      "rest": "60-90s",
+      "skipped": false,
+      "sets": []
     }
   ],
-  "notes": "Wed 21 Oct plan \u2014 Amy's picks: barbell back squat 50kg, DB shoulder press 10kg, DB tricep kickbacks 6kg/arm, chin up BW (1-2/set), Bulgarian split squat 18kg x10/leg, calf raises 16kg x30 x3."
+  "notes": "Wed 21 Oct plan \u2014 Amy's picks: barbell back squat 50kg, DB shoulder press 10kg, DB tricep kickbacks 6kg/arm, chin up BW (1-2/set), Bulgarian split squat 18kg x10/leg, calf raises 16kg x30 x3, DB bench press 12.5kg x10-12."
 }
