@@ -1,0 +1,69 @@
+{
+  "session_id": "2026-10-20-ad-hoc",
+  "date": "2026-10-20",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "Home workout \u2014 Amy's actual (6 moves)",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1, "section": "strength", "group": "Back", "name": "DB Row (Single Arm)",
+      "target_reps": "10/arm", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":16,"reps":10,"side":"each","notes":"per arm"},
+        {"set":2,"weight_kg":18,"reps":10,"side":"each","notes":"per arm"},
+        {"set":3,"weight_kg":18,"reps":10,"side":"each","notes":"per arm"}
+      ]
+    },
+    {
+      "num": 2, "section": "strength", "group": "Legs", "name": "Leg Extension",
+      "target_reps": "10/leg", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":20,"reps":10,"side":"each","notes":"per leg"},
+        {"set":2,"weight_kg":25,"reps":10,"side":"each","notes":"per leg"},
+        {"set":3,"weight_kg":27.5,"reps":6,"side":"each","notes":"per leg"}
+      ]
+    },
+    {
+      "num": 3, "section": "strength", "group": "Shoulders", "name": "Barbell Overhead Press",
+      "target_reps": "8-10", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":20,"reps":10},
+        {"set":2,"weight_kg":20,"reps":10},
+        {"set":3,"weight_kg":22.5,"reps":8}
+      ]
+    },
+    {
+      "num": 4, "section": "strength", "group": "Back", "name": "Lat Pulldown",
+      "target_reps": "8-10", "target_sets": 4,
+      "sets": [
+        {"set":1,"weight_kg":32,"reps":10},
+        {"set":2,"weight_kg":36,"reps":9},
+        {"set":3,"weight_kg":36,"reps":9},
+        {"set":4,"weight_kg":41,"reps":5}
+      ]
+    },
+    {
+      "num": 5, "section": "strength", "group": "Glutes", "name": "Donkey Kicks (Blue Band)",
+      "target_reps": "15/leg", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":0,"reps":15,"side":"each","notes":"per leg, blue band"},
+        {"set":2,"weight_kg":0,"reps":15,"side":"each","notes":"per leg, blue band"},
+        {"set":3,"weight_kg":0,"reps":15,"side":"each","notes":"per leg, blue band"}
+      ]
+    },
+    {
+      "num": 6, "section": "strength", "group": "Core", "name": "Ab Crunch (Smith Machine)",
+      "target_reps": "8", "target_sets": 2,
+      "sets": [
+        {"set":1,"weight_kg":36,"reps":8,"notes":"smith machine"},
+        {"set":2,"weight_kg":36,"reps":8,"notes":"smith machine"}
+      ]
+    }
+  ],
+  "notes": "2026-10-20 actual. DB row 16x10 then 18x10 x2/arm; leg extension 20x10/25x10/27.5x6 per leg; barbell OH press 20x10 x2, 22.5x8; lat pulldown 32x10/36x9/36x9/41x5; donkey kicks (blue band) x15/leg x3; ab crunch smith 36kg x8 x2."
+}
