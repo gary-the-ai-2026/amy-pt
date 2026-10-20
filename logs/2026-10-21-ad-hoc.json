@@ -1,0 +1,51 @@
+{
+  "session_id": "2026-10-21-ad-hoc",
+  "date": "2026-10-21",
+  "type": "ad-hoc",
+  "status": "in_progress",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "3-move \u2014 squat + shoulder press + tricep kickbacks",
+  "cycle": 1,
+  "week": 2,
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Barbell Back Squat",
+      "target_reps": "8-10",
+      "target_sets": 3,
+      "target_weight_kg": 50,
+      "rest": "90-120s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "DB Shoulder Press",
+      "target_reps": "10-12",
+      "target_sets": 3,
+      "target_weight_kg": 10,
+      "rest": "60-90s",
+      "skipped": false,
+      "sets": []
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Triceps",
+      "name": "DB Tricep Kickbacks",
+      "target_reps": "10-12/arm",
+      "target_sets": 3,
+      "target_weight_kg": 6,
+      "rest": "45-60s",
+      "skipped": false,
+      "sets": []
+    }
+  ],
+  "notes": "Wed 21 Oct plan \u2014 Amy's picks: barbell back squat 50kg, DB shoulder press 10kg, DB tricep kickbacks 6kg/arm."
+}
