@@ -2,98 +2,70 @@
   "session_id": "2026-10-21-ad-hoc",
   "date": "2026-10-21",
   "type": "ad-hoc",
-  "status": "in_progress",
+  "status": "complete",
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
-  "format": "7-move \u2014 squat + shoulder press + tricep kickbacks + chin up + Bulgarian split squat + calf raises + DB bench press",
+  "format": "TrueCoach / JKPT Lower \u2014 6 exercises + cool down",
   "cycle": 1,
   "week": 2,
+  "source": "TrueCoach app (JKPT program) \u2014 plan dated 19 Oct 2026, performed 21 Oct 2026",
   "exercises": [
     {
-      "num": 1,
-      "section": "strength",
-      "group": "Legs",
-      "name": "Barbell Back Squat",
-      "target_reps": "8-10",
-      "target_sets": 3,
-      "target_weight_kg": 50,
-      "rest": "90-120s",
-      "skipped": false,
-      "sets": []
+      "num": 1, "section": "strength", "group": "Quads", "name": "Reverse Nordics",
+      "target_reps": "6-10", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":6,"reps":10},
+        {"set":2,"weight_kg":6,"reps":10},
+        {"set":3,"weight_kg":8,"reps":10}
+      ]
     },
     {
-      "num": 2,
-      "section": "strength",
-      "group": "Shoulders",
-      "name": "DB Shoulder Press",
-      "target_reps": "10-12",
-      "target_sets": 3,
-      "target_weight_kg": 10,
-      "rest": "60-90s",
-      "skipped": false,
-      "sets": []
+      "num": 2, "section": "strength", "group": "Legs", "name": "Barbell Romanian Deadlift",
+      "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":50,"reps":10},
+        {"set":2,"weight_kg":60,"reps":8},
+        {"set":3,"weight_kg":65,"reps":6}
+      ]
     },
     {
-      "num": 3,
-      "section": "strength",
-      "group": "Triceps",
-      "name": "DB Tricep Kickbacks",
-      "target_reps": "10-12/arm",
-      "target_sets": 3,
-      "target_weight_kg": 6,
-      "rest": "45-60s",
-      "skipped": false,
-      "sets": []
+      "num": 3, "section": "strength", "group": "Legs", "name": "Goblet Squat",
+      "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":16,"reps":12,"notes":"heels elevated on plate"},
+        {"set":2,"weight_kg":18,"reps":12,"notes":"heels elevated on plate"},
+        {"set":3,"weight_kg":18,"reps":12,"notes":"heels elevated on plate"}
+      ],
+      "notes": "Substituted for LM hack squats (JKPT) \u2014 no hack squat machine available"
     },
     {
-      "num": 4,
-      "section": "strength",
-      "group": "Back",
-      "name": "Chin Up",
-      "target_reps": "1-2",
-      "target_sets": 3,
-      "target_weight_kg": 0,
-      "rest": "60-90s",
-      "skipped": false,
-      "sets": []
+      "num": 4, "section": "strength", "group": "Legs", "name": "Cossack Squat",
+      "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":0,"reps":8,"side":"each","notes":"per leg"},
+        {"set":2,"weight_kg":0,"reps":8,"side":"each","notes":"per leg"},
+        {"set":3,"weight_kg":0,"reps":8,"side":"each","notes":"per leg"}
+      ]
     },
     {
-      "num": 5,
-      "section": "strength",
-      "group": "Legs",
-      "name": "Bulgarian Split Squat",
-      "target_reps": "10/leg",
-      "target_sets": 3,
-      "target_weight_kg": 18,
-      "rest": "90-120s",
-      "skipped": false,
-      "sets": []
+      "num": 5, "section": "strength", "group": "Calves", "name": "Calf Raises (DB)",
+      "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":16,"reps":30,"notes":"double leg"},
+        {"set":2,"weight_kg":18,"reps":30,"notes":"double leg"},
+        {"set":3,"weight_kg":18,"reps":30,"notes":"double leg"}
+      ]
     },
     {
-      "num": 6,
-      "section": "strength",
-      "group": "Legs",
-      "name": "Calf Raises (Plate)",
-      "target_reps": "30",
-      "target_sets": 3,
-      "target_weight_kg": 16,
-      "rest": "45-60s",
-      "skipped": false,
-      "sets": []
-    },
-    {
-      "num": 7,
-      "section": "strength",
-      "group": "Chest",
-      "name": "DB Bench Press",
-      "target_reps": "10-12",
-      "target_sets": 3,
-      "target_weight_kg": 12.5,
-      "rest": "60-90s",
-      "skipped": false,
-      "sets": []
+      "num": 6, "section": "strength", "group": "Core", "name": "Dead Bug",
+      "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":0,"reps":12,"side":"each","notes":"per leg"},
+        {"set":2,"weight_kg":0,"reps":12,"side":"each","notes":"per leg"},
+        {"set":3,"weight_kg":0,"reps":12,"side":"each","notes":"per leg"}
+      ]
     }
   ],
-  "notes": "Wed 21 Oct plan \u2014 Amy's picks: barbell back squat 50kg, DB shoulder press 10kg, DB tricep kickbacks 6kg/arm, chin up BW (1-2/set), Bulgarian split squat 18kg x10/leg, calf raises 16kg x30 x3, DB bench press 12.5kg x10-12."
+  "notes": "2026-10-21 actual \u2014 TrueCoach/JKPT Lower program (app dated Mon 19 Oct, performed Wed 21 Oct). Reverse Nordics 6x10/6x10/8x10; RDL 50x10/60x8/65x6; goblet squat (sub for LM hack squat, heels elevated) 16x12/18x12/18x12; Cossack squat 8/leg x3; standing calf raise (DB) double leg 16x30/18x30/18x30; dead bug 12/leg x3. Supersedes the earlier 7-move list Amy was building."
 }
