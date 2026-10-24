@@ -1,0 +1,77 @@
+{
+  "session_id": "2026-10-25-ad-hoc",
+  "date": "2026-10-25",
+  "type": "ad-hoc",
+  "status": "complete",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "TrueCoach / JKPT Upper \u2014 7 exercises (1 skipped) + cool down",
+  "cycle": 1,
+  "week": 2,
+  "source": "TrueCoach app (JKPT program) \u2014 plan dated 25 Oct 2026",
+  "exercises": [
+    {
+      "num": 1, "section": "strength", "group": "Back", "name": "Lat Pulldown",
+      "superset": "A1", "target_reps": "6-10", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":32,"reps":10},
+        {"set":2,"weight_kg":36,"reps":9},
+        {"set":3,"weight_kg":41,"reps":6}
+      ]
+    },
+    {
+      "num": 2, "section": "strength", "group": "Chest", "name": "DB Incline Press",
+      "superset": "A2", "target_reps": "6-10", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":12,"reps":10,"side":"each","notes":"per arm"},
+        {"set":2,"weight_kg":12,"reps":9,"side":"each","notes":"per arm"},
+        {"set":3,"weight_kg":12,"reps":8,"side":"each","notes":"per arm, failed on 9th rep"}
+      ]
+    },
+    {
+      "num": 3, "section": "strength", "group": "Core", "name": "Reverse Sit Ups",
+      "superset": "B1", "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":0,"reps":10},
+        {"set":2,"weight_kg":0,"reps":10},
+        {"set":3,"weight_kg":0,"reps":10}
+      ]
+    },
+    {
+      "num": 4, "section": "strength", "group": "Chest", "name": "Push Ups",
+      "superset": "B2", "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":0,"reps":12,"notes":"6 on toes, 6 on knees"},
+        {"set":2,"weight_kg":0,"reps":12,"notes":"5 on toes, 7 on knees"},
+        {"set":3,"weight_kg":0,"reps":12,"notes":"5 on toes, 7 on knees"}
+      ]
+    },
+    {
+      "num": 5, "section": "strength", "group": "Back", "name": "Meadow Rows",
+      "superset": "C", "target_reps": "8-12", "target_sets": 3,
+      "skipped": true,
+      "sets": [],
+      "notes": "Not performed"
+    },
+    {
+      "num": 6, "section": "strength", "group": "Biceps", "name": "Bicep Curls",
+      "superset": "D", "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":10,"reps":6,"side":"each","notes":"per arm"},
+        {"set":2,"weight_kg":10,"reps":6,"side":"each","notes":"per arm"},
+        {"set":3,"weight_kg":10,"reps":6,"side":"each","notes":"per arm"}
+      ]
+    },
+    {
+      "num": 7, "section": "strength", "group": "Triceps", "name": "Tricep Pushdown",
+      "superset": "E", "target_reps": "8-12", "target_sets": 3,
+      "sets": [
+        {"set":1,"weight_kg":27,"reps":9},
+        {"set":2,"weight_kg":32,"reps":8},
+        {"set":3,"weight_kg":27,"reps":9}
+      ]
+    }
+  ],
+  "notes": "2026-10-25 actual \u2014 TrueCoach/JKPT Upper. Lat pulldown 32x10/36x9/41x6; DB incline press 12kg/arm 10/9/8 (failed 9th of set 3); reverse sit ups x10 x3; push ups 6toes+6knees, 5toes+7knees x2; Meadow Rows (C) not performed; bicep curls 10kg/arm x6 x3; tricep pushdown 27x9/32x8/27x9."
+}
