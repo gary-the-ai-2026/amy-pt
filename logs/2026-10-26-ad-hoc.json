@@ -76,7 +76,7 @@
       "num": 3,
       "section": "strength",
       "group": "Legs",
-      "name": "Step Backs",
+      "name": "Step Downs",
       "superset": "B2",
       "target_sets": 3,
       "target_reps": "10/leg",
@@ -102,7 +102,8 @@
           "side": "each",
           "notes": "per leg"
         }
-      ]
+      ],
+      "notes": "TrueCoach/JKPT name: 'Step Backs'. Logged as Step Downs for progression continuity (same weighted single-leg step pattern: 14/16kg on 5 Oct, 14/14/16 on 11 Aug). Amy notes she may previously have called these 'Step Ups'."
     },
     {
       "num": 4,
@@ -196,5 +197,5 @@
       "target_reps": "10"
     }
   ],
-  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch (BW, 10 x3, depth focus); subbed reverse sit ups (B1) \u2192 plank 45s x3; step backs (B2) 14/16/18kg x10 per leg; subbed pull ups \u2192 chin ups (C1) 1.5 x3; lateral raise (C2) 4kg x10, 6kg x10, 6kg x9 per arm; tricep overhead hip bridge 10kg x10 x3. Straight arm chest fly (D) not performed \u2014 tricep overhead hip bridge was the D slot, pending Amy's confirmation."
+  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch (BW, 10 x3, depth focus); subbed reverse sit ups (B1) \u2192 plank 45s x3; step downs / TrueCoach 'step backs' (B2) 14/16/18kg x10 per leg \u2014 18kg is a new top set (previous best 16kg, 5 Oct); subbed pull ups \u2192 chin ups (C1) 1.5 x3; lateral raise (C2) 4kg x10, 6kg x10, 6kg x9 per arm; tricep overhead hip bridge 10kg x10 x3. Straight arm chest fly (D) not performed \u2014 tricep overhead hip bridge was the D slot, pending Amy's confirmation."
 }
