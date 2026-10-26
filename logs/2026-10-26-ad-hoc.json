@@ -2,7 +2,7 @@
   "session_id": "2026-10-26-ad-hoc",
   "date": "2026-10-26",
   "type": "ad-hoc",
-  "status": "in_progress",
+  "status": "complete",
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
@@ -19,8 +19,28 @@
       "superset": "A",
       "substitution_for": "Sissy Squats",
       "target_sets": 3,
-      "sets": [],
-      "notes": "Sub for Sissy Squats (JKPT). Weight/reps not reported \u2014 asked Amy."
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight only \u2014 focus on depth"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight only \u2014 focus on depth"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight only \u2014 focus on depth"
+        }
+      ],
+      "notes": "Sub for Sissy Squats (JKPT). Bodyweight only \u2014 Amy prioritises depth over load.",
+      "target_reps": "10"
     },
     {
       "num": 2,
@@ -127,23 +147,24 @@
         {
           "set": 1,
           "weight_kg": 10,
-          "reps": null,
-          "notes": "reps not reported"
+          "reps": 10,
+          "notes": ""
         },
         {
           "set": 2,
           "weight_kg": 10,
-          "reps": null,
-          "notes": "reps not reported"
+          "reps": 10,
+          "notes": ""
         },
         {
           "set": 3,
           "weight_kg": 10,
-          "reps": null,
-          "notes": "reps not reported"
+          "reps": 10,
+          "notes": ""
         }
-      ]
+      ],
+      "target_reps": "10"
     }
   ],
-  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch; subbed pull ups \u2192 chin ups 1.5 x3; step backs 14/16/18kg x10 per leg; lateral raise 4kg x10, 6kg x10, 6kg x9 per arm; tricep overhead hip bridge 10kg x3 sets. Reverse sit ups (B1) and straight arm chest fly (D) not yet reported \u2014 pending confirmation."
+  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch (BW, 10 x3, depth focus); subbed pull ups \u2192 chin ups 1.5 x3; step backs 14/16/18kg x10 per leg; lateral raise 4kg x10, 6kg x10, 6kg x9 per arm (3 sets); tricep overhead hip bridge 10kg x10 x3. Reverse sit ups (B1) and straight arm chest fly (D) not performed/reported."
 }
