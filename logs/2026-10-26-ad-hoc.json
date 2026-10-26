@@ -6,7 +6,7 @@
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
-  "format": "TrueCoach / JKPT Full body \u2014 substitutions: sissy squats\u2192thigh stretch, pull ups\u2192chin ups",
+  "format": "TrueCoach / JKPT Full body \u2014 subs: sissy squats\u2192thigh stretch, reverse sit ups\u2192plank, pull ups\u2192chin ups",
   "cycle": 1,
   "week": 2,
   "source": "TrueCoach app (JKPT program) \u2014 'Full body' session, card dated Today (26 Oct 2026)",
@@ -45,6 +45,36 @@
     {
       "num": 2,
       "section": "strength",
+      "group": "Core",
+      "name": "Plank",
+      "superset": "B1",
+      "substitution_for": "Reverse Sit Ups",
+      "target_sets": 3,
+      "target_reps": "45s",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 45,
+          "notes": "45s hold"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 45,
+          "notes": "45s hold"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 45,
+          "notes": "45s hold"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
       "group": "Legs",
       "name": "Step Backs",
       "superset": "B2",
@@ -75,7 +105,7 @@
       ]
     },
     {
-      "num": 3,
+      "num": 4,
       "section": "strength",
       "group": "Back",
       "name": "Chin Up",
@@ -105,7 +135,7 @@
       ]
     },
     {
-      "num": 4,
+      "num": 5,
       "section": "strength",
       "group": "Shoulders",
       "name": "Lateral Raise",
@@ -137,7 +167,7 @@
       ]
     },
     {
-      "num": 5,
+      "num": 6,
       "section": "strength",
       "group": "Triceps",
       "name": "Tricep Overhead Hip Bridge",
@@ -166,5 +196,5 @@
       "target_reps": "10"
     }
   ],
-  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch (BW, 10 x3, depth focus); subbed pull ups \u2192 chin ups 1.5 x3; step backs 14/16/18kg x10 per leg; lateral raise 4kg x10, 6kg x10, 6kg x9 per arm (3 sets); tricep overhead hip bridge 10kg x10 x3. Reverse sit ups (B1) and straight arm chest fly (D) not performed/reported."
+  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch (BW, 10 x3, depth focus); subbed reverse sit ups (B1) \u2192 plank 45s x3; step backs (B2) 14/16/18kg x10 per leg; subbed pull ups \u2192 chin ups (C1) 1.5 x3; lateral raise (C2) 4kg x10, 6kg x10, 6kg x9 per arm; tricep overhead hip bridge 10kg x10 x3. Straight arm chest fly (D) not performed \u2014 tricep overhead hip bridge was the D slot, pending Amy's confirmation."
 }
