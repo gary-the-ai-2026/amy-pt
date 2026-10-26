@@ -1,0 +1,149 @@
+{
+  "session_id": "2026-10-26-ad-hoc",
+  "date": "2026-10-26",
+  "type": "ad-hoc",
+  "status": "in_progress",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "TrueCoach / JKPT Full body \u2014 substitutions: sissy squats\u2192thigh stretch, pull ups\u2192chin ups",
+  "cycle": 1,
+  "week": 2,
+  "source": "TrueCoach app (JKPT program) \u2014 'Full body' session, card dated Today (26 Oct 2026)",
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Thigh Stretch",
+      "superset": "A",
+      "substitution_for": "Sissy Squats",
+      "target_sets": 3,
+      "sets": [],
+      "notes": "Sub for Sissy Squats (JKPT). Weight/reps not reported \u2014 asked Amy."
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Step Backs",
+      "superset": "B2",
+      "target_sets": 3,
+      "target_reps": "10/leg",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 14,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 18,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Back",
+      "name": "Chin Up",
+      "superset": "C1",
+      "substitution_for": "Pull Ups",
+      "target_reps": "1.5",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 1.5,
+          "notes": "1.5 reps"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 1.5,
+          "notes": "1.5 reps"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 1.5,
+          "notes": "1.5 reps"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Shoulders",
+      "name": "Lateral Raise",
+      "superset": "C2",
+      "target_sets": 3,
+      "target_reps": "8-12",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 4,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 9,
+          "side": "each",
+          "notes": "per arm"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Triceps",
+      "name": "Tricep Overhead Hip Bridge",
+      "superset": "D-ext",
+      "target_sets": 3,
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": null,
+          "notes": "reps not reported"
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": null,
+          "notes": "reps not reported"
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": null,
+          "notes": "reps not reported"
+        }
+      ]
+    }
+  ],
+  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch; subbed pull ups \u2192 chin ups 1.5 x3; step backs 14/16/18kg x10 per leg; lateral raise 4kg x10, 6kg x10, 6kg x9 per arm; tricep overhead hip bridge 10kg x3 sets. Reverse sit ups (B1) and straight arm chest fly (D) not yet reported \u2014 pending confirmation."
+}
