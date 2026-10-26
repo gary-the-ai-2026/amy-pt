@@ -170,9 +170,42 @@
     {
       "num": 6,
       "section": "strength",
+      "group": "Chest",
+      "name": "Chest Fly (DB)",
+      "superset": "D",
+      "target_sets": 3,
+      "target_reps": "8-12",
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 9,
+          "side": "each",
+          "notes": "per arm"
+        }
+      ],
+      "notes": "TrueCoach name: 'Straight arm chest fly' (JKPT). Performed as DB chest fly."
+    },
+    {
+      "num": 7,
+      "section": "strength",
       "group": "Triceps",
       "name": "Tricep Overhead Hip Bridge",
-      "superset": "D-ext",
+      "superset": "extra",
       "target_sets": 3,
       "sets": [
         {
@@ -194,8 +227,9 @@
           "notes": ""
         }
       ],
-      "target_reps": "10"
+      "target_reps": "10",
+      "notes": "Additional work \u2014 not on the TrueCoach card; done after the fly."
     }
   ],
-  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch (BW, 10 x3, depth focus); subbed reverse sit ups (B1) \u2192 plank 45s x3; step downs / TrueCoach 'step backs' (B2) 14/16/18kg x10 per leg \u2014 18kg is a new top set (previous best 16kg, 5 Oct); subbed pull ups \u2192 chin ups (C1) 1.5 x3; lateral raise (C2) 4kg x10, 6kg x10, 6kg x9 per arm; tricep overhead hip bridge 10kg x10 x3. Straight arm chest fly (D) not performed \u2014 tricep overhead hip bridge was the D slot, pending Amy's confirmation."
+  "notes": "2026-10-26 actual \u2014 TrueCoach/JKPT Full body. Subbed sissy squats \u2192 thigh stretch (BW, 10 x3, depth focus); subbed reverse sit ups (B1) \u2192 plank 45s x3; step downs / TrueCoach 'step backs' (B2) 14/16/18kg x10 per leg \u2014 18kg new top set (prev best 16kg, 5 Oct); subbed pull ups \u2192 chin ups (C1) 1.5 x3; lateral raise (C2) 4kg x10, 6kg x10, 6kg x9 per arm; chest fly (D, TrueCoach 'straight arm chest fly') 6kg x10, 6kg x10, 6kg x9 per arm; plus extra tricep overhead hip bridge 10kg x10 x3 (not on card)."
 }
