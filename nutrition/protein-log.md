@@ -37,6 +37,7 @@
 | 13/7/26 | ~11am | Blood pressure | 105/60 | Historically normal for Amy — consistent for years, pre-dates Mounjaro and deficit |
 | 3/8/26 | ~11am | Blood glucose | 4.8 mmol/L | Pre-lunch |
 | 3/8/26 | ~11am | Ketones | 0.1 mmol/L | |
+| 27/10/26 | ~11:53 | Urine microalbumin/creatinine (ACR) | 6.9 mg/mmol (H) | Random urine. R-U albumin 18.0 mg/L (<20 normal); R-U creatinine 2.6 mmol/L (low = dilute sample). Ref 0.0–3.5. Lab comment: not pathologically significant, recheck renal function + microalbumin in 6 months. Requested 24/7/26. |
 
 ---
 
