@@ -1,0 +1,80 @@
+{
+  "session_id": "2026-10-29-ad-hoc",
+  "date": "2026-10-29",
+  "type": "ad-hoc",
+  "status": "in_progress",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "TrueCoach / JKPT Lower — 6 exercises + cool down",
+  "cycle": 1,
+  "week": 2,
+  "source": "TrueCoach app (JKPT program) — plan dated 29 Oct 2026",
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Quads",
+      "name": "Reverse Nordics",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Reverse Nordics",
+      "superset": "A"
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Hamstrings",
+      "name": "Barbell Romanian Deadlift",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "RDL",
+      "superset": "A"
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Legs",
+      "name": "Cossack Squat",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Cossack squats",
+      "superset": "B"
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Calves",
+      "name": "Calf Raises (DB)",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Standing calf raise",
+      "superset": "B"
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Core",
+      "name": "Dead Bug",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Dead bug"
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Glutes",
+      "name": "Glute/Ham Walkouts",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Glute/ham walkouts"
+    }
+  ],
+  "notes": "2026-10-29 TrueCoach/JKPT Lower. Exercise list captured from the overview card only — no weights or reps yet; awaiting Amy's per-exercise results. Superset structure: A1 Reverse Nordics + A2 RDL; B1 Cossack squat + B2 standing calf raise; C dead bug; D glute/ham walkouts; cool down."
+}
