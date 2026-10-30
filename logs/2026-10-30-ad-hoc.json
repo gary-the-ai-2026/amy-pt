@@ -16,9 +16,25 @@
       "section": "strength",
       "group": "Back",
       "name": "Lat Pulldown",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 36,
+          "reps": 8
+        },
+        {
+          "set": 2,
+          "weight_kg": 41,
+          "reps": 5
+        },
+        {
+          "set": 3,
+          "weight_kg": 36,
+          "reps": 7
+        }
+      ],
       "superset": "A"
     },
     {
@@ -48,9 +64,28 @@
       "section": "strength",
       "group": "Chest",
       "name": "Push Ups",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "5 on toes then 7 on knees"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "6 on toes then 6 on knees"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "5 on toes then 7 on knees"
+        }
+      ],
       "truecoach_name": "Push ups",
       "superset": "B"
     },
@@ -69,9 +104,31 @@
       "section": "strength",
       "group": "Biceps",
       "name": "Bicep Curl (DB)",
-      "target_reps": "",
+      "target_reps": "6-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "each",
+          "notes": "per arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "each",
+          "notes": "per arm"
+        }
+      ],
       "truecoach_name": "Bicep curls",
       "superset": "D"
     },
@@ -80,12 +137,28 @@
       "section": "strength",
       "group": "Triceps",
       "name": "Tricep Pushdown",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 27,
+          "reps": 12
+        },
+        {
+          "set": 2,
+          "weight_kg": 32,
+          "reps": 8
+        },
+        {
+          "set": 3,
+          "weight_kg": 32,
+          "reps": 6
+        }
+      ],
       "truecoach_name": "Triceps push down",
       "superset": "D"
     }
   ],
-  "notes": "2026-10-30 TrueCoach/JKPT Upper. Exercise list from the overview card only — no weights/reps yet; awaiting Amy's results. Supersets: A1 Lat Pulldown + A2 DB incline press; B1 Reverse sit ups + B2 Push ups; D1 Bicep curls + D2 Triceps push down. C Cable row standalone. Cool down at the end. Next up per the app: Sat 31 Oct Full body."
+  "notes": "2026-10-30 TrueCoach/JKPT Upper (partial — reported so far). Lat pulldown 36x8 / 41x5 / 36x7 (straight in at 36, no 32 opener); push ups 12 per set as 5 toes + 7 knees / 6 + 6 / 5 + 7 (16 on toes total across the three sets — first mixed toes/knees session logged); bicep curl (DB) 10kg per arm x6 x3; tricep pushdown 27x12 (rep PB at 27) / 32x8 / 32x6. Still outstanding: DB incline press (A2), reverse sit ups (B1), cable row (C). Supersets: A1+A2, B1+B2, D1+D2."
 }
