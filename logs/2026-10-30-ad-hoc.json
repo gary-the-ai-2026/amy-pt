@@ -53,9 +53,28 @@
       "section": "strength",
       "group": "Core",
       "name": "Reverse Sit Ups",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "bodyweight"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "bodyweight"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "bodyweight"
+        }
+      ],
       "truecoach_name": "Reverse sit ups",
       "superset": "B"
     },
@@ -160,5 +179,5 @@
       "superset": "D"
     }
   ],
-  "notes": "2026-10-30 TrueCoach/JKPT Upper (partial — reported so far). Lat pulldown 36x8 / 41x5 / 36x7 (straight in at 36, no 32 opener); push ups 12 per set as 5 toes + 7 knees / 6 + 6 / 5 + 7 (16 on toes total across the three sets — first mixed toes/knees session logged); bicep curl (DB) 10kg per arm x6 x3; tricep pushdown 27x12 (rep PB at 27) / 32x8 / 32x6. Still outstanding: DB incline press (A2), reverse sit ups (B1), cable row (C). Supersets: A1+A2, B1+B2, D1+D2."
+  "notes": "2026-10-30 TrueCoach/JKPT Upper (partial — reported so far). Lat pulldown 36x8 / 41x5 / 36x7 (straight in at 36, no 32 opener); push ups 12 per set as 5 toes + 7 knees / 6 + 6 / 5 + 7 (16 on toes total across the three sets — first mixed toes/knees session logged); bicep curl (DB) 10kg per arm x6 x3; tricep pushdown 27x12 (rep PB at 27) / 32x8 / 32x6. Still outstanding: DB incline press (A2) and cable row (C). Supersets: A1+A2, B1+B2, D1+D2."
 }
