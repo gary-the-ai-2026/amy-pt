@@ -2,7 +2,7 @@
   "session_id": "2026-10-30-ad-hoc",
   "date": "2026-10-30",
   "type": "ad-hoc",
-  "status": "in_progress",
+  "status": "complete",
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
@@ -46,7 +46,9 @@
       "target_sets": 3,
       "sets": [],
       "truecoach_name": "DB incline press",
-      "superset": "A"
+      "superset": "A",
+      "skipped": true,
+      "notes": "Not performed — Amy skipped the DB incline press (A2). Lat pulldown (A1) was therefore done unpaired."
     },
     {
       "num": 3,
@@ -199,5 +201,5 @@
       "superset": "D"
     }
   ],
-  "notes": "2026-10-30 TrueCoach/JKPT Upper (partial — reported so far). Lat pulldown 36x8 / 41x5 / 36x7 (straight in at 36, no 32 opener); push ups 12 per set as 5 toes + 7 knees / 6 + 6 / 5 + 7 (16 on toes total across the three sets — first mixed toes/knees session logged); bicep curl (DB) 10kg per arm x6 x3; tricep pushdown 27x12 (rep PB at 27) / 32x8 / 32x6. Still outstanding: DB incline press (A2). Supersets: A1+A2, B1+B2, D1+D2."
+  "notes": "2026-10-30 actual — TrueCoach/JKPT Upper (card dated Fri 30 Oct). Lat pulldown 36x8 / 41x5 / 36x7; DB incline press NOT performed (A2 skipped — lat pulldown done unpaired); reverse sit ups bodyweight 12x3; push ups 12 per set as 5 toes + 7 knees / 6 + 6 / 5 + 7 (16 on toes across the session); cable row narrow grip 28x12 / 36x8 / 36x7 (first logged entry under this name — baseline); bicep curl (DB) 10kg per arm x6 x3; tricep pushdown 27x12 (rep PB at 27) / 32x8 / 32x6. Supersets: A1+A2 (A2 skipped), B1+B2, D1+D2. 6 of 7 exercises completed."
 }
