@@ -2,7 +2,7 @@
   "session_id": "2026-10-29-ad-hoc",
   "date": "2026-10-29",
   "type": "ad-hoc",
-  "status": "in_progress",
+  "status": "complete",
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
@@ -16,9 +16,28 @@
       "section": "strength",
       "group": "Quads",
       "name": "Reverse Nordics",
-      "target_reps": "",
+      "target_reps": "6-10",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight — Amy's choice"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight — Amy's choice"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight — Amy's choice"
+        }
+      ],
       "truecoach_name": "Reverse Nordics",
       "superset": "A"
     },
@@ -27,9 +46,25 @@
       "section": "strength",
       "group": "Hamstrings",
       "name": "Barbell Romanian Deadlift",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 60,
+          "reps": 8
+        },
+        {
+          "set": 2,
+          "weight_kg": 65,
+          "reps": 5
+        },
+        {
+          "set": 3,
+          "weight_kg": 60,
+          "reps": 8
+        }
+      ],
       "truecoach_name": "RDL",
       "superset": "A"
     },
@@ -38,9 +73,31 @@
       "section": "strength",
       "group": "Legs",
       "name": "Cossack Squat",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 10,
+          "side": "each",
+          "notes": "per leg"
+        }
+      ],
       "truecoach_name": "Cossack squats",
       "superset": "B"
     },
@@ -49,9 +106,28 @@
       "section": "strength",
       "group": "Calves",
       "name": "Calf Raises (DB)",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 30,
+          "notes": "double leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 18,
+          "reps": 30,
+          "notes": "double leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 18,
+          "reps": 30,
+          "notes": "double leg"
+        }
+      ],
       "truecoach_name": "Standing calf raise",
       "superset": "B"
     },
@@ -60,9 +136,31 @@
       "section": "strength",
       "group": "Core",
       "name": "Dead Bug",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 12,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 12,
+          "side": "each",
+          "notes": "per leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 12,
+          "side": "each",
+          "notes": "per leg"
+        }
+      ],
       "truecoach_name": "Dead bug"
     },
     {
@@ -70,11 +168,30 @@
       "section": "strength",
       "group": "Glutes",
       "name": "Glute/Ham Walkouts",
-      "target_reps": "",
+      "target_reps": "10",
       "target_sets": 3,
-      "sets": [],
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 10,
+          "notes": "bodyweight"
+        }
+      ],
       "truecoach_name": "Glute/ham walkouts"
     }
   ],
-  "notes": "2026-10-29 TrueCoach/JKPT Lower. Exercise list captured from the overview card only — no weights or reps yet; awaiting Amy's per-exercise results. Superset structure: A1 Reverse Nordics + A2 RDL; B1 Cossack squat + B2 standing calf raise; C dead bug; D glute/ham walkouts; cool down."
+  "notes": "2026-10-29 actual — TrueCoach/JKPT Lower (card dated Thu 29 Oct). Reverse Nordics bodyweight 10x3 (deliberate — bodyweight over load); RDL 60x8 / 65x5 / 60x8; Cossack squat 10 per leg x3; standing calf raise (DB) double leg 16x30 / 18x30 / 18x30; dead bug 12 per leg x3; glute/ham walkouts bodyweight 10x3 (first time logged under this name — establishes the baseline). Supersets: A1 Reverse Nordics + A2 RDL; B1 Cossack squat + B2 standing calf raise. No goblet squat or cool-down detail reported."
 }
