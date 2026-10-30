@@ -1,0 +1,91 @@
+{
+  "session_id": "2026-10-30-ad-hoc",
+  "date": "2026-10-30",
+  "type": "ad-hoc",
+  "status": "in_progress",
+  "ad_hoc": true,
+  "progression_skipped": true,
+  "location": "Home",
+  "format": "TrueCoach / JKPT Upper — 7 exercises + cool down",
+  "cycle": 1,
+  "week": 2,
+  "source": "TrueCoach app (JKPT program) — Upper, dated Fri 30 Oct 2026",
+  "exercises": [
+    {
+      "num": 1,
+      "section": "strength",
+      "group": "Back",
+      "name": "Lat Pulldown",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "superset": "A"
+    },
+    {
+      "num": 2,
+      "section": "strength",
+      "group": "Chest",
+      "name": "DB Incline Press",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "DB incline press",
+      "superset": "A"
+    },
+    {
+      "num": 3,
+      "section": "strength",
+      "group": "Core",
+      "name": "Reverse Sit Ups",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Reverse sit ups",
+      "superset": "B"
+    },
+    {
+      "num": 4,
+      "section": "strength",
+      "group": "Chest",
+      "name": "Push Ups",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Push ups",
+      "superset": "B"
+    },
+    {
+      "num": 5,
+      "section": "strength",
+      "group": "Back",
+      "name": "Cable Row",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Cable row"
+    },
+    {
+      "num": 6,
+      "section": "strength",
+      "group": "Biceps",
+      "name": "Bicep Curl (DB)",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Bicep curls",
+      "superset": "D"
+    },
+    {
+      "num": 7,
+      "section": "strength",
+      "group": "Triceps",
+      "name": "Tricep Pushdown",
+      "target_reps": "",
+      "target_sets": 3,
+      "sets": [],
+      "truecoach_name": "Triceps push down",
+      "superset": "D"
+    }
+  ],
+  "notes": "2026-10-30 TrueCoach/JKPT Upper. Exercise list from the overview card only — no weights/reps yet; awaiting Amy's results. Supersets: A1 Lat Pulldown + A2 DB incline press; B1 Reverse sit ups + B2 Push ups; D1 Bicep curls + D2 Triceps push down. C Cable row standalone. Cool down at the end. Next up per the app: Sat 31 Oct Full body."
+}
