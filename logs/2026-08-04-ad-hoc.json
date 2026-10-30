@@ -158,7 +158,7 @@
           "set": 1,
           "weight_kg": null,
           "reps": 1.5,
-          "notes": "bodyweight \u2014 1 full + partial"
+          "notes": "bodyweight — 1 full + partial"
         },
         {
           "set": 2,
@@ -202,16 +202,17 @@
     },
     {
       "num": 9,
-      "name": "Push Ups (On Toes)",
+      "name": "Push Ups",
       "target_sets": 1,
       "sets": [
         {
           "set": 1,
           "weight_kg": null,
-          "reps": 4
+          "reps": 4,
+          "notes": "on toes"
         }
       ]
     }
   ],
-  "notes": "Home session. Bulgarian lunges: 12\u219214kg per arm. Leg curls pyramid: 10\u219215\u219217.5kg. OHP: 20\u219225kg. Tricep pulldown: 23\u219227\u219232kg. Chin ups: 1.5/1/1. Donkey kicks with blue band. Push ups on toes to finish."
+  "notes": "Home session. Bulgarian lunges: 12→14kg per arm. Leg curls pyramid: 10→15→17.5kg. OHP: 20→25kg. Tricep pulldown: 23→27→32kg. Chin ups: 1.5/1/1. Donkey kicks with blue band. Push ups on toes to finish."
 }

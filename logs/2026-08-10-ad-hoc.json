@@ -5,7 +5,7 @@
   "status": "complete",
   "ad_hoc": true,
   "location": "Home",
-  "format": "Strength \u2014 8 exercises, 2\u20133 sets each",
+  "format": "Strength — 8 exercises, 2–3 sets each",
   "cycle": 1,
   "week": 2,
   "exercises": [
@@ -14,7 +14,7 @@
       "section": "strength",
       "group": "Chest",
       "name": "DB Chest Fly (Bench)",
-      "target_reps": "6\u201310",
+      "target_reps": "6–10",
       "target_sets": 3,
       "sets": [
         {
@@ -98,7 +98,7 @@
       "section": "strength",
       "group": "Legs / Glutes",
       "name": "Single Leg RDL",
-      "target_reps": "8\u201310 per leg",
+      "target_reps": "8–10 per leg",
       "target_sets": 3,
       "sets": [
         {
@@ -207,7 +207,7 @@
       "section": "strength",
       "group": "Legs",
       "name": "Leg Curls",
-      "target_reps": "8\u201312",
+      "target_reps": "8–12",
       "target_sets": 3,
       "sets": [
         {
@@ -228,5 +228,5 @@
       ]
     }
   ],
-  "notes": "Home workout. Chest fly: 6\u21928kg. SL RDL: 16\u219218kg pyramid. Push ups: mix of knees and toes. Leg curls: 10\u219217.5kg pyramid. Solid session \u2014 8 exercises."
+  "notes": "Home workout. Chest fly: 6→8kg. SL RDL: 16→18kg pyramid. Push ups: mix of knees and toes. Leg curls: 10→17.5kg pyramid. Solid session — 8 exercises."
 }

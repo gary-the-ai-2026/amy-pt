@@ -6,7 +6,7 @@
   "ad_hoc": true,
   "progression_skipped": true,
   "location": "Home",
-  "format": "Full body circuit \u2014 today's picks",
+  "format": "Full body circuit — today's picks",
   "cycle": 1,
   "week": 2,
   "exercises": [
@@ -199,5 +199,5 @@
       "sets": []
     }
   ],
-  "notes": "Home session \u2014 today's picks. Barbell deadlift 40kg x10, 50kg x10, 60kg x8; bicep curls 10kg/arm x6 each side x2, x7; dead bug x30 x3; push ups 12 x3 (toes/knees split 5/7, 6/6, 7/5); lateral side bend 16kg x12/side x3; wall sit +15kg plate 45s x3."
+  "notes": "Home session — today's picks. Barbell deadlift 40kg x10, 50kg x10, 60kg x8; bicep curls 10kg/arm x6 each side x2, x7; dead bug x30 x3; push ups 12 x3 (toes/knees split 5/7, 6/6, 7/5); lateral side bend 16kg x12/side x3; wall sit +15kg plate 45s x3."
 }

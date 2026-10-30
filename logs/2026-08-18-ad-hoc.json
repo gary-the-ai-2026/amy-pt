@@ -17,9 +17,24 @@
       "target_reps": "6 per arm",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 10, "reps": 6, "side": "each"},
-        {"set": 2, "weight_kg": 10, "reps": 6, "side": "each"},
-        {"set": 3, "weight_kg": 10, "reps": 6, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 6,
+          "side": "each"
+        }
       ]
     },
     {
@@ -30,9 +45,24 @@
       "target_reps": "10–12 per leg",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 18, "reps": 10, "side": "each"},
-        {"set": 2, "weight_kg": 23, "reps": 12, "side": "each"},
-        {"set": 3, "weight_kg": 23, "reps": 12, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 18,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 23,
+          "reps": 12,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 23,
+          "reps": 12,
+          "side": "each"
+        }
       ]
     },
     {
@@ -43,7 +73,12 @@
       "target_reps": "30",
       "target_sets": 1,
       "sets": [
-        {"set": 1, "weight_kg": 0, "reps": 30, "notes": "blue band"}
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 30,
+          "notes": "blue band"
+        }
       ]
     },
     {
@@ -54,22 +89,53 @@
       "target_reps": "6–10 per arm",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 6, "reps": 10, "side": "each"},
-        {"set": 2, "weight_kg": 8, "reps": 6, "side": "each", "notes": "failed on 7th"},
-        {"set": 3, "weight_kg": 8, "reps": 6, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 8,
+          "reps": 6,
+          "side": "each",
+          "notes": "failed on 7th"
+        },
+        {
+          "set": 3,
+          "weight_kg": 8,
+          "reps": 6,
+          "side": "each"
+        }
       ]
     },
     {
       "num": 5,
       "section": "strength",
       "group": "Chest",
-      "name": "Push Ups (on knees)",
+      "name": "Push Ups",
       "target_reps": "12",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 0, "reps": 12},
-        {"set": 2, "weight_kg": 0, "reps": 12},
-        {"set": 3, "weight_kg": 0, "reps": 12}
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "all on knees"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "all on knees"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "all on knees"
+        }
       ]
     },
     {
@@ -80,9 +146,24 @@
       "target_reps": "8–10 per leg",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 15, "reps": 10, "side": "each"},
-        {"set": 2, "weight_kg": 17.5, "reps": 10, "side": "each"},
-        {"set": 3, "weight_kg": 20, "reps": 8, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 15,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 17.5,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 20,
+          "reps": 8,
+          "side": "each"
+        }
       ]
     },
     {
@@ -93,9 +174,21 @@
       "target_reps": "8–10",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 23, "reps": 10},
-        {"set": 2, "weight_kg": 27, "reps": 10},
-        {"set": 3, "weight_kg": 32, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 23,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 27,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 32,
+          "reps": 8
+        }
       ]
     },
     {
@@ -106,9 +199,24 @@
       "target_reps": "12 per arm",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 6, "reps": 12, "side": "each"},
-        {"set": 2, "weight_kg": 6, "reps": 12, "side": "each"},
-        {"set": 3, "weight_kg": 6, "reps": 12, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 6,
+          "reps": 12,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 12,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 12,
+          "side": "each"
+        }
       ]
     },
     {
@@ -119,9 +227,27 @@
       "target_reps": "10 per leg",
       "target_sets": 3,
       "sets": [
-        {"set": 1, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, 12kg med ball"},
-        {"set": 2, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, 12kg med ball"},
-        {"set": 3, "weight_kg": 0, "reps": 10, "side": "each", "notes": "other foot in air, 12kg med ball"}
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 10,
+          "side": "each",
+          "notes": "other foot in air, 12kg med ball"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 10,
+          "side": "each",
+          "notes": "other foot in air, 12kg med ball"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 10,
+          "side": "each",
+          "notes": "other foot in air, 12kg med ball"
+        }
       ]
     }
   ],

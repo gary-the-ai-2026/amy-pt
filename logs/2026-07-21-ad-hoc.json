@@ -13,18 +13,45 @@
       "name": "Arnold's Press",
       "notes": "Per arm",
       "sets": [
-        {"set": 1, "weight_kg": 8, "reps": 8, "side": "each"},
-        {"set": 2, "weight_kg": 8, "reps": 8, "side": "each"},
-        {"set": 3, "weight_kg": 8, "reps": 8, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 8,
+          "reps": 8,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 8,
+          "reps": 8,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 8,
+          "reps": 8,
+          "side": "each"
+        }
       ]
     },
     {
       "num": 2,
       "name": "Leg Extensions",
       "sets": [
-        {"set": 1, "weight_kg": 35, "reps": 12},
-        {"set": 2, "weight_kg": 40, "reps": 10},
-        {"set": 3, "weight_kg": 45, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 35,
+          "reps": 12
+        },
+        {
+          "set": 2,
+          "weight_kg": 40,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 45,
+          "reps": 8
+        }
       ]
     },
     {
@@ -32,18 +59,48 @@
       "name": "Leg Kickback (Smith Machine)",
       "notes": "Per leg",
       "sets": [
-        {"set": 1, "weight_kg": 18, "reps": 12, "side": "each"},
-        {"set": 2, "weight_kg": 18, "reps": 10, "side": "each"},
-        {"set": 3, "weight_kg": 23, "reps": 8, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 18,
+          "reps": 12,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 18,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 23,
+          "reps": 8,
+          "side": "each"
+        }
       ]
     },
     {
       "num": 4,
       "name": "Push Ups",
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 12},
-        {"set": 2, "weight_kg": null, "reps": 12},
-        {"set": 3, "weight_kg": null, "reps": 12}
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 12,
+          "notes": "split not recorded (knees/toes mix)"
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 12,
+          "notes": "split not recorded (knees/toes mix)"
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 12,
+          "notes": "split not recorded (knees/toes mix)"
+        }
       ]
     },
     {
@@ -51,27 +108,66 @@
       "name": "Bulgarian Lunges",
       "notes": "Per arm, per leg",
       "sets": [
-        {"set": 1, "weight_kg": 10, "reps": 10, "side": "each"},
-        {"set": 2, "weight_kg": 12, "reps": 10, "side": "each"},
-        {"set": 3, "weight_kg": 12, "reps": 10, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 12,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 12,
+          "reps": 10,
+          "side": "each"
+        }
       ]
     },
     {
       "num": 6,
       "name": "Triceps Pull Down (Smith Machine)",
       "sets": [
-        {"set": 1, "weight_kg": 23, "reps": 10},
-        {"set": 2, "weight_kg": 27, "reps": 8},
-        {"set": 3, "weight_kg": 27, "reps": 7}
+        {
+          "set": 1,
+          "weight_kg": 23,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 27,
+          "reps": 8
+        },
+        {
+          "set": 3,
+          "weight_kg": 27,
+          "reps": 7
+        }
       ]
     },
     {
       "num": 7,
       "name": "Sit Ups",
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 12},
-        {"set": 2, "weight_kg": null, "reps": 12},
-        {"set": 3, "weight_kg": null, "reps": 12}
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 12
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 12
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 12
+        }
       ]
     },
     {
@@ -79,9 +175,24 @@
       "name": "Reverse Fly on Bench",
       "notes": "Per arm",
       "sets": [
-        {"set": 1, "weight_kg": 6, "reps": 8, "side": "each"},
-        {"set": 2, "weight_kg": 6, "reps": 10, "side": "each"},
-        {"set": 3, "weight_kg": 6, "reps": 10, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 6,
+          "reps": 8,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 6,
+          "reps": 10,
+          "side": "each"
+        }
       ]
     }
   ],

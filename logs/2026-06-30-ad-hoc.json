@@ -18,9 +18,24 @@
       "target_weight_kg": 14,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 14, "reps": 12, "notes": "per leg"},
-        {"set": 2, "weight_kg": 14, "reps": 12, "notes": "per leg"},
-        {"set": 3, "weight_kg": 18, "reps": 12, "notes": "per leg — bumped weight"}
+        {
+          "set": 1,
+          "weight_kg": 14,
+          "reps": 12,
+          "notes": "per leg"
+        },
+        {
+          "set": 2,
+          "weight_kg": 14,
+          "reps": 12,
+          "notes": "per leg"
+        },
+        {
+          "set": 3,
+          "weight_kg": 18,
+          "reps": 12,
+          "notes": "per leg — bumped weight"
+        }
       ]
     },
     {
@@ -31,9 +46,24 @@
       "target_weight_kg": 8,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 8, "reps": 10, "notes": "each arm"},
-        {"set": 2, "weight_kg": 10, "reps": 10, "notes": "each arm"},
-        {"set": 3, "weight_kg": 10, "reps": 12, "notes": "each arm"}
+        {
+          "set": 1,
+          "weight_kg": 8,
+          "reps": 10,
+          "notes": "each arm"
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 10,
+          "notes": "each arm"
+        },
+        {
+          "set": 3,
+          "weight_kg": 10,
+          "reps": 12,
+          "notes": "each arm"
+        }
       ]
     },
     {
@@ -44,9 +74,21 @@
       "target_weight_kg": 23,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 23, "reps": 10},
-        {"set": 2, "weight_kg": 27, "reps": 10},
-        {"set": 3, "weight_kg": 32, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 23,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 27,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 32,
+          "reps": 8
+        }
       ]
     },
     {
@@ -57,9 +99,24 @@
       "target_weight_kg": 0,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 0, "reps": 12, "notes": "BW"},
-        {"set": 2, "weight_kg": 0, "reps": 12, "notes": "BW"},
-        {"set": 3, "weight_kg": 0, "reps": 12, "notes": "BW"}
+        {
+          "set": 1,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "BW"
+        },
+        {
+          "set": 2,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "BW"
+        },
+        {
+          "set": 3,
+          "weight_kg": 0,
+          "reps": 12,
+          "notes": "BW"
+        }
       ]
     },
     {
@@ -70,9 +127,21 @@
       "target_weight_kg": 12,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 12, "reps": 10},
-        {"set": 2, "weight_kg": 14, "reps": 10},
-        {"set": 3, "weight_kg": 14, "reps": 10}
+        {
+          "set": 1,
+          "weight_kg": 12,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 14,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 14,
+          "reps": 10
+        }
       ]
     },
     {
@@ -83,9 +152,24 @@
       "target_weight_kg": 14,
       "skipped": false,
       "sets": [
-        {"set": 1, "weight_kg": 14, "reps": 10, "notes": "each side"},
-        {"set": 2, "weight_kg": 14, "reps": 10, "notes": "each side"},
-        {"set": 3, "weight_kg": 14, "reps": 10, "notes": "each side"}
+        {
+          "set": 1,
+          "weight_kg": 14,
+          "reps": 10,
+          "notes": "each side"
+        },
+        {
+          "set": 2,
+          "weight_kg": 14,
+          "reps": 10,
+          "notes": "each side"
+        },
+        {
+          "set": 3,
+          "weight_kg": 14,
+          "reps": 10,
+          "notes": "each side"
+        }
       ]
     }
   ],

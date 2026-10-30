@@ -12,27 +12,66 @@
       "name": "Bent Over Row",
       "notes": "Per arm",
       "sets": [
-        {"set": 1, "weight_kg": 16, "reps": 10, "side": "each"},
-        {"set": 2, "weight_kg": 16, "reps": 10, "side": "each"},
-        {"set": 3, "weight_kg": 18, "reps": 8, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 18,
+          "reps": 8,
+          "side": "each"
+        }
       ]
     },
     {
       "num": 2,
       "name": "Calf Raises (Double Leg)",
       "sets": [
-        {"set": 1, "weight_kg": 16, "reps": 24},
-        {"set": 2, "weight_kg": 16, "reps": 24},
-        {"set": 3, "weight_kg": 16, "reps": 24}
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 24
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 24
+        },
+        {
+          "set": 3,
+          "weight_kg": 16,
+          "reps": 24
+        }
       ]
     },
     {
       "num": 3,
       "name": "Lat Pulldown",
       "sets": [
-        {"set": 1, "weight_kg": 23, "reps": 10},
-        {"set": 2, "weight_kg": 27, "reps": 10},
-        {"set": 3, "weight_kg": 32, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 23,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 27,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 32,
+          "reps": 8
+        }
       ]
     },
     {
@@ -40,27 +79,66 @@
       "name": "Plank",
       "notes": "Timed hold",
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 45, "unit": "seconds"},
-        {"set": 2, "weight_kg": null, "reps": 45, "unit": "seconds"},
-        {"set": 3, "weight_kg": null, "reps": 45, "unit": "seconds"}
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 45,
+          "unit": "seconds"
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 45,
+          "unit": "seconds"
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 45,
+          "unit": "seconds"
+        }
       ]
     },
     {
       "num": 5,
       "name": "Barbell Deadlift",
       "sets": [
-        {"set": 1, "weight_kg": 30, "reps": 10},
-        {"set": 2, "weight_kg": 50, "reps": 10},
-        {"set": 3, "weight_kg": 55, "reps": 8}
+        {
+          "set": 1,
+          "weight_kg": 30,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 50,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 55,
+          "reps": 8
+        }
       ]
     },
     {
       "num": 6,
       "name": "Tricep Overhead Bridge",
       "sets": [
-        {"set": 1, "weight_kg": 10, "reps": 10},
-        {"set": 2, "weight_kg": 10, "reps": 10},
-        {"set": 3, "weight_kg": 12, "reps": 9}
+        {
+          "set": 1,
+          "weight_kg": 10,
+          "reps": 10
+        },
+        {
+          "set": 2,
+          "weight_kg": 10,
+          "reps": 10
+        },
+        {
+          "set": 3,
+          "weight_kg": 12,
+          "reps": 9
+        }
       ]
     },
     {
@@ -68,9 +146,24 @@
       "name": "Lateral Side Bend",
       "notes": "Per side",
       "sets": [
-        {"set": 1, "weight_kg": 16, "reps": 10, "side": "each"},
-        {"set": 2, "weight_kg": 16, "reps": 10, "side": "each"},
-        {"set": 3, "weight_kg": 16, "reps": 10, "side": "each"}
+        {
+          "set": 1,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 2,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each"
+        },
+        {
+          "set": 3,
+          "weight_kg": 16,
+          "reps": 10,
+          "side": "each"
+        }
       ]
     },
     {
@@ -78,18 +171,51 @@
       "name": "Donkey Kicks (Blue Band)",
       "notes": "Per leg",
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 12, "side": "each", "equipment": "blue band"},
-        {"set": 2, "weight_kg": null, "reps": 12, "side": "each", "equipment": "blue band"},
-        {"set": 3, "weight_kg": null, "reps": 12, "side": "each", "equipment": "blue band"}
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 12,
+          "side": "each",
+          "equipment": "blue band"
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 12,
+          "side": "each",
+          "equipment": "blue band"
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 12,
+          "side": "each",
+          "equipment": "blue band"
+        }
       ]
     },
     {
       "num": 9,
-      "name": "Push Ups (On Knees)",
+      "name": "Push Ups",
       "sets": [
-        {"set": 1, "weight_kg": null, "reps": 12},
-        {"set": 2, "weight_kg": null, "reps": 12},
-        {"set": 3, "weight_kg": null, "reps": 12}
+        {
+          "set": 1,
+          "weight_kg": null,
+          "reps": 12,
+          "notes": "all on knees"
+        },
+        {
+          "set": 2,
+          "weight_kg": null,
+          "reps": 12,
+          "notes": "all on knees"
+        },
+        {
+          "set": 3,
+          "weight_kg": null,
+          "reps": 12,
+          "notes": "all on knees"
+        }
       ]
     }
   ],
