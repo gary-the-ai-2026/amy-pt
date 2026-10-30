@@ -113,10 +113,30 @@
       "section": "strength",
       "group": "Back",
       "name": "Cable Row",
-      "target_reps": "",
+      "target_reps": "8-12",
       "target_sets": 3,
-      "sets": [],
-      "truecoach_name": "Cable row"
+      "sets": [
+        {
+          "set": 1,
+          "weight_kg": 28,
+          "reps": 12,
+          "notes": "narrow grip"
+        },
+        {
+          "set": 2,
+          "weight_kg": 36,
+          "reps": 8,
+          "notes": "narrow grip"
+        },
+        {
+          "set": 3,
+          "weight_kg": 36,
+          "reps": 7,
+          "notes": "narrow grip"
+        }
+      ],
+      "truecoach_name": "Cable row",
+      "notes": "First session logged under this name — narrow grip. Baseline set."
     },
     {
       "num": 6,
@@ -179,5 +199,5 @@
       "superset": "D"
     }
   ],
-  "notes": "2026-10-30 TrueCoach/JKPT Upper (partial — reported so far). Lat pulldown 36x8 / 41x5 / 36x7 (straight in at 36, no 32 opener); push ups 12 per set as 5 toes + 7 knees / 6 + 6 / 5 + 7 (16 on toes total across the three sets — first mixed toes/knees session logged); bicep curl (DB) 10kg per arm x6 x3; tricep pushdown 27x12 (rep PB at 27) / 32x8 / 32x6. Still outstanding: DB incline press (A2) and cable row (C). Supersets: A1+A2, B1+B2, D1+D2."
+  "notes": "2026-10-30 TrueCoach/JKPT Upper (partial — reported so far). Lat pulldown 36x8 / 41x5 / 36x7 (straight in at 36, no 32 opener); push ups 12 per set as 5 toes + 7 knees / 6 + 6 / 5 + 7 (16 on toes total across the three sets — first mixed toes/knees session logged); bicep curl (DB) 10kg per arm x6 x3; tricep pushdown 27x12 (rep PB at 27) / 32x8 / 32x6. Still outstanding: DB incline press (A2). Supersets: A1+A2, B1+B2, D1+D2."
 }
